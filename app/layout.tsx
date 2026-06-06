@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from 'next'
-import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
@@ -43,16 +42,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-      </head>
-      <body className="min-h-screen">
-        {children}
-        <Script
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4634260205367551"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
         />
-      </body>
+      </head>
+      <body className="min-h-screen">{children}</body>
     </html>
   )
 }
