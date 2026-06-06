@@ -207,7 +207,7 @@ export default async function ComparePage({ params }: Props) {
         <div className="container-main py-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <Link href="/" className="flex items-center gap-2 font-bold text-lg text-navy-950">
-              <span>🌍</span><span>WorldHow</span>
+              <span>🌍</span><span>KnowBefore</span>
             </Link>
             <div className="flex gap-4 text-sm text-gray-500">
               <Link href="/countries" className="hover:text-teal-600">Countries</Link>

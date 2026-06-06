@@ -5,7 +5,7 @@ import TopicCard from '@/components/TopicCard'
 import { getSiteIndex } from '@/lib/getData'
 
 export const metadata: Metadata = {
-  title: 'All Topics — WorldHow',
+  title: 'All Topics — KnowBefore',
   description: 'Browse every travel topic compared across countries. Tipping, local laws, transport, healthcare, dress codes, alcohol rules and more.',
   alternates: { canonical: '/topics' },
 }
@@ -32,7 +32,7 @@ export default function TopicsPage() {
           <div className="container-main py-10">
             <h1 className="text-4xl font-extrabold text-gray-900 mb-2">All Topics</h1>
             <p className="text-gray-500">
-              Each topic is compared across all {countries.length} countries on WorldHow
+              Each topic is compared across all {countries.length} countries on KnowBefore
             </p>
           </div>
         </div>
@@ -64,7 +64,7 @@ export default function TopicsPage() {
         <div className="container-main py-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <Link href="/" className="flex items-center gap-2 font-bold text-lg text-navy-950">
-              <span>🌍</span><span>WorldHow</span>
+              <span>🌍</span><span>KnowBefore</span>
             </Link>
             <div className="flex gap-4 text-sm text-gray-500">
               <Link href="/countries" className="hover:text-teal-600">Countries</Link>

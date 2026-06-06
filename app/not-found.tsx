@@ -4,7 +4,7 @@ import Navigation from '@/components/Navigation'
 import { getSiteIndex } from '@/lib/getData'
 
 export const metadata: Metadata = {
-  title: 'Page Not Found — WorldHow',
+  title: 'Page Not Found — KnowBefore',
 }
 
 export default function NotFound() {

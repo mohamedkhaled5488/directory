@@ -175,7 +175,7 @@ export default async function CountryPage({ params }: Props) {
         <div className="container-main py-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <Link href="/" className="flex items-center gap-2 font-bold text-lg text-navy-950">
-              <span>🌍</span><span>WorldHow</span>
+              <span>🌍</span><span>KnowBefore</span>
             </Link>
             <p className="text-sm text-gray-500">Practical travel knowledge for every country.</p>
             <div className="flex gap-4 text-sm text-gray-500">

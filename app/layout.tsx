@@ -3,24 +3,24 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'WorldHow — How Things Work in Every Country',
-    template: '%s | WorldHow',
+    default: 'KnowBefore — How Things Work in Every Country',
+    template: '%s | KnowBefore',
   },
   description: 'Quick answers to everyday travel questions by country. Tipping, transport, healthcare, local laws and more — verified local knowledge.',
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://worldhow.com'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://theknowbefore.com'),
   keywords: ['travel guide', 'country guide', 'tipping', 'local laws', 'tourist tips', 'travel tips'],
-  authors: [{ name: 'WorldHow' }],
-  creator: 'WorldHow',
+  authors: [{ name: 'KnowBefore' }],
+  creator: 'KnowBefore',
   robots: { index: true, follow: true },
   icons: { icon: '/favicon.svg', shortcut: '/favicon.svg' },
   openGraph: {
-    siteName: 'WorldHow',
+    siteName: 'KnowBefore',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@worldhow',
+    site: '@knowbefore',
   },
 }
 

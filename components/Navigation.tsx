@@ -12,7 +12,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 font-bold text-xl text-navy-950 hover:text-teal-600 transition-colors">
             <span className="text-2xl">🌍</span>
-            <span>WorldHow</span>
+            <span>KnowBefore</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-6">

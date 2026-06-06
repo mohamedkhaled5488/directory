@@ -7,11 +7,11 @@ import SearchBar from '@/components/SearchBar'
 import { getSiteIndex, buildLightSearchIndex } from '@/lib/getData'
 
 export const metadata: Metadata = {
-  title: 'WorldHow — How Things Work in Every Country',
+  title: 'KnowBefore — How Things Work in Every Country',
   description: 'Quick answers to everyday travel questions by country. Tipping, transport, healthcare, local laws — verified local knowledge for tourists.',
   alternates: { canonical: '/' },
   openGraph: {
-    title: 'WorldHow — How Things Work in Every Country',
+    title: 'KnowBefore — How Things Work in Every Country',
     description: 'Quick answers to everyday travel questions by country.',
     url: '/',
     type: 'website',
@@ -173,7 +173,7 @@ export default function HomePage() {
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
             <div>
               <div className="flex items-center gap-2 font-bold text-xl mb-1">
-                <span>🌍</span><span>WorldHow</span>
+                <span>🌍</span><span>KnowBefore</span>
               </div>
               <p className="text-gray-400 text-sm">Practical travel knowledge for every country.</p>
             </div>

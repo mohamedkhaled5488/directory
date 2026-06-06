@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://worldhow.com',
+  siteUrl: process.env.SITE_URL || 'https://theknowbefore.com',
   generateRobotsTxt: true,
   generateIndexSitemap: false,
   changefreq: 'monthly',
