@@ -1,0 +1,360 @@
+{
+  "country": "Canada",
+  "slug": "canada",
+  "emoji": "🇨🇦",
+  "region": "Americas",
+  "currency": "CAD",
+  "language": "English/French",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Canada",
+      "quick_answer": "Tipping 15–20% is expected at restaurants in Canada, as it is a core part of service-industry compensation.",
+      "detail": "Canada follows a strong North American tipping culture where restaurant servers, bartenders, and other service workers rely on tips as a significant part of their income. The standard is 15–20% calculated on the pre-tax amount. Tip screens on card machines now commonly suggest 18%, 20%, or even 22% — pressing 'custom' and entering 15% is perfectly acceptable and not considered rude. Taxis and rideshares: 15% is standard. Hotel housekeeping: $2–5 CAD per night is appreciated.",
+      "tourist_tips": [
+        "Tip screens often default to 18/20/22% — press 'custom' to enter 15%, which is a fair and accepted tip",
+        "Calculate your tip on the pre-tax subtotal, not the total including HST/GST",
+        "For taxis and rideshares, 15% is the standard; for exceptional service at restaurants, 20% is generous"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Canada",
+      "quick_answer": "Each major city has its own transit system and card — Toronto uses PRESTO, Vancouver uses Compass, and Montreal uses STM cards.",
+      "detail": "Canada has no practical national transit pass. Each city operates independently: Toronto and Ottawa use the PRESTO card for buses, subways, and streetcars; Vancouver uses the Compass card for SkyTrain, buses, and SeaBus; Montreal's STM system uses OPUS cards or tap-to-pay. Uber and Lyft operate in all major cities and are widely used. For travel between cities, domestic flights are almost always the fastest and often cheapest option — VIA Rail trains exist but are slow, infrequent, and expensive relative to flying.",
+      "tourist_tips": [
+        "Pick up the local transit card on arrival — PRESTO in Toronto/Ottawa, Compass in Vancouver, OPUS in Montreal",
+        "Uber and Lyft are reliable and available in all major cities, often more convenient than taxis",
+        "For intercity travel, check Flair, WestJet, or Air Canada for flights — usually faster and cheaper than VIA Rail"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "pocket-wifi"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Canada",
+      "quick_answer": "Canada's public healthcare does not cover tourists — even a short ER visit costs $1,000+ CAD, so travel insurance is absolutely mandatory.",
+      "detail": "Canada's universal healthcare (Medicare) is exclusively for residents and citizens; tourists receive no coverage and are billed at full private rates. An emergency room visit for a minor issue can easily cost $1,000–2,000 CAD, and hospitalization runs several thousand dollars per day. Walk-in clinics are significantly cheaper than ERs for non-emergency issues and are widely available in all cities. Pharmacies (Shoppers Drug Mart, Rexall, London Drugs) are excellent for minor ailments and over-the-counter medications.",
+      "tourist_tips": [
+        "Buy comprehensive travel insurance before arriving — a single ER visit without it can cost $1,000–5,000 CAD",
+        "Use walk-in clinics for non-emergencies; they are much cheaper than hospital ERs and widely available",
+        "Shoppers Drug Mart pharmacies are everywhere and pharmacists can advise on minor health issues for free"
+      ],
+      "warning": "There is zero public healthcare coverage for tourists in Canada. Without travel insurance, even a routine emergency room visit will result in a bill of $1,000 CAD or more.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Canada",
+      "quick_answer": "Cannabis is legal federally but rules vary by province — driving under its influence is illegal and strictly enforced.",
+      "detail": "Cannabis is legal for recreational use across Canada (minimum age 19 in most provinces; 18 in Alberta, Quebec, and Manitoba), but where you can consume it is regulated provincially and municipally — smoking in public or in cars is generally prohibited. Driving under the influence of cannabis carries the same serious penalties as drunk driving. Firearms are strictly regulated — bringing guns across the US-Canada border requires permits. Provincial liquor laws vary significantly on where and when alcohol can be purchased and consumed. Seatbelts are mandatory for all passengers.",
+      "tourist_tips": [
+        "Cannabis is legal but must be consumed privately — not in public spaces, parks, or vehicles",
+        "Never attempt to cross the border with cannabis, even from a legal US state; it remains a federal offense",
+        "Seatbelts are mandatory for all passengers and speed limits are strictly enforced with photo radar"
+      ],
+      "warning": "Driving under the influence of cannabis is illegal and penalties are severe, including license suspension and criminal charges — police use roadside drug-testing devices.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Canada",
+      "quick_answer": "Call 911 for all emergencies — police, fire, and ambulance — anywhere in Canada.",
+      "detail": "911 is the universal emergency number throughout Canada for police, fire, and ambulance services. It works on all mobile phones even without a SIM or signal from your carrier (any available network is used). For non-emergency police matters, each city has a local non-emergency line. The Canada Poison Control Centre can be reached at 1-800-268-9017 (Ontario) or province-specific numbers. In remote wilderness areas, mobile coverage may not exist — carry a satellite communicator (Garmin inReach) or personal locator beacon for backcountry travel.",
+      "tourist_tips": [
+        "911 works nationwide for all emergencies and connects on any available mobile network, even without a SIM",
+        "For wilderness and backcountry travel, rent or buy a satellite communicator — cell coverage disappears quickly outside cities",
+        "If hiking or camping, register your trip plan with the park or a local contact who can alert authorities if you don't return"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Canada",
+      "quick_answer": "Canada is very casual — practical, weather-appropriate clothing is the priority, and there are no formal dress requirements for tourists.",
+      "detail": "Canada has one of the most relaxed dress cultures in the world, strongly influenced by outdoor and practical lifestyles. Casual clothing — jeans, t-shirts, sneakers — is acceptable almost everywhere. Upscale restaurants in Toronto, Vancouver, or Montreal may request smart casual attire, but even these rarely enforce strict dress codes. Canada is a highly multicultural country, so all styles of dress including traditional and religious clothing are widely accepted and seen throughout cities. The most important consideration is dressing for the weather: layering is essential, and proper winter gear is a safety issue in colder months.",
+      "tourist_tips": [
+        "Layer your clothing — Canadian weather changes quickly and can be extreme in any season",
+        "A waterproof jacket is essential in Vancouver and useful everywhere during shoulder seasons",
+        "For fine dining in major cities, smart casual (no shorts, collared shirt) is appreciated but rarely enforced"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Canada",
+      "quick_answer": "The drinking age is 19 in most provinces (18 in Alberta, Quebec, and Manitoba), and alcohol is sold at government-run liquor stores, not general supermarkets.",
+      "detail": "Alcohol sales are provincially regulated, creating significant variation across the country. In Ontario, the LCBO (Liquor Control Board of Ontario) and Beer Store are the primary retailers; Quebec's SAQ handles spirits and wine while dépanneurs (convenience stores) sell beer and wine; BC Liquor stores dominate in British Columbia. Some provinces have begun allowing grocery store alcohol sales but this is not universal. Public drinking is prohibited in most areas. Drink-driving limits are 0.08% BAC federally, though many provinces apply stricter administrative penalties starting at 0.05%.",
+      "tourist_tips": [
+        "Find the provincial liquor store when you arrive — LCBO in Ontario, SAQ in Quebec, BC Liquor in British Columbia",
+        "In Quebec, dépanneurs (corner stores) sell beer and wine — far more convenient than the SAQ for basics",
+        "Public drinking is banned almost everywhere — stick to licensed patios, parks with permits, or private property"
+      ],
+      "warning": "Drink-driving penalties are severe across all provinces. Many provinces apply license suspensions starting at 0.05% BAC — well below the federal criminal limit of 0.08%.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Canada",
+      "quick_answer": "Bargaining is not part of Canadian retail culture — prices are fixed, though car dealerships and major appliance purchases are exceptions.",
+      "detail": "Canada operates on a fixed-price retail culture where haggling in shops, restaurants, or markets is not practiced and would be considered unusual. However, negotiation is standard and expected when buying a car at a dealership, and some room exists for negotiating on major purchases like furniture or large appliances. Garage sales and private sales (Kijiji, Facebook Marketplace) typically expect some negotiation. Real estate negotiations are standard practice with formal offers and counteroffers.",
+      "tourist_tips": [
+        "Never try to bargain in regular retail stores, markets, or restaurants — fixed prices are the norm",
+        "At garage sales and private marketplace listings, gentle negotiation is expected and accepted",
+        "Car dealerships expect negotiation — research prices on AutoTrader before visiting and don't accept the sticker price"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Canada",
+      "quick_answer": "Photography is generally unrestricted in public spaces, but always ask permission at Indigenous sacred sites and avoid military installations.",
+      "detail": "Canada is largely open to public photography, and street photography in cities is legal. Indigenous sacred sites and ceremonial grounds require permission from the community or cultural custodians — this is both a legal and deeply respectful requirement. Military bases, certain government facilities, and courtrooms prohibit photography. In national parks, photography is encouraged but drones require permits from Parks Canada and must follow strict rules about wildlife disturbance and no-fly zones near waterfalls, hot springs, and wildlife areas.",
+      "tourist_tips": [
+        "Always ask permission before photographing at Indigenous cultural sites, communities, or ceremonies",
+        "Drone use in national parks requires a Parks Canada permit — apply in advance as approvals take time",
+        "Photography inside courthouses and courtrooms is prohibited by law throughout Canada"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Canada",
+      "quick_answer": "Most retail is open 7 days a week, but statutory holidays cause significant closures — Boxing Day (December 26) is a major shopping event.",
+      "detail": "Canadian retail generally operates 7 days a week, though Sundays may have slightly reduced hours. Quebec has a distinct culture around Sunday traditions in smaller towns, but Montreal and Quebec City retail operates normally. Statutory (public) holidays vary by province on top of national holidays — these cause widespread closures of government offices, banks, and many retailers. Christmas Day sees almost universal closure. Boxing Day (December 26) is one of Canada's biggest shopping days with major sales. Thanksgiving falls in October (not November like the US) and causes widespread closures.",
+      "tourist_tips": [
+        "Major grocery chains (Loblaws, Sobeys, Metro) are open most days including Sundays with normal or slightly reduced hours",
+        "Canadian Thanksgiving is in October — plan around this long weekend as it causes closures and busy travel",
+        "Boxing Day (December 26) is a massive shopping event with sales — stores open but expect crowds"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshares in Canada",
+      "quick_answer": "Uber and Lyft operate in all major Canadian cities and are the most convenient option — taxis are available but often more expensive.",
+      "detail": "Uber and Lyft are well-established and reliable in Toronto, Vancouver, Montreal, Calgary, Ottawa, and all other major cities. Taxis are also available and metered but tend to be more expensive, particularly in Toronto. Airport taxi flat-rate zones exist at major airports (Toronto Pearson, Vancouver YVR, Montreal Trudeau) to prevent overcharging. In smaller cities and rural areas, taxis may be the only option and advance booking is often required. Rideshare apps do not operate outside urban areas.",
+      "tourist_tips": [
+        "Use Uber or Lyft in cities — they are generally cheaper than taxis and the app shows the fare upfront",
+        "Toronto airport (Pearson) has official taxi flat-rate zones to downtown — confirm the flat rate before getting in",
+        "In rural towns and smaller cities, book taxis in advance as there may be very few available"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Canada",
+      "quick_answer": "Tap water is safe and excellent quality throughout Canada's cities and towns — no need to buy bottled water.",
+      "detail": "Canada's municipal tap water is among the cleanest and safest in the world, drawn from vast lakes and rivers and treated to high standards. Bottled water is an unnecessary expense in any Canadian city or town. The exception is some remote Indigenous communities on reserves, which have faced long-term boil-water advisories due to infrastructure issues — check advisories locally if visiting remote areas. Natural water sources in wilderness areas should be filtered or treated, as beaver fever (Giardia) is present in backcountry water.",
+      "tourist_tips": [
+        "Drink tap water freely in all cities and towns — it is clean, free, and often tastes excellent",
+        "Carry a reusable water bottle; refill stations are common in airports, transit stations, and parks",
+        "In the backcountry, always filter or treat natural water sources to avoid Giardia (beaver fever)"
+      ],
+      "warning": "Some remote Indigenous communities have active boil-water advisories. If visiting very remote areas, check Health Canada's boil-water advisory list before consuming local tap water.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Canada",
+      "quick_answer": "ATMs are widely available and cards are accepted almost everywhere — Interac debit is the dominant payment method and foreign cards work at all major bank ATMs.",
+      "detail": "Canada is a highly card-friendly country and Interac (debit) is the dominant payment method, accepted virtually everywhere including small cafes and food trucks. Credit cards (Visa, Mastercard) are universally accepted. ATMs from Canada's Big Five banks (TD, RBC, Scotiabank, BMO, CIBC) are widely available and accept most foreign cards, though fees apply (typically $3–5 CAD per withdrawal). Avoid white-label independent ATMs in tourist areas as they charge higher fees. When given the option at an ATM or card terminal, always choose to pay in CAD to avoid dynamic currency conversion markups.",
+      "tourist_tips": [
+        "Always select 'CAD' at ATMs and card machines — choosing your home currency triggers dynamic currency conversion with poor rates",
+        "Use ATMs at major bank branches (TD, RBC, Scotiabank) to minimize fees — avoid independent ATMs in tourist areas",
+        "A Wise or Revolut card eliminates most foreign transaction fees and gives near-perfect exchange rates"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Canada",
+      "quick_answer": "Canadian mobile plans are among the world's most expensive — consider an Airalo eSIM or budget carrier like Freedom Mobile for better value.",
+      "detail": "Canada is notorious for having some of the highest mobile data prices in the world. The Big Three carriers (Rogers, Bell, Telus) offer reliable nationwide coverage but at steep prices. Budget sub-brands such as Koodo (Telus), Fido (Rogers), Virgin Plus (Bell), and Freedom Mobile offer significantly better value, especially for short-term visitors. SIM cards can be purchased at airports, Walmart, Best Buy, and carrier stores. For short trips, an Airalo eSIM (international eSIM marketplace) often provides the best value. Coverage deteriorates dramatically outside urban areas and major highways.",
+      "tourist_tips": [
+        "Buy a Koodo, Fido, or Freedom Mobile SIM instead of Rogers/Bell/Telus directly — same or better coverage at lower prices",
+        "Airalo eSIM is an excellent option for short visits — purchase and activate before you land",
+        "WiFi is widely available in cafes, hotels, and public spaces — a pocket WiFi device helps in rural areas"
+      ],
+      "warning": "Mobile data coverage outside cities and major highways is very limited. Do not rely solely on cell data for navigation in rural areas or national parks — download offline maps before leaving urban areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Canada",
+      "quick_answer": "Canada uses Type A and Type B plugs (same as the USA) at 120V/60Hz — North American devices work perfectly; European and UK devices need an adapter and possibly a voltage converter.",
+      "detail": "Canada uses the same electrical system as the United States: Type A (two flat parallel pins) and Type B (two flat pins plus a round grounding pin) plugs at 120 volts and 60 Hz. Any device designed for North America will work without any adapter. Devices from Europe (230V/50Hz) or the UK (230V/50Hz with Type G plugs) require a plug adapter at minimum, and if the device is not dual-voltage (check the label for '100–240V'), a voltage converter is also needed. Most modern electronics (laptops, phone chargers, camera chargers) are dual-voltage and only need the plug adapter.",
+      "tourist_tips": [
+        "Check your device's power brick label — if it says '100–240V', it is dual-voltage and only needs a plug adapter, not a converter",
+        "UK visitors need a Type G to Type A/B adapter — available at any Canadian hardware store or airport",
+        "Power banks and USB-C chargers are universally dual-voltage — no converter needed, just the right plug adapter"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Scams to Watch Out for in Canada",
+      "quick_answer": "Canada is a low-scam destination for tourists, but phone and email scams impersonating the Canada Revenue Agency are rampant — hang up immediately.",
+      "detail": "Canada is generally very safe from tourist-targeted scams. The most common scams target residents via phone or email — fraudsters impersonating the Canada Revenue Agency (CRA) or RCMP demanding immediate payment in gift cards or cryptocurrency. If you receive such a call, hang up immediately; the real CRA never demands immediate payment by phone. Tourist-targeted issues are minor: some airport taxi drivers may try to overcharge tourists unfamiliar with rates, and high-end tourist-area restaurants may have inflated prices. Always confirm taxi fares before getting in or use Uber for transparent pricing.",
+      "tourist_tips": [
+        "Confirm taxi fare before getting in at airports — ask if there is a flat rate to your destination or use Uber instead",
+        "If you receive a phone call from 'CRA' or 'RCMP' demanding payment, hang up — it is always a scam",
+        "At popular tourist restaurants near major attractions, check the menu prices before sitting down"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Canada",
+      "quick_answer": "Canada is very safe by international standards — violent crime affecting tourists is rare, though some downtown areas and wildlife encounters require awareness.",
+      "detail": "Canada consistently ranks among the world's safest countries and violent crime against tourists is extremely rare. Some urban neighborhoods have visible homelessness and drug use — Vancouver's Downtown Eastside (DTES) is well-known but is not typically dangerous for tourists passing through. Standard city precautions apply: be aware of your surroundings at night, secure valuables, and avoid confrontations. Wildlife safety is a genuine concern in national parks and wilderness areas: bears (black and grizzly), moose, cougars, and coyotes require proper precautions. Always carry bear spray in bear country and follow Parks Canada wildlife guidelines.",
+      "tourist_tips": [
+        "Carry bear spray when hiking in Alberta and BC national parks — it is more effective than firearms and available at outdoor stores",
+        "In cities, apply standard precautions: secure bags, be aware at night, and avoid isolated areas after dark",
+        "Never approach or feed wildlife in national parks — moose are particularly dangerous and unpredictable"
+      ],
+      "warning": "Moose on roads are a serious driving hazard, especially at dawn and dusk in forested areas. A collision with a moose is frequently fatal — reduce speed and stay alert in wildlife zones.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Canada",
+      "quick_answer": "Canadians are famously polite — say 'sorry' liberally, respect personal space, and in Quebec, always attempt a greeting in French first.",
+      "detail": "Politeness is deeply embedded in Canadian culture — apologizing reflexively (the 'sorry' reflex) is a genuine cultural trait and not a sign of weakness or guilt. Canada is one of the world's most multicultural societies, particularly in Toronto, Vancouver, and Montreal, and all cultural backgrounds are respected. In Quebec, it is considered respectful to greet people in French first — 'Bonjour' before switching to English signals goodwill. Land acknowledgments recognizing Indigenous peoples are now standard at events and institutions. Tipping service staff appropriately is also considered culturally respectful.",
+      "tourist_tips": [
+        "In Quebec, always start with 'Bonjour' — attempting French, even just a greeting, is warmly appreciated",
+        "Canadians form orderly queues and expect others to do the same — cutting in line is considered very rude",
+        "Indigenous land acknowledgments are common at events; listen respectfully as they reflect an important cultural context"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Canada",
+      "quick_answer": "English is spoken everywhere; French is the primary language in Quebec and parts of New Brunswick — knowing a few French phrases goes a long way in Montreal.",
+      "detail": "Canada is officially bilingual (English and French) at the federal level. English dominates in all provinces except Quebec, where French is the official and primary language, and in parts of New Brunswick (which is officially bilingual). In Montreal, most residents are bilingual but expect and appreciate French first in stores and restaurants. Outside Quebec, French speakers are present in communities across the country but English will always be understood. Indigenous languages such as Cree, Ojibwe, and Inuktitut are spoken in many Indigenous communities, particularly in northern regions.",
+      "tourist_tips": [
+        "Learn: 'Bonjour' (hello), 'Merci' (thank you), 'Excusez-moi' (excuse me) — these basics earn real goodwill in Quebec",
+        "In Montreal, starting any interaction with 'Bonjour-Hi' (the local bilingual greeting) signals respect for both cultures",
+        "English is understood and spoken throughout Quebec's tourist areas — language is rarely a practical barrier for visitors"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Canada",
+      "quick_answer": "Canada has beautiful beaches but most ocean and lake water is cold — the Great Lakes offer the warmest summer swimming while glacier-fed lakes are stunningly blue but frigid.",
+      "detail": "Canada's diverse coastlines offer dramatically different swimming experiences. The Atlantic coast (Nova Scotia, Prince Edward Island, New Brunswick) has sandy beaches and water that warms to a swimmable 18–22°C in July and August. Pacific coast beaches in BC are scenic but the water is cold year-round (10–15°C). The Great Lakes (Ontario, Erie, Huron shores) offer the warmest lake swimming in summer. Banff's famous turquoise lakes (Lake Louise, Moraine Lake) are glacier-fed at 2–5°C — beautiful to see but not for swimming. Rip currents exist at some Atlantic beaches; always swim at lifeguard-patrolled beaches.",
+      "tourist_tips": [
+        "PEI and Nova Scotia's beaches are warmest in late July and August — plan accordingly for actual swimming",
+        "Lake Louise and Moraine Lake are for photos, not swimming — glacier-fed water is dangerously cold year-round",
+        "Swim at beaches with lifeguards present — rip currents can occur at Atlantic coastal beaches"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Canada",
+      "quick_answer": "Drive on the right, use metric speed limits in km/h, and know that winter tires are mandatory in Quebec from December to March.",
+      "detail": "Canada drives on the right side of the road with metric speed limits (posted in km/h). Speed limit enforcement is strict — photo radar and automated speed cameras are used extensively, including average-speed systems on highways. Seatbelts are mandatory for all occupants. Winter tires are legally required in Quebec from December 1 to March 15, and strongly recommended throughout Canada in winter months. Wildlife on roads is a serious hazard: moose collisions are frequently fatal, especially on Trans-Canada routes through forested provinces. Most foreign licenses are valid for driving in Canada for up to 90 days.",
+      "tourist_tips": [
+        "In Quebec, winter tires (marked with the mountain/snowflake symbol) are legally required Dec 1 – Mar 15 — rental cars should be equipped",
+        "Drive well below speed limits in forested areas at dawn and dusk — moose are extremely dangerous road hazards",
+        "Right turn on red is permitted throughout Canada (except where signed otherwise and in some parts of Montreal)"
+      ],
+      "warning": "Moose and other wildlife collisions are a leading cause of road fatalities in Canada. Reduce speed significantly on forested rural highways, particularly at night.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Canada",
+      "quick_answer": "Canada's food scene is diverse and multicultural — try poutine in Quebec, butter tarts in Ontario, and note that tax is always added to menu prices at the till.",
+      "detail": "Canadian cuisine is heavily influenced by the country's multicultural makeup — major cities offer world-class dining from every cuisine imaginable. Regional specialties worth trying include poutine (fries, cheese curds, gravy) from Quebec, butter tarts and Nanaimo bars, Halifax donairs, and fresh seafood on both coasts. Portions tend to be large. An important note: menu prices do not include tax (HST/GST varies by province, typically 5–15%) or tip, so the final bill will be 20–35% higher than menu prices suggest. Tim Hortons is the ubiquitous Canadian coffee chain offering cheap coffee and food.",
+      "tourist_tips": [
+        "Budget 20–35% above menu prices to cover tax (5–15% depending on province) and a standard 15–20% tip",
+        "Tim Hortons offers the cheapest coffee and quick meals in Canada — a cultural institution worth trying",
+        "Try genuine poutine in Quebec (Montreal or Quebec City) rather than tourist versions found elsewhere in Canada"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Religious Site Etiquette in Canada",
+      "quick_answer": "Canada's religious sites are generally welcoming to visitors — dress modestly, remove shoes where indicated, and always ask before photographing.",
+      "detail": "Canada's multicultural society means all major world religions are represented, particularly in cities. Christian churches, mosques, synagogues, Hindu temples, Buddhist temples, and Sikh gurdwaras are all present and generally open to respectful visitors. Dress modestly when visiting any religious site — covered shoulders and knees are appropriate. Remove shoes when entering mosques, Hindu temples, and Sikh gurdwaras. At Sikh gurdwaras, covering your head is required (scarves provided at the entrance). Ask before taking photographs inside any religious building. Some Indigenous sacred sites have specific protocols that should be respected — ask the community.",
+      "tourist_tips": [
+        "Sikh gurdwaras welcome visitors of all faiths and offer free langar (communal meals) — cover your head and remove shoes at the entrance",
+        "Dress modestly (covered shoulders and knees) when visiting mosques, temples, or synagogues",
+        "Always ask permission before photographing inside any place of worship — even where it seems permitted"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Canada",
+      "quick_answer": "The best time to visit most of Canada is June through September — winters are genuinely extreme in most regions, though Vancouver stays mild year-round.",
+      "detail": "Canada's climate varies dramatically by region. Toronto and Eastern Canada: best June–August and September–October; winters (November–March) are cold with heavy snow but manageable. Vancouver and coastal BC: mild and relatively warm year-round (5–20°C), but very rainy November through March — summer (July–August) is spectacular. Montreal and Quebec: extraordinary summers with festivals, but winters are brutal (-20°C with heavy snow). The Canadian Rockies (Banff, Jasper): best June to September; ski season November–April. Northern Canada (Yukon, Northwest Territories, Nunavut): brief warm summer June–August is the only practical visit window, with the added draw of midnight sun.",
+      "tourist_tips": [
+        "For the Rockies (Banff, Jasper), aim for late June to September — many facilities close or reduce hours outside this window",
+        "Vancouver is a year-round destination but pack rain gear for any visit between October and April",
+        "Montreal and Quebec City are magnificent in summer (June–August) and winter festivals make January worthwhile if you pack properly"
+      ],
+      "warning": "Canadian winters are genuinely dangerous — temperatures of -20°C to -40°C with wind chill are common in most provinces. Proper insulated, waterproof clothing is essential, not optional, for winter travel outside Vancouver.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Canada",
+      "quick_answer": "Canada is expensive, but free museum days in Ottawa, Tim Hortons for cheap meals, and shoulder-season travel (May or September) can significantly reduce costs.",
+      "detail": "Canada is one of the more expensive destinations in the Americas, but smart strategies help. National Parks Canada offers free entry on the first Wednesday of every month. Ottawa's major national museums (Museum of History, National Gallery) have designated free admission days. HI Canada (Hostelling International) hostels offer budget accommodation in most major cities and near national parks. Tim Hortons provides very cheap coffee, soups, and baked goods. Grocery stores like Loblaws, No Frills, and Walmart are the best option for budget meals — Canadian grocery store prepared food sections are excellent. Traveling in May or September instead of July–August saves significantly on accommodation.",
+      "tourist_tips": [
+        "Check Parks Canada's schedule — the first Wednesday of each month offers free entry to all national parks and sites",
+        "Ottawa's national museums have free or reduced-admission days — check each museum's website before your visit",
+        "Travel in May or September instead of peak summer: cheaper flights, lower hotel rates, and smaller crowds at major attractions"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

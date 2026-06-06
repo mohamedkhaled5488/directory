@@ -1,0 +1,380 @@
+{
+  "country": "UK",
+  "slug": "uk",
+  "emoji": "🇬🇧",
+  "region": "Europe",
+  "currency": "GBP",
+  "language": "English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in the UK",
+      "quick_answer": "Tip 10–15% at sit-down restaurants if service was good. Check for a service charge already on the bill. No tipping expected at pubs when ordering at the bar.",
+      "detail": "The UK has a moderate tipping culture. At sit-down restaurants, 10–15% is standard for good service. However, many restaurants add a discretionary service charge (10–12.5%) directly to the bill — always check before adding more. You are legally allowed to remove a service charge if you feel service was poor; ask the server. At pubs, tipping is not expected when ordering drinks at the bar — if you want to tip, you can say 'and one for yourself' and they may add a drink to your bill. Taxi drivers, hairdressers, and hotel staff appreciate small tips but it's not mandatory.",
+      "tourist_tips": [
+        "Check your restaurant bill for a 'service charge' before adding extra — it's often already included",
+        "At pubs, ordering at the bar means no tip expected; table service at a gastropub warrants 10%",
+        "For taxis, rounding up to the nearest pound or adding £1–2 is normal",
+        "Hotel porters appreciate £1–2 per bag, housekeeping £2–3 per night",
+        "Delivery drivers: 10% or round up via the app when tipping is prompted"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in the UK",
+      "quick_answer": "Use contactless card or Apple/Google Pay on London's Tube and buses — no need for an Oyster card. Outside London, trains are expensive; book far in advance.",
+      "detail": "London has an extensive Underground (Tube) network, buses, and Overground trains all under Transport for London (TfL). You can pay with a contactless debit/credit card or phone — daily and weekly caps apply automatically, making it as good as an Oyster card for most tourists. Outside London, National Rail trains are operated by various companies; booking in advance online can save 50–80% over walk-up prices. Coach services (National Express, Megabus) are much cheaper than trains for intercity travel. Scotland, Wales, and Northern Ireland have their own regional bus and rail networks.",
+      "tourist_tips": [
+        "In London, tap in and out with your contactless card — daily fare caps apply automatically",
+        "Avoid buying single paper tickets in London — they cost significantly more than contactless",
+        "For intercity trains, book via Trainline or National Rail websites 6–12 weeks in advance for best prices",
+        "Megabus and National Express coaches are very cheap for intercity travel (often £5–15)",
+        "In cities outside London, buses are the main public transport — buy multi-day passes to save money"
+      ],
+      "warning": "Walk-up train fares in the UK are among the most expensive in Europe. Always book in advance for long-distance trips — same-day tickets can cost 3–5x more.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in the UK",
+      "quick_answer": "The NHS provides emergency care to all. EU citizens use the EHIC/GHIC card. Non-EU tourists are charged. Travel insurance is recommended for all.",
+      "detail": "The UK's National Health Service (NHS) provides emergency care to everyone regardless of nationality or insurance status. For life-threatening emergencies, go to A&E (Accident and Emergency) or call 999. For non-emergency issues, most tourists cannot access a GP without registering. Instead, use NHS Walk-in Centres or Urgent Treatment Centres for non-emergency issues. EU citizens with an EHIC/GHIC card receive treatment on the same terms as UK residents. Non-EU tourists are billed for non-emergency treatment — an A&E visit can cost £150–£300+ if deemed non-emergency. Private healthcare is available and fast if you have insurance.",
+      "tourist_tips": [
+        "Call 111 for non-emergency NHS medical advice — free, 24/7, and can direct you to the right service",
+        "For minor issues, pharmacies (Boots, Lloyds) have in-store pharmacists who can advise for free",
+        "NHS Walk-in Centres and Minor Injuries Units treat tourists without a GP referral",
+        "EHIC/GHIC cards cover EU/EEA citizens and are recognized by the NHS",
+        "Private GP appointments can often be booked same-day for £75–150 and avoid long NHS waits"
+      ],
+      "warning": "NHS A&E wait times can be extremely long (4–12 hours) for non-life-threatening conditions. For minor issues, use urgent treatment centres, pharmacists, or NHS 111 instead.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in the UK",
+      "quick_answer": "UK laws are generally familiar to Western tourists. Note: knife-carrying laws are strict, drugs are illegal, and social media harassment can be prosecuted.",
+      "detail": "The UK is generally very similar legally to other Western countries. Important points for tourists: knife laws are strict — it is illegal to carry any knife with a blade over 3 inches (7.6cm) in public without a valid reason, regardless of where you bought it. Cannabis is Class B and illegal — possession can result in arrest. In England and Wales, you must give your name and address to police if asked in certain circumstances. The UK has strict laws around online harassment and threatening behavior, including on social media. Drink-driving limit is 80mg/100ml in England, Wales, and Northern Ireland (50mg in Scotland).",
+      "tourist_tips": [
+        "Do not carry knives — even a folding pocket knife over 3 inches can result in arrest",
+        "Speed cameras are everywhere on UK roads — speed limits are enforced automatically",
+        "In Scotland, the drink-driving limit is stricter (50mg BAC) than the rest of the UK",
+        "Age limit for alcohol purchase is 18 — ID will be asked for if you look under 25 (Think 25 policy)",
+        "UK police are generally approachable and helpful for tourists with questions"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in the UK",
+      "quick_answer": "Emergency: 999 (or 112). Non-emergency police: 101. NHS non-emergency medical: 111.",
+      "detail": "The UK has a straightforward emergency number system. 999 is the main emergency number for police, ambulance, and fire — it works from any phone including mobile phones with no signal by connecting to any available network. 112 is the international standard and also works in the UK. For non-emergency police matters (e.g. reporting a theft that has already happened), call 101. For non-emergency medical advice, call NHS 111, staffed 24/7 by healthcare professionals who can advise, book urgent GP appointments, or direct to the appropriate service.",
+      "tourist_tips": [
+        "999 works even if you have no credit on a pay-as-you-go phone or have no signal on your carrier",
+        "112 is the EU standard emergency number — it also works in the UK",
+        "NHS 111: call for medical advice without needing to go to A&E — free, 24/7",
+        "101: non-emergency police matters — use this to report theft, minor incidents, or ask for advice",
+        "Coastguard emergencies at sea: 999 and ask for Coastguard, or use channel 16 on a marine radio"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in the UK",
+      "quick_answer": "The UK is very relaxed about clothing. Dress smart-casual for upscale restaurants and clubs. Carry a waterproof — rain is frequent and unpredictable.",
+      "detail": "The UK has no mandatory dress code for tourists. Cities are diverse and clothing choices are extremely varied and accepted. Religious sites (churches, cathedrals, mosques, temples) appreciate modest dress — shoulders covered and no very short clothing, though this is rarely enforced. Some upscale restaurants and clubs in London and other major cities have smart-casual or formal dress codes that they enforce at the door. Many traditional London gentlemen's clubs and some formal venues still require jackets and ties. The practical tip overrides all: always carry rain gear regardless of season.",
+      "tourist_tips": [
+        "Always pack a light waterproof jacket or umbrella — weather changes rapidly throughout the day",
+        "London's higher-end restaurant or club dress codes usually mean 'no trainers/sneakers, no shorts'",
+        "The Edinburgh Military Tattoo and similar events have no dress code but being smart is common",
+        "Scottish Highland Games events: visitors wearing tartan are welcomed but not required to",
+        "UK weather layers are essential — mornings can be cold and afternoons warm in spring/autumn"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in the UK",
+      "quick_answer": "Drinking age is 18. Alcohol is sold at supermarkets, off-licences, and pubs. Drinking in public is legal in most areas. Pub last orders typically at 11pm.",
+      "detail": "The UK has a well-established pub culture and relatively relaxed alcohol laws. The legal drinking age is 18. Alcohol is sold in supermarkets, off-licences (liquor stores), petrol stations, and pubs. There is no ban on public drinking in most areas, though some cities and town centres have Designated Public Place Orders (DPPOs) banning alcohol in specific streets. Traditional pub closing times are around 11pm on weekdays and midnight on Saturdays, though many have late licenses. 'Last orders' is typically called 15 minutes before closing — you can finish drinks for 20 minutes after that.",
+      "tourist_tips": [
+        "The UK pub culture is important — standing at the bar and ordering yourself is the norm, not table service",
+        "Pub rounds: social tradition where each person in a group buys a round for everyone in turn",
+        "Off-licences and supermarkets are much cheaper for alcohol than pubs — buy drinks for parks or self-catering",
+        "In Scotland, alcohol sales in supermarkets are banned before 10am",
+        "Drinking on London's Tube and buses is banned — enforced by staff and police"
+      ],
+      "warning": "Drinking on London Underground (Tube), Overground, and Transport for London buses is banned by law. You can be removed from the service.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in the UK",
+      "quick_answer": "Fixed prices everywhere in retail. Bargaining is acceptable at market stalls, car boot sales, and with private sellers. Some room for negotiation on large purchases.",
+      "detail": "The UK is fundamentally a fixed-price retail culture. Attempting to bargain in shops, supermarkets, or chain stores is not done and would be met with confusion. However, there are exceptions: car boot sales, charity shops with clearly priced high items, antique fairs, and market stalls may allow polite negotiation, especially near closing time. When buying a used car, white goods, or large electronics privately, negotiation is expected. Estate agents negotiate on property prices. Hotel reception staff sometimes have discretion to offer room upgrades or adjustments for long stays or direct booking.",
+      "tourist_tips": [
+        "Car boot sales and flea markets: politely ask 'Is that your best price?' as an opener",
+        "Charity shops (Oxfam, British Heart Foundation) rarely negotiate but sometimes for expensive items",
+        "Near the end of a market day, stall holders may reduce prices rather than pack items away",
+        "For hotel rooms: booking direct (not via OTA) then calling the hotel to ask about upgrades often works",
+        "Electronics retailers like John Lewis offer Price Match guarantees — bring competitor prices"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in the UK",
+      "quick_answer": "Photography in public spaces is broadly legal in the UK. No law against photographing in public, but private properties and some government sites are restricted.",
+      "detail": "The UK has broad freedom to photograph in public spaces — streets, parks, landmarks, and people in public are generally all legal to photograph. There is no law requiring people's consent for street photography. However, individual venues and private properties can set their own photography rules, and security staff may ask you not to photograph on private premises (which includes most shopping centers). Photography of some government buildings, military sites, and GCHQ/MI6/security service facilities is restricted under the Official Secrets Act. Photography of children requires particular sensitivity — publishing photos of minors without parental consent is a legal gray area.",
+      "tourist_tips": [
+        "Westminster, Big Ben, Tower Bridge — all freely photographable from public streets",
+        "Inside museums: most allow non-flash personal photography; check individual gallery rules",
+        "Shopping centers are private property and can legally prohibit photography — security may ask you to stop",
+        "Buckingham Palace changing of the guard: completely free to photograph from the public road",
+        "Drone flights require CAA registration, insurance, and specific permissions in many areas including central London"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in the UK",
+      "quick_answer": "Large shops open shorter Sunday hours (typically 10am–4pm or 11am–5pm). Pubs and restaurants normal hours. Bank Holidays see widespread closures.",
+      "detail": "Sunday trading laws in England and Wales restrict large shops (over 3,000 sq ft) to maximum 6 hours of trading on Sundays, typically 10am–4pm or 11am–5pm. Smaller shops can open any hours. In Scotland and Northern Ireland, Sunday trading is largely unrestricted. Restaurants and pubs operate normal hours on Sundays. Bank Holidays (public holidays) see widespread closures — shops, government offices, and many businesses shut. The UK has around 8 Bank Holidays per year in England and Wales, more in Scotland and Northern Ireland. Christmas Day (25 Dec) is a near-universal closure.",
+      "tourist_tips": [
+        "Large supermarkets open 10am–4pm on Sundays — plan your grocery run accordingly",
+        "Corner shops (newsagents) and small independents are open normal hours on Sundays",
+        "Bank Holidays: stock up on supplies the day before as most things will be closed",
+        "Christmas Day and Boxing Day: virtually everything closes — hotels and restaurants are the main exception",
+        "Pharmacy Sunday hours: major chains open shorter hours; check for 24-hour options in cities"
+      ],
+      "warning": "On Bank Holidays (especially Christmas and Easter), most shops and services close. Train and bus services run on a reduced 'holiday timetable' — check in advance.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in the UK",
+      "quick_answer": "Uber, Bolt, and Ola all operate across the UK; London's iconic black cabs are metered and trustworthy but expensive.",
+      "detail": "Rideshare apps including Uber, Bolt, and Ola cover most major UK cities and offer transparent pricing. London's licensed black cabs (hackney carriages) use a metered fare and are strictly regulated — they are honest but significantly more expensive than apps. Addison Lee is a premium option for pre-booked private hire in London. Private hire vehicles (minicabs) must always be pre-booked through a licensed operator and must never be hailed from the street; unlicensed minicabs are illegal and have been linked to serious crimes.",
+      "tourist_tips": [
+        "Always pre-book minicabs through a licensed app or operator — never accept an offer from a driver approaching you on the street",
+        "Black cabs can be hailed on the street when the yellow 'TAXI' light is on and are the safest option late at night",
+        "Uber and Bolt are significantly cheaper than black cabs for most journeys — compare before you hail"
+      ],
+      "warning": "Never get into an unlicensed minicab. Touts outside nightclubs and train stations sometimes offer rides — these drivers are unregulated and passengers have been assaulted.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in the UK",
+      "quick_answer": "Tap water throughout the UK is excellent quality and completely safe to drink straight from the tap.",
+      "detail": "UK tap water is among the safest and highest quality in the world, fully treated and monitored throughout England, Scotland, Wales, and Northern Ireland. There is no need to buy bottled water at any point during your visit. Most cafés and restaurants will refill a water bottle for free if asked politely. Scottish Highland tap water is sourced from mountain lochs and is particularly pure and fresh-tasting.",
+      "tourist_tips": [
+        "Carry a reusable water bottle and ask any café or pub to refill it — almost all will do so for free",
+        "Scottish Highland water from the tap has a noticeably clean, fresh taste that many visitors comment on",
+        "Bottled water in UK shops and tourist areas is expensive and entirely unnecessary given tap water quality"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in the UK",
+      "quick_answer": "UK ATMs are widespread and free at supermarkets and post offices; contactless payments up to £100 are the norm but some small venues still require cash.",
+      "detail": "The UK has a dense network of ATMs through the Link network, with free withdrawals at supermarkets (Tesco, Sainsbury's, Asda), post offices, and bank branches. Non-bank ATMs found in convenience stores and petrol stations typically charge a fee of £1.50–£2.99 per withdrawal — look for the fee notice on screen before confirming. Contactless (tap-to-pay) card and phone payments up to £100 are widely accepted and preferred. Apps like Monzo, Revolut, and Wise are popular with locals for fee-free spending. Cash is still useful for some independent pubs, street markets, and very small shops.",
+      "tourist_tips": [
+        "Use ATMs at Tesco, Sainsbury's, or the Post Office for completely fee-free cash withdrawals",
+        "Avoid ATMs in corner shops and tourist areas — always check the screen for a withdrawal fee before proceeding",
+        "Load a Wise or Revolut card before your trip to avoid foreign transaction fees on every purchase"
+      ],
+      "warning": "Shoulder surfing at busy ATMs (especially on the London Underground) is a real risk — shield your PIN and be aware of your surroundings when withdrawing cash.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in the UK",
+      "quick_answer": "Buy a UK SIM at the airport or Argos for instant data; Three's £10 tourist SIM offers excellent value, and Airalo eSIMs work well before you land.",
+      "detail": "The main UK carriers are EE (best overall coverage), Vodafone, O2, and Three. SIM cards are available at airports, Argos stores, phone shops, and supermarkets with no ID required. Three's £10 SIM is a popular choice for tourists due to generous data allowances. Airalo and other eSIM providers work well if you prefer to set up connectivity before arriving. Coverage is strong across cities and major towns but can be patchy in the Scottish Highlands, rural Wales, and remote countryside.",
+      "tourist_tips": [
+        "Three's tourist SIM (around £10) offers some of the best data value for short stays and is widely available at airports",
+        "EE has the widest and strongest coverage if you plan to travel outside major cities or into rural areas",
+        "Set up an Airalo eSIM before you fly so you have data the moment you land without queuing at an airport kiosk"
+      ],
+      "warning": "Coverage in the Scottish Highlands, Snowdonia, and remote parts of Northern Ireland can be very poor or nonexistent — download offline maps before heading into rural areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in the UK",
+      "quick_answer": "The UK uses Type G (3-pin square) plugs at 230V/50Hz — virtually all visitors except those from Ireland need an adapter.",
+      "detail": "The UK uses the Type G plug (three large rectangular pins in a triangular arrangement), which is unique to the UK, Ireland, Hong Kong, Singapore, Malta, and a handful of other countries. The voltage is 230V at 50Hz, which is compatible with most modern electronics. Almost every visitor — including those from the US, Europe, Australia, and Asia — will need a Type G adapter. UK power sockets are highly reliable and power cuts are rare. Many modern hotels provide universal charging points or USB sockets alongside standard UK sockets.",
+      "tourist_tips": [
+        "Buy a Type G adapter before you travel — airport shops sell them but at a significant markup",
+        "Most modern laptops, phone chargers, and camera chargers are dual-voltage (100–240V) and only need an adapter, not a converter",
+        "Extension leads with UK plugs are available cheaply at supermarkets if you need to charge multiple devices"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in the UK",
+      "quick_answer": "The UK has a low scam culture overall, but London tourists should watch for ticket touts, fake gold rings, aggressive charity collectors, and pickpockets on the Underground.",
+      "detail": "The UK is generally low-risk for tourist scams compared to many countries. The most common issues in London include ticket touts selling overpriced or fake tickets outside theatres, concert venues, and sporting events; the 'dropped gold ring' trick where someone offers you a found ring to distract or solicit money; and aggressive charity fundraisers (known as 'chuggers') who approach pedestrians on busy streets. Restaurants immediately around major tourist sites (Tower of London, Westminster) are often overpriced with mediocre food. ATM shoulder surfing in busy areas is a genuine risk.",
+      "tourist_tips": [
+        "Buy theatre and concert tickets only from the official box office or authorised resellers — ticket touts operate illegally and frequently sell fakes",
+        "Feel free to firmly say 'No thank you' and walk away from chuggers — they can be persistent but have no authority to stop you",
+        "Eat one or two streets away from major tourist landmarks to get far better food at half the price"
+      ],
+      "warning": "The 'dropped gold ring' scam is common near major London attractions — someone 'finds' a ring at your feet and offers it to you, then demands money. Walk away immediately.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in the UK",
+      "quick_answer": "The UK is generally very safe for tourists; the main risks are pickpocketing on the London Underground and avoiding a small number of rough urban areas after dark.",
+      "detail": "The UK ranks among the safer destinations for international tourists. London knife crime statistics appear in headlines but rarely involve tourists; the main practical risk is pickpocketing on the Tube, especially on the Central and Jubilee lines in tourist-heavy areas. Keep valuables in front pockets and be alert in crowded Tube carriages. Night buses are a safer late-night option than unlicensed minicabs. Most UK cities have identifiable areas that locals avoid after dark — use Google Maps reviews and common sense rather than asking locals who may be reluctant to specify streets.",
+      "tourist_tips": [
+        "Keep your phone in a front pocket or bag on the Tube — phone snatching from hands near open doors is the most common tourist theft",
+        "Night buses in London and most UK cities are policed and generally safe; always prefer them over unofficial rides",
+        "Women travelling solo generally feel safe in most UK city centres and well-lit areas at night"
+      ],
+      "warning": "Pickpockets operate on the London Underground, particularly on tourist-heavy lines. Be especially vigilant at busy stations like King's Cross, Oxford Circus, and London Bridge.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in the UK",
+      "quick_answer": "Queuing is sacred, 'sorry' is said constantly, and pub etiquette means ordering at the bar — understanding these unwritten rules makes a huge difference.",
+      "detail": "British cultural etiquette has several distinct features that catch visitors off guard. Queuing (standing in line) is taken extremely seriously — cutting in is considered deeply rude and will draw visible disapproval. British people say 'sorry' reflexively for almost any minor inconvenience, and 'that's interesting' often signals polite disagreement rather than genuine enthusiasm. In most traditional pubs, you order and pay at the bar rather than waiting for table service. 'Please' and 'thank you' are used constantly and their absence is noticed. Holding doors open for people behind you is standard courtesy. Discussing personal income or salary is considered vulgar. Self-deprecating humour is a national art form.",
+      "tourist_tips": [
+        "Always join the back of any queue and never attempt to push in — this is one of the strongest social norms in British culture",
+        "In a pub, go to the bar to order — standing at a table waiting for someone to take your order will leave you waiting indefinitely in most pubs",
+        "Take compliments and refusals at face value only after the third offer — British people often decline once out of politeness before genuinely accepting"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in the UK",
+      "quick_answer": "English is spoken everywhere, but British vocabulary differs from American English and strong regional accents can be genuinely challenging for visitors.",
+      "detail": "English is the dominant language across the UK with no practical language barrier for English speakers. However, British English uses different vocabulary from American English — lifts (elevators), pavements (sidewalks), chips (fries), queues (lines), and many more. Regional accents range from mild to very strong: Glaswegian (Glasgow), Geordie (Newcastle), Scouse (Liverpool), and some rural Welsh and Northern Irish accents can be genuinely hard to follow. Welsh is an official language in Wales with bilingual signs throughout the country. In Scotland, Gaelic signage appears in the Highlands. Do not hesitate to politely ask people to repeat themselves — UK residents are generally patient with this request.",
+      "tourist_tips": [
+        "If you cannot understand a strong regional accent, a polite 'Sorry, could you say that again?' is always well-received",
+        "In Wales, announcements and signage are bilingual — English always appears alongside Welsh so navigation is straightforward",
+        "Learn a few key British English terms before you go: 'chemist' (pharmacy), 'boot' (car trunk), 'motorway' (highway), 'fortnight' (two weeks)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in the UK",
+      "quick_answer": "UK beaches are beautiful but water is cold year-round; RNLI lifeguards patrol popular beaches and rip currents are the main swimming danger.",
+      "detail": "The UK has a varied coastline ranging from sandy beaches in Cornwall and Devon to pebble beaches in Brighton and the southeast. Sea temperatures peak at 12–18°C in August, meaning most visitors find it cold. The RNLI (Royal National Lifeboat Institution) provides lifeguard cover at popular beaches from May to September — always swim between the red and yellow flags. Rip currents are the principal danger and can carry even strong swimmers offshore rapidly. Jellyfish appear seasonally (July–September). Cornwall's Atlantic-facing beaches are world-class for surfing and have a strong surf school culture.",
+      "tourist_tips": [
+        "Always swim between the red and yellow RNLI flags where lifeguards are watching — flags are moved daily based on conditions",
+        "If caught in a rip current, do not swim against it — swim parallel to the shore until clear, then swim back in",
+        "Wetsuits are recommended for extended sea swimming even in summer — local surf hire shops rent them cheaply"
+      ],
+      "warning": "Rip currents claim lives on UK beaches every year. If you see red flags or a red and yellow flag with a diagonal red stripe, do not enter the water.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in the UK",
+      "quick_answer": "Drive on the left; speed is in mph not km/h; central London has a daily congestion charge; and motorway etiquette requires keeping left except when overtaking.",
+      "detail": "The UK drives on the left side of the road with the steering wheel on the right — visitors from right-hand traffic countries need extra caution at junctions and roundabouts. Speed limits are in miles per hour (20/30mph in towns, 60mph on single carriageways, 70mph on motorways). On motorways, the left lane is the cruising lane and right lanes are for overtaking only — undertaking (passing on the left) is illegal. Entering the Congestion Charge zone in central London costs £15 per day (Auto Pay) and must be paid by midnight that day. Fuel is sold in litres despite speed being in miles. Annual MOT vehicle testing is required for cars over three years old.",
+      "tourist_tips": [
+        "At roundabouts, traffic already on the roundabout has priority — give way to the right when entering",
+        "Register for the London Congestion Charge online before driving into the zone — charges apply 7am–6pm Monday to Friday",
+        "Left-hand traffic is hardest at quiet junctions where instinct takes over — consciously remind yourself before every turn"
+      ],
+      "warning": "There is no right turn on red in the UK. Speed cameras are widespread on all road types and fines are issued automatically by post — speeding is enforced very effectively.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in the UK",
+      "quick_answer": "VAT is included in displayed prices; service charge may be added separately; and British food culture spans the Full English, fish and chips, Sunday roast, and a world-class curry scene.",
+      "detail": "British food has improved enormously in recent decades and the UK — especially London — has a world-class restaurant scene. Cultural staples include the Full English breakfast (eggs, bacon, sausages, beans, toast, grilled tomato and mushrooms), fish and chips, the Sunday roast, and afternoon tea. Chicken tikka masala is widely considered a de facto national dish, reflecting the UK's outstanding Indian restaurant culture. VAT at 20% is always included in displayed menu prices. A discretionary service charge of 10–12.5% is often added to the bill — you are legally entitled to remove it but most people pay it for good service. Tap water is free on request.",
+      "tourist_tips": [
+        "Ask for tap water at any restaurant — it is free by law and there is no obligation to buy bottled water",
+        "Check your bill for an added service charge before tipping separately — paying both is unnecessary",
+        "Supermarket meal deals (sandwich, snack, and drink for £3–4.50) are one of the best budget lunch options in the UK"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in the UK",
+      "quick_answer": "The UK is highly diverse with active mosques, Sikh gurdwaras, Hindu temples, and historic churches — most welcome respectful visitors; remove shoes at mosques, gurdwaras, and Hindu temples.",
+      "detail": "The UK's religious diversity means visitors can explore a wide range of faith sites. Westminster Abbey and St Paul's Cathedral charge entry fees and request modest, respectful dress. Many UK mosques welcome non-Muslim visitors, particularly during open-day events — calling ahead is recommended. Sikh gurdwaras are exceptionally welcoming to all visitors regardless of faith, and the free communal meal (langar) is available to everyone. Hindu temples similarly welcome respectful visitors. At mosques, gurdwaras, and Hindu temples, shoes must be removed before entering; head coverings are required at gurdwaras and are provided at the entrance.",
+      "tourist_tips": [
+        "At Sikh gurdwaras, accept the free langar (communal meal) — it is considered a privilege to share, not charity, and no donation is required",
+        "Cover your head with a provided scarf at gurdwaras — head coverings are always available at the entrance for visitors",
+        "At Westminster Abbey and St Paul's, book tickets online in advance to avoid queues and save money"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit the UK",
+      "quick_answer": "June to August offers the warmest weather and longest days; rain is possible in any month so always carry a waterproof layer.",
+      "detail": "The UK has a temperate maritime climate with mild temperatures year-round and famously changeable weather. Summer (June–August) is the warmest period with London averaging 18–22°C and the most daylight hours. Spring (April–May) brings fresh greenery and lower crowds. Autumn (September–October) offers dramatic colours and fewer tourists. Winter (December–February) is cold, grey, and wet but Christmas markets and festive events are popular. Rain can occur in any month — a compact waterproof jacket is essential at all times of year. Bank Holidays and UK school holiday weeks bring significant crowds and higher accommodation prices.",
+      "tourist_tips": [
+        "Pack a lightweight waterproof jacket regardless of season — a single-layer packable rain jacket takes up minimal space",
+        "Book accommodation well in advance if visiting during Bank Holiday weekends or school summer holidays (late July to early September)",
+        "Edinburgh in August hosts the world's largest arts festival (the Fringe) — vibrant but extremely busy and expensive"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in the UK",
+      "quick_answer": "London's national museums are all free, supermarket meal deals offer great-value lunches, and railcards give 30% off train travel across the country.",
+      "detail": "The UK can be expensive, but there are excellent ways to stretch your budget. London's major national museums — the British Museum, V&A, Natural History Museum, National Gallery, Tate Modern, and many more — are all free to enter permanently. Walking the South Bank of the Thames from Tower Bridge to Tate Modern costs nothing. Wetherspoons pubs offer cheap food and drinks in most UK towns and cities. Supermarket meal deals (sandwich, snack, and drink) cost £3–4.50 and are one of the best-value lunches available. National Rail railcards (16–25, 26–30, Two Together, Senior) give 30% off most train fares and pay for themselves in one or two journeys.",
+      "tourist_tips": [
+        "Visit the British Museum, Natural History Museum, V&A, and Tate Modern — all world-class and completely free, every day",
+        "Buy a National Rail railcard if you plan more than one or two train journeys — the 30% discount pays for the card cost very quickly",
+        "Grab a supermarket meal deal for lunch at Tesco, Boots, Sainsbury's, or Co-op — roughly £3.50 for a sandwich, snack, and drink"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

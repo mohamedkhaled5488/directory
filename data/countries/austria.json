@@ -1,0 +1,439 @@
+{
+  "country": "Austria",
+  "slug": "austria",
+  "emoji": "🇦🇹",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "German",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Austria",
+      "quick_answer": "Round up or add 5-10% and state the total amount directly to the server when paying cash.",
+      "detail": "In Austria, you tell the server the total you want to pay — for example, if the bill is €18, you say '20, please' and the change is kept as the tip. The phrase 'Stimmt so' means 'keep the change' and is perfectly polite. Tipping 5-10% is standard in restaurants; rounding up is fine in cafes and taxis. Not tipping at all is noticed and considered slightly rude, though not a major offense.",
+      "tourist_tips": [
+        "Always tell the server the amount you want to pay, not how much tip you want to leave — say the total, not 'keep the change' after handing over a note.",
+        "In Vienna's famous coffee houses, leave small change on the table or round up; the ritual of service is taken seriously by the waitstaff.",
+        "Taxi drivers and hotel porters appreciate a round-up or €1-2; hairdressers and spa staff similarly expect a small tip."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Austria",
+      "quick_answer": "Vienna has an excellent integrated network of U-Bahn, trams, and buses; ÖBB covers national rail with fast Railjet trains between cities.",
+      "detail": "Vienna's Wiener Linien system operates 5 U-Bahn lines, multiple tram routes, and extensive buses running until around 12:30am on weekdays and all night on weekends. The 72-hour Vienna City Card bundles unlimited transport with museum discounts and is excellent value for tourists. Nationally, ÖBB's Railjet trains connect Vienna to Salzburg, Graz, and Innsbruck efficiently, while the private Westbahn often offers cheaper fares on the Vienna-Salzburg route. Download the Wiener Linien app for live departures and ticket purchases.",
+      "tourist_tips": [
+        "Buy the 72-hour Vienna City Card (around €21) rather than single tickets — it includes unlimited transport and discounts at over 210 museums and attractions.",
+        "For the airport, take the S-Bahn (S7, ~€4) or the CAT City Airport Train (~€14) rather than a taxi, which can cost €35-50.",
+        "The Westbahn private train between Vienna and Salzburg is often significantly cheaper than ÖBB — check both websites before booking."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Austria",
+      "quick_answer": "Austria has excellent public healthcare; EU citizens can use their EHIC card, but all visitors should carry travel insurance for full coverage.",
+      "detail": "Austria's healthcare system is among the best in the world, with well-equipped hospitals (Krankenhaus) and widespread pharmacies (Apotheke, identified by a green cross). EU/EEA citizens with a valid European Health Insurance Card (EHIC) can access public healthcare at the same cost as Austrian residents. Non-EU visitors will face significant out-of-pocket costs without travel insurance. Pharmacies are excellent first stops for minor issues and can recommend over-the-counter treatments.",
+      "tourist_tips": [
+        "Look for the green cross sign to find an Apotheke (pharmacy); pharmacists speak English in major cities and can treat minor ailments without a doctor's visit.",
+        "In an emergency, go to the Krankenhaus (hospital) emergency department or call 144 for an ambulance — do not hesitate as care is swift and high-quality.",
+        "EU visitors: carry your physical EHIC card, not just the app — some facilities still require the physical card for processing."
+      ],
+      "warning": "Non-EU travellers without travel insurance face very high medical bills; even EU EHIC does not cover repatriation or private clinics, so travel insurance is strongly recommended for everyone.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Austria",
+      "quick_answer": "Austria is law-abiding and strictly enforces rules including a total ban on Nazi symbols, noise ordinances, and traffic regulations.",
+      "detail": "Nazi symbols, salutes, and propaganda are completely illegal under Austrian law with serious criminal penalties — this is enforced without exception. Cannabis was decriminalized for personal use under a 2024 reform that also allows limited home growing, but public consumption remains restricted and purchase from dealers is still illegal. Jaywalking is technically illegal and can result in fines, though enforcement varies. Some Vienna districts restrict open-container drinking after midnight.",
+      "tourist_tips": [
+        "Never display Nazi symbols or make related gestures anywhere in Austria — this is a criminal offense with zero tolerance, regardless of intent.",
+        "Noise rules are strictly observed: keep voices down in residential areas at night and be mindful of quiet hours (typically 10pm-6am).",
+        "Jaywalking fines are occasionally issued in Vienna — use crossings, especially when police are nearby."
+      ],
+      "warning": "Displaying Nazi symbols or performing Nazi salutes is a criminal offense in Austria and can result in immediate arrest and prosecution.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Austria",
+      "quick_answer": "Dial 112 for the pan-European emergency line, 133 for police, 144 for ambulance, 122 for fire, and 140 for alpine rescue.",
+      "detail": "Austria uses the standard EU emergency number 112, which connects to all emergency services and works from any mobile phone even without a SIM or signal credit. Specialized numbers include 133 (police/Polizei), 144 (ambulance/Rettung), and 122 (fire/Feuerwehr). The alpine rescue number 140 is critical for hiking and skiing emergencies in mountainous regions. All operators have English-speaking staff available.",
+      "tourist_tips": [
+        "Save 140 (Alpine Rescue) in your phone before any hiking or skiing trip — mountain emergencies require specialized rescue teams, not standard ambulances.",
+        "112 works from any mobile phone in Austria even without a local SIM or network signal, as long as any network is detectable.",
+        "In Vienna, the non-emergency police number for reporting minor crimes (e.g., theft for insurance purposes) is +43 59133."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Austria",
+      "quick_answer": "Austria is generally more formal than Western Europe; smart casual is expected at Vienna's opera and fine dining, and modest dress is required in churches.",
+      "detail": "Vienna has a cultured, slightly formal dress culture — shorts and flip-flops are out of place at the Vienna State Opera, the Philharmonic, or upscale restaurants. Smart casual (collared shirts, neat trousers or dresses) is the appropriate standard for evenings out in the city. Churches require covered shoulders and knees; a scarf or light layer is worth carrying. In Alpine resort towns, practical outdoor and ski gear is entirely normal and expected.",
+      "tourist_tips": [
+        "Attending the Vienna State Opera or Vienna Philharmonic? Dress formally or at least smart-casual — very casual clothing is frowned upon and you may feel out of place.",
+        "Pack a light scarf or shawl to cover shoulders when entering churches such as Stephansdom, where dress codes are actively enforced.",
+        "Alpine hiking and ski areas have no dress restrictions, but proper footwear is essential — trails range from easy walks to technical climbs."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Austria",
+      "quick_answer": "The drinking age is 16 for beer and wine and 18 for spirits; public drinking is legal and Heuriger wine tavern culture is a cherished tradition.",
+      "detail": "Austria has a relatively relaxed alcohol culture with a minimum age of 16 for beer and wine and 18 for spirits. Vienna's Heuriger (wine tavern) tradition — where local winemakers serve their own new wine — is a beloved cultural institution especially in the hills around Vienna (Grinzing, Heiligenstadt). Sturm, the cloudy, slightly fermented new wine available in autumn, is a seasonal specialty. Public drinking is legal, and some Vienna districts restrict open containers only after midnight.",
+      "tourist_tips": [
+        "Visit a genuine Heuriger outside the city centre (look for a pine branch hung over the door — the traditional sign it is open) for authentic local wine at fair prices.",
+        "Try Sturm (new wine) in September-October — it is seasonal, deceptively drinkable, and a uniquely Austrian experience.",
+        "Vienna's coffee house culture is as important as its wine culture — sitting for hours over a single Melange (espresso with steamed milk) is entirely normal and not rushed."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Austria",
+      "quick_answer": "Bargaining is not part of Austrian culture; prices are fixed in virtually all shops and restaurants.",
+      "detail": "Austria operates on a strict fixed-price system in retail, restaurants, and services — attempting to negotiate in a regular shop or restaurant is considered rude and will be politely refused. The main exception is the Naschmarkt flea market held every Saturday in Vienna, where some flexibility is acceptable, particularly for antiques and second-hand items. Antique dealers and private sellers may occasionally negotiate, but only politely and with clear interest in actually buying.",
+      "tourist_tips": [
+        "At the Naschmarkt Saturday flea market, it is acceptable to politely ask 'Is this your best price?' for antiques and second-hand goods — but only on items you genuinely intend to buy.",
+        "Do not attempt to negotiate in supermarkets, restaurants, or mainstream shops — it will confuse or offend the staff.",
+        "Online platforms like Willhaben (Austria's main classifieds site) are where locals negotiate second-hand purchases."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Austria",
+      "quick_answer": "Photography is generally unrestricted in public spaces, but individual museums and galleries have their own rules you should check on entry.",
+      "detail": "Austria's stunning architecture, Alpine landscapes, and public spaces are freely photographable. Inside major museums such as the Kunsthistorisches Museum, Albertina, and Belvedere, rules vary — some rooms permit photography without flash while others prohibit it entirely; always check signage at each entrance. Military and police facilities should not be photographed. Street photography is legal and Vienna is one of Europe's most photogenic cities.",
+      "tourist_tips": [
+        "Check the photography rules at each museum individually — some permit non-flash photography throughout while others restrict it in specific galleries or entirely.",
+        "For iconic Vienna shots, the Rathaus reflection in the park, Karlsplatz with the Karlskirche, and the Danube Canal street art are all freely photographable.",
+        "Drone photography in Vienna is heavily restricted due to no-fly zones over government buildings and historical monuments — check Austrian aviation authority (Austro Control) rules before flying."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Austria",
+      "quick_answer": "Most shops are closed on Sundays; restaurants, museums, and tourist attractions remain open, and the Naschmarkt is closed on Sundays.",
+      "detail": "Austrian trading laws closely resemble Germany's in restricting Sunday retail, meaning most supermarkets, clothing stores, and general shops are closed. Exceptions include shops in major railway stations, the Vienna airport, and some tourist-zone convenience stores. Restaurants, cafes, coffee houses, museums, and most tourist attractions operate normally on Sundays — in fact, Sunday is peak day for Viennese Heuriger visits. Public holidays (12 per year, many Catholic) also see widespread shop closures.",
+      "tourist_tips": [
+        "Stock up on groceries and supplies on Saturday — very few supermarkets open on Sundays outside of train stations and airports.",
+        "The Naschmarkt, Vienna's famous open-air market, is closed on Sundays but holds its flea market on Saturday mornings.",
+        "Museums, the Prater amusement park, and most tourist sites are open Sunday and are often busier — arrive early to avoid queues at popular spots like Schönbrunn Palace."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Austria",
+      "quick_answer": "Taxis are metered and reliable; Uber and Bolt operate in Vienna; for the airport, the CAT train or S-Bahn is far cheaper than any taxi.",
+      "detail": "Vienna's taxis are metered, honest, and licensed — flagging one or booking via the Taxi 40100 app (the city's main operator) is safe and straightforward. Uber and Bolt both operate in Vienna and often offer competitive pricing. For Vienna International Airport, the City Airport Train (CAT) takes 16 minutes to the city centre for around €14, while the S-Bahn S7 costs around €4 and takes 25 minutes — both far cheaper than a ~€40 taxi fare.",
+      "tourist_tips": [
+        "Download the Taxi 40100 app before arrival for Vienna's most reliable licensed taxi service, which shows fares upfront.",
+        "Take the S-Bahn S7 from Vienna Airport to the centre for around €4 — it runs every 30 minutes and is perfectly safe with luggage.",
+        "Rideshare apps (Uber, Bolt) show prices upfront; always confirm the driver and plate number match before getting in."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Austria",
+      "quick_answer": "Austrian tap water is exceptional — Vienna's supply comes directly from Alpine springs and is among the finest drinking water in Europe.",
+      "detail": "Tap water in Austria is completely safe and of outstanding quality throughout the country. Vienna's water is sourced from Alpine springs in the Styrian and Lower Austrian mountains via two long-distance pipelines, and it regularly wins taste tests. Bottled water is widely available but entirely unnecessary. Alpine streams and mountain springs are also generally safe but should be treated with caution if livestock are nearby.",
+      "tourist_tips": [
+        "Carry a reusable water bottle and refill it from any tap — you will save money and the quality rivals expensive mineral water.",
+        "Vienna has public drinking fountains called Trinkbrunnen throughout the city, especially in parks and public squares — all provide fresh Alpine spring water.",
+        "In Alpine areas, stick to designated drinking water sources or treat stream water if you are hiking far from settlements."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Austria",
+      "quick_answer": "Cards and contactless payments are widely accepted; ATMs are plentiful but avoid Euronet machines, which charge high fees.",
+      "detail": "Austria is a well-developed cashless economy where contactless card payments and mobile payments are accepted almost universally, including in most cafes, taxis, and smaller shops. ATMs (Bankomaten) from Erste Bank, Raiffeisen, and UniCredit (Bank Austria) are widespread with no or low fees for foreign cards. Euronet ATMs found in tourist areas should be avoided — they use unfavorable exchange rates and charge high fees. Some traditional Heuriger and market stalls remain cash-only.",
+      "tourist_tips": [
+        "Avoid orange Euronet ATMs in tourist areas — use bank-branded ATMs (Erste, Raiffeisen, Bank Austria) for the best rates and lowest fees.",
+        "Use a Wise or Revolut card for fee-free spending and ATM withdrawals up to the monthly limit — this will save significantly on a longer trip.",
+        "Carry a small amount of cash (€20-50) for traditional Heuriger wine taverns, Naschmarkt vendors, and small Alpine guesthouses that may not accept cards."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Austria",
+      "quick_answer": "A1 offers the best nationwide coverage including Alpine areas; EU SIM cards work with no roaming charges; Airalo eSIM is a convenient option.",
+      "detail": "Austria's three main mobile networks are A1 (best mountain and rural coverage), Magenta (T-Mobile), and Drei (Three). SIMs are available at airports, T-Mobile and A1 stores, and some supermarkets; registration with a passport is required. EU residents with an EU SIM can use it without roaming charges under EU regulations. Airalo and other eSIM providers work well in Austria. Free Wi-Fi is available in most cafes, hotels, and Vienna's U-Bahn stations.",
+      "tourist_tips": [
+        "Buy an A1 prepaid SIM for the best coverage if you plan to travel outside Vienna into Alpine regions — Drei and Magenta can have gaps in mountain areas.",
+        "EU residents: your home SIM works at home rates throughout Austria — no need to buy a local SIM for short visits.",
+        "Vienna's U-Bahn stations and many public areas offer free Wi-Fi via 'Freewave Vienna' — useful for messaging while navigating the city."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Austria",
+      "quick_answer": "Austria uses Type C/F (Schuko) plugs at 230V/50Hz — the same as most of continental Europe; UK and US visitors need adapters.",
+      "detail": "Austria's electrical standard is 230V/50Hz using Type C (two round pins) and Type F (Schuko, two round pins with grounding clips) outlets. This is identical to Germany, France, and most of continental Europe, so EU visitors need no adapter. UK visitors need a Type G to Type C/F adapter, and US/Canadian visitors need both an adapter and a voltage converter for devices not rated for 110-240V (most modern electronics handle both voltages automatically).",
+      "tourist_tips": [
+        "Check your device chargers and cables for '100-240V' in the small print — most modern laptops, phones, and cameras auto-switch and only need a plug adapter, not a voltage converter.",
+        "Universal travel adapters covering Type C/F are inexpensive and available at Vienna airport, electronics stores (Saturn, MediaMarkt), and many supermarkets.",
+        "Type C two-pin plugs (without grounding) fit in Type F sockets fine for low-power devices like phone chargers."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Austria",
+      "quick_answer": "Austria has very low scam rates, though Vienna sees occasional pickpocketing on busy U-Bahn lines and charity petition scams near major sights.",
+      "detail": "Austria, and Vienna especially, is one of Europe's safest and most honest countries for tourists. The main risks are opportunistic: pickpockets on crowded U-Bahn lines (particularly Lines U1 and U2 in tourist areas) and the classic charity-clipboard petition scam near Stephansplatz where someone asks you to sign a petition and then demands money. Overpriced tourist restaurants near the Prater, Stephansdom, and Schönbrunn can be avoided by walking a few blocks away.",
+      "tourist_tips": [
+        "Keep bags zipped and in front on the U-Bahn, particularly on the U1 between Stephansplatz and Schwedenplatz during busy periods.",
+        "If someone approaches with a clipboard and petition near major tourist sights, decline politely and walk on — this is a common scam.",
+        "For food and drink near major sights, walk 2-3 blocks away from the main tourist flow to find genuinely priced local Gasthäuser and coffee houses."
+      ],
+      "warning": "Charity petition clipboard scams operate near Stephansplatz and other major tourist spots — decline firmly and do not engage.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Austria",
+      "quick_answer": "Austria is extremely safe; Vienna consistently ranks among the world's top five most livable and safest cities.",
+      "detail": "Austria has very low crime rates across the board. Vienna regularly tops global safety and livability indices (Economist Intelligence Unit, Mercer). Violent crime against tourists is exceptionally rare. Petty theft in tourist zones exists but is minimal compared to most European capitals. The main safety concern for visitors in Alpine regions is not crime but mountain hazards — weather changes rapidly and trails should be respected.",
+      "tourist_tips": [
+        "Standard urban precautions apply in Vienna (watch bags on public transport, avoid displaying expensive items) but the city is genuinely safe even late at night.",
+        "In Alpine areas, always tell someone your hiking plan, carry a charged phone with the 140 (Alpine Rescue) number saved, and check weather forecasts before heading into the mountains.",
+        "Vienna's Prater park is safe and popular at night, but the surrounding 2nd district's quieter streets are less active after midnight — standard nighttime awareness applies."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Austria",
+      "quick_answer": "Austrians value formality, punctuality, and politeness; greet with titles and surnames initially and observe coffee house culture's unhurried pace.",
+      "detail": "Austrian social culture leans formal, especially in professional or first-meeting contexts — addressing people as Herr (Mr.) or Frau (Mrs./Ms.) followed by their surname is expected until invited to use first names. Punctuality is taken seriously; being late is disrespectful. Vienna's coffee house culture is a UNESCO-recognized cultural heritage — you may sit for hours over a single coffee and will never be rushed. Grüß Gott (literally 'God greet you') is the traditional regional greeting, especially outside Vienna.",
+      "tourist_tips": [
+        "In restaurants and coffee houses, wait to be seated rather than seating yourself — the host (Ober) will direct you to a table.",
+        "Use 'Grüß Gott' when entering small shops or greeting locals outside Vienna — it is warmly received and shows cultural awareness.",
+        "Queue discipline is respected in Austria; cutting in line is considered very rude — always wait your turn at counters, transport stops, and ticket offices."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Austria",
+      "quick_answer": "Austrian German is the official language, but English is very widely spoken in Vienna and tourist areas; a few German phrases are warmly appreciated.",
+      "detail": "Standard German (Hochdeutsch) is the official language, though Austrians speak with distinct regional accents and dialects — Viennese and Tyrolean dialects differ considerably from standard German. English is widely spoken throughout Vienna, Salzburg, Innsbruck, and ski resorts. In rural areas and among older generations, English may be limited. Even a few words of German will be genuinely appreciated and often met with a warm response.",
+      "tourist_tips": [
+        "Learn a handful of key phrases: 'Grüß Gott' (hello, regional), 'Danke' (thank you), 'Bitte' (please/you're welcome), 'Entschuldigung' (excuse me), and 'Die Rechnung, bitte' (the bill, please).",
+        "In Vienna, service staff in restaurants, hotels, and major attractions almost universally speak English — language is rarely a barrier.",
+        "If venturing into rural Styria, Carinthia, or the Burgenland, some basic German is helpful as English is less common outside tourist hubs."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Austria",
+      "quick_answer": "Austria is landlocked but offers excellent lake swimming in summer; the Wörthersee, Attersee, and Vienna's Danube beaches are popular.",
+      "detail": "Despite having no coastline, Austria offers superb freshwater swimming in its Alpine lakes and the Danube. The Wörthersee in Carinthia is Austria's warmest lake and a well-developed summer resort. The Attersee and Wolfgangsee in the Salzkammergut region are stunningly beautiful and clean. In Vienna, Copa Beach on the Neue Donau and the Alte Donau offer urban beach experiences with swimming, volleyball, and watersports. Alpine lakes are typically cooler (18-22°C in summer) but crystal clear.",
+      "tourist_tips": [
+        "The Wörthersee (Carinthia) is the warmest and most resort-developed lake — ideal for a beach holiday with infrastructure similar to coastal destinations.",
+        "Vienna's Copa Beach on the Neue Donau is free to access and a genuine local institution in summer — bring sunscreen and arrive early on hot days.",
+        "Alpine lakes like the Attersee and Wolfgangsee are cooler than the Wörthersee — water shoes are helpful on rocky lake beds."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Austria",
+      "quick_answer": "Drive on the right; an Autobahn vignette is required for motorways (€10.90 for 10 days); speed limits are strictly enforced.",
+      "detail": "Austria drives on the right with international driving licenses valid for tourists. All motorways (Autobahn) require a vignette (windscreen sticker) — a 10-day vignette costs approximately €10.90 and is available at border crossings, petrol stations, and online. Speed limits are 50 km/h in towns, 100 km/h on main roads, and 130 km/h on motorways; radar enforcement is widespread. Winter tires are compulsory from November 1 to April 15 when conditions require them, and police actively enforce this.",
+      "tourist_tips": [
+        "Buy your motorway vignette before entering Austria — it can be purchased at the border or online (digital vignette available at asfinag.at) to avoid a hefty on-the-spot fine.",
+        "Speed cameras are frequent and fines are significant — Austrian radar tolerance is minimal, so observe limits precisely, especially in 30 km/h zones near schools.",
+        "Rental cars hired in Austria between November and April will have winter tires fitted as standard, but confirm this when collecting the vehicle."
+      ],
+      "warning": "Driving on the Autobahn without a valid vignette sticker results in a fine of several hundred euros — purchase before you enter any motorway.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Austria",
+      "quick_answer": "Austrian cuisine centres on hearty classics like Wiener Schnitzel, Tafelspitz, and Sachertorte, served in traditional Gasthäuser and celebrated coffee houses.",
+      "detail": "Austria's culinary identity is rich and distinct: Wiener Schnitzel (ideally veal, though pork is cheaper) is the national dish, Tafelspitz (boiled beef with horseradish) is a Vienna institution, and the dessert repertoire — Sachertorte, Apfelstrudel, Kaiserschmarrn — is world-renowned. Vienna's coffee house culture is UNESCO-listed; the Melange (espresso with steamed milk) is the classic order. Dinner is typically served from 6pm-9pm. Würstelstände (sausage stands) offer cheap, iconic street food.",
+      "tourist_tips": [
+        "Order Wiener Schnitzel at a traditional Gasthaus away from tourist zones — the genuine article (ideally Kalbsschnitzel, veal) is significantly better than tourist-priced imitations near major sights.",
+        "For cheap, authentic eating, Würstelstände (Vienna's sausage kiosks) offer Käsekrainer (cheese-filled sausage) or Bratwurst for €3-5 and are a genuine local institution open late.",
+        "The Sacher Hotel and Café Demel both claim the 'original' Sachertorte — try both and decide for yourself, but note both charge a premium for the name."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Austria",
+      "quick_answer": "Austria's religious sites are primarily Catholic churches; covered shoulders and quiet behaviour are expected, and photography rules vary by site.",
+      "detail": "Austria is predominantly Catholic and its churches — from the grand Stephansdom in Vienna to the Salzburg Cathedral — are active places of worship as well as tourist attractions. Visitors should dress modestly (covered shoulders and knees), speak quietly, and avoid interrupting services. Entry to most churches is free, though major sights like the Stephansdom tower and treasury are ticketed. Some churches request a small donation or photography fee. Vienna has a small number of mosques and synagogues; visitors are welcome but should contact in advance.",
+      "tourist_tips": [
+        "Carry a light scarf or jacket to cover shoulders when entering churches — some staff at Stephansdom actively enforce the dress code and will turn away visitors in sleeveless tops.",
+        "Stephansdom's main nave is free to enter, but the North Tower (lift), South Tower (stairs), catacombs, and treasury all have separate admission fees — budget accordingly.",
+        "Photography is generally permitted inside most Austrian churches without flash, but always check signage at the entrance and never photograph during an active religious service."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Austria",
+      "quick_answer": "April to October is ideal for Vienna and sightseeing; December brings magical Christmas markets; Alpine skiing is best December through March.",
+      "detail": "Austria has four distinct seasons. Vienna and the eastern lowlands see warm summers (25-30°C in July-August), cold winters (-2 to 5°C), and pleasant springs and autumns. April to May offers good weather with smaller crowds. Summer (June-August) is peak tourist season. Late November through December is enchanting for Vienna's celebrated Christmas markets (Christkindlmärkte). Alpine regions (Salzburg, Innsbruck, Tyrol) receive more precipitation and snow — ski season runs December through March, with the best conditions typically in January-February.",
+      "tourist_tips": [
+        "April and May offer Vienna at its loveliest — chestnut trees in bloom, mild weather, and significantly smaller crowds than summer at a lower cost.",
+        "Book accommodation for Vienna's Christmas market season (late November to December 26) well in advance — it is the most popular period and prices are high.",
+        "For Alpine skiing, January and February offer the most reliable snow conditions; March can be sunny and warm (spring skiing) with slushy snow at lower altitudes."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Austria",
+      "quick_answer": "Use the Vienna City Card for transport and museum discounts, eat at Würstelstände and supermarkets, and linger guilt-free in coffee houses on a single order.",
+      "detail": "Austria can be expensive but rewards smart planning. The Vienna City Card (72-hour, around €21) bundles unlimited public transport with discounts at over 210 attractions and museums. All Austrian museums are free for visitors under 19. Vienna's coffee house culture is budget-friendly: a single Melange (€4-5) buys you a seat for hours — this is not only accepted but culturally expected. Billa and Spar supermarkets offer excellent picnic supplies; a Würstelstand sausage is a cheap, filling snack.",
+      "tourist_tips": [
+        "Get the 72-hour Vienna City Card rather than buying transport tickets and museum tickets separately — it pays for itself quickly if you visit two or more major museums.",
+        "Under-19s enter all Austrian federal museums free of charge — major savings for families visiting the Kunsthistorisches Museum, Natural History Museum, or Albertina.",
+        "Picnic in Vienna's parks (Prater, Volkspark, Stadtpark) using supermarket supplies from Billa or Spar — the Prater's chestnut tree avenue is one of Europe's great free outdoor spaces."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

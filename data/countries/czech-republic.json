@@ -1,0 +1,460 @@
+{
+  "country": "Czech Republic",
+  "slug": "czech-republic",
+  "emoji": "🇨🇿",
+  "region": "Europe",
+  "currency": "CZK",
+  "language": "Czech",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Czech Republic",
+      "quick_answer": "Tipping is appreciated but not obligatory — rounding up or leaving 10% is the norm.",
+      "detail": "The standard approach is to tell the server the total you want to pay (including the tip) when they bring the bill, rather than leaving cash on the table afterward. Rounding up to the nearest convenient amount or adding roughly 10% is perfectly acceptable. Leaving coins on the table is also fine and not considered rude. There is no social pressure to tip, but good service is worth acknowledging.",
+      "tourist_tips": [
+        "State your desired total aloud when the server comes to collect payment — for example, say '350' when the bill is 320 CZK.",
+        "Tipping at a bar is less expected than at a sit-down restaurant; simply rounding up the change is sufficient.",
+        "Tipping in euros or other foreign currency is unhelpful — always tip in Czech koruna (CZK)."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Czech Republic",
+      "quick_answer": "Prague has an excellent integrated metro, tram, and bus network operated by DPP; validate your ticket before boarding.",
+      "detail": "Prague's public transport system (DPP) runs three metro lines (A/B/C), extensive trams, and buses, all covered by the same tickets. Single-ride tickets and 24-hour or 72-hour passes offer good value for tourists. Intercity travel is served by Czech Railways (CD), RegioJet, and FlixBus, with RegioJet offering comfortable and affordable long-distance routes. Brno and other Czech cities operate their own integrated systems with similar ticketing logic.",
+      "tourist_tips": [
+        "Always validate your ticket at the yellow machines before or immediately after boarding — inspectors issue on-the-spot fines for unvalidated tickets.",
+        "A 24-hour pass (jízdenka 24 h) is great value for a full day of sightseeing and covers all metro, tram, and bus rides.",
+        "Tram 22 passes many Prague highlights (Prague Castle, Malá Strana, Vinohrady) and is far cheaper than any sightseeing bus."
+      ],
+      "warning": "Fare inspectors in plain clothes are common; always validate even for a single stop.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Czech Republic",
+      "quick_answer": "Czech Republic has solid public healthcare; EU citizens with an EHIC card receive covered treatment, and pharmacies are widely available.",
+      "detail": "EU and EEA visitors can use their European Health Insurance Card (EHIC) at public hospitals and pay only what Czech residents pay. Non-EU travelers should carry comprehensive travel insurance, as private or emergency treatment can be expensive. In Prague, VFN (Všeobecná fakultní nemocnice) and Na Homolce Hospital are well-regarded facilities with English-speaking staff. Pharmacies (lékárna, identified by a green cross sign) are found throughout cities and towns and stock a wide range of over-the-counter medications.",
+      "tourist_tips": [
+        "Na Homolce Hospital in Prague (Roentgenova 2) has a dedicated foreigner department with English-speaking doctors.",
+        "For minor issues, head to a lékárna (pharmacy) first — pharmacists are highly trained and can advise or prescribe some medications directly.",
+        "Keep digital and printed copies of your travel insurance policy and emergency contact numbers accessible offline."
+      ],
+      "warning": "EHIC does not cover repatriation or private clinics — travel insurance is strongly recommended even for EU citizens.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Czech Republic",
+      "quick_answer": "Czech law is generally pragmatic, but tourists should be aware of specific rules around public conduct, especially in Prague's historic center.",
+      "detail": "Cannabis possession is technically illegal in the Czech Republic, though small personal-use amounts have historically been tolerated in practice — public consumption is still not advised. Prague has enacted specific ordinances targeting stag-party behaviors: public urination and public nudity are fineable offenses (up to CZK 1,000). Alcohol consumption in public is legal in most areas, but the city has restricted beer bikes and rolling bar parties in the historic center. Always carry a form of ID, as police may ask to see it.",
+      "tourist_tips": [
+        "Avoid public urination at all costs in Prague — enforcement has increased significantly and fines are issued on the spot.",
+        "Beer bikes and party trams are banned in parts of central Prague; check current rules before booking group party activities.",
+        "Jaywalking is technically illegal and police do occasionally fine tourists — use pedestrian crossings, especially on busy roads."
+      ],
+      "warning": "Strip club scams in Prague are well-documented — tourists have been handed bills in the thousands of euros with implied threats; avoid unsolicited invitations to clubs.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Czech Republic",
+      "quick_answer": "Dial 112 for all emergencies in Czech Republic, or use dedicated lines: 158 (police), 155 (ambulance), 150 (fire).",
+      "detail": "The pan-European emergency number 112 connects to a dispatch center and can be used from any phone, including without a SIM card. Operators at 112 can handle calls in multiple languages. For non-emergency police matters, 158 connects directly to the Czech Police (Policie ČR). The ambulance service (155) and fire brigade (150) also have dedicated lines for faster routing.",
+      "tourist_tips": [
+        "Save all four numbers (112, 158, 155, 150) in your phone before you travel — 112 works even with no signal bar on most networks.",
+        "When calling 112 from a mobile, be ready to state your location clearly; Prague street addresses follow a house number system that can be confusing.",
+        "Your country's embassy number is also worth saving — the Czech Republic hosts embassies of most nations in Prague's Malá Strana district."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Czech Republic",
+      "quick_answer": "Czech Republic has no strict dress requirements, but cover up for churches and pack layers for Prague's cool temperatures.",
+      "detail": "Czechs dress casually and practically, and tourists are free to dress as they please in public spaces, restaurants, and attractions. The main exception is churches and religious sites, where covering shoulders and knees is respectful and sometimes required. Prague's weather is notably cooler and more variable than many tourists expect — even in summer, evenings can be chilly. Smart-casual attire is appreciated at nicer restaurants but rarely enforced.",
+      "tourist_tips": [
+        "Bring a light jacket even in July — Prague evenings along the Vltava river can drop quickly after sunset.",
+        "Pack a thin scarf or shawl to use as a shoulder cover when entering St. Vitus Cathedral or other churches.",
+        "Comfortable walking shoes are essential — Prague's cobblestone streets in the Old Town are hard on feet and uneven."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Czech Republic",
+      "quick_answer": "The legal drinking age is 18, and Czech Republic is famous for the world's highest beer consumption per capita with very affordable prices.",
+      "detail": "Czech beer culture is central to national identity — iconic brands like Pilsner Urquell, Kozel, Budvar, and Gambrinus are available everywhere and extremely affordable. Drinking alcohol in public spaces is legal in most Czech municipalities. However, Prague has introduced restrictions on organized party activities (beer bikes, crawl tours) in the historic city center. Spirits are also widely available, and the local herbal liqueur Becherovka is a popular souvenir.",
+      "tourist_tips": [
+        "A 0.5L draft beer in a local Czech pub (hospoda) typically costs CZK 40–60 — roughly EUR 1.60–2.50 — making it one of the cheapest in Europe.",
+        "Try the beer directly at the Pilsner Urquell brewery in Plzeň (about 90 minutes from Prague) for a guided tasting experience.",
+        "Avoid ordering beer at restaurants on the main tourist drag around Old Town Square — prices can be 3–4x higher than local pubs just one street away."
+      ],
+      "warning": "Czech Republic enforces zero tolerance for drink-driving (0.00% BAC) — do not drive after any alcohol consumption whatsoever.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Czech Republic",
+      "quick_answer": "Bargaining is not customary in Czech Republic — prices in shops and restaurants are fixed.",
+      "detail": "Czech retail and dining culture operates on fixed pricing, and attempting to haggle in standard shops or supermarkets is considered inappropriate. Some flexibility exists at open-air markets like Havelské tržiště in Prague, particularly for bulk purchases or towards closing time. Antique shops and flea markets (bleší trh) may accept light negotiation. Outside these specific settings, simply accept the listed price.",
+      "tourist_tips": [
+        "At Havelské tržiště market (Havelská street, Old Town), you can politely ask for a small discount when buying multiple items.",
+        "Antique and second-hand shops in Prague's Žižkov or Vinohrady neighborhoods are the best places for negotiating on unique finds.",
+        "Comparing prices between shops is perfectly normal and often worthwhile — prices for tourist goods vary widely in Prague."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Czech Republic",
+      "quick_answer": "Photography is generally unrestricted in Czech Republic, with Prague's architecture offering exceptional shooting opportunities.",
+      "detail": "Prague and the wider Czech Republic are extremely photogenic and photography is welcomed almost everywhere. The Astronomical Clock (Orloj) and Prague's skyline can be photographed freely. Inside churches and paid attractions, policies vary — some allow free photography, others charge a small fee or prohibit flash or tripods. Military installations and police operations must not be photographed. Always ask permission before photographing individuals, especially in rural or Romani communities.",
+      "tourist_tips": [
+        "The best free viewpoint over Prague is from Vítkov Hill or Vyšehrad fortress — both are free and far less crowded than Petřín or the Castle district.",
+        "Letná Park (Letenské sady) above the river offers the classic panoramic Prague skyline shot, especially at golden hour.",
+        "St. Vitus Cathedral allows photography in the nave for free, but entering the full cathedral requires a ticket — check the current zone boundaries at the entrance."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Czech Republic",
+      "quick_answer": "Most tourist-area shops in Prague open on Sundays, but banks close and national holidays cause widespread closures.",
+      "detail": "Prague's heavy tourist infrastructure means most shops, restaurants, and attractions in the city center remain open on Sundays. Smaller towns and villages outside Prague follow a more traditional closed-Sunday pattern. Banks are universally closed on Sundays and national public holidays. Czech national holidays (including Czech Statehood Day on September 28, Independence Day on October 28, and Christmas) result in many businesses closing, so plan ahead.",
+      "tourist_tips": [
+        "Supermarkets (Albert, Billa, Lidl) in Prague typically open on Sundays and most holidays — useful for stocking up on supplies.",
+        "If you need cash on a Sunday, use ATMs rather than exchange offices, as many smaller bureaux de change close.",
+        "Czech Christmas (December 24–26) sees widespread closures including restaurants — book ahead or prepare for limited options."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Czech Republic",
+      "quick_answer": "Use Uber or Bolt in Czech Republic — Prague taxis have a long history of overcharging tourists.",
+      "detail": "Prague's taxi industry gained an international reputation for scamming tourists with inflated fares, unmarked cabs, and manipulated meters. Rideshare apps Uber and Bolt are widely available, price-transparent, and strongly recommended as the default option. Liftago is a reliable Czech-based alternative that also uses fixed app pricing. For Prague Airport transfers, the CEDAZ shuttle bus is significantly cheaper than any private taxi.",
+      "tourist_tips": [
+        "Always book taxis via Uber, Bolt, or Liftago apps — never accept offers from drivers approaching you at the airport, train station, or tourist sites.",
+        "The CEDAZ airport express bus runs directly to Prague city center (Náměstí Republiky) for a fraction of the taxi price.",
+        "If you must use a street taxi, only use AAA Radiotaxi (tel. 14014) or Tick Tack, and confirm the estimated fare before entering the vehicle."
+      ],
+      "warning": "Unmarked or unlicensed taxis at Prague Airport and Wenceslas Square are a persistent scam — they can charge 5–10x the legitimate fare.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Czech Republic",
+      "quick_answer": "Tap water is safe to drink throughout Czech Republic and Prague's supply is considered excellent quality.",
+      "detail": "The Czech Republic has well-maintained water infrastructure, and tap water meets or exceeds EU safety standards nationwide. Prague's water comes from high-quality protected mountain sources and is routinely tested. Bottled water is widely available in shops but is an unnecessary expense. In rural areas or older buildings, water quality remains safe but some travelers with sensitive stomachs may prefer bottled water as a precaution.",
+      "tourist_tips": [
+        "Bring a reusable water bottle — tap water is free, safe, and freely refillable throughout the country.",
+        "Prague has public drinking fountains in some parks; look for them near Letná Park and Stromovka.",
+        "If dining out, you can ask for tap water (kohoutková voda) — some restaurants provide it free, others may charge a small service fee."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM and Cash in Czech Republic",
+      "quick_answer": "Czech Republic uses CZK (koruna), not euros — always pay in CZK and never accept dynamic currency conversion (DCC).",
+      "detail": "The Czech koruna (CZK) is the national currency, and although the Czech Republic is in the EU, it has not adopted the euro. Paying in euros is technically possible at some tourist outlets but incurs very poor exchange rates. ATMs from major Czech banks (Komerční banka, ČSOB, Česká spořitelna) accept international cards with reasonable fees. Euronet ATMs — prominently placed at airports, tourist areas, and shopping centers — charge high fees and should be avoided. The DCC (dynamic currency conversion) trap is extremely common: always decline conversion and choose to pay in CZK.",
+      "tourist_tips": [
+        "When an ATM or card machine asks 'Do you want to pay in your home currency?', always select NO and pay in CZK — accepting means a hidden markup of 3–8%.",
+        "Use ATMs attached to Czech bank branches (Komerční banka KB logo, blue ČSOB, green Česká spořitelna) rather than standalone Euronet machines.",
+        "A Wise or Revolut card eliminates most foreign transaction fees and gives you a near-perfect exchange rate — highly recommended for Czech travel."
+      ],
+      "warning": "Dynamic currency conversion (DCC) is aggressively pushed at tourist ATMs, restaurants, and shops in Prague — always insist on paying in CZK.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Czech Republic",
+      "quick_answer": "Local SIMs from T-Mobile CZ, O2 CZ, or Vodafone CZ are easy to buy; EU residents can use their home roaming plan for free.",
+      "detail": "The three main Czech carriers (T-Mobile CZ, O2 CZ, Vodafone CZ) offer prepaid SIMs available at airport desks, carrier stores, and many electronics shops. EU/EEA residents can use their home country SIM under EU roaming rules at no extra charge within Czech Republic. For non-EU visitors, Airalo eSIM offers a convenient alternative without needing to find a physical SIM. Coverage in Prague and major cities is excellent (4G/5G), but rural Bohemia and the Šumava region can have limited connectivity.",
+      "tourist_tips": [
+        "T-Mobile CZ and O2 CZ have airport desks at Václav Havel Airport (Prague) — buying on arrival is quick and straightforward.",
+        "Airalo eSIM (available via app) works well for Czech Republic and can be activated before you land, giving you connectivity immediately on arrival.",
+        "Prague's metro stations and most major trams now have Wi-Fi, and many cafés offer free Wi-Fi — useful as a backup if your data runs low."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Czech Republic",
+      "quick_answer": "Czech Republic uses Type C/E plugs at 230V/50Hz — the same as most of continental Europe.",
+      "detail": "Czech electrical outlets use the Type C (two round pins) and Type E (two round pins plus a hole for grounding) plug standard, operating at 230V and 50Hz. This is compatible with most European devices and chargers. Visitors from the UK will need a Type G to Type C/E adapter. Visitors from the USA, Canada, or Japan will need both a plug adapter and a voltage converter for devices that do not support dual-voltage (100–240V). Most modern laptops, phone chargers, and camera chargers are dual-voltage and only need a plug adapter.",
+      "tourist_tips": [
+        "Check your device's power brick for '100–240V' printed on it — if it says this, you only need a cheap plug adapter, not a voltage converter.",
+        "Universal travel adapters covering Type C/E are widely available at Prague Airport and electronics shops (Datart, Alza.cz).",
+        "USB-C chargers and modern phone/laptop chargers are almost universally dual-voltage — no converter needed, just a plug adapter."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Czech Republic",
+      "quick_answer": "Prague has several well-documented tourist scams — DCC at ATMs, taxi overcharging, and strip club credit card fraud are the most serious.",
+      "detail": "Dynamic currency conversion (DCC) scams at ATMs and card terminals are the most financially impactful — always decline conversion and pay in CZK. Taxi scams remain a risk outside of app-based rides. Short-changing is a minor but real risk; count your change carefully, especially at busy tourist-area kiosks. Prague specifically has a reputation for overpriced restaurant menus targeting tourists, 'friendly stranger' bar lead-ins, and most seriously, strip club credit card scams where tourists are presented with astronomical bills and intimidated into paying.",
+      "tourist_tips": [
+        "Never follow a stranger who 'just happens' to recommend a nearby bar or club — this is a classic lead-in to an overpriced drinks scam.",
+        "Avoid currency exchange booths advertising '0% commission' — check the actual exchange rate offered, which is where they hide their profit.",
+        "Count your change every time, especially at souvenir stalls on Charles Bridge and around Old Town Square where distraction short-changing is common."
+      ],
+      "warning": "Strip club credit card scams in Prague are well-documented and serious — tourists have been presented with bills for thousands of euros under intimidation; avoid entirely.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Czech Republic",
+      "quick_answer": "Czech Republic is generally very safe; the main tourist risk is petty theft and pickpocketing in central Prague.",
+      "detail": "The Czech Republic consistently ranks as one of Europe's safer countries, with low violent crime rates. The primary concern for tourists is petty theft — pickpocketing in crowded areas of Prague's Old Town, on tram line 22, and in Prague's metro during rush hour. Outside Prague's tourist core, the country is exceptionally safe. Violent crime against tourists is rare. Standard urban precautions — be aware of surroundings, keep valuables secured, and avoid flashing expensive items — are sufficient.",
+      "tourist_tips": [
+        "Be especially vigilant on tram 22 (the tourist tram) and in the crowds around Charles Bridge, Old Town Square, and the Astronomical Clock.",
+        "Use a money belt or an anti-theft bag for passports and large amounts of cash in crowded tourist areas.",
+        "The area around Wenceslas Square late at night has a higher concentration of petty crime and solicitation — stay alert and avoid poorly lit side streets."
+      ],
+      "warning": "Pickpockets operate in organized groups in Prague's tourist areas — be especially careful when crowds gather (e.g., when the Astronomical Clock chimes).",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Czech Republic",
+      "quick_answer": "Czechs are initially reserved but warm up quickly; beer culture, dry humor, and punctuality are central to Czech social life.",
+      "detail": "Czech people tend to be reserved and formal with strangers, especially in professional settings where 'pan' (Mr.) and 'paní' (Mrs./Ms.) are used until invited to use first names. Beer is deeply woven into social culture — when toasting, always make eye contact with each person while clinking glasses, as looking away is considered bad luck. Czech humor is dry, ironic, and self-deprecating; don't be offended if jokes seem blunt. Punctuality is respected in both business and social settings.",
+      "tourist_tips": [
+        "When toasting with beer (Na zdraví! — 'To health!'), maintain eye contact with each person you clink glasses with — skipping someone is considered rude.",
+        "Czechs often appear serious or unsmiling in public; this is cultural reserve, not unfriendliness — a genuine conversation quickly reveals warmth.",
+        "Tipping and service culture is different from the US — waitstaff will not check on you repeatedly; catch their eye or raise a hand when you need something."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Czech Republic",
+      "quick_answer": "Czech is a complex Western Slavic language, but English is widely spoken in Prague's hospitality sector — a few Czech phrases go a long way.",
+      "detail": "Czech (Čeština) is the official language and is distinct from Slovak, Polish, and Russian, though it shares the Slavic language family. In Prague, particularly in hotels, restaurants, and tourist attractions, English is reliably spoken. Outside Prague — in smaller cities like Olomouc, Liberec, or rural areas — English proficiency drops sharply and basic Czech phrases become very useful. German is a useful second language in border areas and for older generations. Written Czech uses diacritics (háček marks) that affect pronunciation significantly.",
+      "tourist_tips": [
+        "Learn: 'Prosím' (please / here you go / you're welcome — extremely versatile), 'Děkuji' (thank you), 'Dobrý den' (good day/hello), 'Promiňte' (excuse me/sorry).",
+        "Pronunciation tip: 'Č' sounds like 'ch', 'Š' like 'sh', 'Ž' like 'zh' — knowing this helps you read signage and menus phonetically.",
+        "Google Translate's camera function works well for Czech menus — useful in local restaurants outside the tourist trail where menus may be Czech-only."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Czech Republic",
+      "quick_answer": "Czech Republic is landlocked but has popular lake and reservoir swimming spots, with Máchovo jezero and Brno reservoir being the top destinations.",
+      "detail": "With no coastline, Czech swimming culture revolves around lakes, rivers, and reservoirs. Máchovo jezero (Mácha's Lake) in north Bohemia is the most popular summer beach destination, with sandy shores, clean water, and good facilities. Brněnská přehrada (Brno Reservoir) is a beloved local spot near Brno. Prague's Vltava river banks see urban beach activity in summer, though swimming in the main river channel is not recommended. Water quality at designated swimming areas is monitored and generally good.",
+      "tourist_tips": [
+        "Máchovo jezero is about 80km north of Prague and easily reached by bus — it gets busy on summer weekends, so arrive early or visit on a weekday.",
+        "Prague's Císařský ostrov (Emperor's Island) and Divoká Šárka reservoir are accessible by public transport for a quick city swim in summer.",
+        "Check the Czech Hydrometeorological Institute (ČHMÚ) website for current lake water quality reports before swimming in less-visited spots."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Czech Republic",
+      "quick_answer": "Drive on the right; Czech Republic enforces zero-tolerance drink-driving (0.00% BAC) and requires a motorway vignette sticker.",
+      "detail": "Czech Republic drives on the right side of the road, and EU driving licenses are fully valid. Speed cameras are widespread and strictly enforced (130 km/h motorway, 90 km/h outside built-up areas, 50 km/h in towns). The alcohol limit is an absolute zero (0.00% BAC) — one of the strictest in Europe and rigorously enforced. All vehicles using motorways (dálnice) must display a valid vignette sticker, purchasable at border crossings, petrol stations, and online. Driving in Prague is not recommended due to complex one-way systems, tram networks, and parking difficulties.",
+      "tourist_tips": [
+        "Buy your motorway vignette (dálniční známka) digitally at edalnice.cz before or on arrival — a 10-day sticker is available and suitable for most tourists.",
+        "Trams always have right of way — never cut in front of a tram, and stop when a tram stops to let passengers board/alight at stops without islands.",
+        "Winter tyres are legally required from November to March in snowy or icy conditions — rental cars should already comply, but verify with your hire company."
+      ],
+      "warning": "Zero-tolerance drink-driving (0.00% BAC) is strictly enforced — do not drive after any alcohol, including a single beer.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant and Food in Czech Republic",
+      "quick_answer": "Czech cuisine centers on hearty meat dishes, dumplings, and exceptional beer — seek out local hospoda pubs and the Lokál chain for authentic food at fair prices.",
+      "detail": "Traditional Czech food is rich and filling: svíčková (beef sirloin in creamy vegetable sauce with bread dumplings), vepřo-knedlo-zelo (roast pork with dumplings and sauerkraut), and goulash are national staples. Trdelník (chimney cake sold at tourist stalls) is actually a Slovak/Hungarian import popularized by Prague's tourist trade — not a traditional Czech food. The Lokál restaurant chain (multiple Prague locations) serves genuine Czech food at honest prices with perfectly poured tank beer. Dinner is typically served 6–9pm; lunch is the main meal in Czech culture.",
+      "tourist_tips": [
+        "Lokál (lokálrestaurace.cz) is the single best recommendation for authentic Czech food in Prague — multiple locations, fair prices, and Pilsner Urquell from tanks.",
+        "Look for a 'denní menu' (daily lunch menu) offered 11am–2pm at local restaurants — typically a soup plus main course for CZK 120–180, exceptional value.",
+        "Avoid restaurants with photo menus and touts standing outside on the main tourist streets — move one or two streets away from Old Town Square for dramatically better value."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Czech Republic",
+      "quick_answer": "Czech Republic's religious sites are predominantly Christian churches and Jewish synagogues — dress modestly and follow posted photography rules.",
+      "detail": "The Czech Republic is one of the least religious countries in Europe, but its religious heritage is stunning. St. Vitus Cathedral inside Prague Castle allows free access to the nave but requires a ticket for the full cathedral circuit. The Old Jewish Quarter (Josefov) contains multiple synagogues and the Old Jewish Cemetery, all operated as the Jewish Museum under a single paid admission. Kutná Hora's Sedlec Ossuary (Bone Church) is a unique ticketed site. Shoulders and knees should be covered when entering churches; head coverings may be required or available on loan at some synagogues.",
+      "tourist_tips": [
+        "The Prague Castle circuit ticket includes St. Vitus Cathedral, Old Royal Palace, St. George's Basilica, and the Golden Lane — good value if visiting multiple sites.",
+        "At Josefov's synagogues, men are typically provided with a kippah (head covering) at the entrance — wearing it respectfully is expected.",
+        "Kutná Hora (including the Bone Church and St. Barbara's Cathedral) makes an excellent day trip from Prague by train and is far less crowded than central Prague attractions."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time in Czech Republic",
+      "quick_answer": "Visit Czech Republic May to September for warm weather; Christmas markets in November–December are also spectacular.",
+      "detail": "Czech Republic has a continental climate with warm summers and cold winters. The best time to visit Prague is May to September, when temperatures are pleasant (18–25°C) and outdoor sightseeing is comfortable. June through August is warmest but also most crowded. Spring (April–May) offers fewer crowds with blooming parks, and autumn (September–October) has beautiful foliage. The Christmas market season (late November to December) is magical despite cold temperatures (0–5°C). November is the least appealing month — cold, grey, and with fewer events.",
+      "tourist_tips": [
+        "Prague's Christmas markets on Old Town Square and Wenceslas Square run from late November through December 23 — a weekday visit avoids the worst weekend crowds.",
+        "May and early June offer the best combination of good weather, manageable crowds, and green parks — arguably the optimal Prague travel window.",
+        "Pack for rain year-round — Prague averages precipitation in every month, and a compact umbrella or waterproof layer is always sensible."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Czech Republic",
+      "quick_answer": "Czech Republic is significantly cheaper than Western Europe — eat where locals eat, use public transport, drink beer at local pubs, and always pay in CZK.",
+      "detail": "The Czech Republic offers outstanding value compared to Western European destinations. The greatest savings come from avoiding tourist-trap restaurants on the main squares and instead eating at local hospoda pubs or using the denní menu lunch specials. Czech beer is the cheapest in Europe at CZK 40–60 per half-liter at local pubs. Public transport is cheap and excellent, making taxis unnecessary. Supermarkets like Lidl, Albert, and Billa offer good-value ready meals and picnic supplies. The Prague Card bundles museum admissions and transport but is worth calculating against your actual itinerary.",
+      "tourist_tips": [
+        "A Wise or Revolut multi-currency card avoids transaction fees and gives near-perfect CZK exchange rates — essential for getting the most from Czech prices.",
+        "The denní menu (daily lunch menu) at local restaurants typically offers soup plus a hearty main for CZK 120–180 — far better value than dinner at the same restaurant.",
+        "Vyšehrad fortress, Letná Park, Vítkov Hill, and the National Gallery modern art branch offer free or very low-cost alternatives to the premium-priced Old Town attractions."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

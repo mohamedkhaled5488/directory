@@ -1,0 +1,460 @@
+{
+  "country": "Portugal",
+  "slug": "portugal",
+  "emoji": "🇵🇹",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Portuguese",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Portugal",
+      "quick_answer": "Tipping is not obligatory in Portugal, but 5-10% is appreciated for good restaurant service.",
+      "detail": "Tipping is entirely optional and there is no social pressure to leave one. In restaurants, rounding up or leaving 5-10% for good service is a welcome gesture. For taxis, simply round up the fare. Always tip in cash directly to the person rather than adding it to a card payment.",
+      "tourist_tips": [
+        "Leave tips in cash directly with your server — card tip options are rare and the money may not reach the staff.",
+        "Round up taxi fares as a courtesy; large tips are not expected or customary.",
+        "At cafes and pastelarias, leaving small change in the tray is appreciated but completely optional."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Portugal",
+      "quick_answer": "Lisbon and Porto have good metro networks, and intercity trains and buses connect the country efficiently.",
+      "detail": "Lisbon's Metro, trams, and Carris buses are managed under a unified ticketing system using the Viva Viagem card, which saves money over single tickets. The iconic Tram 28 is a tourist favourite but is extremely crowded and a known pickpocket hotspot. CP trains run intercity routes including Lisbon–Porto, while Rede Expressos coaches serve destinations not on the rail network. Porto has its own Metro and extensive bus coverage.",
+      "tourist_tips": [
+        "Buy a Viva Viagem card in Lisbon and load it with credit or a day pass — it works across Metro, trams, and most buses.",
+        "Ride Tram 28 early in the morning to avoid the worst crowds and reduce pickpocket risk.",
+        "Book CP intercity train tickets online in advance for discounted Alfa Pendular fares between Lisbon and Porto."
+      ],
+      "warning": "Tram 28 in Lisbon is a prime pickpocket location — keep bags in front of you and secure all valuables before boarding.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Portugal",
+      "quick_answer": "Portugal's SNS public health service is solid, and EU citizens can use their EHIC card for free or reduced-cost treatment.",
+      "detail": "The SNS (Serviço Nacional de Saúde) provides good-quality public healthcare, and EU residents presenting a valid EHIC card are entitled to treatment at the same cost as Portuguese nationals. Farmácias (pharmacies) are widespread and well-stocked, and pharmacists can advise on minor ailments. Private hospitals and clinics offer faster service with English-speaking staff and are reasonably priced. Non-EU travellers should carry comprehensive travel insurance as public system wait times can be long.",
+      "tourist_tips": [
+        "Call SNS24 on 808 24 24 24 for free non-emergency health advice in Portuguese — many operators speak English.",
+        "Farmácias display a green cross sign and can handle minor issues like infections, bites, or stomach upsets without a prescription.",
+        "Private clinics such as those in the Lusíadas or CUF networks offer fast English-friendly consultations for around €80-150."
+      ],
+      "warning": "Non-EU travellers without travel insurance face full out-of-pocket costs at private facilities; public emergency care is always provided but wait times vary.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Portugal",
+      "quick_answer": "Personal drug use is decriminalized in Portugal, meaning possession of small amounts leads to an administrative warning rather than criminal charges.",
+      "detail": "Portugal famously decriminalized personal possession of all drugs in 2001 — this is not legalization, and trafficking remains a serious criminal offence. Those caught with quantities deemed for personal use appear before a dissuasion commission and may receive a warning, fine, or referral to treatment. Cannabis social clubs exist in a legal grey area. Public nudity on non-designated beaches is technically illegal, though enforcement is inconsistent on remote stretches.",
+      "tourist_tips": [
+        "Do not confuse decriminalization with legalization — buying or selling drugs of any kind remains a criminal offence.",
+        "Nudism is officially only permitted on designated praia naturista beaches; respect signage at all other beaches.",
+        "Alcohol can be consumed in public spaces, but disorderly conduct will attract police attention, especially in Lisbon's Bairro Alto."
+      ],
+      "warning": "Drug trafficking carries severe criminal penalties regardless of Portugal's decriminalization policy for personal use.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Portugal",
+      "quick_answer": "Dial 112 for all emergencies — police, fire, and ambulance — anywhere in Portugal.",
+      "detail": "112 is the universal EU emergency number and works from any phone including mobiles with no SIM. For non-urgent medical advice, SNS24 (808 24 24 24) provides a free telephone triage service around the clock. GNR (rural police) and PSP (urban police) both respond to 112. The number functions across mainland Portugal, the Azores, and Madeira.",
+      "tourist_tips": [
+        "Save SNS24 (808 24 24 24) in your phone for non-emergency health questions — it saves unnecessary trips to hospital.",
+        "112 operators are trained to handle calls in multiple languages including English.",
+        "If you need the tourist police (PSP Turismo) in Lisbon, their dedicated office is in Praça dos Restauradores."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Portugal",
+      "quick_answer": "Portugal is very relaxed about dress, but shoulders and knees should be covered when visiting churches and especially the Fátima sanctuary.",
+      "detail": "Day-to-day dress is casual throughout the country, and beach attire is fine in coastal towns between the beach and nearby cafes. Churches such as Jerónimos Monastery, Sé Cathedral, and the Fátima pilgrimage basilica enforce modest dress — no bare shoulders or shorts above the knee. Fátima is especially strict on pilgrimage dates. Upscale Lisbon restaurants may expect smart-casual in the evening, but formal dress is not required anywhere.",
+      "tourist_tips": [
+        "Carry a light scarf or sarong when sightseeing — it doubles as a cover-up for unexpected church visits.",
+        "Fátima's basilica staff may turn away visitors in shorts or sleeveless tops regardless of the season.",
+        "Algarve beach towns are extremely casual; flip-flops and summer clothing are fine in most cafes and casual restaurants."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Portugal",
+      "quick_answer": "The legal drinking age is 18, alcohol is cheap and widely available, and drinking in public is generally permitted.",
+      "detail": "Portugal is one of the world's great wine-producing countries, and vinho verde, port wine, and ginja (cherry liqueur) are must-tries. Cervejarias (beer restaurants) and tascas stay open late. Wine in supermarkets starts at around €3-5 for a very decent bottle. Drinking in public spaces is legal and common, particularly during festivals. Drunk and disorderly behaviour can still result in a fine.",
+      "tourist_tips": [
+        "Try ginjinha from a tiny cup at one of the historic ginjinha bars in Lisbon's Rossio neighbourhood — a true local ritual.",
+        "Supermarket port wine offers outstanding value from about €5 a bottle; no need to pay tourist prices at wine shops.",
+        "Craft beer has grown rapidly in Portugal — look for local brands like Dois Corvos or Musa in Lisbon."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Portugal",
+      "quick_answer": "Bargaining is not part of Portuguese culture and fixed prices are the norm in almost all settings.",
+      "detail": "Unlike in some other travel destinations, haggling in Portuguese shops, markets, or restaurants is considered unusual and mildly rude. Prices are fixed in virtually all retail environments. Some flexibility may exist at Feira da Ladra, Lisbon's famous flea market held on Tuesdays and Saturdays, particularly for antiques and second-hand goods. Tourist souvenir shops in heavy footfall areas occasionally offer minor discounts if you buy multiple items.",
+      "tourist_tips": [
+        "At Feira da Ladra, a polite counter-offer on second-hand or antique items is acceptable — aim for no more than 10-15% off.",
+        "Do not attempt to negotiate at restaurants, cafes, or transport — it will cause confusion and embarrassment.",
+        "Boutique accommodation owners may offer slight discounts for longer stays if booked directly — always worth a polite ask."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Portugal",
+      "quick_answer": "Portugal is extremely photo-friendly with almost no restrictions, though respectful photography is required at Fátima during religious services.",
+      "detail": "Azulejo tile facades, golden hour in Alfama, and dramatic Atlantic coastlines make Portugal a photographer's paradise with very few limitations. Photography of military installations, police operations, or individuals without consent is prohibited. Inside Fátima's Basilica of Our Lady of the Rosary, photography is only permitted outside of religious ceremonies — silence and respect are expected at all times. Most museums allow photography without flash.",
+      "tourist_tips": [
+        "The best light for shooting Lisbon's Alfama and miradouros (viewpoints) is in the late afternoon golden hour.",
+        "Ask permission before photographing individuals, especially elderly locals in traditional settings — it is appreciated.",
+        "Inside Fátima basilica, lower your camera during any ongoing mass or prayer service and follow staff instructions."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Portugal",
+      "quick_answer": "Most independent shops close on Sundays, but shopping centres, restaurants, and cafes generally stay open.",
+      "detail": "Sunday trading is common in larger shopping centres (centros comerciais) and supermarkets, which typically open 10am-10pm. Independent boutiques, local shops, and some bakeries are often closed on Sundays. Restaurants and cafes operate normally on Sundays and are often busiest for Sunday lunch. National public holidays cause widespread closures across all business types. Fátima on major pilgrimage dates (13th of each month, May to October, and particularly May 13 and October 13) sees massive crowds and altered traffic patterns.",
+      "tourist_tips": [
+        "Plan grocery shopping at a Pingo Doce, Continente, or Lidl supermarket — most open seven days a week including holidays.",
+        "Sunday is an excellent day to visit Lisbon's Alfama neighbourhood as the area is quieter and more atmospheric.",
+        "Check local calendars before visiting Fátima — the May 13 and October 13 pilgrimages draw hundreds of thousands of visitors."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Portugal",
+      "quick_answer": "Uber and Bolt are widely available in Lisbon and Porto and are generally reliable and fairly priced.",
+      "detail": "Ride-hailing apps dominate the tourist transport scene in Portugal's major cities, with Uber being most widely used and Bolt offering a competitive alternative. Standard metered taxis are regulated and honest, with taxi stands at airports, train stations, and major hotels. Lisbon Airport to the city centre is around €15-20 by taxi, with fixed-rate zones applying. Tipping taxi drivers by rounding up the fare is appreciated but not obligatory.",
+      "tourist_tips": [
+        "Use Uber or Bolt from Lisbon airport to avoid any chance of overcharging — the price is set before you board.",
+        "Standard taxis at official stands are safe and metered; avoid unlicensed drivers who approach you in arrivals halls.",
+        "In smaller towns and the Algarve, pre-book taxis for airport transfers as ride-hailing coverage can be inconsistent."
+      ],
+      "warning": "Avoid accepting rides from unlicensed drivers who approach tourists at airports or major attractions — always use official taxi ranks or apps.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Portugal",
+      "quick_answer": "Tap water is safe to drink throughout mainland Portugal and on the islands of Azores and Madeira.",
+      "detail": "Portugal's municipal water supply meets EU drinking water standards and is routinely tested. Tap water tastes fine in most areas, though some locals in Lisbon and Porto prefer bottled water for taste reasons rather than safety. The Azores and Madeira also have safe tap water, though mineral spring water from the Azores is a popular local choice. Restaurants will normally serve tap water if requested, and it is free.",
+      "tourist_tips": [
+        "Carry a reusable water bottle — tap water is safe everywhere and refilling it saves money and reduces plastic waste.",
+        "Ask for 'água da torneira' (tap water) at restaurants; they are legally required to provide it free of charge.",
+        "In the Algarve summer heat, stay well-hydrated — dehydration is a real risk for tourists unaccustomed to the temperatures."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Portugal",
+      "quick_answer": "The Multibanco ATM network is widespread and accepts foreign cards, but avoid Euronet machines which charge high fees.",
+      "detail": "Portugal's Multibanco network is one of the most developed in Europe and ATMs are found even in small towns. Most foreign debit and credit cards work without issue. Euronet-branded ATMs found in tourist areas charge inflated fees and should be avoided — always use ATMs attached to recognised Portuguese banks such as Caixa Geral de Depósitos, BPI, Millennium BCP, or Santander. Always decline Dynamic Currency Conversion (DCC) when offered — choose to pay in euros to avoid a poor exchange rate.",
+      "tourist_tips": [
+        "Look for ATMs with the Multibanco logo inside bank branches — they almost never charge extra fees for foreign cards.",
+        "Always select 'without conversion' or 'in euros' when the ATM asks about currency — DCC rates are extremely unfavourable.",
+        "Cards are accepted almost everywhere including small cafes and markets; carrying €50-100 in cash is enough for most trips."
+      ],
+      "warning": "Euronet ATMs in tourist areas of Lisbon and Algarve charge high fixed fees and often present DCC — avoid them entirely.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Portugal",
+      "quick_answer": "NOS, MEO, and Vodafone Portugal offer tourist SIMs with good data packages, available at airports and phone shops.",
+      "detail": "Mobile coverage is excellent across mainland Portugal and in most parts of the Azores and Madeira, though note that island rates may differ from mainland plans. EU residents can use their existing SIM under EU roaming rules at no extra cost. Tourist SIMs from NOS, MEO, or Vodafone are available at Lisbon and Porto airports, phone shops, and CTT post offices. Portugal has widespread free public Wi-Fi in cafes, libraries, and many public squares. 5G is available in major cities.",
+      "tourist_tips": [
+        "NOS and MEO tourist SIMs can be bought at Lisbon Airport Arrivals — compare data allowances before purchasing.",
+        "EU roaming means most European travellers can simply use their home SIM without any extra cost or setup.",
+        "Free Wi-Fi hotspots branded 'Lisboa WiFi' or 'Porto WiFi' are available throughout city centres — connect via the official app."
+      ],
+      "warning": "Check whether your tourist SIM covers the Azores or Madeira at the same rate as the mainland before travelling to the islands.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Portugal",
+      "quick_answer": "Portugal uses Type C and Type F (Schuko) plugs at 230V/50Hz, the same as most of continental Europe.",
+      "detail": "Mainland Portugal, the Azores, and Madeira all use 230V/50Hz electricity with Type C (two round pins) and Type F (Schuko — two round pins with grounding clips) sockets. Travellers from most of Europe will find their devices work without any adapter. British visitors need a UK-to-EU plug adapter. American and Canadian travellers need both an adapter and a voltage converter for any device not rated for dual voltage (100-240V), though most modern electronics are dual voltage.",
+      "tourist_tips": [
+        "Check your device's power brick for '100-240V' labelling — most laptops, phone chargers, and cameras are already dual voltage.",
+        "British travellers: pack a Type G to Type F adapter — they are available cheaply at UK airports and hardware stores.",
+        "A multi-port USB travel charger with a single EU adapter is the most compact solution for charging multiple devices."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Portugal",
+      "quick_answer": "The main scams to watch for are Tram 28 pickpockets, couvert charges at restaurants, and fake monks.",
+      "detail": "Portugal is generally safe and honest, but tourists in Lisbon face a handful of recurring scams. The most common is 'couvert' — bread, butter, and olives placed on your table at the start of a meal that are automatically added to your bill; you have the legal right to refuse and send them back. Pickpocketing on the crowded Tram 28 is well-documented. Individuals dressed as monks soliciting donations are widely reported as fraudulent.",
+      "tourist_tips": [
+        "If you do not want couvert, say 'Não obrigado' (No thank you) immediately when it is placed on your table and the waiter will remove it at no charge.",
+        "Keep bags zipped and in front of you at all times on Tram 28 and in crowded Alfama streets.",
+        "Always check your restaurant bill line by line — small unauthorised additions are rare but do occur in very touristy spots."
+      ],
+      "warning": "Couvert (bread and olives placed at the table) is legal and will be charged unless you refuse it — always check your bill.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Portugal",
+      "quick_answer": "Portugal is one of the safest countries in Europe for tourists, with violent crime against visitors being very rare.",
+      "detail": "Portugal consistently ranks among the top ten safest countries in the Global Peace Index. The primary concern for tourists is petty theft and pickpocketing in crowded Lisbon areas such as Alfama, Baixa, and on Tram 28. Porto and the Algarve have even lower reported pickpocket rates. Violent crime targeting tourists is extremely rare. As with any destination, normal urban vigilance is advisable after dark in unfamiliar areas.",
+      "tourist_tips": [
+        "Use a money belt or anti-theft bag in Lisbon's tourist-dense areas, particularly on public transport and at viewpoints.",
+        "Bairro Alto and Cais do Sodré in Lisbon can be rowdy at night with heavy drinking — stay aware of your surroundings.",
+        "Algarve beach towns are very safe; leave valuables locked in your accommodation rather than unattended on the beach."
+      ],
+      "warning": "Pickpocketing in Lisbon's Alfama district and on Tram 28 has increased significantly — keep valuables secured at all times.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Portugal",
+      "quick_answer": "Portuguese people are reserved at first but become warm and welcoming once acquainted; greet with two kisses on the cheeks.",
+      "detail": "The standard greeting between people who know each other involves two kisses on the cheeks (starting left), while handshakes are used in more formal or first-time meetings. Portuguese culture prizes politeness and formality with strangers — saying 'Bom dia' (good morning) or 'Boa tarde' (good afternoon) when entering a shop is expected. Punctuality is relatively relaxed socially, though not in business. Fado performances command absolute silence and emotional respect — talking during fado is considered deeply disrespectful.",
+      "tourist_tips": [
+        "Always greet shop staff with 'Bom dia' or 'Boa tarde' when entering — it is a basic courtesy that locals notice and appreciate.",
+        "At a fado restaurant, stop all conversation when a fado singer performs — the music is a profound cultural expression, not background noise.",
+        "Avoid making jokes about the Spanish or drawing comparisons between Portuguese and Brazilian culture — both can be sensitive topics."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Portugal",
+      "quick_answer": "Portuguese is the official language, and English is widely spoken in Lisbon, Porto, and the Algarve.",
+      "detail": "European Portuguese has a distinct sound from Brazilian Portuguese — it is more clipped and consonants are often swallowed, which can confuse learners used to Brazilian accents. English proficiency is very high among younger people and anyone working in tourism. Outside major tourist areas and in rural Portugal, English becomes less common. Spanish speakers can sometimes make themselves understood given the linguistic similarity, though Portuguese people generally prefer you attempt Portuguese first.",
+      "tourist_tips": [
+        "Learn a few basics: 'Obrigado/Obrigada' (thank you, male/female), 'Por favor' (please), 'Faz favor' (excuse me/waiter call), 'Desculpe' (sorry).",
+        "Google Translate works well offline in Portugal — download the Portuguese language pack before you travel.",
+        "Pronounce Lisbon as 'Lisboa' (Leezh-boa) — locals appreciate the effort even if your accent is imperfect."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Portugal",
+      "quick_answer": "Portugal's beaches are stunning but the Atlantic brings strong currents and cold water — always swim within flagged zones.",
+      "detail": "The Algarve's sheltered southern coast has some of Europe's most beautiful beaches with calmer, warmer water. The Atlantic-facing west coast (Cascais northward, Alentejo coast, Costa Vicentina) has powerful waves, cold water, and strong rip currents even in summer — it is popular with surfers but demands caution from casual swimmers. The flag system is strictly enforced: green (safe), yellow (caution, no swimming), red (no swimming). Nazaré is world-famous for massive winter waves and is only for expert surfers.",
+      "tourist_tips": [
+        "Always check the flag before entering the water and never swim at a red or yellow flag beach — rip currents along the west coast are dangerous.",
+        "Water temperatures on the west coast rarely exceed 18-20°C even in August — a short wetsuit dramatically improves the experience.",
+        "The Alentejo coast near Vila Nova de Milfontes offers beautiful, less crowded beaches as an alternative to the busy Algarve."
+      ],
+      "warning": "Atlantic rip currents on Portugal's west-facing coast are a genuine drowning risk — even strong swimmers should stay within flagged safe zones.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Portugal",
+      "quick_answer": "Drive on the right, and be aware that most motorways use electronic Via Verde tolls that require a transponder or pre-registration.",
+      "detail": "Portugal drives on the right with the steering wheel on the left. An International Driving Permit is not required for EU, US, or UK licence holders. The Via Verde electronic toll system covers most Portuguese motorways — rental cars typically come with a transponder included, but always confirm and check charges at return. The A22 (Via do Infante) in the Algarve and several other roads are toll-only with no cash booths, meaning visitors without a transponder must pay online after driving. Parking in central Lisbon is scarce and often metered.",
+      "tourist_tips": [
+        "Confirm with your rental car company that a Via Verde transponder is included — driving tolled roads without one results in fines.",
+        "If you miss a toll payment, use the EASYtoll or Toll Service Point (CTT post offices) to pay within 5 days to avoid penalties.",
+        "Avoid driving in central Lisbon if possible — the narrow streets and scarce parking make a car impractical; use Metro instead."
+      ],
+      "warning": "Driving on the A22 Algarve motorway and other electronic-toll-only roads without a transponder or subsequent online payment will result in fines.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Portugal",
+      "quick_answer": "Portuguese cuisine is outstanding and affordable, but always check whether couvert (bread and olives) will be charged before accepting it.",
+      "detail": "Portugal offers some of Europe's best food value, with a prato do dia (daily special) providing two courses and often a drink for €8-12 at local tascas. Bacalhau (salted dried cod) is a national obsession with supposedly 365 recipes. Pastéis de nata (custard tarts) from Pastéis de Belém in Lisbon or any quality pastelaria are essential eating. Dinner is eaten late by northern European standards — restaurants typically fill up between 8pm and 10pm. Couvert is the legal but sometimes surprising practice of placing bread, butter, and olives on the table at a charge; refuse politely if you don't want it.",
+      "tourist_tips": [
+        "Eat your pastel de nata standing at the counter of the pastry shop — it costs around €1.20 and is always freshest straight from the oven.",
+        "Look for restaurants away from main tourist squares where a prato do dia offers two courses plus drink for €8-12.",
+        "Petiscos (Portuguese small plates) are perfect for sharing and exploring the menu — similar to tapas and typically very good value."
+      ],
+      "warning": "Couvert items placed on your table are legally chargeable — say 'Não obrigado' immediately if you do not want them to avoid an unexpected addition to your bill.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Portugal",
+      "quick_answer": "Cover shoulders and knees at all churches, and observe absolute silence and modesty at the Fátima pilgrimage sanctuary.",
+      "detail": "Portugal is predominantly Catholic and religious sites are active places of worship, not just tourist attractions. The Jerónimos Monastery (Belém), Sé Cathedral (Lisbon), Sé Cathedral (Porto), and especially the Sanctuary of Our Lady of Fátima all require modest dress — covered shoulders and knees at minimum. Fátima is one of the most important Catholic pilgrimage sites in the world and visitors are expected to behave with complete reverence. Photography inside Fátima during services is restricted and silence is mandatory. Most churches charge no entry fee but request a donation.",
+      "tourist_tips": [
+        "Always have a cover-up accessible — many Portuguese churches have staff at the door who will turn away visitors in shorts or sleeveless tops.",
+        "At Fátima, if you arrive during a pilgrimage mass, join the perimeter quietly rather than walking through the crowd — it is an intensely personal religious experience for pilgrims.",
+        "The candlelight procession at Fátima on the evening of May 12 and October 12 is open to all visitors and is a deeply moving spectacle — attend respectfully."
+      ],
+      "warning": "The Fátima sanctuary enforces strict dress and behaviour codes year-round, particularly during pilgrimage dates — do not treat it as a casual sightseeing stop.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Portugal",
+      "quick_answer": "The best times to visit are spring (March-May) and early autumn (September-October) for pleasant weather and smaller crowds.",
+      "detail": "Portugal enjoys a Mediterranean climate in the south and a more Atlantic-influenced climate in the north. Lisbon and Porto are mild year-round with very few freezing days. The Algarve is warm from April through October and hot in July-August. Summer (July-August) brings intense heat, particularly inland, and very heavy tourist crowds in Lisbon, Porto, and the Algarve. Atlantic weather on the west coast can shift quickly even in summer — pack a light layer regardless of season.",
+      "tourist_tips": [
+        "Visit Lisbon in March-April or October for comfortable temperatures around 17-22°C and significantly lower accommodation prices.",
+        "The Algarve is excellent in May and June — beach weather, warm sea, and far fewer crowds than the peak July-August season.",
+        "Porto receives more rainfall than Lisbon year-round; pack a compact umbrella if visiting between October and March."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Portugal",
+      "quick_answer": "Eat the prato do dia at local tascas, visit museums on free Sunday mornings, and buy wine and pastéis de nata at street prices.",
+      "detail": "Portugal is one of Western Europe's most affordable destinations and easy to explore on a budget with some local knowledge. Many national museums offer free entry on Sunday mornings, including the National Museum of Ancient Art and Jerónimos Monastery. The prato do dia (daily lunch special) at non-touristy restaurants offers two courses plus a drink for €8-12. Supermarket port wine starts around €5 for a high-quality bottle. Free and uncrowded Alentejo beaches are excellent alternatives to the pricier, busier Algarve resorts.",
+      "tourist_tips": [
+        "Arrive at museums before noon on Sunday for free entry — this applies to many state museums and is an excellent way to see top collections without cost.",
+        "The Lisboa Card gives unlimited public transport and free or discounted entry to over 80 attractions — worth it for a 2-3 day Lisbon visit.",
+        "Shop for local cheese, cured meats, wine, and pastéis de nata at a Mercado da Ribeira food hall or local market rather than tourist restaurants for dramatically lower prices."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

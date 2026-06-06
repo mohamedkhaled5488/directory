@@ -1,0 +1,441 @@
+{
+  "country": "Croatia",
+  "slug": "croatia",
+  "emoji": "🇭🇷",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Croatian",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Croatia",
+      "quick_answer": "Tipping 10–15% at restaurants is appreciated but not obligatory, and cash tips are strongly preferred over card.",
+      "detail": "Croatia does not have a legally mandated service charge, so tipping is entirely voluntary but warmly received. In restaurants, 10–15% for good service is the norm among locals, and rounding up is common in cafes. Taxi drivers appreciate having the fare rounded up to the nearest euro rather than expecting a formal percentage tip. Cash tips handed directly to the server are preferred, as card gratuities do not always reach the staff.",
+      "tourist_tips": [
+        "Hand cash tips directly to your server rather than leaving them on the table, as this ensures the tip reaches the right person.",
+        "Round up taxi fares to the nearest euro — it is appreciated without creating any awkward expectation.",
+        "Hotel porters and tour guides typically appreciate €1–2 per bag or tour, though it is never required."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Croatia",
+      "quick_answer": "Intercity buses are the main way to travel on the mainland, and Jadrolinija ferries are essential for reaching the islands.",
+      "detail": "Croatia's rail network is limited and not practical for most tourist routes, so intercity buses (FlixBus, Croatia Bus, and local operators) are the primary way to travel between cities like Zagreb, Split, and Dubrovnik. Jadrolinija operates the main car and passenger ferry network connecting the islands, with Krilo and Kapetan Luka running faster catamarans in summer. Uber and Bolt operate in Zagreb, Split, and Dubrovnik for city travel. Local city buses serve the main urban centres, and Split and Dubrovnik have reliable local bus networks linking the old towns to suburbs and beaches.",
+      "tourist_tips": [
+        "Book Jadrolinija ferry tickets for car crossings well in advance in July and August — vehicle space sells out weeks ahead.",
+        "The Krilo and Kapetan Luka fast catamarans connect Split to Hvar, Korčula, and Dubrovnik quickly but do not carry cars — book early in peak season.",
+        "Download the Uber or Bolt app before arriving in major cities to avoid overpriced unmetered taxis."
+      ],
+      "warning": "The Split–Dubrovnik bus route crosses through Bosnia and Herzegovina (Neum corridor) — non-EU travellers should check visa requirements and have their passport ready at the border.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Croatia",
+      "quick_answer": "EU EHIC cards are valid at public clinics, but travel insurance is strongly recommended, especially on the islands where facilities are limited.",
+      "detail": "Croatia's public healthcare system (HZZO) accepts EU EHIC cards for necessary treatment, though waiting times at public facilities can be long during peak summer. Private clinics such as Poliklinika are fast, English-friendly, and relatively affordable. On smaller islands, medical facilities are basic and serious cases require evacuation to the mainland. Pharmacies (ljekarna) are widespread throughout Croatia and pharmacists can advise on minor ailments and dispense many common medications without a prescription. Sea urchin spine injuries are the most common beach-related medical issue and pharmacies stock the right equipment for removal.",
+      "tourist_tips": [
+        "Carry your EU EHIC card and supplement it with private travel insurance — island medical emergencies can involve costly helicopter transfers.",
+        "Visit a ljekarna (pharmacy) first for minor ailments; pharmacists widely speak English and can save you a long wait at a clinic.",
+        "Wear water shoes on rocky beaches to prevent sea urchin injuries — they are the most common medical complaint among tourists."
+      ],
+      "warning": "Medical facilities on small Dalmatian islands are very limited — travel insurance with evacuation coverage is essential if you plan to spend time on remote islands.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Croatia",
+      "quick_answer": "Cannabis is illegal, nudism on designated FKK beaches is legal and traditional, and Dubrovnik bans wheeled luggage on its old stone streets.",
+      "detail": "Cannabis is illegal in Croatia and possession can result in fines or prosecution. Croatia has a long-established naturist (FKK) tradition and nudism is fully legal on officially designated FKK beaches, which are well-signposted. Dubrovnik has introduced a ban on wheeled suitcases on the cobblestone streets of the old town and enforces noise ordinances strictly. Some towns — including Dubrovnik, Hvar, and Split — prohibit walking shirtless or in swimwear beyond the immediate beach zone and have issued fines to tourists who ignore these rules. Croatia joined the eurozone in January 2023 so the kuna is no longer accepted.",
+      "tourist_tips": [
+        "Leave your wheeled luggage at your accommodation in Dubrovnik Old Town — dragging it on the marble streets is banned and draws fines.",
+        "Put on a T-shirt and cover up before walking from the beach into Split or Hvar town centres — fines for swimwear in town are actively enforced.",
+        "Use only designated FKK beaches for nudism — nudity on non-designated beaches is illegal and can result in a fine."
+      ],
+      "warning": "Dubrovnik, Split, and Hvar police actively fine tourists caught in swimwear or without shirts in town centres — keep a cover-up in your bag at all times.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Croatia",
+      "quick_answer": "Dial 112 for all emergencies, 192 for police, 194 for ambulance, 193 for fire, and 195 for sea rescue.",
+      "detail": "The pan-European 112 connects to all emergency services and is the primary number to use in any crisis; operators can assist in English. Dedicated Croatian numbers are: 192 (Policija — police), 194 (Hitna medicinska pomoć — ambulance), 193 (Vatrogasci — fire brigade), and 195 (MRCC Split — maritime and sea rescue, which covers the entire Adriatic coast and islands). Mountain rescue can be reached via 112 in the national parks. All numbers work from any phone including those without a SIM.",
+      "tourist_tips": [
+        "Save 195 in your phone if you plan to swim, snorkel, sail, or do any water activity — sea rescue response in Croatia is fast and professional.",
+        "112 works without a SIM card and connects to all services — always try it first in any emergency.",
+        "In Plitvice Lakes or other national park areas, 112 connects you to mountain rescue teams who know the terrain."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Croatia",
+      "quick_answer": "Cover shoulders and knees at churches, and put on a T-shirt and shorts before leaving the beach in Dubrovnik, Hvar, or Split town centres.",
+      "detail": "Croatia is generally casual and relaxed, but Catholic churches — including Dubrovnik Cathedral and the Cathedral of Saint Domnius inside Diocletian's Palace in Split — require covered shoulders and knees for entry. More practically, Dubrovnik, Hvar, and Split have introduced and actively enforce rules banning swimwear and shirtless walking in their town centres, with on-the-spot fines. Away from the coast, dress in the Croatian interior and Zagreb is standard European casual. Beach dress is appropriate at the beach and nowhere else in town.",
+      "tourist_tips": [
+        "Always carry a light cover-up (T-shirt, sarong, or shorts) in your beach bag when visiting Dubrovnik, Split, or Hvar — fines are real and enforced.",
+        "Keep a scarf or shawl accessible for spontaneous visits to churches along the Dalmatian coast.",
+        "Zagreb has a relaxed but more dressed-up evening culture — smart casual is appropriate for restaurants and bars in the capital."
+      ],
+      "warning": "Dubrovnik, Hvar, and Split police issue on-the-spot fines for tourists walking in swimwear or shirtless in town centres — this is enforced, not just a suggestion.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Croatia",
+      "quick_answer": "The legal drinking age is 18, alcohol is cheap and widely available, and the local rakija brandy is a cultural institution.",
+      "detail": "The minimum drinking age in Croatia is 18 and is generally enforced at bars and clubs. Local beers Karlovačko and Ožujsko are inexpensive by European standards and widely available. Plavac Mali and other Dalmatian red wines are excellent and affordable from local producers. Rakija — a potent fruit brandy — is the traditional spirit and is offered as a welcome gesture in many konobas and homes; refusing is considered mildly impolite. Drinking in public is generally tolerated in Croatia, though some areas have ordinances, and Hvar and Dubrovnik have very active nightlife scenes. Drink-driving is strictly enforced at 0.05% BAC.",
+      "tourist_tips": [
+        "Accept a small glass of rakija when offered in a konoba — it is a gesture of hospitality and refusing can cause mild offence.",
+        "Seek out local Dalmatian wines from the Pelješac peninsula and islands rather than imported options — they are far better value and often outstanding quality.",
+        "The drink-driving limit (0.05% BAC) is stricter than in the UK — designate a driver or use Uber if you plan to drink and have a car."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Croatia",
+      "quick_answer": "Croatia has a fixed-price culture and bargaining is not customary, though souvenir markets may offer slight flexibility.",
+      "detail": "Croatia is not a bargaining culture. Prices in shops, restaurants, supermarkets, and from established vendors are fixed and negotiating is considered unusual or even rude. At outdoor souvenir markets and craft stalls — particularly in Dubrovnik, Split, and on Hvar — gentle enquiry about a discount when buying multiple items is sometimes accepted, but pushy negotiation will simply cause offence. Lavender products sold directly by producers on Hvar, and truffle products in Istria, are priced firmly and producers take pride in the quality of their goods.",
+      "tourist_tips": [
+        "When buying several items from a souvenir stall, you can politely ask 'is there a better price for all of these?' — but accept a no gracefully.",
+        "Never try to bargain at restaurants, konobas, or any formal shop — it will embarrass both you and the staff.",
+        "Boat tour prices at the harbour may have slight flexibility if business is slow, but approach gently and expect a small discount at most."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Croatia",
+      "quick_answer": "Photography is freely permitted at most sites including Plitvice Lakes and Dubrovnik, but some churches restrict cameras inside.",
+      "detail": "Croatia is extremely photogenic and photography is freely permitted at the vast majority of tourist attractions including Plitvice Lakes National Park, Dubrovnik Old Town, Diocletian's Palace, and the many Game of Thrones filming locations. Some Catholic churches and cathedrals restrict interior photography, particularly during Mass or services — look for posted signs or ask the attendant. Military installations must not be photographed. Drone flying is regulated and requires permits near populated areas, airports, and national parks; check the Croatian Civil Aviation Agency rules before flying.",
+      "tourist_tips": [
+        "Check for posted no-photography signs inside churches along the coast before raising your camera — enforcement is polite but firm.",
+        "Dubrovnik's Old Town and city walls are best photographed at golden hour (just after sunrise or before sunset) to avoid harsh midday light and crowd interference.",
+        "Register your drone and check CCAA no-fly zones before flying in Croatia — national parks, airports, and coastal towns have strict restrictions."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Croatia",
+      "quick_answer": "In peak tourist season most things open daily, but off-season and in inland Croatia Sunday closures and dramatically reduced hours are common.",
+      "detail": "During the summer tourist season (roughly June to September), shops, restaurants, and services in coastal Croatia and tourist towns operate seven days a week with extended hours. Away from the coast and in the Croatian interior, smaller towns observe traditional Sunday closures with most shops and businesses shut. The off-season (October to May) sees dramatically reduced hours and many restaurants, accommodation options, and attractions on the islands close entirely. National holidays and Catholic feast days can bring unexpected closures — Croatia observes a full calendar of Catholic holidays including the Assumption of Mary (August 15) in the height of summer.",
+      "tourist_tips": [
+        "Plan grocery shopping before Sunday if you are staying in inland Croatia or visiting in the off-season — supermarket hours are reduced and smaller shops close.",
+        "Many island businesses, restaurants, and even ferry services run reduced or no service from October to May — always check ahead if travelling off-season.",
+        "August 15 (Assumption of Mary) is a major public holiday and a popular domestic travel date — book transport and accommodation well in advance around this date."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Croatia",
+      "quick_answer": "Uber and Bolt operate in Zagreb, Split, and Dubrovnik; use them to avoid overcharging by unmetered local taxis.",
+      "detail": "Uber and Bolt are available in Croatia's three main tourist cities — Zagreb, Split, and Dubrovnik — and provide transparent upfront pricing that eliminates fare disputes. Local taxis are metered in cities but overcharging is a documented issue, particularly in Dubrovnik and on island transfers. For island taxi boats and private transfers, always confirm the price firmly in advance as meters are not used. The Split to Dubrovnik route by private transfer is commonly negotiated and quotes vary significantly. On smaller islands, shared water taxis between settlements are a cost-effective alternative to private boat taxis.",
+      "tourist_tips": [
+        "Use Uber or Bolt in Zagreb, Split, and Dubrovnik for all city journeys — the upfront pricing prevents all fare disputes.",
+        "Always agree a firm price before getting into any taxi or water taxi on the islands, ideally in writing on your phone screen to avoid misunderstandings.",
+        "For the Split to Dubrovnik journey, the bus is far cheaper than a private transfer and the coastal Magistrala road scenery is spectacular."
+      ],
+      "warning": "Taxis in Dubrovnik have a well-documented history of overcharging tourists — always confirm the price upfront or use Uber instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Croatia",
+      "quick_answer": "Croatian tap water is safe, clean, and excellent throughout the country — it is one of Europe's best tap water systems.",
+      "detail": "Croatia's tap water is sourced from karst springs and is consistently rated among the cleanest and best-tasting in Europe. Tap water is safe to drink everywhere in Croatia — in cities, towns, coastal areas, and on the main islands. There is no need to buy bottled water at any point, making Croatia unusually good value compared to many Mediterranean destinations. The Adriatic Sea is also exceptionally clean with very high water quality across Croatian beaches, many of which hold EU Blue Flag status.",
+      "tourist_tips": [
+        "Bring a refillable water bottle — Croatian tap water is excellent and you will save money and reduce plastic waste throughout your trip.",
+        "The Adriatic sea water clarity and cleanliness is outstanding — the water is often so clear you can see the bottom at five metres depth.",
+        "Public drinking fountains in Croatian towns and cities dispense safe, clean water — use them freely."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Croatia",
+      "quick_answer": "Croatia uses the euro since January 2023 — avoid Euronet ATMs and use Erste, Raiffeisen, or Zagrebačka banka machines instead.",
+      "detail": "Croatia adopted the euro in January 2023, replacing the kuna, so euro-holders face no currency conversion at all. Cards and contactless payments are widely accepted in hotels, restaurants, and shops in tourist areas. However, smaller island shops, beach kiosks, local markets, and rural konobas are often cash-only. Euronet ATMs are found at high-traffic tourist spots and apply very high fees — always use bank-branded ATMs such as Erste, Raiffeisen, Zagrebačka banka, or OTP Banka instead. Wise and Revolut cards perform well at bank ATMs across Croatia.",
+      "tourist_tips": [
+        "Use only bank-branded ATMs (Erste, Raiffeisen, Zagrebačka banka) and avoid Euronet machines entirely — the fee difference is significant.",
+        "Always decline the ATM's offer to convert to your home currency (DCC) and choose to be charged in euros for the best exchange rate.",
+        "Carry some cash when visiting small islands or rural areas, as many small businesses and local markets do not accept cards."
+      ],
+      "warning": "Euronet ATMs at popular tourist locations in Dubrovnik, Split, and Hvar charge very high fees — seek out a bank-branded ATM even if it requires a short walk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Croatia",
+      "quick_answer": "Hrvatski Telekom has the best coverage including on the islands; EU residents can roam for free on their home SIM.",
+      "detail": "Croatia's three main mobile operators are Hrvatski Telekom (HT, best overall coverage), A1 Croatia, and Telemach. SIM cards are available at airports, phone shops, and some supermarkets. EU residents can use their home SIM under EU roaming rules at no extra cost — check your data allowance before travelling. Coverage is excellent in coastal cities and on the main islands but can be patchy on smaller or more remote islands and in the Dinaric inland areas. Airalo eSIM works well in Croatia for non-EU travellers. Free Wi-Fi is widely available in cafes, restaurants, hotels, and public spaces.",
+      "tourist_tips": [
+        "EU residents can roam freely on their home SIM in Croatia — check your data allowance before departure to avoid unexpected charges.",
+        "If you need a local SIM, buy a Hrvatski Telekom prepaid card at the airport or a phone shop in Split or Zagreb for the best island coverage.",
+        "Download offline maps and any key apps before heading to smaller islands where connectivity may be unreliable."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Croatia",
+      "quick_answer": "Croatia uses Type C/F (Schuko) plugs at 230V/50Hz — the same as most of mainland Europe; UK and US visitors need adapters.",
+      "detail": "Croatia uses the standard continental European plug system: Type C (two round pins) and Type F (Schuko, two round pins with grounding clips) at 230V/50Hz. This is the same standard used across most of Europe and compatible with all modern dual-voltage devices. UK visitors need a UK-to-EU plug adapter. US and Canadian visitors need both a plug adapter and a voltage converter for devices not rated for 110–240V — check your device label, as most modern phone chargers and laptops are dual-voltage and require only an adapter.",
+      "tourist_tips": [
+        "Check the label on your chargers and power adapters — if it says 100–240V, you only need a plug adapter, not a voltage converter.",
+        "Buy a universal travel adapter before departure — they are sold at Croatian airports but at a premium.",
+        "Most mid-range and higher hotels in Croatia have USB charging ports in the room, reducing the adapter requirement for smaller devices."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Croatia",
+      "quick_answer": "Croatia is relatively safe from scams, but tourist restaurant overcharging in Dubrovnik, taxi overpricing, and harbour boat tour pressure selling are the main things to watch.",
+      "detail": "Croatia is a low-scam destination overall, but a few tourist-specific issues exist. In Dubrovnik and Hvar, some tourist-facing restaurants display menus at the entrance with reasonable prices but add hidden charges — always check the bill carefully and query anything unexpected. Taxi overcharging, particularly in Dubrovnik, is well-documented. Harbour touts in Split and Dubrovnik aggressively sell boat tours, sometimes implying the first part is free or using misleading pricing. Short-changing at busy outdoor bars during peak season is occasional. Island transfers by private speedboat are a premium service where prices are not regulated.",
+      "tourist_tips": [
+        "Check the prices on the menu displayed outside before sitting down at any restaurant in Dubrovnik or Hvar — prices inside should match exactly.",
+        "Review your restaurant bill line by line before paying — unexpected covers, bread charges, or service fees do appear in tourist-heavy restaurants.",
+        "Agree the full price, route, and return arrangement for any harbour boat tour before boarding — verbal agreements can be disputed."
+      ],
+      "warning": "Some Dubrovnik tourist restaurants add unsolicited bread, covers, and service charges to bills — always review itemised receipts and question any unordered items.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Croatia",
+      "quick_answer": "Croatia is very safe and Dubrovnik and Split rank among Europe's safest cities; the main risk is petty theft in crowded tourist areas.",
+      "detail": "Croatia is one of the safest countries in Europe and violent crime against tourists is extremely rare. Dubrovnik, Split, and Zagreb have very low crime rates and are considered safe to walk at night. The main risk for tourists is opportunistic petty theft — pickpocketing in crowded areas during peak season, particularly along Stradun in Dubrovnik and at busy Split market areas. Beach theft from unattended towels and bags is the most common incident. The Adriatic is calm and safe for swimming with no significant rip currents; sea urchin injuries are statistically a more common tourist hazard than crime.",
+      "tourist_tips": [
+        "Never leave bags, phones, or valuables unattended on beaches — even for a brief swim in Croatia's famously clear water.",
+        "Use a money belt or inner zipped pocket in crowded tourist areas like Dubrovnik's Stradun in high summer.",
+        "The sea urchin risk on rocky coastlines is a genuine practical hazard — wear water shoes and shuffle your feet when entering the water over rocks."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Croatia",
+      "quick_answer": "Dalmatian culture is relaxed and sociable, coffee culture is central to daily life, and locals in Dubrovnik are increasingly frustrated by mass tourism — be respectful.",
+      "detail": "Dalmatian Croatians are warm, proud of their food and wine, and highly social — coffee is not a quick takeaway but a long, unhurried ritual. Initial greetings between strangers are formal (a handshake is standard) but warmth develops quickly. Lunch in Dalmatia is the main meal of the day (roughly 1–3pm) and restaurants close between lunch and dinner service in more traditional areas. Locals in Dubrovnik and Hvar are increasingly vocal about the pressures of mass tourism — being considerate of residential areas, keeping noise down, and respecting private property goes a long way. Croatians are intensely proud of their regional identity, local food, wine, and heritage.",
+      "tourist_tips": [
+        "Sit down for coffee rather than rushing — ordering a takeaway espresso is unusual in Dalmatia and sitting slowly with a small coffee is the cultural norm.",
+        "Avoid shouting, playing loud music, or blocking narrow streets in Dubrovnik's residential areas — locals live year-round in tourist-saturated environments and deserve respect.",
+        "Complimenting local wine, food, or the beauty of the coast with genuine enthusiasm is a reliable way to build rapport with Croatian hosts."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Croatia",
+      "quick_answer": "English is widely spoken throughout tourist Croatia; Italian is useful in Istria, and a few Croatian phrases will earn genuine appreciation.",
+      "detail": "English is very widely spoken in hotels, restaurants, and tourist services throughout coastal Croatia and Zagreb. In Istria, Italian is often a practical second language reflecting the region's history and proximity to Italy. German is understood in many tourist spots, particularly by older Croatians. Away from tourist zones and in inland Croatia, English ability drops considerably. Croatian is a South Slavic language with a complex grammar, but even simple attempts — 'hvala' (thank you), 'molim' (please), 'dobar dan' (good day) — are warmly received and signal genuine effort to the locals.",
+      "tourist_tips": [
+        "Learn 'hvala' (thank you) and 'dobar dan' (good day) — using them consistently earns immediate warmth from Croatian hosts.",
+        "Download the Croatian language pack for Google Translate offline use before visiting rural areas or inland Croatia where English is less common.",
+        "In Istrian towns like Rovinj and Poreč, Italian often works as well as English — useful if you speak any Italian."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Croatia",
+      "quick_answer": "Croatian beaches are spectacular with crystal-clear Adriatic water, but most are pebble or rock rather than sand — water shoes are essential.",
+      "detail": "Croatia's Adriatic coastline is among the most beautiful in Europe, with remarkably clear and clean water. However, the vast majority of Croatian beaches are pebble or bare rock rather than sand, making water shoes an essential investment for comfortable swimming. Sea urchins are common on rocky areas and their spines are painful and difficult to remove — water shoes provide crucial protection. FKK (naturist) beaches have a long, respected tradition in Croatia and are well-signposted and fully legal. Zlatni Rat on the island of Brač is Croatia's most photographed beach. Jellyfish appear seasonally but rip currents are very rare in the Adriatic.",
+      "tourist_tips": [
+        "Buy or pack water shoes before arriving — they are sold at every beach shop in Croatia but are cheaper bought at home, and they make pebble and rock beaches vastly more comfortable.",
+        "Zlatni Rat beach on Brač island shifts shape with the wind and current, which is fascinating to observe — arrive early in summer as it gets crowded by 10am.",
+        "FKK (nudist) beaches are well-signposted, officially legal, and often on more scenic and less crowded stretches of coast — look for the FKK sign."
+      ],
+      "warning": "Sea urchin spines on rocky beaches are a very common tourist injury in Croatia — always wear water shoes when entering the water over rocks or in rocky coves.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Croatia",
+      "quick_answer": "Drive on the right; the coastal Magistrala road is spectacular but narrow and busy; ferries are required for island hopping with a car.",
+      "detail": "Croatia drives on the right. EU, US, and UK licences are valid without an International Driving Permit requirement. Speed limits are 50 km/h in towns, 90 km/h on rural roads, and 130 km/h on motorways (autocesta). The blood alcohol limit is 0.05% BAC. The D8/E65 coastal Magistrala road from Rijeka to Dubrovnik is one of Europe's most scenic drives but is narrow, winding, and extremely busy in summer. Croatia does not have a national motorway vignette system but charges tolls on the A-road motorways. Parking in Dubrovnik Old Town, Hvar, and Split is extremely limited and expensive — arriving by ferry and exploring on foot is strongly recommended.",
+      "tourist_tips": [
+        "Start any coastal Magistrala drive before 8am in July and August to avoid the worst traffic — by 10am it can back up for kilometres near Split and Dubrovnik.",
+        "Book your car onto Jadrolinija ferries for island visits weeks in advance in peak summer — vehicle spaces sell out and there is no reliable walk-on option for cars.",
+        "Avoid driving into Dubrovnik Old Town entirely — use the Park and Ride at Ilijina Glavica and take the bus or walk down."
+      ],
+      "warning": "The coastal road through the Neum corridor in Bosnia and Herzegovina requires your passport and has border crossings that can cause significant delays in summer — factor in extra time.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Croatia",
+      "quick_answer": "Eat at a local konoba rather than a tourist restaurant for authentic Dalmatian food at 30–40% lower prices.",
+      "detail": "Croatian cuisine is outstanding — grilled fresh fish (brancin sea bass, orada sea bream), lamb (janjetina), peka (meat or fish slow-cooked under a bell-shaped lid), Pag island cheese, Dalmatian prosciutto (pršut), black risotto (crni rižot), and Istrian truffles are regional highlights. A konoba is the traditional Croatian taverna and is the best place to eat authentic, affordable food. Tourist restaurants near main attractions in Dubrovnik and Hvar can charge two to three times konoba prices for inferior food. Bread is often charged separately at Croatian restaurants even when brought automatically — ask before accepting. Dinner in summer is eaten late, from 8–10pm.",
+      "tourist_tips": [
+        "Walk one or two streets back from the main promenade or Old Town entrance to find konobas where locals actually eat — quality goes up and prices drop sharply.",
+        "Ask whether bread is included before accepting the basket — it is charged separately in most Croatian restaurants and quickly adds up for a table.",
+        "Try peka (slow-cooked meat or octopus under a bell lid) if you see it on a menu — it must be ordered in advance but is one of the finest dishes in Croatian cooking."
+      ],
+      "warning": "Tourist restaurants immediately adjacent to Dubrovnik's Stradun or Hvar's main square can be dramatically overpriced — always check the menu prices outside before sitting down.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Croatia",
+      "quick_answer": "Croatia is predominantly Catholic — cover shoulders and knees to enter any church, including the working churches inside Diocletian's Palace and Dubrovnik Cathedral.",
+      "detail": "Croatia is around 86% Roman Catholic, and churches are functioning places of worship as well as major tourist attractions. The Cathedral of Saint Domnius in Split sits within the walls of Diocletian's Palace and is one of the oldest cathedrals in the world — covered shoulders and knees are required for entry. Dubrovnik Cathedral and the Franciscan Monastery on the Stradun similarly require modest dress. Photography policies vary by church and service times; always check for signs. Croatia also has a number of Marian pilgrimage sites in the interior — Marija Bistrica is the most important — where the same dress standards apply.",
+      "tourist_tips": [
+        "Pack a light scarf or sarong in your day bag — it serves as a shoulder cover and makeshift skirt for impromptu church visits throughout the Dalmatian coast.",
+        "The Franciscan Monastery in Dubrovnik contains one of Europe's oldest pharmacies (operating since 1317) — it is worth visiting even if you are not religious.",
+        "Arrive at Cathedral of Saint Domnius outside of regular Sunday Mass times to avoid being unable to enter during services."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Croatia",
+      "quick_answer": "May, June, and September are the best months — warm Adriatic weather with fewer crowds and lower prices than July and August.",
+      "detail": "Croatia's Dalmatian coast has a classic Mediterranean climate: hot, dry summers and mild, wet winters. July and August are extremely hot (regularly 35°C+), extremely crowded especially in Dubrovnik and Hvar, and significantly more expensive. May and June offer warm temperatures, calm seas, and far fewer tourists. September and October are arguably the best months overall — the Adriatic is at its warmest, crowds thin significantly, prices drop, and the light is exceptional. Zagreb and inland Croatia have a continental climate with genuine four seasons; Zagreb can be pleasantly explored year-round. Dubrovnik can be enjoyably visited October to April for a quieter, cooler experience. The bura — a cold north wind — affects the northern Adriatic in winter.",
+      "tourist_tips": [
+        "Book Plitvice Lakes and Dubrovnik visits for early morning opening in July and August — crowds and heat both peak by late morning.",
+        "September is the single best month for Croatia: warm sea temperatures, dramatic fewer crowds after the August holiday season ends, and lower accommodation prices.",
+        "If you must visit in high summer, book all accommodation, ferries, and popular restaurant reservations months in advance — they genuinely sell out."
+      ],
+      "warning": "July and August in Dubrovnik bring extreme crowds — cruise ships and day-trippers can bring 10,000 visitors to the Old Town in a single day; consider visiting in May, June, or September instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Croatia",
+      "quick_answer": "Eat at local konobas, take scheduled ferries instead of private boat taxis, visit islands in May or September, and buy groceries at Lidl or Konzum.",
+      "detail": "Croatia can be expensive in peak season if you stick to tourist hotspots, but significant savings are achievable with local knowledge. Eating at konobas rather than tourist restaurants saves 30–40% with better food. Jadrolinija scheduled ferries and Krilo catamarans cost a fraction of private speedboat transfers between islands. Visiting islands in May or September rather than July and August cuts accommodation prices by 30–50% and removes the oppressive crowds. Buying rakija directly from local producers rather than souvenir shops saves significantly. Lidl and Konzum supermarkets are affordable for groceries, picnic supplies, wine, and snacks.",
+      "tourist_tips": [
+        "Take scheduled Jadrolinija ferries or Krilo catamarans between islands rather than private boat taxis — they cost a fraction of the price and cover the same routes.",
+        "Shop at Lidl or Konzum supermarkets for wine, local cheeses, cold cuts, and snacks — picnicking on a Croatian beach with local produce is one of the great budget travel pleasures.",
+        "Travel in May or September rather than July/August to get the same Adriatic experience at 30–50% lower accommodation prices with dramatically fewer crowds."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

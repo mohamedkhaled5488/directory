@@ -1,0 +1,360 @@
+{
+  "country": "Malaysia",
+  "slug": "malaysia",
+  "emoji": "🇲🇾",
+  "region": "Asia",
+  "currency": "MYR",
+  "language": "Malay",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Malaysia",
+      "quick_answer": "Tipping is not customary in Malaysia — most restaurants add a 10% service charge plus 6% SST automatically, so no extra tip is expected.",
+      "detail": "Malaysia follows a no-tipping culture reinforced by the standard service charge model at most mid-range and upscale restaurants. Bills at sit-down restaurants typically include a 10% service charge and 6% SST (Sales and Services Tax), making additional tipping unnecessary. At hawker centres, kopitiams, and mamak stalls, no service charge applies and tipping is entirely optional. For taxi rides, simply rounding up the fare is a courteous but uncommon gesture.",
+      "tourist_tips": [
+        "Check your restaurant bill for '++' or 'Service Charge 10%' — this means no extra tip is needed",
+        "At hawker centres and mamak stalls, leaving small change is a friendly gesture but never expected",
+        "Rounding up a Grab or taxi fare is appreciated but optional — drivers do not expect tips"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Malaysia",
+      "quick_answer": "Kuala Lumpur has an extensive LRT, MRT, Monorail, and KTM rail network — all covered by the Touch 'n Go card — and Grab is the dominant, safest rideshare app.",
+      "detail": "Kuala Lumpur's urban rail network includes the LRT (Kelana Jaya and Ampang lines), MRT (Putrajaya and Kajang lines), KL Monorail, and KTM Komuter trains, all accessible with a Touch 'n Go stored-value card. The KLIA Ekspres connects KL Sentral to the international airport in 28 minutes. Intercity travel uses ETS trains (KL to Penang or Ipoh) or long-distance buses. Penang has a ferry to the island plus extensive bus coverage. Grab is strongly recommended over street hailing in KL, where unmetered taxis are a common frustration.",
+      "tourist_tips": [
+        "Buy a Touch 'n Go card at any KL Sentral counter — it covers LRT, MRT, Monorail, KTM, and highway tolls",
+        "Use Grab instead of hailing street taxis in KL — fixed prices, GPS-tracked, and far more reliable",
+        "The KLIA Ekspres train from KL Sentral to the airport takes 28 minutes and is the fastest airport transfer"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Malaysia",
+      "quick_answer": "Malaysia has excellent private hospitals at costs far lower than Australia or the UK, but travel insurance is still strongly recommended.",
+      "detail": "Private hospitals such as Gleneagles, Pantai Hospital, Prince Court Medical Centre, and the KPJ network offer world-class care with English-speaking staff throughout KL and major cities. Costs are significantly lower than Western countries but can still be substantial without insurance. Dengue fever is a genuine local risk year-round — use insect repellent consistently. Pharmacies including Guardian and Watsons are found in virtually every shopping mall and offer quality over-the-counter medications.",
+      "tourist_tips": [
+        "Gleneagles KL and Prince Court Medical Centre are internationally accredited private hospitals with English-speaking staff",
+        "Apply DEET insect repellent daily — dengue fever is transmitted by day-biting mosquitoes throughout Malaysia",
+        "Guardian and Watsons pharmacies are in every mall and can handle most minor health needs without a doctor visit"
+      ],
+      "warning": "Dengue fever is endemic in Malaysia and transmitted by Aedes mosquitoes that bite during daylight hours. Use repellent containing DEET and stay in screened or air-conditioned accommodation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Malaysia",
+      "quick_answer": "Drug trafficking carries a mandatory death penalty, homosexuality is illegal under both civil and Sharia law, and public displays of affection can result in prosecution.",
+      "detail": "Malaysia enforces serious criminal penalties that tourists must understand. Drug trafficking is punishable by mandatory death by hanging for amounts above threshold quantities, regardless of nationality. Homosexual acts are illegal under both federal Penal Code provisions (up to 20 years imprisonment) and state Sharia law. Public displays of affection between unmarried couples can be prosecuted under local bylaws in some states. Littering carries fines. Alcohol is prohibited for Muslims under Sharia law but available to non-Muslims. Sharia courts have jurisdiction over Muslims only.",
+      "tourist_tips": [
+        "Never carry packages for strangers through customs — drug trafficking penalties include the mandatory death sentence",
+        "Avoid public displays of affection in conservative areas and east coast states like Kelantan",
+        "Non-Muslim tourists can consume alcohol freely in licensed premises, though behavior in public should remain respectful"
+      ],
+      "warning": "Malaysia imposes mandatory death by hanging for drug trafficking above specified quantities. This applies to all nationalities without exception. Never transport anything through customs on behalf of another person.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Malaysia",
+      "quick_answer": "Dial 999 for police, ambulance, or fire; 994 specifically for ambulance; and 991 for fire brigade — all operators speak English.",
+      "detail": "Malaysia's main emergency number 999 connects to police, ambulance, and fire brigade dispatch and is staffed by English-speaking operators. For a dedicated ambulance line, 994 reaches the Emergency Medical Rescue Services (EMRS) directly. The fire brigade can also be reached directly on 991. In Kuala Lumpur, private ambulances from hospitals like Gleneagles and Pantai are often faster than government services for non-trauma situations. Tourist Police are based in major tourist areas including KL's Golden Triangle and can assist with reports and assistance.",
+      "tourist_tips": [
+        "999 is the universal emergency number — use it for police, ambulance, or fire in any situation",
+        "For faster medical response in KL, calling your private hospital directly (Gleneagles: +603 4141 3000) can get a quicker ambulance",
+        "Tourist Police in Kuala Lumpur (Bukit Bintang area) can assist with theft reports needed for insurance claims"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Malaysia",
+      "quick_answer": "Cover shoulders and knees at mosques and temples — beachwear is fine at resort areas but Malaysia is more conservative than Thailand in everyday settings.",
+      "detail": "Malaysia is a majority-Muslim country with significant Chinese and Indian communities, and dress expectations vary by location. Mosques require shoulders and knees to be covered for both men and women, and women must cover their hair; many mosques lend robes. Hindu and Buddhist temples also expect modest dress. Kuala Lumpur's city centre and malls are fairly relaxed and casual Western dress is widely accepted. East Malaysia (Sabah and Sarawak) and rural areas and the east coast states of Kelantan and Terengganu are more conservative. Beach resort areas like Langkawi permit normal beachwear at the beach.",
+      "tourist_tips": [
+        "Carry a lightweight scarf or sarong — useful for mosque visits and as a cover-up at more conservative sites",
+        "KL's Petronas Towers area, KLCC mall, and Bukit Bintang are relaxed — casual Western clothing is fine",
+        "In Kelantan and Terengganu, dress more conservatively than in KL — these states have stricter local standards"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Malaysia",
+      "quick_answer": "Alcohol is freely available to non-Muslims at supermarkets, restaurants, and bars, but is not sold at Muslim-run establishments and is subject to age 21 restrictions.",
+      "detail": "Non-Muslim visitors can purchase and consume alcohol without restriction in Malaysia. Beer, wine, and spirits are sold at supermarkets, convenience stores, Chinese-operated restaurants, bars, and nightclubs. Alcohol is not available at Malay (Muslim) restaurants or establishments marked 'Halal Only'. Chinatown (Petaling Street), the Bukit Bintang expat strip, and beach resort areas have plentiful options. The minimum drinking age is 21. Public drinking is prohibited in some states. Kelantan and Terengganu have significant restrictions due to their Islamic governance.",
+      "tourist_tips": [
+        "Look for Chinese coffeeshops (kopitiams), Indian restaurants, or establishments labeled 'pork served here' — these will stock alcohol",
+        "Craft beer bars and rooftop bars are concentrated in Bukit Bintang and KLCC — a thriving scene for non-Muslims",
+        "In Kelantan state, alcohol sales are heavily restricted — stock up before traveling to the east coast"
+      ],
+      "warning": "Alcohol is prohibited for Muslims under Malaysian Sharia law. Non-Muslims are not subject to Sharia but should be aware that public intoxication in conservative areas can cause offence and potential legal issues.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Malaysia",
+      "quick_answer": "Bargaining is expected at night markets and Petaling Street but malls and chain stores have fixed prices — know which environment you are in.",
+      "detail": "Malaysia has a dual pricing culture. Night markets (pasar malam), Petaling Street in KL's Chinatown, and handicraft markets in Borneo (Sabah and Sarawak) expect and reward negotiation. Central Market (Pasar Seni) in KL has some flexibility on souvenirs and crafts. Shopping malls, chain stores, and franchise restaurants have completely fixed prices where bargaining would be unusual. Borneo tribal handicrafts and Penang antique shops offer the best genuine bargaining opportunities for unique items.",
+      "tourist_tips": [
+        "At Petaling Street, start at around 40–50% of the asking price and meet somewhere in the middle",
+        "Never bargain at malls like Pavilion, Suria KLCC, or any chain store — prices are fixed",
+        "Borneo handicraft markets in Kota Kinabalu and Kuching are excellent for negotiating on local crafts"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Malaysia",
+      "quick_answer": "Photography is generally unrestricted for tourists, but always ask permission inside mosques and Hindu temples, and never photograph military or police installations.",
+      "detail": "Malaysia is broadly photography-friendly. Iconic sites like the Petronas Twin Towers, Batu Caves, Penang street art, and rainforest landscapes can be freely photographed. Photography inside mosques requires permission and some mosques (particularly Shah Alam's Blue Mosque) have specific visitor photography policies. Hindu temples are generally welcoming but asking before shooting the inner sanctum is polite. Military bases, police stations, and government security infrastructure must not be photographed. Drone photography requires CAAM (Civil Aviation Authority of Malaysia) approval.",
+      "tourist_tips": [
+        "At Batu Caves (Hindu), outdoor and steps photography is completely free — ask before entering the inner cave temple",
+        "The Blue Mosque (Sultan Salahuddin Abdul Aziz Shah) in Shah Alam has guided tours with photography rules — follow your guide",
+        "Drone flights require CAAM permits — check regulations before bringing a drone, as rules are actively enforced"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Malaysia",
+      "quick_answer": "Most of Malaysia operates on a Saturday–Sunday weekend, but Kelantan and Terengganu use Friday–Saturday as the weekend — KL malls are open 7 days a week.",
+      "detail": "Peninsular Malaysia's commercial calendar uses Saturday and Sunday as the standard weekend in most states. However, Kelantan and Terengganu on the east coast observe Friday and Saturday as the official rest days due to their Islamic governance, meaning government offices and many businesses close on Fridays. Shopping malls throughout Malaysia are open every day of the week, typically 10am–10pm. Hawker centres and mamak stalls are largely open 7 days. Bank branches close on weekends in most states. Public holidays are numerous and reflect Malaysia's multicultural calendar — Chinese New Year, Hari Raya, Deepavali, Christmas, and several royal birthdays all bring partial closures.",
+      "tourist_tips": [
+        "If traveling to Kelantan or Terengganu, note that Friday is the day off — plan government or administrative tasks around this",
+        "KL malls (KLCC, Pavilion, Mid Valley) are open every day including public holidays — reliable for shopping and food",
+        "Mamak stalls (Indian-Muslim restaurants) are often open 24 hours, 7 days — a reliable fallback on any public holiday"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Malaysia",
+      "quick_answer": "Use Grab — street taxis in KL frequently refuse to use meters, while Grab offers fixed prices, GPS tracking, and is the dominant safe option.",
+      "detail": "Grab is the dominant rideshare platform in Malaysia and is strongly recommended over street taxis in Kuala Lumpur, where metered taxis are notorious for refusing to use meters and quoting inflated fares to tourists. Grab cars are metered via the app, GPS-tracked, and cashless or cash — making them the safest and most predictable option. At KLIA and KLIA2 airports, a fixed-rate coupon taxi system operates from official counters, which is legitimate and priced transparently. For intercity travel, long-distance taxis (shared or chartered) operate from Puduraya and other hubs.",
+      "tourist_tips": [
+        "Download Grab before arriving — it works for car hires, taxis, food delivery, and payments across Malaysia",
+        "At KLIA airport, buy a fixed-rate taxi coupon from the official counter inside the terminal — never accept offers from touts",
+        "If you must take a street taxi, insist firmly on the meter ('pakai meter') or agree a price before entering"
+      ],
+      "warning": "Street taxis in Kuala Lumpur commonly refuse to use meters with tourists and charge 3–5x the fair price. Using Grab instead of hailing street taxis is strongly advised in all KL situations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Malaysia",
+      "quick_answer": "Tap water in Malaysia is treated but drinking bottled water is strongly recommended — ice at tourist restaurants is generally safe.",
+      "detail": "Malaysia's tap water is treated and technically meets WHO standards in most urban areas, but water quality can vary significantly depending on pipe infrastructure age and location. Most locals and experienced travelers drink bottled or filtered water as standard practice. Bottled water is inexpensive (RM 1–2 for 1.5L) and available everywhere. In Sabah and Sarawak (Borneo), bottled water is particularly recommended as rural supply infrastructure is less uniform. Ice served in established restaurants and hawker centres generally uses commercially purified ice and is considered safe.",
+      "tourist_tips": [
+        "Buy bottled water from convenience stores (99 Speedmart, KK Super Mart, 7-Eleven) — it costs only RM 1–2 per 1.5L bottle",
+        "Ice cubes served in drinks at proper restaurants and hawker centres are made from purified water and are generally safe",
+        "In rural Borneo (Sabah/Sarawak), always use bottled water — do not drink from taps even if locals appear to"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Malaysia",
+      "quick_answer": "ATMs from Maybank, CIMB, and Public Bank accept most foreign cards, and Touch 'n Go e-wallet is widely used alongside cash for markets and local eateries.",
+      "detail": "Cash (Malaysian Ringgit, MYR) remains essential for hawker centres, markets, and smaller local restaurants, though digital payments are growing rapidly. Maybank, CIMB, and Public Bank ATMs are widespread and reliably accept Visa, Mastercard, and Cirrus cards. Touch 'n Go e-wallet (the app version, separate from the card) is widely accepted at petrol stations, toll booths, convenience stores, and increasingly at hawker stalls. Grab Pay also functions as a digital wallet. Currency exchange counters in malls typically offer better rates than bank counters for physical cash exchange.",
+      "tourist_tips": [
+        "Withdraw cash at Maybank or CIMB ATMs for the widest acceptance of foreign cards and reasonable fees",
+        "Keep RM 20–50 in small bills for hawker centres and tuk-tuks — many small vendors cannot make change for large notes",
+        "Money changers in KL (Bukit Bintang, KLCC area) often give better exchange rates than airport or hotel counters"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Malaysia",
+      "quick_answer": "Tourist SIM cards from Maxis, Celcom, or Digi are available at KLIA airport and 7-Eleven stores with a passport — coverage is excellent in cities and major tourist areas.",
+      "detail": "Malaysia has a competitive mobile market with four main operators: Maxis (best overall coverage including rural areas), Celcom, Digi, and U Mobile. Tourist-specific prepaid SIM packs with 10–30 days of data are sold at KLIA and KLIA2 airport counters, 7-Eleven stores, and operator shops in most malls. A passport is required for registration. 4G LTE coverage is strong in KL, Penang, Johor Bahru, and major resort areas. Remote parts of Sabah and Sarawak may have limited coverage. Airalo eSIM is a convenient option for travelers who prefer not to swap physical SIMs.",
+      "tourist_tips": [
+        "Buy a tourist SIM at the KLIA airport arrival hall — Maxis, Celcom, and Digi all have counters there open late",
+        "Maxis offers the most consistent coverage across the peninsula and into Sabah and Sarawak",
+        "Airalo eSIM works well in Malaysia for travelers with eSIM-compatible phones who want to keep their home SIM active"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Malaysia",
+      "quick_answer": "Malaysia uses Type G plugs (British 3-pin square), 240V/50Hz — UK devices work directly, while US and European visitors need an adapter.",
+      "detail": "Malaysia uses the same Type G British-style three-pin square plug as the UK, Singapore, and Hong Kong. The voltage is 240V at 50Hz. UK devices will plug in and work without any adapter. American devices (110–120V) require a voltage converter as well as a plug adapter. European devices (230V, Type C/E/F plugs) need only a plug adapter since the voltage is compatible. USB-A and USB-C travel adapters are inexpensive and widely available at KL airport and electronics stores throughout Malaysian malls.",
+      "tourist_tips": [
+        "UK travelers need no adapter at all — Malaysian sockets are identical to British ones",
+        "US travelers need both a plug adapter and a voltage converter (240V vs 110V) for non-dual-voltage appliances",
+        "Universal travel adapters with Type G compatibility are sold at every airport and in malls for around RM 15–30"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Scams to Avoid in Malaysia",
+      "quick_answer": "The biggest scams for tourists are taxi meter refusals, overpriced tourist restaurants near landmarks, gem investment schemes, and credit card skimming at ATMs.",
+      "detail": "The most common tourist scam is street taxis refusing meters and quoting inflated fares — solved entirely by using Grab. Fake 'friendly strangers' near popular attractions sometimes lead tourists to gem or jewelry investment schemes with promises of resale profit. Overpriced tourist restaurants near the Petronas Towers and Batu Caves may charge multiples of normal prices — walk one street back for local pricing. Credit card skimming at standalone ATMs (particularly in tourist areas) is a documented risk — use bank-branch ATMs where possible. The 'closed attraction' scam involves locals claiming your intended site is closed and offering to take you to their related shop.",
+      "tourist_tips": [
+        "Use Grab for all transport in KL — it completely eliminates the taxi meter scam risk",
+        "Beware of overly friendly strangers near KLCC or Petaling Street who offer to show you a 'hidden gem shop'",
+        "Prefer ATMs attached to bank branches (Maybank, CIMB) over standalone kiosks to reduce card skimming risk"
+      ],
+      "warning": "Gem investment scams targeting tourists are active in KL — offers to buy gems cheaply for resale abroad are always fraudulent. Never invest money in goods from strangers met on the street.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Malaysia",
+      "quick_answer": "Malaysia is generally safe for tourists but KL has a real motorbike bag-snatching problem — carry bags on the wall side of the pavement, not the road side.",
+      "detail": "Malaysia is considered relatively safe compared to many countries, and violent crime against tourists is uncommon. The main risk in Kuala Lumpur is opportunistic bag snatching by motorbike riders who target pedestrians walking near the road — keep bags on your inside shoulder, away from the traffic. Chinatown and Bukit Bintang see elevated petty theft. East Sabah (the eastern coast near the Philippine border) carries an active kidnapping risk from Abu Sayyaf pirates and militia — check your government's current travel advisory before visiting Lahad Datu or Sandakan coastal areas.",
+      "tourist_tips": [
+        "In KL, carry bags and phone on the wall side of the pavement — motorbike snatching targets items near the road",
+        "Use a crossbody bag or anti-theft bag in Chinatown and Bukit Bintang — pickpocketing is the main risk in crowded areas",
+        "Check your government's travel advisory for east Sabah before visiting — some coastal areas near the Philippines border carry elevated kidnapping risk"
+      ],
+      "warning": "Eastern Sabah (Lahad Datu, Kunak, and nearby coastal areas) carries an active risk of kidnapping by armed groups crossing from the southern Philippines. Multiple governments advise against travel to this specific area.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Malaysia",
+      "quick_answer": "Malaysia is a multiracial society of Malay, Chinese, and Indian communities — navigating their distinct customs respectfully is part of the experience.",
+      "detail": "Malaysia's population is approximately 60% Malay (Muslim), 23% Chinese, and 7% Indian, each with distinct cultural norms coexisting in a broadly tolerant society. Always use your right hand to give, receive, or eat — the left hand is considered unclean in Malay and Indian culture. Remove shoes before entering homes and religious sites. In Malay culture, patience and a relaxed pace are valued — rushing or showing impatience is considered rude. Pointing with one finger is impolite in Malay culture; use the right thumb to gesture instead. Greeting with the right hand to the heart ('salam') is a common Malay greeting.",
+      "tourist_tips": [
+        "Remove shoes before entering any Malaysian home or religious site — a rack at the door signals you should take them off",
+        "Use your right hand for all transactions, eating, and gesturing — the left hand is considered unclean",
+        "Do not rush or display impatience with Malay service staff — 'Malaysia Boleh' pace is relaxed and directness can be seen as rude"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Malaysia",
+      "quick_answer": "English is very widely spoken throughout Malaysia and tourists rarely face language barriers — Bahasa Malaysia is the official language but English proficiency is high.",
+      "detail": "Malaysia ranks among the highest English-proficiency countries in Southeast Asia, a legacy of British colonial history and a bilingual education system. In KL, Penang, and major tourist areas, virtually all signage, menus, and staff communication is available in English. Bahasa Malaysia (Malay) is the national language and shares mutual intelligibility with Indonesian. Chinese dialects (Cantonese, Hokkien, Mandarin) are spoken in Chinese communities. Tamil is used in Indian communities. 'Manglish' — Malaysian English with local syntax and loanwords — is the informal everyday register and can initially confuse visitors.",
+      "tourist_tips": [
+        "'Terima kasih' (thank you) and 'tolong' (please) in Bahasa Malaysia are appreciated gestures even if you speak English",
+        "Manglish phrases like 'can lah', 'where got?', and 'boleh one' are informal English — not broken speech, just local dialect",
+        "In Sabah and Sarawak, local indigenous languages are also spoken but English remains fully functional for tourists"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Malaysia",
+      "quick_answer": "Malaysia has world-class beaches and diving, but east coast islands (Perhentians, Tioman) close completely November to March due to the northeast monsoon.",
+      "detail": "Malaysia's best beaches span the peninsula and Borneo. Langkawi on the west coast has calm waters and is accessible year-round. The Perhentian Islands, Redang, and Tioman on the east coast are stunning but completely shut down from November to March during monsoon season. Sipadan Island in Sabah is consistently ranked among the world's top five dive sites — permits are strictly limited. Seasonal jellyfish and sea lice can affect some beaches. Cameron Highlands has no beaches but the cool highland air is a welcome contrast. Some beaches, particularly around popular resorts, have sandfly problems at dawn and dusk.",
+      "tourist_tips": [
+        "Visit Perhentian Islands or Tioman between April and October — they are inaccessible and closed Nov–March",
+        "Sipadan diving permits are limited to 120 per day — book through a registered dive operator months in advance",
+        "Apply insect repellent at sunrise and sunset on many Malaysian beaches to guard against sandflies"
+      ],
+      "warning": "East coast island resorts (Perhentian, Redang, Tioman) fully close for the northeast monsoon from approximately November to March. Attempting to visit outside of season will find no accommodation or ferry services.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Malaysia",
+      "quick_answer": "Malaysia drives on the left like the UK, toll highways use Touch 'n Go card, and Waze is essential for navigating KL's heavily congested roads.",
+      "detail": "Malaysia uses left-hand traffic (drive on the left, steer from the right), which is familiar for UK, Australian, and Singaporean drivers. The PLUS highway network connects the peninsula with frequent toll plazas — a Touch 'n Go card is essential for smooth travel. Kuala Lumpur traffic is notoriously congested, particularly during morning and evening rush hours. Waze and Google Maps both perform well locally. Malaysian petrol prices are among the cheapest in the region due to government subsidies. An international driver's licence is required alongside your home licence for foreign drivers.",
+      "tourist_tips": [
+        "Load your Touch 'n Go card before driving on Malaysian highways — toll plazas are cashless on most expressways",
+        "Download Waze before driving in KL — it provides the best real-time traffic routing for Malaysian roads",
+        "Malaysian petrol stations (Petronas, Shell, BHPetrol) are plentiful and among the cheapest fuel in Southeast Asia"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Food & Restaurants in Malaysia",
+      "quick_answer": "Malaysian food is extraordinary — a multiracial mix of Malay, Chinese, and Indian cuisines eaten at hawker centres, kopitiams, and mamak stalls at very low prices.",
+      "detail": "Malaysia's food scene is one of Asia's best and most diverse. Nasi lemak (coconut rice with sambal, anchovies, and egg) is the unofficial national dish. Other must-eat dishes include char kway teow (stir-fried flat noodles), roti canai (flaky flatbread with dhal), laksa (spiced noodle soup), and Petronas satay. Hawker centres and outdoor kopitiams serve full meals for RM 5–15. Mamak stalls (Indian-Muslim) are open 24 hours and serve roti canai and teh tarik (pulled tea) for RM 2–5. Penang's hawker food culture is so significant it has been recognized by UNESCO. Halal food is dominant in Malay areas, with extensive non-halal options in Chinese and Indian areas.",
+      "tourist_tips": [
+        "Eat at hawker centres and kopitiams — the cheapest, most authentic, and most delicious option, with meals from RM 5",
+        "Mamak stalls serve roti canai and teh tarik for around RM 3–5 and are open 24 hours — perfect for late-night meals",
+        "In Penang, eating along Gurney Drive and Chulia Street hawker stalls is a pilgrimage for food travelers — plan a full day"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Malaysia",
+      "quick_answer": "Remove shoes at mosques and Hindu temples, cover shoulders and knees, and avoid visiting during active prayer times — robes are provided at the National Mosque.",
+      "detail": "Malaysia's religious sites span Islam, Hinduism, Buddhism, and Christianity. At mosques, non-Muslims are generally welcome outside prayer times — shoulders and knees must be covered, shoes removed, and women must cover their hair (scarves are often provided). The National Mosque (Masjid Negara) in KL and the Blue Mosque (Sultan Salahuddin Abdul Aziz Shah) in Shah Alam provide robes for non-Muslim visitors. Batu Caves (Hindu) requires covered shoulders inside the cave temple; the 272 stairs approach is open. Chinese Buddhist and Taoist temples are welcoming and photography-friendly. Churches are open to all visitors.",
+      "tourist_tips": [
+        "At Masjid Negara (National Mosque, KL), robes and headscarves are provided free at the entrance for non-Muslim visitors",
+        "At Batu Caves, cover your shoulders before entering the cave temple interior — the outdoor shrine and stairs are unrestricted",
+        "Avoid visiting mosques during Friday lunchtime prayers (around 12:30pm–2:30pm) — this is the busiest and most sacred prayer time"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Malaysia",
+      "quick_answer": "Malaysia is tropical year-round, but the best time depends on which coast — west coast (KL, Langkawi, Penang) is best November to March, while east coast beaches are best April to October.",
+      "detail": "Malaysia's climate is tropical with high humidity and temperatures of 28–35°C throughout the year. The key variable is monsoon season, which affects different coasts at different times. The west coast (Kuala Lumpur, Langkawi, Penang) is drier and calmer from November to March. The east coast (Perhentian Islands, Tioman, Redang) is at its best from April to October, with the northeast monsoon making beaches inaccessible from November to March. Malaysian Borneo (Sabah, Sarawak) receives rain year-round but is most manageable March to October. The Cameron Highlands are cool (15–25°C) and misty year-round — a refreshing escape from lowland heat.",
+      "tourist_tips": [
+        "Plan your beach destination carefully — west coast (Langkawi) and east coast (Perhentians) have opposite good seasons",
+        "December to February is peak tourist season in KL and Langkawi — book accommodation early and expect higher prices",
+        "Cameron Highlands is always cool and doesn't have a meaningful off-season — ideal year-round for highland trekking"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Malaysia",
+      "quick_answer": "Eat at hawker centres and mamak stalls, use Touch 'n Go for all transport, and take advantage of the many free KL attractions to travel Malaysia on a very modest budget.",
+      "detail": "Malaysia offers exceptional value for budget-conscious travelers. Hawker centres and kopitiams serve complete meals for RM 5–10 (roughly USD 1–2.50). Mamak stalls are open 24 hours with roti canai for RM 2–3 and teh tarik for RM 1.50–2. Grab fares are significantly cheaper than taxis. KL has numerous free attractions including KLCC Park, Perdana Botanical Gardens, the Islamic Arts Museum (free on some days), and the walkable Golden Triangle. The Touch 'n Go card saves money on all rail and bus transport compared to buying individual tickets. Staying in guesthouses in Chinatown or Chow Kit gives access to the cheapest local food areas.",
+      "tourist_tips": [
+        "A full meal of nasi lemak, char kway teow, or roti canai at a hawker centre costs RM 5–10 — eat where locals eat and save 70% vs tourist restaurants",
+        "KLCC Park beneath the Petronas Towers is free to enter and offers iconic tower views without paying for a ticket",
+        "Use Touch 'n Go card for all LRT, MRT, and bus trips — it is cheaper than single-trip tickets and eliminates queuing"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "country": "New Zealand",
+  "slug": "new-zealand",
+  "emoji": "🇳🇿",
+  "region": "Africa & Oceania",
+  "currency": "NZD",
+  "language": "English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in New Zealand",
+      "quick_answer": "Tipping is not customary or expected in New Zealand — workers earn a fair wage and no social pressure exists to tip.",
+      "detail": "New Zealand has a fair-wage culture where hospitality staff are paid properly, making tipping entirely optional. You may see tip jars at cafes and some restaurants, but dropping in coins is a gesture of appreciation rather than an obligation. Card machines rarely prompt for a tip, and declining to tip will never cause awkwardness. For truly exceptional service at a nice restaurant, rounding up or adding 10% is a generous and welcome surprise.",
+      "tourist_tips": [
+        "Never feel pressured to tip — pressing 'No Tip' on a card machine is completely normal and causes no offence",
+        "Leaving a small amount for outstanding service at a restaurant or cafe is appreciated but never expected",
+        "Bar staff, taxi drivers, and hotel housekeeping do not rely on tips and will not be offended without one"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in New Zealand",
+      "quick_answer": "A rental car is almost essential for most New Zealand itineraries — intercity public transport is limited to buses and domestic flights.",
+      "detail": "New Zealand has no meaningful intercity passenger rail network. Domestic flights with Air New Zealand and Jetstar are the fastest way between cities. InterCity buses connect major towns but journeys are long. Auckland, Wellington, and Christchurch have local bus networks; Auckland also has a commuter rail and ferry network using the AT HOP card. Uber operates in all three main cities. The Interislander and Bluebridge ferries run between Wellington and Picton (South Island) and are a scenic and practical way to cross Cook Strait. For exploring national parks, coastlines, and rural areas, a rental car is virtually indispensable.",
+      "tourist_tips": [
+        "Book the Interislander or Bluebridge ferry well in advance during summer (December–February) as they fill up fast",
+        "Get an AT HOP card in Auckland for discounts on buses, trains, and ferries within the city",
+        "Domestic flights on Air New Zealand can be surprisingly affordable when booked ahead — compare before taking the bus"
+      ],
+      "warning": "Public transport outside Auckland, Wellington, and Christchurch is very limited. Without a rental car, many of New Zealand's most famous sights (Milford Sound, Abel Tasman, Coromandel) are difficult or impossible to reach independently.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in New Zealand",
+      "quick_answer": "New Zealand's public healthcare is excellent, but travel insurance is essential as tourists are not fully covered by the public system.",
+      "detail": "New Zealand has a unique Accident Compensation Corporation (ACC) scheme that covers treatment costs for accidents for everyone in the country — including tourists — regardless of fault. This means if you are injured in an accident, many treatment costs are subsidised. However, ACC does not cover illness, medical evacuation, or non-accident hospital stays, which can be very expensive. Private clinics and after-hours medical centres offer fast consultations for around NZD 80–150. Chemist Warehouse, Life Pharmacy, and Green Cross Health pharmacies are widespread and excellent for minor issues. Travel insurance remains essential to cover illness, evacuation, and trip cancellation.",
+      "tourist_tips": [
+        "ACC covers accident-related treatment for all visitors — a genuine safety net unique to New Zealand",
+        "For illness (not accidents), visit an Accident and Medical (A&M) clinic — faster than hospital emergency departments",
+        "Pharmacies stock a wide range of medications without prescription; ask the pharmacist for advice on minor ailments"
+      ],
+      "warning": "ACC covers accidents but not illness — a medical evacuation from a remote area like Fiordland or the Southern Alps can cost NZD 20,000 or more. Never travel without comprehensive travel insurance.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in New Zealand",
+      "quick_answer": "New Zealand has strict biosecurity border laws, tight firearms regulations, and rules around freedom camping — declare everything on arrival.",
+      "detail": "New Zealand's biosecurity laws are among the world's strictest, very similar to Australia — all food, plant material, and animal products must be declared on arrival or face on-the-spot fines of NZD 400+ and potential prosecution. Cannabis possession remains technically illegal despite a failed 2020 decriminalisation referendum, though personal use is rarely prosecuted. Firearms laws were significantly tightened after the 2019 Christchurch mosque attacks — semi-automatic weapons are banned. Freedom camping is restricted in many areas; camping in an undesignated spot without a certified self-contained vehicle carries fines of up to NZD 200. Littering is a fineable offence throughout the country.",
+      "tourist_tips": [
+        "Declare absolutely everything at the biosecurity border — even a muesli bar in your bag can trigger a fine",
+        "Check the Freedom Camping Act rules for each region before pulling over to camp — use the CamperMate app",
+        "Leave No Trace principles are taken seriously — pack out all rubbish in national parks and on tracks"
+      ],
+      "warning": "Failing to declare biosecurity items at New Zealand customs can result in immediate fines of NZD 400 and potential criminal prosecution. Detector dogs are routinely deployed at all international airports.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in New Zealand",
+      "quick_answer": "Dial 111 for all emergencies (police, ambulance, fire); dial 105 for non-urgent police matters.",
+      "detail": "New Zealand's single emergency number is 111, connecting to police, ambulance, and fire services. For non-emergency police reports (theft, minor incidents), call 105 or report online at police.govt.nz. Mobile coverage in remote areas such as Fiordland, the West Coast, and back-country tracks can be non-existent. Trampers and adventurers should register their intentions with AdventureSmart (adventuresmart.nz) and carry a personal locator beacon (PLB), which can be hired inexpensively from DOC visitor centres. Mountain Search and Rescue is volunteer-run and excellent, but activation is expensive without insurance.",
+      "tourist_tips": [
+        "Register your tramp or backcountry trip at adventuresmart.nz before heading into remote areas",
+        "Hire a Personal Locator Beacon (PLB) from DOC visitor centres for NZD 5–10 per day in areas with no cell coverage",
+        "The 105 non-emergency police line is useful for reporting minor theft or incidents that don't need an immediate response"
+      ],
+      "warning": "Mobile phone coverage disappears quickly outside towns and major roads. Do not rely on your phone as a safety device in New Zealand's national parks and back-country areas — carry a PLB.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in New Zealand",
+      "quick_answer": "New Zealand is very casual — dress practically for the outdoors, bring a waterproof jacket everywhere, and apply SPF50 sunscreen daily.",
+      "detail": "New Zealand has a relaxed, outdoors-oriented dress culture where practicality matters more than fashion. Jeans, sneakers, and a fleece or waterproof jacket are the everyday uniform. Smart casual is appropriate for nicer restaurants in Auckland and Queenstown but rarely strictly enforced. The most important item of clothing in New Zealand is a quality waterproof jacket — weather can change within minutes in mountainous areas, and even on summer days. Sun protection is critical: New Zealand's ozone layer is thinner than in Europe or North America, making UV radiation significantly more intense — SPF50+ sunscreen, a hat, and UV-protective clothing are strongly recommended.",
+      "tourist_tips": [
+        "Pack a quality waterproof and windproof jacket regardless of season — New Zealand weather is famously unpredictable",
+        "Apply SPF50+ sunscreen every day, even when it is overcast — UV levels are extremely high year-round",
+        "When visiting a Maori marae (meeting ground), dress modestly and remove shoes when entering any wharenui (meeting house)"
+      ],
+      "warning": "New Zealand's UV index regularly reaches 11–13 (extreme) in summer, one of the highest in the world due to the thinner ozone layer. Sunburn can occur within 10 minutes — never skip sunscreen.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in New Zealand",
+      "quick_answer": "The legal drinking age is 18; alcohol is sold in supermarkets and bottle stores; many public spaces have liquor bans in place.",
+      "detail": "New Zealand's legal drinking age is 18 and ID is routinely checked at bars, restaurants, and bottle stores. Unlike Australia, alcohol is sold directly in supermarkets (Countdown/Woolworths, Pak'nSave, New World) as well as dedicated bottle stores (Super Liquor, Liquorland). Many public parks, beaches, and town centres have designated liquor ban zones where drinking in public is prohibited — these are enforced by local councils and police, particularly in Auckland. Restaurants and bars require an alcohol licence. BYO (bring your own bottle) restaurants are common and a great way to save money. The drink-drive limit is 50mg/100ml blood alcohol for those aged 20+ and zero for under-20s.",
+      "tourist_tips": [
+        "Supermarkets sell wine, beer, and spirits directly — convenient for self-catering and campervanning",
+        "Look for BYO-licensed restaurants and bring your own wine to save significantly on the evening's cost",
+        "Public liquor bans (signposted) are common in parks and public areas — fines apply for drinking in banned zones"
+      ],
+      "warning": "Do not drink and drive in New Zealand. Random breath testing is common and the legal limit is strictly enforced. Under-20s face a zero-tolerance blood alcohol limit.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in New Zealand",
+      "quick_answer": "New Zealand has a fixed-price culture — bargaining in shops and markets is not customary and would be considered unusual.",
+      "detail": "Like Australia, New Zealand operates on fixed prices in virtually all retail and commercial settings. Haggling in shops, markets, or restaurants is not expected and would likely cause confusion or embarrassment. Car dealerships are an exception where negotiation is standard practice. Garage sales and second-hand markets may offer some flexibility. Real estate negotiation is normal. The commercial environment is honest and transparent — scam attempts are very rare.",
+      "tourist_tips": [
+        "Prices in shops, cafes, and markets are fixed — simply pay the marked price without negotiation",
+        "At car dealerships, politely asking for a better deal or extras thrown in is completely normal and often successful",
+        "TradeMe (NZ's version of eBay) and Facebook Marketplace are great for second-hand gear where some negotiation is expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography in New Zealand",
+      "quick_answer": "Photography is generally very welcome throughout New Zealand, but always ask permission before photographing at Maori marae or cultural performances.",
+      "detail": "New Zealand is an extremely photogenic and photography-friendly destination. In public spaces, national parks, and along most scenic routes there are no restrictions. However, Maori marae (meeting grounds) and taonga (sacred objects) are an important exception — always ask the tangata whenua (local people) for permission before photographing, and respect any refusal. Some Maori cultural performances permit photography while others do not; follow the host's guidance. Wildlife areas, including DOC-managed nature reserves, are generally open to photography but getting too close to nesting seabirds or marine mammals can be an offence. Standard rules apply around police operations and military installations.",
+      "tourist_tips": [
+        "Always ask permission before photographing people at a marae or during a cultural ceremony — a no should be respected graciously",
+        "DOC (Department of Conservation) parks are stunning for photography but keep your distance from wildlife, especially nesting birds",
+        "Drone flying requires Civil Aviation Authority (CAA) authorisation near airports and in controlled airspace — check the AirShare app"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in New Zealand",
+      "quick_answer": "Retail is generally open seven days a week; public holidays such as Waitangi Day and ANZAC Day cause significant closures.",
+      "detail": "New Zealand supermarkets and most major retailers trade seven days a week, including Sundays. Smaller towns and independent stores may have reduced Sunday hours. Public holidays cause the most disruption — Waitangi Day (6 February) and ANZAC Day (25 April) are particularly significant and many businesses close entirely, especially on ANZAC Day morning when dawn services are held. Christmas Day and Good Friday also see widespread closures. Each region has its own anniversary public holiday that can affect local businesses. Cafes and tourist-facing businesses tend to remain open on most public holidays in tourist areas.",
+      "tourist_tips": [
+        "ANZAC Day (25 April) is deeply solemn — most shops are closed in the morning for dawn services; plan supplies the day before",
+        "Waitangi Day (6 February) celebrates the Treaty of Waitangi — expect closures and commemoration events in Northland and major cities",
+        "Supermarkets like Pak'nSave, Countdown, and New World are reliable seven-day trading options including most holidays"
+      ],
+      "warning": "Good Friday, Easter Sunday, and Christmas Day see widespread closures across New Zealand including in tourist towns. Stock up on food and supplies the day before.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in New Zealand",
+      "quick_answer": "Uber operates in Auckland, Wellington, and Christchurch; traditional taxis are metered and reliable; a rental car is essential outside major cities.",
+      "detail": "Uber is available in New Zealand's three main cities and is generally reliable and affordable. Co-op Taxis and Green Cabs also operate in Auckland and Wellington, with metered fares. Traditional taxis are honest and do not require tipping. Outside the main cities, rideshare is non-existent and taxi services in smaller towns often need to be pre-booked by phone. For most New Zealand itineraries — visiting the Coromandel, Marlborough Sounds, Queenstown region, or any national park — a rental car is not just convenient but practically essential. Campervans and motorhomes are popular for exploring the country at your own pace.",
+      "tourist_tips": [
+        "Book a rental car well in advance for the summer season (December–February) as availability tightens quickly",
+        "In Queenstown and smaller tourist towns, book a taxi or shuttle in advance rather than expecting to hail one",
+        "Campervan rental (Jucy, Wicked, Britz) is a popular and cost-effective way to travel and sleep in New Zealand"
+      ],
+      "warning": "Outside Auckland, Wellington, and Christchurch, on-demand transport does not exist. Arrange transfers or rental cars before arriving in smaller towns and tourist destinations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in New Zealand",
+      "quick_answer": "Tap water is completely safe to drink throughout all New Zealand towns and cities.",
+      "detail": "New Zealand tap water is of excellent quality and safe to drink without treatment in all urban and town areas. There is no need to buy bottled water. In remote backcountry and wilderness areas, however, streams and rivers can carry Giardia lamblia — a waterborne parasite transmitted by animal faeces. Any untreated water source in the back-country should be filtered, boiled, or treated with iodine before drinking. Rivers and lakes also pose a drowning hazard — New Zealand has one of the highest drowning rates per capita in the developed world, and many river crossings are dangerous, particularly after rainfall.",
+      "tourist_tips": [
+        "Drink freely from the tap throughout New Zealand — it is clean, fresh, and tastes excellent",
+        "In back-country areas, always treat water from streams or rivers using a filter or purification tablets",
+        "Never attempt a swollen river crossing after heavy rain — many tramping fatalities in NZ involve unexpected river floods"
+      ],
+      "warning": "Back-country rivers in New Zealand can rise rapidly and become uncrossable with little warning after rainfall. Check weather forecasts and DOC track conditions before every tramp.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in New Zealand",
+      "quick_answer": "Contactless card payment is universal in New Zealand — cash is rarely needed, but ATMs from major banks accept foreign cards.",
+      "detail": "New Zealand is one of the most cashless societies in the world. Contactless Paywave/Paypass card payments are accepted virtually everywhere, including small cafes, food trucks, and remote petrol stations. The major banks — BNZ, ANZ, Westpac, and ASB — all have ATMs in city centres and most towns that accept international Visa and Mastercard. Foreign card fees apply, typically NZD 3–5 per transaction plus a currency conversion margin. Using a Wise or similar multi-currency card eliminates most fees. Cash is useful for markets, garage sales, and some rural honesty boxes (roadside produce stalls).",
+      "tourist_tips": [
+        "A Wise or Revolut multi-currency card is ideal for New Zealand — no foreign transaction fees and competitive exchange rates",
+        "ATMs are plentiful in all major towns; withdraw larger amounts less frequently to minimise per-transaction fees",
+        "Contactless card payment works almost everywhere including small towns — you rarely need cash"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in New Zealand",
+      "quick_answer": "Spark has the best rural coverage; tourist SIM packages are available at airports, supermarkets, and convenience stores.",
+      "detail": "New Zealand's three main mobile networks are Spark (best rural and national park coverage), One NZ (formerly Vodafone), and 2degrees. Tourist and prepaid SIM cards are available at Auckland and Christchurch international airports, Countdown and New World supermarkets, and Warehouse Mobile stores. A typical tourist data package costs NZD 20–50 for 10–30GB of data. Airalo eSIM is a convenient option for compatible phones. 4G coverage is excellent in cities and along main highways, but patchy or non-existent in Fiordland, remote Northland, the West Coast, and many national park interiors. Public Wi-Fi is available in most cafes, libraries, and DOC visitor centres.",
+      "tourist_tips": [
+        "Buy a Spark prepaid SIM for the best coverage when travelling to national parks, rural Northland, or the West Coast",
+        "Airalo and other eSIM providers work well in New Zealand and avoid the need to swap physical SIM cards",
+        "Download offline maps (Maps.me, Google Maps offline) before heading into remote areas where mobile data disappears"
+      ],
+      "warning": "Mobile coverage in Fiordland, remote Southland, and many back-country tracks is non-existent even on the best networks. Do not rely on mobile data or phone calls as a safety backup in the wilderness.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in New Zealand",
+      "quick_answer": "New Zealand uses Type I plugs (three flat angled pins, same as Australia) at 230V/50Hz — UK and US visitors need an adapter.",
+      "detail": "New Zealand uses the Type I electrical socket, which is the same as Australia — three flat pins arranged in an angled triangle (two angled live/neutral pins and one earth pin). The supply is 230V at 50Hz. Travellers from the UK (Type G plugs) and the USA (Type A/B, 120V) will need a plug adapter and Americans may also need a voltage converter for sensitive devices, though most modern electronics (phones, laptops, cameras) are dual-voltage (100–240V) and need only an adapter. Power supply in New Zealand is very reliable throughout the country. Adapters are available cheaply at The Warehouse, airports, and Bunnings hardware stores.",
+      "tourist_tips": [
+        "If you are coming from Australia, your plugs work directly in New Zealand — no adapter needed",
+        "UK visitors need a Type I adapter — buy one at Auckland Airport arrival hall or any The Warehouse store",
+        "Check your device's power brick for '100–240V' — if it says this, you only need a plug adapter, not a voltage converter"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in New Zealand",
+      "quick_answer": "New Zealand has an extremely low scam culture and is one of the world's most honest commercial environments — fixed prices apply everywhere.",
+      "detail": "New Zealand consistently ranks as one of the least corrupt and most honest countries in the world. Tourist scams of the kind common in many other destinations are extremely rare. The most reported issue for tourists is rental car and campervan damage disputes — always photograph your vehicle thoroughly before and after rental and keep the documentation. Freedom camping fines are another trap for uninformed tourists who camp in restricted areas without a certified self-contained vehicle. Online scams (phishing, fake accommodation listings) exist as they do everywhere. Always book accommodation through reputable platforms.",
+      "tourist_tips": [
+        "Photograph every dent, scratch, and mark on a rental car or campervan before driving off the lot — share the photos immediately via email",
+        "Check the freedom camping rules for each area using the CamperMate app to avoid fines of up to NZD 200",
+        "Book accommodation through well-known platforms (Booking.com, Airbnb) and confirm directly with hosts before paying deposits"
+      ],
+      "warning": "Rental vehicle damage disputes are the most common commercial complaint from tourists in New Zealand. Document vehicle condition thoroughly with timestamped photos before and after each hire.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in New Zealand",
+      "quick_answer": "New Zealand is one of the world's safest countries — violent crime is rare, though petty theft occurs in tourist areas and trailhead car parks.",
+      "detail": "New Zealand is a very safe travel destination. Violent crime affecting tourists is extremely rare. The most common issues are opportunistic theft from vehicles parked at trailheads (a known problem at popular DOC walks like the Tongariro Crossing and Routeburn Track), pickpocketing in busy areas of central Auckland and Queenstown waterfront, and occasional bag snatching. Leave nothing of value visible in a parked car. Natural hazards — rip currents at beaches, flooding rivers, avalanche zones, volcanic activity around Tongariro — pose a greater risk to tourists than crime.",
+      "tourist_tips": [
+        "Never leave valuables visible in a parked car at trailheads — smash-and-grab theft is the most common tourist crime",
+        "Swim only between the red-and-yellow flags at patrolled beaches — rip currents are the biggest safety risk for visitors",
+        "Check volcanic alert levels before visiting Tongariro National Park — eruption hazard is real and the area is active"
+      ],
+      "warning": "Car break-ins at popular trailhead car parks are a known and persistent problem throughout New Zealand. Leave your car empty and unlocked rather than risk a smashed window.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in New Zealand",
+      "quick_answer": "New Zealanders are friendly and informal, but Maori culture is central to national identity — showing genuine respect for tikanga Maori goes a long way.",
+      "detail": "New Zealand's culture is shaped by both Pakeha (European) and Maori traditions, and te Tiriti o Waitangi (the Treaty of Waitangi) is the founding constitutional document that gives Maori culture equal standing. The 'she'll be right' attitude means Kiwis are relaxed, direct, and unpretentious — overly formal behaviour can seem out of place. If invited to a powhiri (Maori welcome ceremony) at a marae, follow all guidance from your hosts: wait to be called forward, do not speak unless invited, remove shoes when entering the wharenui (meeting house), and press noses and foreheads for the hongi greeting. Do not sit on tables or place food near taonga (sacred objects). These protocols are taken seriously.",
+      "tourist_tips": [
+        "Learn a few words of te reo Maori — 'kia ora' (hello/thank you), 'haere mai' (welcome), and 'ka kite' (goodbye) will be warmly received",
+        "If attending a powhiri at a marae, follow every instruction given by your hosts and never walk ahead of the group",
+        "Remove your shoes before entering any wharenui (Maori meeting house) — look for footwear piled at the entrance"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in New Zealand",
+      "quick_answer": "English is the primary spoken language — there is no language barrier for English speakers, though learning a few Maori words is warmly appreciated.",
+      "detail": "English is the dominant everyday language in New Zealand and there is no communication barrier for English-speaking visitors. Te reo Maori is an official language of New Zealand and is increasingly present in signage, broadcasts, government communications, and everyday speech. Place names throughout New Zealand are Maori and worth learning to pronounce correctly — New Zealanders will appreciate the effort. Basic Maori words frequently heard include 'kia ora' (hello/thank you/cheers), 'haere mai' (welcome), 'ka kite' (goodbye), 'Aotearoa' (New Zealand), 'whanau' (family), and 'kai' (food). New Zealand English has distinctive vocabulary: 'jandals' (flip flops), 'bach' (holiday cottage), 'chilly bin' (cooler/esky), and 'sweet as' (great/no problem).",
+      "tourist_tips": [
+        "Greet people with 'kia ora' instead of hello — it is used constantly by all New Zealanders and will get a warm response",
+        "Maori place names use consistent vowel pronunciation: a=ah, e=eh, i=ee, o=oh, u=oo — practice before your trip",
+        "When in doubt about pronunciation of a Maori word, just try — New Zealanders appreciate the effort and will gently correct you"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in New Zealand",
+      "quick_answer": "New Zealand has stunning beaches but strong rip currents are a serious hazard — always swim between the flags at patrolled beaches.",
+      "detail": "New Zealand has world-class beaches from the tropical-feeling Bay of Islands and Coromandel Peninsula in the north to the wild surf beaches of Raglan and Piha and the golden sands of Abel Tasman National Park in the south. Rip currents are the most serious hazard and claim lives every year — always swim at patrolled beaches and between the red-and-yellow flags where lifeguards are on duty. UV radiation in New Zealand is extremely high due to the thinner ozone layer — SPF50+ sunscreen is essential. Hot Water Beach on the Coromandel is a famous geothermal attraction where visitors dig their own hot pools at low tide — bring a spade. Shark encounters are very rare but do occur occasionally.",
+      "tourist_tips": [
+        "Always swim between the flags at patrolled beaches — rip currents are the leading cause of tourist drowning in New Zealand",
+        "Hot Water Beach on the Coromandel: arrive 1–2 hours before low tide and bring a spade to dig your own thermal pool",
+        "Apply SPF50+ sunscreen every two hours at the beach — New Zealand's UV is significantly stronger than in Europe or North America"
+      ],
+      "warning": "Rip currents at unpatrolled beaches are dangerous and can be fatal. If caught in a rip, do not swim against it — swim parallel to shore until free, then return to shore. Only swim at patrolled beaches where possible.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in New Zealand",
+      "quick_answer": "Drive on the LEFT; roads are often narrow and winding; speed limits are strictly enforced; a rental car is essential for most itineraries.",
+      "detail": "New Zealand drives on the left side of the road, the same as the UK and Australia. A foreign driving licence is valid for up to 12 months. Speed limits are 100km/h on open roads and 50km/h in towns unless otherwise signed. New Zealand's road death rate is higher than comparable countries — roads are often single-lane, winding, unsealed, and may have unexpected hazards including sheep, cyclists, and oncoming campervans on blind bends. Slow down significantly below the speed limit on rural roads. Campervans are extremely common and slow — allow time when passing. Mobile phone use while driving is illegal. New Zealand roads are genuinely beautiful but demand full attention.",
+      "tourist_tips": [
+        "Drive much slower than the speed limit on rural and mountain roads — the scenic routes are not engineered for speed",
+        "Give way to vehicles coming from the right at uncontrolled intersections — New Zealand's give-way rule can catch out overseas drivers",
+        "Watch for one-lane bridges (very common) — the side with the give-way sign must wait for oncoming traffic to clear"
+      ],
+      "warning": "New Zealand has a disproportionately high road fatality rate, with overseas tourists over-represented in crash statistics. Jet lag, unfamiliar left-hand driving, and scenic distractions are major factors — drive slowly and take regular breaks.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in New Zealand",
+      "quick_answer": "New Zealand food is excellent — world-class lamb, seafood, and coffee; look for BYO-licensed restaurants to save on drinks costs.",
+      "detail": "New Zealand produces outstanding food: lamb and venison are world-renowned, green-lipped mussels and crayfish (rock lobster) are local delicacies, and paua (abalone) fritters are a classic Kiwi snack. The flat white coffee (claimed by both New Zealand and Australia) originated in this part of the world and cafe culture is outstanding. Maori hangi — food cooked in an earth oven — is a must-try cultural experience. Pavlova is the national dessert (claimed, again, with Australia). Portions at restaurants are generous. BYO (bring your own wine) restaurants are widespread and a great money-saver — check if a restaurant is BYO-licensed and bring your own bottle from the supermarket. Food trucks and weekend markets are excellent for affordable eating.",
+      "tourist_tips": [
+        "Look for BYO-licensed restaurants and bring a bottle of wine from the supermarket to save NZD 20–40 on the evening",
+        "Pak'nSave supermarkets are the cheapest in New Zealand — stock up on provisions for road trips and camping",
+        "Try a Maori hangi at a cultural experience in Rotorua — the slow-cooked flavours are unique and genuinely delicious"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in New Zealand",
+      "quick_answer": "Maori marae are the most significant sacred sites requiring strict protocol; Christian churches and other religious sites welcome respectful visitors.",
+      "detail": "New Zealand's most culturally important sacred sites are Maori marae (meeting grounds and community centres), which require visitors to follow tikanga Maori (correct protocols) — you must be invited and welcomed through a powhiri ceremony before entering. Remove shoes before entering the wharenui (meeting house). Do not sit on tables, place food near taonga, or photograph without permission. Christian churches are open and welcoming; visitors are respectfully received. Auckland has mosques, Hindu temples, and Buddhist temples in its multicultural suburbs — modest dress (covered shoulders and knees), removal of shoes where required, and quiet behaviour are the general expectations. Christchurch's striking Transitional (Cardboard) Cathedral is well worth visiting.",
+      "tourist_tips": [
+        "Never enter a marae uninvited — wait to be welcomed through a powhiri ceremony by the tangata whenua (local hosts)",
+        "Remove shoes before entering any wharenui (Maori meeting house) and follow all guidance given by your hosts",
+        "When visiting mosques or Hindu temples in Auckland, dress modestly with shoulders and knees covered and remove shoes at the entrance"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit New Zealand",
+      "quick_answer": "Summer (December–February) is peak season for beaches and hiking; winter (June–September) is best for skiing; spring and autumn offer beautiful conditions with fewer crowds.",
+      "detail": "New Zealand's seasons are the reverse of the Northern Hemisphere. Summer (December–February) offers the best beach, hiking, and camping conditions, but is also peak tourist season with higher prices and crowded popular spots. Autumn (March–May) is increasingly popular — stunning foliage, fewer crowds, and pleasant temperatures. Winter (June–September) transforms the South Island's ski fields (Queenstown, Wanaka, Mount Hutt) into world-class skiing destinations. Wellington is famously windy year-round. The West Coast of the South Island is wet in all seasons. Fiordland (Milford Sound) receives around 7 metres of rain per year but can be visited year-round — rain enhances the waterfalls. UV levels are highest November–February.",
+      "tourist_tips": [
+        "Book accommodation and the Interislander ferry 3–6 months in advance for December–February travel — popular areas fill completely",
+        "Shoulder season (March–April and October–November) offers excellent conditions, lower prices, and significantly smaller crowds on popular tracks",
+        "Always check the MetService NZ weather forecast (metservice.com) before any outdoor activity — conditions change rapidly"
+      ],
+      "warning": "Mountain weather in New Zealand can change from clear skies to blizzard conditions within hours, at any time of year. Always check forecasts, carry extra layers, and register your plans before any alpine adventure.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for New Zealand",
+      "quick_answer": "New Zealand is expensive — save with DOC hut passes, freedom camping in a certified vehicle, BYO restaurants, and supermarket food shopping.",
+      "detail": "New Zealand is one of the more expensive travel destinations in the world, but significant savings are possible. DOC (Department of Conservation) backcountry huts on the Great Walks and other tracks are affordable alternatives to commercial accommodation. A certified self-contained campervan allows legal freedom camping at hundreds of designated sites throughout the country for free or very low cost. Pak'nSave supermarkets are the most affordable for groceries. BYO-licensed restaurants allow you to bring your own wine rather than paying restaurant mark-ups. i-SITE visitor information centres (the official tourism network) provide free planning advice, maps, and local knowledge. Hitchhiking is still practised in New Zealand and is relatively safe, particularly on the South Island's tourist routes.",
+      "tourist_tips": [
+        "Purchase a DOC Backcountry Hut Pass (NZD 120–150 per year) if doing multiple multi-day tracks — it pays for itself quickly",
+        "Hire a certified self-contained campervan to legally freedom camp for free — check the Camp Freely or CamperMate apps for sites",
+        "Eat lunch specials and supermarket deli food rather than restaurant dinners — lunch menus are often 30–40% cheaper than evening equivalents"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

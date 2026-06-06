@@ -1,0 +1,360 @@
+{
+  "country": "Qatar",
+  "slug": "qatar",
+  "emoji": "🇶🇦",
+  "region": "Middle East",
+  "currency": "QAR",
+  "language": "Arabic",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Qatar",
+      "quick_answer": "Tipping 10–15% is appreciated at restaurants, though many include a service charge; hotel staff expect 10–20 QAR, and Uber or Karwa taxi drivers don't require a tip.",
+      "detail": "Qatar has a generous but not mandatory tipping culture shaped by its large expat and tourist population. Many hotel restaurants and upscale dining venues automatically add a 10% service charge, so check your bill before adding more. For hotel bellboys and housekeeping, 10–20 QAR per service is standard and appreciated. Uber and Karwa metered taxis do not expect tips, as fares are already transparent and metered.",
+      "tourist_tips": [
+        "Always check your restaurant bill for a service charge before adding an extra tip",
+        "Keep small QAR notes on hand for tipping hotel staff — 10 QAR coins are rarely available",
+        "Tipping tour guides 20–50 QAR is a well-received gesture after a full-day excursion"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Qatar",
+      "quick_answer": "Doha has a modern, clean metro with three lines (Gold, Red, Green) that connects major attractions and Hamad International Airport.",
+      "detail": "The Doha Metro is a world-class driverless rail system launched in 2019, covering key areas including West Bay, the Corniche, Hamad International Airport, and education city. Single-journey tickets and the Doha Metro Card (rechargeable) are available at all stations. Karwa taxis are the official metered taxi fleet and are reliable and honest. Uber and Careem also operate widely. Because Qatar is a small country, there is no real need for intercity public transport — the metro and ride-hailing services cover virtually all tourist needs.",
+      "tourist_tips": [
+        "Buy a Doha Metro Card at any station for easy tap-on tap-off travel across all three lines",
+        "The Gold Line connects Hamad International Airport directly to central Doha — skip the taxi for this journey",
+        "Uber and Careem are often faster than waiting for a Karwa taxi in busy areas"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Qatar",
+      "quick_answer": "Qatar has excellent hospitals including Hamad Medical Corporation (public) and top private hospitals, with English widely spoken at all major facilities.",
+      "detail": "Qatar's healthcare infrastructure is among the best in the Middle East. Hamad Medical Corporation (HMC) operates the main public hospital network and accepts tourists in emergencies. Private facilities such as Al Ahli Hospital, Aster Medical Centre, and several international clinics provide fast, English-speaking care at higher cost. Pharmacies are widespread throughout Doha and dispense many medications that require prescriptions elsewhere. Travel insurance is still strongly recommended, as private hospital costs for tourists are significant.",
+      "tourist_tips": [
+        "Carry comprehensive travel insurance — private hospital bills can reach thousands of QAR quickly",
+        "Al Ahli Hospital (+974 4489 8888) is a top private option widely used by expats and tourists",
+        "Pharmacies in City Centre Doha and Villaggio Mall are open until midnight most evenings"
+      ],
+      "warning": "Some medications that are legal elsewhere are controlled in Qatar. Check the Ministry of Public Health list before bringing prescription drugs and carry a doctor's letter for any controlled medicine.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Qatar",
+      "quick_answer": "Qatar has strict laws around alcohol, drugs, public behavior, LGBT relationships, and criticism of the government — violations can mean arrest or deportation.",
+      "detail": "Alcohol is only legal at licensed hotel bars and restaurants; drinking in public is illegal. Drug trafficking carries the death penalty, and possession carries severe prison sentences. LGBT relationships are illegal under Qatari law and same-sex public displays of affection can lead to arrest. Unmarried couples sharing hotel rooms is technically illegal but widely tolerated at international hotels. Criticism of the Emir or the Qatari government — including on social media — is a criminal offense. Public displays of affection between any couple should be kept to an absolute minimum.",
+      "tourist_tips": [
+        "Only drink alcohol at your licensed hotel bar or restaurant — never on the street or in a public space",
+        "Do not bring or use any recreational drugs; penalties are severe and swift",
+        "Avoid posting anything on social media that could be interpreted as criticizing the Qatari government or royal family"
+      ],
+      "warning": "Drug trafficking is a capital offense in Qatar. Even traces of controlled substances in your system or luggage have led to tourist arrests — carry nothing.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Qatar",
+      "quick_answer": "Dial 999 for police, ambulance, or fire in Qatar; the dedicated tourist police hotline is 800-NAHR.",
+      "detail": "Qatar's emergency services are well-funded, fast-responding, and English-speaking. The unified 999 number covers police, ambulance, and fire brigade. The 800-NAHR (800-6247) tourist police line is specifically for visitors and operates in English and Arabic. Response times in Doha are very fast. If you have a non-emergency issue, your hotel concierge can also help navigate the local authorities effectively.",
+      "tourist_tips": [
+        "Save 999 and 800-6247 (tourist police) in your phone before you arrive",
+        "The tourist police hotline is toll-free and staffed with English-speaking officers",
+        "For non-emergency police matters, the Doha Police Station on C-Ring Road is centrally located"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Qatar",
+      "quick_answer": "Cover shoulders and knees in all public areas; beachwear is acceptable at beaches and hotel pools, and no full-face veil is required of tourists.",
+      "detail": "Qatar's public dress code applies to all visitors regardless of nationality or religion. In malls, souqs, streets, and public spaces, clothing should cover shoulders and knees for both men and women. Katara Cultural Village and Souq Waqif enforce modest dress more strictly than modern malls like Villaggio or Mall of Qatar. At hotel pools and recognized beaches, standard swimwear is completely acceptable. At mosques, women must cover their hair, arms, and legs; abayas are usually provided at entry. During Ramadan, dress more conservatively throughout the day as a mark of respect.",
+      "tourist_tips": [
+        "Pack a light scarf or sarong — it doubles as a cover-up for souqs, cultural sites, and mosques",
+        "Swimwear is fine at hotel pools and beach resorts; cover up when walking to and from the beach through public areas",
+        "Men in shorts are generally acceptable in tourist areas, but very short shorts draw unwanted attention in traditional neighborhoods"
+      ],
+      "warning": "Wearing overly revealing clothing in public spaces such as Souq Waqif or government buildings can result in a fine or being asked to leave.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Qatar",
+      "quick_answer": "Alcohol is only available at licensed hotel bars and restaurants; it is completely banned in all public spaces, and tourists cannot purchase from the Qatar Distribution Company.",
+      "detail": "Qatar permits alcohol consumption but restricts it to licensed hotel establishments and a single licensed retailer, the Qatar Distribution Company (QDC), which is open to residents only — not tourists. Visitors can drink at hotel bars and licensed hotel restaurants throughout Doha. Alcohol is also available for purchase at Hamad International Airport's Qatar Duty Free upon arrival. Drinking in public places, parks, beaches, or non-licensed restaurants is strictly illegal. During Ramadan, even licensed venues significantly reduce alcohol service hours.",
+      "tourist_tips": [
+        "Pick up alcohol at Qatar Duty Free on arrival at Hamad International Airport for in-room consumption",
+        "West Bay hotels such as the Four Seasons, Marriott, and Hilton all have licensed bars",
+        "Never carry an open bottle of alcohol outside a licensed venue — public consumption carries serious penalties"
+      ],
+      "warning": "Being visibly intoxicated in a public space or on the street is a criminal offense in Qatar, even if you consumed alcohol at a legal licensed venue.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Qatar",
+      "quick_answer": "Bargaining is possible in Souq Waqif and the gold souq but most modern malls and tourist shops have fixed prices.",
+      "detail": "Qatar's retail culture is split between traditional and modern. In Souq Waqif, polite negotiation is expected on souvenirs, textiles, and handicrafts. In the gold souq, the gold price itself is fixed by international market rates, but the making charges (labor) are negotiable. Modern malls such as Mall of Qatar, Villaggio, and Place Vendôme operate on strict fixed pricing. Overall, Qatar's bargaining culture is gentler than Morocco or Egypt — vendors are less aggressive and the expectation of hard negotiation is lower.",
+      "tourist_tips": [
+        "At Souq Waqif, start your offer at about 60–70% of the asking price — aggressive lowballing is considered rude here",
+        "In the gold souq, always ask the vendor to reduce or waive the making charges",
+        "Walk away slowly if the price doesn't drop — vendors often call you back with a better offer"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Qatar",
+      "quick_answer": "The Doha skyline and tourist sites are freely photographable, but photographing government buildings, palaces, military sites, and people without consent is illegal.",
+      "detail": "Qatar's photography laws are strict in certain areas. Government buildings, the Emiri Diwan (royal palace), military installations, police stations, construction sites, and certain infrastructure are all off-limits for photography. Always ask permission before photographing individuals, especially Qatari nationals. Souq Waqif is generally photographable and welcomes tourist cameras, but some vendors and locals prefer not to be photographed. The Doha skyline from the Corniche, Museum of Islamic Art, and major tourist attractions can be photographed freely.",
+      "tourist_tips": [
+        "The Museum of Islamic Art and Doha Corniche are excellent photography locations with no restrictions",
+        "Always ask shop owners in Souq Waqif before pointing a camera at them or their wares",
+        "Drone photography requires a permit from the Civil Aviation Authority — do not fly a drone without prior approval"
+      ],
+      "warning": "Photographing the Emiri Diwan, government ministries, military checkpoints, or police vehicles can result in detention and equipment confiscation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Qatar",
+      "quick_answer": "Qatar's weekend is Friday–Saturday; most malls and tourist venues are open seven days a week, but prayer times cause brief closures and Ramadan dramatically shifts all hours.",
+      "detail": "Qatar operates on a Friday–Saturday weekend, with Thursday evening being particularly busy for leisure. Government offices are closed on weekends. Malls, restaurants, and most tourist services operate seven days a week, typically 10am to 10pm on weekdays and until midnight or beyond on weekends. Friday prayers (around 11:30am–1:30pm) cause short temporary closures at small independent shops. During Ramadan, restaurants and cafes close entirely during daylight hours, business hours shift to evenings, and the entire rhythm of the country changes. Qatar National Day (December 18) sees widespread closures and major public celebrations.",
+      "tourist_tips": [
+        "Plan shopping trips to traditional souqs for after Friday prayers — usually open again by 2pm",
+        "During Ramadan, head to hotel restaurants for daytime meals as most independent restaurants will be closed",
+        "Qatar National Day on December 18 is a festive time to visit but expect crowds and some service disruptions"
+      ],
+      "warning": "During Ramadan, eating, drinking, or smoking in public during daylight hours is illegal for everyone — including non-Muslim tourists. Use hotel restaurants or eat discreetly indoors.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Qatar",
+      "quick_answer": "Karwa metered taxis and Uber are the main options; both are reliable, widely available, and generally honest.",
+      "detail": "Qatar's two primary ground transport options for tourists are Karwa taxis (the official metered taxi fleet operated by Mowasalat) and app-based services Uber and Careem. Karwa taxis are metered, honest, and available at all hotels and the airport. Uber and Careem provide upfront pricing and are often faster to dispatch in busy areas. Airport transfers use official Karwa taxis from the designated rank at Hamad International Airport. There are no unlicensed or informal taxis to worry about — Qatar's transport environment is well-regulated.",
+      "tourist_tips": [
+        "Download the Uber or Careem app before arriving — they are often slightly cheaper than Karwa taxis",
+        "Karwa taxis at the airport are metered and official — no need to negotiate a fare",
+        "Always ensure the meter is running in a Karwa taxi before the journey begins"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Qatar",
+      "quick_answer": "Tap water is technically safe but heavily desalinated and chemical-tasting — most residents and tourists drink bottled water, which is cheap and widely available.",
+      "detail": "Qatar's tap water goes through desalination and is technically safe to drink by international standards, but the heavy chemical taste from treatment makes it unpleasant for most people. Bottled water from local brands Rayyan and Nestle Pure Life is inexpensive (1–2 QAR per 1.5L bottle) and available everywhere from supermarkets to convenience stores. Hotels provide bottled water in rooms. For environmental and budget reasons, a refillable bottle topped up from hotel filtered-water stations is a good alternative for longer stays.",
+      "tourist_tips": [
+        "Buy bottled water in bulk from Carrefour or LuLu Hypermarket — it's far cheaper than hotel minibar pricing",
+        "Rayyan is the local Qatari brand and widely trusted — available at every supermarket and petrol station",
+        "Carry a refillable bottle with a filter if you want to reduce plastic use during your trip"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Qatar",
+      "quick_answer": "Qatar is largely cashless in modern venues — Apple Pay and Google Pay are widely accepted — but cash is still needed at some souq vendors and smaller shops.",
+      "detail": "Qatar has a highly developed digital payments infrastructure. Apple Pay, Google Pay, and contactless cards are accepted at virtually all malls, hotels, restaurants, and major retailers. ATMs from QNB (Qatar National Bank), Commercial Bank of Qatar, and QIIB accept major international cards including Visa and Mastercard. Cash remains useful for Souq Waqif vendors, small cafes, and some heritage area shops. ATM fees for foreign cards are typically 10–25 QAR per withdrawal. Using Wise or a fee-free travel card for ATM withdrawals is recommended.",
+      "tourist_tips": [
+        "Pay by contactless card or Apple/Google Pay wherever possible — it's widely accepted and saves ATM fees",
+        "QNB ATMs are the most reliable for international cards and found at all major malls and the airport",
+        "Carry 50–100 QAR in cash for small purchases at Souq Waqif where some vendors are cash-only"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Qatar",
+      "quick_answer": "Tourist SIMs from Ooredoo and Vodafone Qatar are available at Hamad International Airport and require your passport; 5G coverage is excellent across the country.",
+      "detail": "Qatar has two main mobile carriers: Ooredoo and Vodafone Qatar. Both offer prepaid tourist SIMs at their desks in the arrivals hall of Hamad International Airport. Packages start around 50 QAR for a week of data and calls. 5G coverage is extensive throughout Doha and most of Qatar. Airalo eSIMs work well in Qatar for travelers who prefer not to swap physical SIMs. Hotel Wi-Fi is generally strong at international properties. Note that VoIP services (WhatsApp calls, FaceTime) may be restricted on Qatari networks.",
+      "tourist_tips": [
+        "Buy your SIM at Hamad International Airport on arrival — both Ooredoo and Vodafone have counters in arrivals",
+        "Bring your passport as it is required for SIM registration by law",
+        "Consider an Airalo eSIM before departure if your phone supports eSIM — it avoids the airport queue"
+      ],
+      "warning": "VoIP and internet calling apps including WhatsApp voice/video calls and FaceTime may be blocked on Qatari carrier networks — use a VPN if these services are essential to you.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "vpn", "pocket-wifi"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Qatar",
+      "quick_answer": "Qatar uses Type G (British 3-pin) plugs at 240V/50Hz — UK visitors need no adapter, but US and most European visitors will need one.",
+      "detail": "Qatar's electrical system uses the same Type G three-pin plug used in the UK, at 240V and 50Hz. British travelers can plug in directly with no adapter needed. American and Canadian travelers (120V, Type A/B) need both a voltage adapter and a plug adapter. Most European travelers (Type C/E/F) need a plug adapter only, as modern electronics handle both 220V and 240V. Hotels often provide universal sockets in bathrooms for shavers, and many international hotels have USB ports at the bedside. Buying a Type G adapter at Hamad International Airport or Carrefour is easy and inexpensive.",
+      "tourist_tips": [
+        "US and Canadian travelers: buy a Type G plug adapter at the airport on arrival — they are sold at most convenience stores",
+        "Most modern phone chargers, laptops, and camera chargers are dual-voltage (100–240V) and only need a plug adapter",
+        "Type G adapters are widely available at LuLu Hypermarket and Carrefour for around 10–15 QAR"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Qatar",
+      "quick_answer": "Qatar has very low scam rates overall, though some tourist restaurants overprice and occasional taxis overcharge if the meter is skipped.",
+      "detail": "Qatar is one of the safest and most honest commercial environments in the world for tourists. Outright scams are rare and the strict legal system acts as a significant deterrent. The most common tourist pitfalls are restaurant menus in tourist areas with inflated prices (always ask for the English menu with prices and check before ordering) and taxis where the driver attempts to quote a fixed fare rather than use the meter. Unlicensed tour operators occasionally promise desert experiences that don't match the description. Overall, vigilance is low-stakes here compared to most destinations.",
+      "tourist_tips": [
+        "Always insist the Karwa taxi meter is turned on before your journey begins",
+        "Check that a restaurant menu has prices printed before sitting down, especially in Souq Waqif tourist areas",
+        "Book desert safari tours through your hotel concierge or a reputable operator like Arabian Adventures to avoid sub-standard experiences"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Qatar",
+      "quick_answer": "Qatar is one of the world's safest countries with extremely low crime rates — petty theft is almost unheard of and violent crime against tourists is exceptionally rare.",
+      "detail": "Qatar consistently ranks among the safest countries on earth for visitors. The combination of very strict law enforcement, a largely expat and professional population, and a high standard of living creates an environment where crime is genuinely rare. Petty theft, pickpocketing, and mugging — common concerns in many tourist destinations — are almost nonexistent. Women traveling solo report feeling very safe in Doha. The primary risks are traffic-related, given the aggressive driving culture in Doha, and the legal risks of inadvertently violating strict local laws rather than criminal threats from other people.",
+      "tourist_tips": [
+        "You can leave bags unattended at cafe tables and walk at night without safety concerns in all tourist areas",
+        "Exercise the most caution with traffic — roads in Doha are busy and drivers can be unpredictable",
+        "The biggest safety risk for tourists is legal, not criminal — know Qatar's laws before you arrive"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Qatar",
+      "quick_answer": "Accept offered gahwa (coffee) and dates, dress modestly, avoid rushing hosts, and observe Ramadan rules carefully — Qatar values hospitality and measured formality.",
+      "detail": "Qatari culture places enormous importance on hospitality. If offered gahwa (Arabic cardamom coffee) and dates, accepting is a sign of respect; refusing repeatedly can be perceived as rude. When visiting a home or majlis, remove shoes at the entrance if others have done so. The left hand is considered unclean — always use your right hand to eat, receive items, or gesture. During Ramadan, eating, drinking, or smoking in public during daylight hours is illegal and deeply disrespectful. Public displays of affection between couples should be kept minimal regardless of marital status. The FIFA World Cup 2022 modestly broadened Qatar's social openness, but core traditions remain important.",
+      "tourist_tips": [
+        "Accept gahwa and dates when offered — even a small sip and a bite shows genuine respect for Qatari hospitality",
+        "Use your right hand when passing or receiving objects, money, or food",
+        "During Ramadan, be especially mindful of eating and drinking in public — confine meals to your hotel or designated indoor spaces"
+      ],
+      "warning": "Public displays of affection — including kissing or sustained embracing in public — are illegal in Qatar and can lead to a fine or arrest.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Qatar",
+      "quick_answer": "Arabic is the official language but English is very widely spoken throughout Doha due to the large expat population — most tourist interactions require no Arabic at all.",
+      "detail": "Qatar's population is overwhelmingly made up of expatriates (over 85%), which means English functions as the de facto working language in most commercial, hospitality, and service environments. Hotel staff, taxi drivers, restaurant staff, and retail workers almost universally speak English at a functional or strong level. Learning a few Arabic phrases is warmly received as a gesture of respect. The Qatari Arabic dialect differs from Egyptian or Levantine Arabic. Hindi and Urdu are also widely spoken given the large South Asian workforce.",
+      "tourist_tips": [
+        "Marhaba (hello), shukran (thank you), and law samaht (excuse me/please) go a long way toward creating goodwill with locals",
+        "English is sufficient for all everyday tourist needs in Doha — do not worry about language barriers",
+        "Google Translate handles Modern Standard Arabic well for reading signs, menus, or written communication"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Qatar",
+      "quick_answer": "Qatar has accessible public and resort beaches on the Persian Gulf with warm water year-round; modest swimwear is expected at public beaches.",
+      "detail": "Qatar offers several beach options ranging from free public beaches to resort facilities. Sealine Beach in the south is popular for water sports and dune access. Al Wakrah Beach and Katara Beach (run by Katara Cultural Village) are accessible and well-maintained. The Persian Gulf is warm year-round (25–32°C), making swimming comfortable in all seasons. Some public beaches have women-only sections. At hotel beaches and resort pools, standard international swimwear is acceptable. Jellyfish can be present seasonally, particularly in summer. Beach access at resort hotels may require a day pass for non-guests.",
+      "tourist_tips": [
+        "Katara Beach requires modest swimwear in the public areas — bikinis are acceptable at resort hotel pools, not on public beaches",
+        "Sealine Beach Resort is the best base for desert-meets-beach experiences including dune bashing",
+        "Water sports including jet skiing and paddleboarding are available at several resort beaches along the Doha Bay coast"
+      ],
+      "warning": "Jellyfish are present in the Persian Gulf seasonally, particularly from May to September. Check local advisories before swimming and treat stings with vinegar.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Qatar",
+      "quick_answer": "Drive on the right; an international driving license is valid; traffic in Doha is heavy with speed cameras everywhere, but petrol is extremely cheap.",
+      "detail": "Qatar drives on the right side of the road, and an international driving permit (IDP) alongside your home country license is accepted for tourists. Doha's roads are modern but traffic is very heavy, particularly during rush hours (7–9am and 4–7pm). Speed cameras are widespread and fines are issued automatically. The speed limit in urban areas is generally 80 km/h and on expressways 100–120 km/h. Petrol is government-subsidized and exceptionally cheap by global standards. GPS navigation is essential as Doha's road network is complex and changing. Seat belts are mandatory for all occupants.",
+      "tourist_tips": [
+        "Use Google Maps or Waze — Doha's road layout is complex and both are well-updated for Qatar",
+        "Fill up at any WOQOD petrol station — fuel costs a fraction of European or Australian prices",
+        "Avoid driving in Doha during Friday afternoon prayers when traffic patterns shift and some roads close temporarily"
+      ],
+      "warning": "Qatar has zero tolerance for drink-driving — even a trace of alcohol in your system while driving is a criminal offense carrying fines, imprisonment, and deportation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Qatar",
+      "quick_answer": "Qatar offers excellent local cuisine including machboos and harees alongside a vast international food scene, but all food is halal and pork is unavailable.",
+      "detail": "Qatar's food scene reflects its diverse expat population. Traditional Qatari dishes include machboos (fragrant spiced rice with meat or fish), harees (slow-cooked wheat and meat porridge), and luqaimat (honey-drizzled dumplings). Indian, Pakistani, Filipino, Lebanese, and Western cuisines are all widely represented. All food served in Qatar is halal — pork and pork products are completely unavailable. Alcohol is only served at licensed hotel restaurants. Restaurant prices range from cheap (10–20 QAR for a shawarma or South Asian meal near the Corniche) to expensive (150–300+ QAR per head at hotel restaurants). Talabat and Careem food delivery apps are very popular.",
+      "tourist_tips": [
+        "Try machboos at Parisa Restaurant or Al Aker for an authentic Qatari meal at reasonable prices",
+        "Budget meal option: South Asian and Filipino restaurants near the Corniche and in Al Sadd serve filling meals for 15–30 QAR",
+        "Download the Talabat app for food delivery — it covers virtually every restaurant in Doha and is widely used by locals"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque & Religious Site Etiquette in Qatar",
+      "quick_answer": "The State Mosque (Grand Mosque) welcomes non-Muslim visitors outside prayer times with proper dress; robes and head coverings are provided at the entrance.",
+      "detail": "Qatar's main mosque open to non-Muslim tourists is the State Grand Mosque (Mohammed Ibn Abdul Wahhab Mosque) in Doha, which offers guided educational tours outside of the five daily prayer times. Abayas and head coverings are provided free of charge for women at the entrance, and men must wear long trousers. The Katara Cultural Village also has a mosque that welcomes respectful visitors. Most neighborhood mosques are for Muslim worshippers only — do not enter without a clear invitation. There are Christian churches in Qatar (due to the expat community) but they are in a designated religious complex and low-key in appearance.",
+      "tourist_tips": [
+        "Visit the State Grand Mosque on a guided tour — it is architecturally stunning and visits are free outside prayer times",
+        "Wear loose, full-length clothing to the mosque visit; abayas are provided but bringing your own avoids queues",
+        "Avoid visiting any mosque during the five daily prayer times — check local prayer schedules and plan around them"
+      ],
+      "warning": "Entering a mosque during prayer time without permission or without appropriate dress can cause serious offense and may result in being escorted out by authorities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Qatar",
+      "quick_answer": "Visit November to March for comfortable outdoor weather; summers (May–September) are brutally hot at 45°C+ and largely unsuitable for outdoor sightseeing.",
+      "detail": "Qatar has a desert climate with extreme summers and mild, pleasant winters. From November to March, temperatures range from 15–28°C, making outdoor activities, desert excursions, and sightseeing enjoyable. April and October are transitional months — still warm but manageable. May through September brings scorching heat regularly exceeding 40–45°C with high humidity, making outdoor activities impractical and dangerous. Qatar National Day falls on December 18, bringing public celebrations and a festive atmosphere. The sea is warm and swimmable year-round, with the most pleasant beach conditions from October to May.",
+      "tourist_tips": [
+        "Book your Qatar trip between November and February for the best combination of outdoor comfort and cultural events",
+        "Qatar National Day (December 18) features spectacular fireworks and parades — worth timing your visit around if possible",
+        "Desert excursions are best from November to February — night temperatures are cool and the landscape is at its most hospitable"
+      ],
+      "warning": "Summer heat in Qatar (June–August) can be life-threatening for outdoor exertion. Limit outdoor time to early morning and evenings, stay hydrated, and never leave children in parked cars.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Qatar",
+      "quick_answer": "Qatar is expensive overall, but cheap shawarma restaurants near the Corniche, free beach access, free entry to Souq Waqif, and using Careem over Karwa taxis all help reduce costs.",
+      "detail": "Qatar is among the more expensive destinations in the Middle East for tourists, particularly accommodation and hotel dining. However, significant savings are available with some planning. South Asian, Filipino, and shawarma restaurants near the Corniche and in the Al Sadd neighborhood offer filling meals for 15–30 QAR. The Museum of Islamic Art grounds and exterior are free to visit. Entry to Souq Waqif and most public beaches is free. Careem tends to run promotional codes that make it cheaper than Karwa taxis for regular journeys. Buying water and snacks at Carrefour or LuLu rather than hotel shops saves considerably.",
+      "tourist_tips": [
+        "Use Careem over Karwa taxis for regular journeys — Careem frequently offers discount codes and is often 20–30% cheaper",
+        "Eat at Filipino or South Asian restaurants in Al Sadd or near the Corniche for meals under 25 QAR rather than hotel restaurants",
+        "Museum of Islamic Art entry is around 30 QAR but the exterior promenade and waterfront view are completely free"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

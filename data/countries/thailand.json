@@ -1,0 +1,380 @@
+{
+  "country": "Thailand",
+  "slug": "thailand",
+  "emoji": "🇹🇭",
+  "region": "Asia",
+  "currency": "THB",
+  "language": "Thai",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Thailand",
+      "quick_answer": "Tipping is appreciated and expected in tourist areas. 20–50 THB at restaurants, 20–100 THB for massage, round up taxi fares.",
+      "detail": "Thailand has a strong tipping culture in tourist areas, driven largely by the fact that service wages are low and tips form a significant part of workers' income. At restaurants, leaving 20–100 THB (depending on the meal quality and total bill) is appreciated. Many upscale restaurants add a 10% service charge — check your bill. For massage therapists, 50–100 THB per hour is standard. Taxi drivers do not expect tips but rounding up the meter fare is polite. At hotels, 20–50 THB for housekeeping and bellboys is appropriate.",
+      "tourist_tips": [
+        "Always tip massage therapists — they often earn below minimum wage and depend on tips",
+        "At street food stalls, tipping is not expected but rounding up change is a kind gesture",
+        "Check if your restaurant bill already includes a service charge before tipping extra",
+        "For tour guides on private or small group tours, 100–200 THB per person per day is standard",
+        "Tip directly in cash — it goes straight to the worker rather than a pooled fund"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Thailand",
+      "quick_answer": "Bangkok has BTS Skytrain and MRT subway. Buy a Rabbit Card for BTS. Tuk-tuks and motorbike taxis are everywhere. Agree on price before boarding.",
+      "detail": "Bangkok has a good public transit system including the BTS Skytrain (elevated rail), MRT (underground subway), and river boats. The Rabbit Card works on BTS lines and can be bought at any BTS station. For MRT, buy tokens or a stored-value card at the station. Tuk-tuks are iconic but overpriced for tourists — they are primarily a tourist experience. Motorbike taxis (with orange vests) are fast for short distances but require negotiating a price first. Grab (the local Uber equivalent) is widely used, metered, and highly recommended over hailing taxis.",
+      "tourist_tips": [
+        "Use Grab app for taxis — it's metered, safe, and drivers know locations via GPS",
+        "BTS Rabbit Card saves time and is slightly cheaper than single-journey tokens",
+        "Never get in a taxi that 'doesn't use the meter' — insist on the meter or use Grab",
+        "River boats are a scenic and practical way to avoid traffic in Bangkok",
+        "Songthaews (shared pickup trucks) are the main transport in smaller cities like Chiang Mai"
+      ],
+      "warning": "Tuk-tuk drivers in tourist areas sometimes take you to jewelry stores or shops for commissions — they may claim your destination is 'closed today'. It is a scam. Stay firm on your destination.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Thailand",
+      "quick_answer": "Thailand has excellent private hospitals at affordable prices. Travel insurance is still essential. Bangkok's private hospitals rival those in the West.",
+      "detail": "Thailand is actually a global medical tourism destination — private hospitals like Bumrungrad International, Bangkok Hospital, and Samitivej Hospital in Bangkok offer world-class care at a fraction of Western costs. English is widely spoken at private hospitals in major cities. Costs are significantly lower than in the US, UK, or Australia, but still expensive without insurance. In rural areas and islands, healthcare quality drops significantly. Pharmacies (marked with a green cross) are everywhere and pharmacists can advise on and dispense many medications without a prescription.",
+      "tourist_tips": [
+        "Bumrungrad International Hospital in Bangkok (+66 2 066 8888) is a top-tier option with English service",
+        "Pharmacies are excellent for minor issues and sell many medications OTC that require prescriptions elsewhere",
+        "On islands like Koh Samui and Phuket, there are good private clinics but serious cases require evacuation to Bangkok",
+        "Dengue fever and other mosquito-borne diseases are present — use repellent with DEET, especially in rainy season",
+        "Travel insurance with medical evacuation is critical if visiting islands or rural areas"
+      ],
+      "warning": "Do not rely on public hospitals as a tourist. Costs and quality vary wildly. Stick to private hospitals in cities. Medical evacuation from remote islands can be extremely expensive.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Thailand",
+      "quick_answer": "Never disrespect the monarchy. Drug laws are extremely strict. It is illegal to criticize the King. Dress codes apply at temples.",
+      "detail": "Thailand's lese-majeste law (Section 112 of the Criminal Code) makes it a serious criminal offense to defame, insult, or threaten the King, Queen, heir apparent, or regent. This applies to social media posts, verbal comments, and even liking a Facebook post deemed disrespectful. Penalties are 3–15 years per count. Drug laws are severe — possession of Category 1 drugs (heroin, meth) carries the death penalty; marijuana was legalized for medicinal use in 2022 but regulations are evolving. Disrespecting Buddhist temples or monks is a significant cultural offense.",
+      "tourist_tips": [
+        "Never make any negative comment about the Thai Royal Family in public or online — even as a tourist",
+        "Stepping on Thai currency (which has the King's face) is technically illegal",
+        "Dress modestly at all Buddhist temples — cover shoulders and knees",
+        "Remove shoes before entering any temple or traditional Thai home",
+        "Three-finger salutes (from The Hunger Games) have been used as a political protest symbol and can cause police attention"
+      ],
+      "warning": "Multiple tourists have been arrested and imprisoned for social media posts about the Thai monarchy — including foreigners posting from abroad about Thailand. The law is enforced aggressively.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Thailand",
+      "quick_answer": "Tourist Police: 1155 (English spoken). Ambulance: 1669. Fire: 199. Regular Police: 191.",
+      "detail": "Thailand has a dedicated Tourist Police division (1155) that operates 24 hours and has English-speaking officers — this is the best number for tourists. The regular police line (191) may have limited English. For ambulance, the national emergency medical line is 1669. Private ambulance services in cities are often faster. Narenthorn EMS Center coordinates emergency medical services. On popular islands, some resorts have their own emergency contacts — always ask your accommodation for local emergency numbers on arrival.",
+      "tourist_tips": [
+        "Save Tourist Police (1155) in your phone — they speak English and are specifically trained for tourist issues",
+        "On islands and in rural areas, response times can be very slow — get to a hospital yourself if possible",
+        "Your embassy's emergency line is crucial to have — many embassies have 24/7 emergency consular assistance",
+        "Keep a photo of your passport details on your phone in case your physical passport is stolen",
+        "Tourist Police can also help with scams, theft, and disputes — not just physical emergencies"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Thailand",
+      "quick_answer": "Cover shoulders and knees at temples. Beachwear stays at the beach. Thai people dress practically — you won't be judged for casual wear in cities.",
+      "detail": "Thailand is relaxed about clothing in general tourist areas, beach resorts, and cities. However, temples (wats) and sacred sites have strict dress code requirements: shoulders and knees must be covered for both men and women. Many temples provide sarongs to borrow at the entrance. The Grand Palace in Bangkok enforces this particularly strictly and guards will turn you away. Beachwear is appropriate at beaches and resorts but should not be worn while visiting towns, markets, or any non-beach area. Thai people dress conservatively themselves in religious settings.",
+      "tourist_tips": [
+        "Always carry a light scarf or sarong in your day bag — invaluable for spontaneous temple visits",
+        "The Grand Palace and Wat Pho enforce dress codes strictly — guards will deny entry, not just warn you",
+        "Beachwear towns like Patong in Phuket are more relaxed about clothing throughout the streets",
+        "Shorts are fine in cities and tourist areas; flip-flops are near-universal footwear",
+        "Long sleeves and pants are good protection against mosquitoes too — a practical reason to dress modestly"
+      ],
+      "warning": "Wearing revealing clothing at temples is deeply disrespectful to Thai Buddhists. Many temples will refuse entry to tourists dressed inappropriately.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Thailand",
+      "quick_answer": "Drinking age is 20. Alcohol cannot be sold during election day or Buddhist holidays. Standard hours are 11am–2pm and 5pm–midnight at most venues.",
+      "detail": "Thailand allows alcohol sales but with restrictions. The legal drinking age is 20. Sales are restricted to specific hours at most venues: 11am–2pm and 5pm–midnight. This creates the curious situation where you cannot legally buy alcohol at a 7-Eleven at 3pm. On election days (national, provincial, and local), alcohol sales are completely banned nationwide for 24 hours. During important Buddhist holidays (like Makha Bucha, Visakha Bucha, and Asalha Bucha), alcohol sales are also banned. Beach towns and tourist areas sometimes have extended licenses.",
+      "tourist_tips": [
+        "Check if there is an election or Buddhist holiday during your visit — alcohol sales will be banned",
+        "7-Elevens are very strict about selling times; plan grocery shopping accordingly",
+        "Beach bars on Koh Samui, Phuket, and Koh Phangan often operate late into the night with special licenses",
+        "Chang and Singha are the popular local beers — very affordable at around 60-80 THB per bottle",
+        "Night markets in tourist areas typically have bars and food stalls serving alcohol freely in the evening"
+      ],
+      "warning": "Drink-driving enforcement has increased significantly. Random checkpoints are common, especially during holidays. The blood alcohol limit is 0.05% and penalties are serious.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Thailand",
+      "quick_answer": "Bargaining is expected at markets and street stalls. Fixed prices in malls and supermarkets. Be friendly, smile, and never get angry.",
+      "detail": "Thailand has an active bargaining culture at traditional markets, floating markets, street markets, and independent clothing or souvenir stalls. The key rule is to always bargain with a smile and good humor — Thai culture values keeping the interaction pleasant. A reasonable starting offer is 50–60% of the asking price. If the vendor accepts immediately, you have probably offered too much. In malls, department stores, and 7-Eleven-style shops, prices are completely fixed. Tuk-tuk and songthaew fares are always negotiated before the journey.",
+      "tourist_tips": [
+        "Start at half the asking price and work up — a final price of 60–70% of the original is a good outcome",
+        "Smile and be friendly throughout — aggressive bargaining is considered rude in Thai culture",
+        "Walking away slowly often results in the vendor accepting your price",
+        "Get competitive quotes from multiple stalls before buying; they are often right next to each other",
+        "Agree on taxi and tuk-tuk prices before getting in — there are no meters in most non-metered vehicles"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Thailand",
+      "quick_answer": "Photography is generally allowed. No photos of monks without permission. Inside temples, follow posted signs. Never photograph military or government buildings.",
+      "detail": "Thailand is generally very photography-friendly. Tourist sites, markets, temples, and landscapes can all be photographed. However, there are important exceptions. Inside temple buildings (ubosots), photography is sometimes banned — follow posted signs and staff direction. Photographing monks without asking is considered disrespectful; always request permission first. Photographing the military, police, government buildings, or the royal family in an unflattering way is illegal. As mentioned in local laws, anything that could be interpreted as disrespectful to the monarchy is a serious legal risk.",
+      "tourist_tips": [
+        "Always smile and gesture before photographing anyone — it's respectful and usually results in a yes",
+        "Inside the main prayer halls of temples, look for camera restriction signs — they are common",
+        "Photographs of the floating markets and street food scenes are iconic and vendors are used to tourists",
+        "At beaches and tourist resorts, photography is completely unrestricted",
+        "Drone flights require registration and permits from the Civil Aviation Authority of Thailand (CAAT)"
+      ],
+      "warning": "Photographing military checkpoints or personnel has resulted in tourist detention. Avoid pointing cameras at anything that looks official or governmental.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Thailand",
+      "quick_answer": "Most shops, malls, and restaurants are open 7 days a week. Convenience stores never close. Buddhist holidays cause alcohol bans and some closures.",
+      "detail": "Thailand operates largely 7 days a week. 7-Eleven, FamilyMart, and other convenience stores are open 24/7 throughout the year. Shopping malls are typically open daily (10am–9pm or 10pm). Street markets are often busiest on weekends. Government offices are closed on weekends and public holidays. Banks are closed on weekends but ATMs operate 24/7. On major Buddhist holidays (there are around 5 per year), alcohol sales are banned and some businesses close out of respect. Songkran (Thai New Year, mid-April) effectively shuts down major cities for 3–5 days.",
+      "tourist_tips": [
+        "Songkran (April 13–15 and extended in many cities) is a massive water festival — plan around it or join in",
+        "During Songkran, many shops and restaurants close; stock up on supplies in advance",
+        "Buddhist holiday dates change annually — check the calendar before planning a night out",
+        "Night markets and floating markets have their own schedules — check local listings",
+        "Bank branches close on weekends; use ATMs (airport arrival ATMs accept most foreign cards)"
+      ],
+      "warning": "Alcohol sales are banned on 5–6 Buddhist holidays per year. These dates change annually. Venues serving alcohol on these days can lose their license.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Thailand",
+      "quick_answer": "Grab is the dominant rideshare app in Thailand covering both cars and motorbikes, while metered taxis are widely available in cities — always insist on the meter.",
+      "detail": "Grab operates across Thailand for both car and motorbike rides with upfront pricing, making it the safest and most transparent option for tourists. Metered taxis are plentiful in Bangkok but drivers sometimes refuse the meter for tourists — insist firmly or walk away and hail another. Tuk-tuks are fun for short tourist trips but are not practical or economical for regular transport. Motorbike taxis wearing orange vests are ideal for short hops through traffic. BOLT also operates in Bangkok as a Grab competitor. In Chiang Mai, songthaews (shared red pickup trucks) are the main local transport, with fixed routes and negotiated fares.",
+      "tourist_tips": [
+        "Always use the Grab app for predictable fares — you see the price before confirming the ride",
+        "For metered taxis, say 'meter, please' as soon as you get in and if the driver refuses, exit and find another",
+        "Motorbike taxis at orange-vest stands are perfect for solo short-distance trips when traffic is heavy"
+      ],
+      "warning": "Tuk-tuk drivers at tourist areas sometimes steer you to commission-paying gem shops or tailor shops, claiming your intended destination is closed. This is a well-known scam — verify closures independently.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Thailand",
+      "quick_answer": "Tap water in Thailand is not safe to drink — always use bottled or purified water, which is cheap and widely available everywhere.",
+      "detail": "Tap water throughout Thailand is not potable for drinking and should be avoided even for brushing teeth in some areas. Bottled water is inexpensive at 7–15 baht per 500ml bottle and available at every convenience store and street stall. Ice served at established tourist restaurants is generally made from purified water and considered safe. Ice from unknown street food sources carries a slightly higher risk, particularly at small rural stalls. Refillable water stations are found throughout cities offering purified water at 1 baht per litre, making them a cost-effective and environmentally friendly alternative.",
+      "tourist_tips": [
+        "Buy a reusable bottle and refill at the cheap purified water stations found on most streets — 1 baht per litre",
+        "Ice at reputable restaurants and hotel bars is safe; it is produced from filtered water by commercial suppliers",
+        "Carry a small bottle of water at all times — dehydration is a real risk in the tropical heat"
+      ],
+      "warning": "Waterborne illness from tap water or contaminated ice is one of the most common causes of traveller sickness in Thailand. When in doubt about ice at a remote street stall, skip it.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Thailand",
+      "quick_answer": "Thai ATMs charge a 220 baht fee per foreign card withdrawal — minimise withdrawals, carry cash for markets and temples, and always choose to be charged in Thai baht.",
+      "detail": "Almost all Thai ATMs charge a flat 220 baht foreign transaction fee regardless of the amount withdrawn, so it is best to withdraw larger amounts less frequently. Bangkok Bank, Kasikorn (KBank), and SCB ATMs are the most widely available and reliably accept international cards. Cash remains essential for street food stalls, markets, temples, and tuk-tuks that do not accept cards. Carrying 1,000–2,000 baht on you at all times is a sensible precaution. The Wise card significantly reduces conversion fees when used at ATMs. When prompted by the ATM, always decline dynamic currency conversion and choose to be charged in THB.",
+      "tourist_tips": [
+        "Always select 'THB' and decline conversion to your home currency at the ATM — the bank's rate is worse",
+        "Withdraw larger amounts in one go to avoid paying the 220 baht fee multiple times",
+        "The Wise card or Revolut card can reduce overall fees, though the 220 baht ATM surcharge still applies"
+      ],
+      "warning": "Card skimming has been reported at standalone ATMs in tourist areas. Use ATMs inside bank branches or inside shopping malls where possible, and cover the keypad when entering your PIN.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Thailand",
+      "quick_answer": "Tourist SIMs from AIS or TrueMove cost 299–499 baht at the airport and give you 15–30 days of data with excellent coverage in cities and resort areas.",
+      "detail": "Thailand has three main mobile networks: AIS, DTAC (now merged into TrueMove H), and TrueMove. All three sell tourist SIM cards at Suvarnabhumi and Don Mueang airports upon arrival, and at convenience stores throughout the country. Tourist SIM packages typically cost 299–499 baht and include unlimited or high-speed data for 15–30 days. Coverage is excellent in Bangkok, Chiang Mai, Phuket, Koh Samui, and most resort areas. Signal can be patchy in jungle, mountain, and remote island areas. Airalo eSIM is a convenient option for those with compatible unlocked phones, allowing activation before departure.",
+      "tourist_tips": [
+        "Buy your SIM at the airport arrivals hall immediately — booths from AIS and TrueMove are clearly signposted",
+        "AIS is generally considered to have the strongest rural and island coverage in Thailand",
+        "If your phone supports eSIM, Airalo lets you activate a Thai data plan before you even board the plane"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Thailand",
+      "quick_answer": "Thailand uses 220V/50Hz and accepts Type A, B, and C plugs, meaning most international devices plug in without an adapter.",
+      "detail": "Thailand runs on 220V/50Hz electricity. Thai sockets are unusually accommodating, accepting Type A (two flat pins), Type B (two flat pins plus a round earth), and Type C (two round pins) plugs, which covers the majority of international devices including US, European, and Australian plugs. Most modern electronics (laptops, phone chargers, cameras) are dual-voltage and work fine. A universal travel adapter is still useful as a backup but many travellers find they do not need one. Power supply is reliable in Bangkok and major cities. On smaller islands and in remote areas, brief power outages can occur, particularly during rainy season storms.",
+      "tourist_tips": [
+        "Check your device's power brick for '100–240V' — if it says this, it works in Thailand without a voltage converter",
+        "Bring a multi-port USB charger to charge multiple devices from a single Thai socket",
+        "On islands like Koh Tao or remote guesthouses, carry a small power bank in case of outages"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Thailand",
+      "quick_answer": "Bargaining is normal at markets, but tourists face specific scams including tuk-tuk gem shop detours, fake tours, and the notorious jet ski damage scam in Phuket.",
+      "detail": "While haggling is a healthy and expected part of market shopping in Thailand, tourists are also targeted by organised scams. The tuk-tuk gem and tailor scam involves a driver offering cheap rides that conveniently stop at commission-paying shops. The jet ski damage scam in Phuket is particularly financially damaging — operators claim pre-existing scratches were caused by you and demand hundreds of dollars; always photograph the jet ski thoroughly before and after rental. Overpriced ping pong show tickets sold by touts promise a set price but add hidden charges inside. Fake tour operators sell excursions that do not match descriptions or do not run at all.",
+      "tourist_tips": [
+        "Photograph every angle of any rental vehicle — jet ski, scooter, or bicycle — before taking it out",
+        "Book tours through your hotel or a licensed agency rather than from street touts",
+        "If a deal or price sounds too good to be true on Khao San Road or Patong Beach, it almost certainly is"
+      ],
+      "warning": "The jet ski damage scam in Phuket is well-documented and can cost victims $200–$500 or more. Operators sometimes have corrupt police present to pressure payment. Photographic evidence before riding is your best protection.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Thailand",
+      "quick_answer": "Thailand is generally safe for tourists, with petty theft and motorbike bag snatching the most common risks — violent crime against tourists is rare.",
+      "detail": "Thailand ranks as one of Southeast Asia's safer destinations for tourists. Petty theft — pickpocketing in crowded markets and on busy transport — is the primary concern. Motorbike bag snatching has been reported in parts of Pattaya and certain Bangkok neighbourhoods; wear bags across the body and away from the road. Drug-related scams involving planted substances and police demanding bribes are very rarely documented but do exist. Sex tourism areas in Pattaya, Patong, and Bangkok carry associated risks of theft and robbery. Political protests occasionally occur in Bangkok and can turn unpredictable — avoid large gatherings if tensions are visible.",
+      "tourist_tips": [
+        "Keep valuables in a hotel safe and carry only what you need for the day when exploring busy areas",
+        "Wear your bag on the side away from the road to reduce motorbike snatching risk",
+        "Stay informed via your country's travel advisory website throughout your trip for any political developments"
+      ],
+      "warning": "Accepting drinks from strangers in bars — particularly in Pattaya and Patong — has led to drink spiking incidents. Always watch your drink and decline drinks from people you have just met.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Thailand",
+      "quick_answer": "Thai culture values respect, a calm demeanour, and avoiding public confrontation — greet with the wai, never touch anyone's head, and never point your feet at people or sacred objects.",
+      "detail": "The wai — pressing palms together at chest level and bowing slightly — is the traditional Thai greeting and shows respect; reciprocating when someone wais you is polite. The head is considered the most sacred part of the body in Thai culture and touching another person's head, even a child's, is deeply offensive. Feet are considered the lowest and least sacred part, so never point your feet at a person, a Buddha image, or a monk. Thai society places enormous value on avoiding public anger or confrontation — raising your voice or showing obvious frustration is considered losing face and reflects very badly. Women must never touch a Buddhist monk or hand anything directly to one.",
+      "tourist_tips": [
+        "If you make a mistake in etiquette, a sincere smile and a small wai goes a long way toward smoothing things over",
+        "Smile generously and remain calm in any dispute — aggressive behaviour will not get you what you want and may escalate the situation",
+        "When handing something to a Thai person, use your right hand or both hands; never just the left hand alone"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Thailand",
+      "quick_answer": "English is widely spoken in tourist areas but very limited outside them — learning a few basic Thai phrases earns enormous goodwill from locals.",
+      "detail": "Thai is a tonal language with five tones, making it genuinely difficult for English speakers to master quickly, but a handful of key phrases make a significant positive difference. In Bangkok, Phuket, Chiang Mai, and on major tourist islands, English is spoken at most hotels, restaurants, and shops. Outside tourist zones, English proficiency drops sharply and Google Translate (with camera mode for signs) becomes invaluable. Thai people respond warmly when tourists attempt even basic phrases. Key phrases to learn: 'sawadee krap' (male greeting) / 'sawadee ka' (female greeting), 'khob khun krap/ka' (thank you), and 'pet nit noi' (a little spicy).",
+      "tourist_tips": [
+        "Download Google Translate offline Thai language pack before arrival — it works without internet for text and camera translation",
+        "End sentences with 'krap' if you are male or 'ka' if you are female — it adds politeness that Thais genuinely appreciate",
+        "Say 'pet nit noi' (a little spicy) when ordering food if you cannot handle very high heat — Thai spice levels can be intense"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Thailand",
+      "quick_answer": "Thailand has world-class beaches but swimmers should watch for jellyfish, rip currents, and always obey the flag warning system — never swim under a red flag.",
+      "detail": "Thailand's beaches — including Koh Samui, Phuket, Koh Phi Phi, and Koh Tao — are among the most beautiful in the world. However, real hazards exist. Box jellyfish are extremely dangerous, particularly along the Gulf coast from March to June, and can cause fatal stings. Regular jellyfish are more common, especially around Koh Samui from February to April. Rip currents are a serious risk on the Andaman coast (Phuket, Krabi) during monsoon season. Phuket uses a coloured flag system: green (safe), yellow (caution), red (do not swim) — the red flag rule is enforced by lifeguards and must be respected.",
+      "tourist_tips": [
+        "Never swim under a red flag in Phuket or anywhere else in Thailand — rip currents kill tourists every year",
+        "Wear water shoes when entering the sea in jellyfish season and ask locals or hotel staff about current jellyfish risk",
+        "Koh Tao is one of the world's best and most affordable places to get a PADI open water diving certification"
+      ],
+      "warning": "Box jellyfish stings can be fatal within minutes. Vinegar neutralises the sting; do not rub it. Seek emergency medical attention immediately. Some beaches sell vinegar spray for this reason.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Thailand",
+      "quick_answer": "Thailand drives on the left; an international driving licence is required, but scooter rental is common and accident rates among tourists are very high — always wear a helmet.",
+      "detail": "Thailand drives on the left side of the road, which catches out visitors from right-hand-drive countries. An International Driving Permit (IDP) is legally required to rent and drive any motorised vehicle, including scooters, though this is inconsistently enforced. Scooter rental is extremely common at beach destinations but Thailand has one of the highest road accident rates in the world, and tourists on scooters without experience account for a significant share of serious injuries. Police checkpoints targeting unlicensed foreign riders are common in tourist areas, with on-the-spot fines. Driving at night in rural areas is particularly hazardous due to unlit roads, stray animals, and other vehicles without lights.",
+      "tourist_tips": [
+        "Always wear a helmet on a scooter — beyond safety, police checkpoints fine helmetless riders and your travel insurance may be void without one",
+        "If renting a scooter, photograph all existing damage thoroughly before leaving the rental shop",
+        "Consider hiring a driver or using Grab for longer journeys — it is often cheaper than you expect and far safer"
+      ],
+      "warning": "Many travel insurance policies are voided if you ride a motorbike without a valid licence or without wearing a helmet. Check your policy carefully before renting any motorised vehicle.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Thailand",
+      "quick_answer": "Thai street food is outstanding, safe at busy stalls, and incredibly cheap — always specify your spice level, explore pad thai, green curry, and mango sticky rice, and price-check seafood before ordering.",
+      "detail": "Thai cuisine is one of the world's great food cultures and street food at busy, high-turnover stalls is generally very safe and excellent quality. Iconic dishes include pad thai, green curry, massaman curry, som tam (papaya salad), and mango sticky rice. Spice levels can be extreme — always say 'pet nit noi' (a little spicy) unless you are comfortable with high heat. Tipping around 10–15% is appreciated at sit-down tourist restaurants but is not expected at street food stalls. Vegetarian and vegan options are widely available — 'jay' means vegan in Thai. Seafood on islands is superb but always confirm prices before ordering, as lobster and large fish are charged by weight and bills can be surprisingly high.",
+      "tourist_tips": [
+        "Eat where the locals eat — a busy stall with Thai customers is the best indicator of quality and food safety",
+        "Always confirm seafood prices per kilogram before ordering; a large fish or lobster can cost ten times what you expected",
+        "7-Eleven sells surprisingly decent ready meals, snacks, and fresh sandwiches for very cheap — great for budget days"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple and Church Etiquette in Thailand",
+      "quick_answer": "Remove shoes and hats before entering any place of worship, cover shoulders and knees, never turn your back to a Buddha image, and maintain respectful distance from monks.",
+      "detail": "Buddhist temples (wats) are the most common religious sites tourists visit in Thailand. Shoes and hats must be removed before entering, and both men and women must cover shoulders and knees — sarongs are often available to borrow at the entrance. Avoid turning your back to a Buddha image when leaving a room; back out or turn sideways respectfully. Buddhist monks must not be touched by women, and women must not hand objects directly to monks. In the Muslim-majority south (Phuket has mosques; the deep south near the Malaysian border is predominantly Muslim), modest dress for all visitors is required inside mosques, and non-Muslims should ask permission before entering.",
+      "tourist_tips": [
+        "Wear or pack a sarong when visiting temples — it doubles as cover-up and is easy to carry in a day bag",
+        "Temples are often quietest and most atmospheric in the early morning — arrive before 8am to avoid crowds",
+        "At mosques in the south, remove shoes, women should cover hair, and ask a local or sign if non-Muslims are welcome to enter"
+      ],
+      "warning": "Disrespecting a Buddhist temple or monk — including inappropriate clothing, loud behaviour, or physical contact with monks — is considered deeply offensive and can result in being asked to leave or, in extreme cases, police involvement.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Thailand",
+      "quick_answer": "November to April is the best overall time to visit Thailand, with the cool dry season bringing ideal conditions — but the two coasts have different weather patterns.",
+      "detail": "Thailand has two distinct coastal regions with different weather patterns. The Gulf coast (Bangkok, Koh Samui, Hua Hin) and Andaman coast (Phuket, Krabi, Koh Phi Phi) are both best from November to April — dry, sunny, and with calm seas. The rainy season runs from May to October on most of the country, characterised by heavy afternoon showers rather than all-day rain. Koh Samui has its own distinct rainy season from October to December, making it a good choice when the Andaman coast is wet. Chiang Mai is cooler and drier than the coasts. Overall, November to February is the sweet spot — cool enough to be comfortable and dry across virtually all regions.",
+      "tourist_tips": [
+        "If visiting in rainy season, book the Andaman coast (Phuket, Krabi) in May–October and the Gulf coast (Samui, Hua Hin) in November–December instead to follow the sun",
+        "April is Songkran (Thai New Year water festival) — spectacular but extremely busy and many businesses close",
+        "November to January brings cooler temperatures in Chiang Mai, making it the best time for trekking in the north"
+      ],
+      "warning": "Tropical storms and typhoons can affect Thailand's coasts during monsoon season, occasionally causing dangerous sea conditions and disrupted ferry services to islands. Always check forecasts before booking island hops.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Thailand",
+      "quick_answer": "Thailand is already very affordable, but eating street food, using shared songthaews, shopping at 7-Eleven, and basing yourself in Chiang Mai instead of Bangkok or the islands can cut costs dramatically.",
+      "detail": "Street food dishes cost 40–80 baht (roughly $1–2) and are often better than restaurant equivalents. Songthaews — shared pickup truck taxis — cost a fraction of tuk-tuks for the same journey in cities like Chiang Mai. Local restaurants on side streets away from tourist zones charge 30–50% less than the same dishes on the main tourist drag. Temple entry is frequently free or just 20–50 baht, with notable exceptions like the Grand Palace. Chiang Mai is consistently cheaper than Bangkok for accommodation, food, and activities. The islands (Koh Samui, Phuket) are the most expensive areas. Guesthouses with kitchen access allow self-catering for even greater savings.",
+      "tourist_tips": [
+        "Eat breakfast at 7-Eleven or a local morning market rather than your hotel — you will pay a quarter of the price",
+        "Use songthaews in Chiang Mai instead of tuk-tuks — agree the shared fare before boarding, usually 30–50 baht",
+        "Base yourself in Chiang Mai for northern Thailand rather than flying in and out of Bangkok for each destination — it is cheaper and more central"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

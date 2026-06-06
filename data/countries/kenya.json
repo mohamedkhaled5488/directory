@@ -1,0 +1,360 @@
+{
+  "country": "Kenya",
+  "slug": "kenya",
+  "emoji": "🇰🇪",
+  "region": "Africa & Oceania",
+  "currency": "KES",
+  "language": "English/Swahili",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Kenya",
+      "quick_answer": "Tip 10% at restaurants, USD 10–20 per day per safari guide, and USD 5–10 per day for lodge and camp staff.",
+      "detail": "Tipping is culturally expected and economically important in Kenya's tourism industry. Safari guides and drivers work hard and USD 10–20 per guide per day is the widely accepted standard — pay in US dollars as they are preferred over KES in tourist areas. Camp and lodge staff (room attendants, waitstaff, porters) appreciate USD 5–10 per person per day left as a lump sum at the end of your stay. At city restaurants a 10% tip is customary if service charge is not already included. Small USD bills (USD 1, USD 5, USD 10) are enormously useful for tipping throughout Kenya.",
+      "tourist_tips": [
+        "Bring a supply of small USD bills from home — USD 1, USD 5, and USD 10 notes are the preferred tipping currency in safari camps and lodges across Kenya",
+        "For multi-day safaris, tip your guide and driver at the end of the trip; ask your lodge what envelope system they use, as many camps pool tips and distribute them to all staff",
+        "At Nairobi restaurants, check the bill carefully — some upscale places add a 10% service charge, in which case an additional tip is optional but always appreciated"
+      ],
+      "warning": "Underpaying safari guides is widely noticed and considered disrespectful in Kenya's tight-knit guiding community — USD 10–20 per guide per day is the genuine industry minimum, not a suggestion.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Kenya",
+      "quick_answer": "There is no reliable tourist-friendly public transport; use Uber or Little Cab in Nairobi, hotel taxis elsewhere, and internal flights for national parks.",
+      "detail": "Kenya has no tourist-grade public transport network. Matatus (minibuses) are the backbone of local transport for millions of Kenyans but are overcrowded, poorly driven, and not recommended for tourists. In Nairobi, Uber and Little Cab (Kenya's popular local rideshare app) are the recommended options for safe, fairly priced city travel — Bolt is also available. For travel between Nairobi and Mombasa, the SGR standard gauge railway is excellent, comfortable, and scenic. For national parks, internal airlines — Safarilink, AirKenya, and Fly540 — are the practical and time-efficient option; driving to the Maasai Mara takes 5+ hours on rough roads.",
+      "tourist_tips": [
+        "Download both Uber and Little Cab before arriving in Nairobi — having two apps means you always have a fallback if one has no cars available in your area",
+        "Book the SGR train from Nairobi to Mombasa in advance at madarakaxpress.com — it takes approximately 4.5 hours and is far safer and more comfortable than the road",
+        "For Maasai Mara and other parks, compare the cost of internal flights against road transfers — Safarilink and AirKenya flights are often worth the premium given poor road conditions and time savings"
+      ],
+      "warning": "Matatus (minibuses) are extremely dangerous by any road safety standard — Kenya has very high traffic accident rates and matatus are disproportionately involved. Never use them as a tourist alternative to save money.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Kenya",
+      "quick_answer": "Use private hospitals in Nairobi (Aga Khan Hospital, Nairobi Hospital); outside Nairobi healthcare is extremely limited and medical evacuation insurance is mandatory.",
+      "detail": "Nairobi has genuinely good private hospitals — the Aga Khan University Hospital and Nairobi Hospital are the best options and are used by expatriates and diplomats. Outside Nairobi, medical facilities drop off sharply, and in safari areas and rural regions they are virtually non-existent. AMREF Flying Doctors insurance is strongly recommended for anyone visiting national parks — it covers emergency air evacuation to Nairobi and is relatively inexpensive. Malaria prophylaxis is essential for most of Kenya including Nairobi environs; consult a travel medicine clinic before departure. Yellow fever vaccination is required for entry if arriving from yellow fever endemic countries, and strongly recommended regardless.",
+      "tourist_tips": [
+        "Purchase AMREF Flying Doctors short-term tourist membership before your safari — it covers emergency air evacuation from the bush to Nairobi for a modest fee and is considered essential by experienced Kenya travellers",
+        "Begin malaria prophylaxis (typically doxycycline or Malarone) before departure as directed by your travel doctor — do not wait until you arrive in Nairobi to source medication",
+        "Save the Aga Khan Hospital emergency number (+254 20 366 2000) and Nairobi Hospital (+254 20 272 0160) in your phone before leaving your Nairobi hotel"
+      ],
+      "warning": "Medical evacuation from safari areas can cost USD 10,000–50,000 without insurance. Comprehensive travel insurance that explicitly covers medical evacuation AND AMREF Flying Doctors membership are both considered essential, not optional, for Kenya safaris.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Kenya",
+      "quick_answer": "Plastic bags are banned on entry; LGBTQ relationships are illegal; wildlife products (ivory) carry severe penalties; cannabis is illegal with zero tolerance.",
+      "detail": "Kenya was the world's first country to ban single-use plastic bags and the ban is enforced at the border — customs will confiscate plastic bags on arrival. Pack reusable bags before you travel. LGBTQ relationships are criminalised under Kenyan law with penalties of up to 14 years imprisonment; public displays of affection between same-sex couples carry serious risk. Purchasing, possessing, or exporting ivory, wildlife trophies, or any CITES-listed wildlife product carries severe criminal penalties. Cannabis is illegal with zero tolerance enforced. Camouflage clothing is illegal for civilians. Photographing government buildings, military installations, and airports is strictly prohibited.",
+      "tourist_tips": [
+        "Remove all plastic bags from your luggage before flying to Kenya — customs officers at JKIA actively search for them and confiscation is certain; reusable cloth bags are widely sold in Nairobi",
+        "Do not purchase any item made from ivory, animal skin, shells, or bones at markets — even items claiming to be antique or certified are high-risk and customs seizures are common on departure",
+        "Never wear or pack camouflage-patterned clothing in Kenya — it is reserved for military and security forces by law and tourists have been stopped and questioned for wearing it"
+      ],
+      "warning": "LGBTQ travellers face genuine legal risk in Kenya where same-sex relationships are criminalised. Exercise significant discretion and avoid any public displays of affection — the law is actively enforced.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "wise"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Kenya",
+      "quick_answer": "Police: 999 or 0800 720 999 (free); mobile emergency: 112; AMREF Flying Doctors safari evacuation: +254 20 6000 090.",
+      "detail": "Kenya's primary police emergency number is 999, and 0800 720 999 is a free national police hotline. Dialling 112 from any mobile phone connects to emergency services even without credit or a SIM. For safari and wilderness emergencies, AMREF Flying Doctors at +254 20 6000 090 is the critical number — they coordinate air evacuations across East Africa and are faster and better equipped than government services in remote areas. Kenya Red Cross emergency line is 1199. Save all numbers before leaving Nairobi as signal in national parks may be limited.",
+      "tourist_tips": [
+        "Save +254 20 6000 090 (AMREF Flying Doctors) in your phone before every safari departure — in a genuine medical emergency in the bush, this number is more useful than any other",
+        "Kenya's 112 mobile emergency number works even without a SIM or credit — it is the universal fallback when you have no other means to call",
+        "Give your lodge or camp the name of your travel insurer and policy number on check-in — in an emergency they need to authorise evacuation quickly and having details ready saves critical time"
+      ],
+      "warning": "Government emergency response times outside Nairobi can be very slow. In safari areas, AMREF Flying Doctors and your lodge management are your primary emergency resources — do not rely on standard emergency services reaching you quickly in remote locations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Kenya",
+      "quick_answer": "Dress conservatively in Muslim coastal areas; wear neutral safari colours in national parks; casual is fine in Nairobi; camouflage clothing is illegal for civilians.",
+      "detail": "Kenya's dress expectations vary significantly by location. In Nairobi, casual Western clothing is acceptable, though smart casual is expected in upscale restaurants and hotels. On the Indian Ocean coast — particularly Mombasa, Lamu, and other Muslim-majority towns — dress conservatively: cover shoulders and knees when walking away from beach resort areas. Beach resorts themselves are relaxed about swimwear poolside but cover up in town. For safari, neutral colours (khaki, olive, beige, tan) are strongly recommended — avoid bright colours, white, and especially camouflage which is illegal for civilians in Kenya. Remove shoes at mosques.",
+      "tourist_tips": [
+        "For safari packing, choose khaki, olive, or tan clothing exclusively — bright colours startle wildlife and white is impractical in dusty bush conditions; long sleeves also protect against insects at dawn and dusk",
+        "When visiting Lamu or Mombasa Old Town, carry a light scarf or wrap to cover shoulders and knees as you leave beach resort areas — it is both legally respectful and culturally appreciated",
+        "Do not bring or wear any camouflage-patterned clothing anywhere in Kenya — it is a criminal offence for civilians and can lead to police questioning"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Kenya",
+      "quick_answer": "Legal drinking age is 18; Tusker lager is the iconic national beer; avoid chang'aa home-brewed spirit; alcohol widely available except in strict Muslim areas.",
+      "detail": "The legal drinking age in Kenya is 18. Alcohol is widely available in bars, restaurants, and supermarkets in Nairobi and most tourist areas. Tusker lager is Kenya's iconic national beer and a cultural institution — try it ice-cold. Kenyan coffee and tea (chai) are equally important parts of the culture. In Muslim-majority areas on the coast, particularly Lamu and parts of Mombasa, alcohol is less visible and should be consumed discreetly. Avoid chang'aa, an informal home-brewed spirit that is widely illegal and has caused deaths from contamination. Safari lodges and camps universally serve alcohol.",
+      "tourist_tips": [
+        "Order a cold Tusker lager at every opportunity — it is one of Africa's great beers and genuinely tastes better in Kenya than imported versions sold elsewhere",
+        "In Lamu and traditional Muslim areas of the coast, drink alcohol only within your hotel or resort and avoid carrying open bottles in public streets out of cultural respect",
+        "Never accept or purchase chang'aa (home-brewed spirit) — it is frequently contaminated with methanol and has caused mass poisoning events in Kenya"
+      ],
+      "warning": "Chang'aa and other informal home-brewed spirits in Kenya have caused multiple mass poisoning events due to methanol contamination. Never consume any alcohol of unknown origin regardless of how it is offered.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Kenya",
+      "quick_answer": "Bargaining is expected at markets and curio shops — the Maasai Market in Nairobi is the best place to practise; always be friendly and patient.",
+      "detail": "Bargaining is a normal and expected part of shopping at markets, curio stalls, and with street vendors throughout Kenya. The Maasai Market held at various rotating Nairobi locations is an outstanding place to buy crafts and bargain for jewellery, textiles, and carvings. Starting at 30–40% of the asking price and settling somewhere around 50–60% is a reasonable approach. Supermarkets, formal shops, safari camps, and upscale hotels operate on fixed prices where bargaining is inappropriate. A friendly, patient, and good-humoured approach is essential — aggressive or dismissive bargaining causes offence and closes down negotiation quickly.",
+      "tourist_tips": [
+        "At the Nairobi Maasai Market, browse several stalls before buying — vendors at the first stall will show you asking prices, and once you know the range you can negotiate more confidently elsewhere",
+        "Buying multiple items from the same vendor almost always yields a better deal — 'nataka hizi zote' (I want all of these) followed by a bundle price is a reliable negotiating tactic",
+        "If a vendor's final price is still too high, a polite 'asante, nitafikiri' (thank you, I'll think about it) and walking away often prompts a better offer before you reach the next stall"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Kenya",
+      "quick_answer": "Wildlife photography is outstanding and unrestricted in parks; always ask and pay before photographing Maasai and tribal people; government buildings and military are strictly prohibited.",
+      "detail": "Kenya is a world-class wildlife photography destination and there are no restrictions on photographing animals within national parks and reserves. However, important restrictions and courtesies apply elsewhere. Photographing Maasai, Samburu, and other tribal community members requires explicit permission and a fee of KES 100–500 per photo is standard and expected — refusing to pay after taking photos causes genuine conflict. Military installations, police stations, government buildings, and airports are strictly off-limits for photography by law. Nairobi's Kibera slum is an extremely sensitive photography location — always go through community-endorsed tour operators and follow their guidance.",
+      "tourist_tips": [
+        "On game drives, a 400–600mm telephoto lens will transform your wildlife photography — many Nairobi camera shops offer lens rentals if you do not own one",
+        "When Maasai or Samburu warriors offer to pose for photographs near lodges or roadsides, agree on the fee before taking a single shot — KES 200–500 per person is typical and non-negotiable after the fact",
+        "Never point a camera at a police officer, military personnel, government ministry building, or JKIA airport — confiscation of equipment and arrest are documented consequences"
+      ],
+      "warning": "Photographing military, police, or government buildings in Kenya is a criminal offence that has resulted in arrest and equipment confiscation for tourists. This restriction is enforced seriously — do not photograph these subjects even casually.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Kenya",
+      "quick_answer": "Kenya largely operates seven days a week; supermarkets and matatus run on Sundays; Ramadan affects Muslim coastal areas; national holidays cause some closures.",
+      "detail": "Kenya is predominantly Christian and most businesses operate on Sundays, including supermarkets (Naivas, Carrefour, Quickmart), shopping malls, and informal markets. Some Christian-owned small businesses close on Sundays, particularly in upcountry areas. On the Swahili coast, Ramadan significantly affects restaurant hours and public eating — restaurants may be closed during daylight hours in Muslim-majority towns. Kenyan national holidays (including Madaraka Day, Mashujaa Day, Jamhuri Day) cause closure of government offices and banks; major supermarkets and tourist facilities generally remain open. Matatus run seven days including holidays.",
+      "tourist_tips": [
+        "During Ramadan on the coast, plan your restaurant dining around iftar (sunset meal) time — many coastal restaurants open spectacularly at dusk with special Swahili Ramadan menus",
+        "Nairobi's Junction Mall, The Hub Karen, and Two Rivers Mall maintain near-normal hours on all public holidays — reliable options when smaller businesses are closed",
+        "Banking and government services shut completely on Kenyan public holidays — withdraw cash and sort official matters the day before any listed national holiday"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Kenya",
+      "quick_answer": "Use Uber, Little Cab, or Bolt in Nairobi for safe and fairly priced transport; never hail random street taxis at night; negotiate fares in advance outside Nairobi.",
+      "detail": "Nairobi has a well-developed rideshare ecosystem — Uber, Little Cab (Kenya's own popular app), and Bolt all operate and are strongly recommended for their safety features, upfront pricing, and GPS tracking. Hotel taxis in Nairobi are reliable but significantly more expensive; confirm the fare before departure. Outside Nairobi — in Mombasa, Kisumu, and safari towns — negotiate the fare firmly before getting in any taxi. Never hail a random street taxi in Nairobi at night, as security risks including robbery by fake taxi drivers are documented. At JKIA airport, only use taxis from the official taxi rank inside the terminal or pre-booked rideshare vehicles from the designated pickup zone.",
+      "tourist_tips": [
+        "Little Cab is Kenya's own rideshare app and often has more cars available in outer Nairobi suburbs than Uber — download both apps and use whichever has faster availability",
+        "At JKIA airport, walk past all taxi touts in arrivals and head to the official rideshare pickup zone or the licensed taxi rank — the price difference versus tout taxis is significant and so is the safety difference",
+        "Outside Nairobi, agree on the exact fare in KES before you sit down and confirm whether the price covers luggage — disputes at the destination are unpleasant and avoidable"
+      ],
+      "warning": "Fake taxi drivers posing as legitimate operators are a documented security risk in Nairobi, particularly at night. Only use app-based rideshare services with driver identification shown in the app, or taxis booked through your hotel.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Kenya",
+      "quick_answer": "Never drink tap water anywhere in Kenya — bottled water is essential everywhere, and staying well hydrated on safari is a genuine health priority.",
+      "detail": "Tap water is not safe to drink anywhere in Kenya, including Nairobi's best hotels. Always drink sealed bottled water or water that has been filtered and boiled by your lodge. Sealed bottles are available everywhere and most safari camps and lodges provide complimentary bottled or filtered water. In remote areas, water purification tablets or a portable filter are important backups. Staying well hydrated is a health priority particularly on safari in hot, dry conditions — dehydration accelerates quickly and can worsen altitude or heat effects. Avoid ice in drinks at local restaurants unless you are confident it is made from purified water.",
+      "tourist_tips": [
+        "Carry a 1-litre water bottle and refill from sealed jerry cans provided by your lodge on game drives — vehicle guides always carry water but it runs out faster than expected in the heat",
+        "At local Nairobi restaurants and street food stalls, always order sealed bottled water and open it yourself — counterfeit sealed bottles exist, so twist the cap and listen for the seal breaking",
+        "Use a SteriPen or purification tablets as a backup in remote areas where bottled water supply is unreliable — this is particularly important for multi-day hiking near Mount Kenya"
+      ],
+      "warning": "Tap water is unsafe to drink throughout Kenya including in Nairobi's city centre hotels. Even brief consumption can cause significant gastrointestinal illness that can ruin a safari or require medical attention. Always drink sealed bottled or lodge-filtered water.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Kenya",
+      "quick_answer": "Equity Bank, KCB, and Standard Chartered ATMs reliably accept foreign cards; M-Pesa mobile money is dominant; carry USD as backup in tourist and safari areas.",
+      "detail": "Kenya has a well-developed banking system in Nairobi and major towns. Equity Bank, KCB (Kenya Commercial Bank), Standard Chartered, and Barclays/Absa ATMs process foreign Visa and Mastercard reliably. M-Pesa, Safaricom's mobile money platform, is the dominant payment system in Kenya — even small roadside vendors, market stalls, and motorcycle taxis accept it, making Kenya one of the world's most cashless societies in practice. Tourists can access M-Pesa through some arrangements but it is primarily for Kenyan residents. USD is widely accepted and often preferred in tourist areas, safari camps, lodges, and for tipping. Carry a mix of KES for local purchases and small USD bills for tourist spending.",
+      "tourist_tips": [
+        "Withdraw KES at Equity Bank or KCB ATMs inside major supermarkets or shopping malls in Nairobi — these are well-monitored and significantly safer than standalone street ATMs",
+        "Bring USD 200–300 in small bills (USD 1, USD 5, USD 10, USD 20) from your home country — USD 50 and USD 100 bills are sometimes refused due to counterfeiting concerns",
+        "Notify your bank before travel that you will be using your card in Kenya — fraud blocks on Kenyan transactions are common and being locked out of your card in Nairobi is a stressful situation"
+      ],
+      "warning": "Standalone street ATMs in Nairobi carry a real risk of card skimming and robbery. Only use ATMs inside bank branches, supermarkets, or shopping malls during daylight hours, and never accept assistance from bystanders.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Kenya",
+      "quick_answer": "Buy a Safaricom SIM at JKIA airport — it has the best coverage including national parks; passport required; download offline maps before entering any park.",
+      "detail": "Safaricom is Kenya's dominant network operator with the best coverage across the country, including in and around national parks and reserves where Airtel and other networks often have no signal. Buy a Safaricom prepaid SIM at the dedicated kiosks in JKIA arrivals — a passport is required by law for registration. Safaricom's 4G LTE is fast and reliable in Nairobi and major towns; coverage in national parks varies by location and is sometimes limited or absent. Download offline Google Maps or Maps.me for all areas you plan to visit before leaving Nairobi. Airalo eSIM works for Kenya and is a convenient pre-arrival option. M-Pesa is bundled into Safaricom SIMs and is the key to unlocking Kenya's mobile payment ecosystem.",
+      "tourist_tips": [
+        "Buy your Safaricom SIM at the airport kiosk in arrivals before leaving JKIA — it is cheaper and faster than buying in the city, and you will need connectivity immediately for rideshare apps",
+        "Download offline Google Maps for the Maasai Mara, Amboseli, and any park you plan to visit while you still have Nairobi WiFi — signal inside parks is unreliable even on Safaricom",
+        "A Safaricom data bundle of KES 1,000 (approximately USD 7–8) provides generous data for a week of moderate use including maps, messaging, and social media"
+      ],
+      "warning": "Mobile data coverage inside Kenya's national parks and game reserves is unreliable even on Safaricom. Never rely on live maps or online navigation in parks — download everything offline before departure from Nairobi.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Kenya",
+      "quick_answer": "Kenya uses Type G (British 3-pin square) plugs at 240V/50Hz — the same as the UK; US and European visitors need adapters.",
+      "detail": "Kenya's electrical standard is 240V/50Hz using Type G three-pin square plugs, identical to the UK system. Visitors from the USA, Canada, Europe, and Australia will need a Type G adapter — bring one from home as adapters are available in Nairobi but quality varies. Power cuts (load shedding) are possible in Nairobi and smaller towns, though less severe than in some other African countries. Safari lodges and camps in remote areas typically run on solar power or generators and often provide limited charging hours — charge all devices whenever you have access. A portable battery bank is highly recommended for safari days.",
+      "tourist_tips": [
+        "Bring a Type G (UK standard) adapter from home — they are available in Nairobi electronics shops but buying a quality one before departure is cheaper and more reliable",
+        "At remote safari camps running on solar power, plug in all devices (phone, camera batteries, drone) immediately after returning from the evening game drive — charging windows are often limited to a few hours",
+        "A high-capacity portable battery bank (20,000mAh or larger) is worth packing for multi-day safaris where vehicle charging points may be unavailable between drives"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Scams to Watch Out for in Kenya",
+      "quick_answer": "The 'friendly stranger' diversion, fake tour operators, airport taxi overcharging, and counterfeit currency are the most common tourist scams in Kenya.",
+      "detail": "Kenya's main tourist scams follow recognisable patterns. The 'friendly stranger' approach in Nairobi CBD involves someone claiming to know you or recognise you, building rapport, and then diverting your attention while an accomplice pickpockets you. Fake tour operators around tourist areas and near Safari lodges offer cheap packages that either do not exist or are grossly substandard — always book through verified operators. Airport and bus station taxi drivers aggressively overcharge tourists who have not agreed a fare in advance. Photography hustlers in Kibera and near Maasai villages demand payment after photos are taken. Counterfeit KES notes of KES 1,000 denomination are in circulation — check currency at ATMs rather than exchanging cash on the street.",
+      "tourist_tips": [
+        "Book all safaris and tours through operators listed on the Kenya Tourism Board website or recommended by your hotel — a deposit paid to an unverified operator via cash is almost certainly lost money",
+        "If someone approaches you in Nairobi CBD saying 'I remember you from yesterday' or 'you were at my brother's shop', keep walking — this is the opening line of the classic distraction scam",
+        "At curio markets, agree on the price and pay before handling the item — vendors who let you hold goods first then dramatically inflate the price when you show interest are a documented scam pattern"
+      ],
+      "warning": "Street currency exchange with individuals offering better-than-bank rates is illegal and almost always involves counterfeit notes or short-counting. Only exchange money at banks, official bureaux de change, or hotel desks.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Kenya",
+      "quick_answer": "Nairobi has genuine crime risks in certain areas; tourist zones (Westlands, Karen, Gigiri) are safer; national parks are very safe; avoid northeastern Kenya near the Somalia border.",
+      "detail": "Kenya's safety picture is sharply divided by location. National parks and safari areas are genuinely safe with minimal crime risk. Nairobi's tourist and diplomatic neighbourhoods — Westlands, Karen, Gigiri, and Lavington — are well-policed and relatively safe with normal vigilance. The Nairobi CBD and Eastleigh district carry elevated risks of robbery and pickpocketing, particularly after dark — avoid them at night. Carjackings occur in Nairobi; keep doors locked and windows up when driving. Coastal Mombasa Old Town is safe during daylight hours but exercise caution after dark. The northeastern Kenya region bordering Somalia carries a genuine Al-Shabaab terrorism threat — the UK, US, and Australian governments advise against all travel to this region.",
+      "tourist_tips": [
+        "Stick to Westlands, Karen, Gigiri, and the Junction Mall area for Nairobi nightlife — these areas have good security infrastructure and are where the diplomatic and expatriate community lives and socialises",
+        "Keep your phone out of sight on Nairobi streets — phone snatching is common in the CBD and tourist areas, with motorcycles used for quick getaways",
+        "Check your government's current travel advisory for Kenya before departure — the situation near the Somali border and in parts of Lamu County can change rapidly"
+      ],
+      "warning": "The northeastern Kenya region near the Somalia border has an active Al-Shabaab terrorism threat. Multiple governments advise against all travel to this region. Parts of Lamu County and Mandera, Wajir, and Garissa counties are also considered high risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Kenya",
+      "quick_answer": "Greetings are essential and often lengthy; use both hands when giving or receiving with elders; Maasai culture requires specific respect; punctuality is flexible.",
+      "detail": "Kenyan culture places enormous value on greetings — rushing past someone without acknowledgement is considered rude. A handshake is universal but may linger for some time, particularly between men; this is a sign of respect and warmth. When giving or receiving anything from an elder, use both hands or support your right arm with your left — this shows respect across many Kenyan cultures. Maasai culture has specific protocols: do not touch beadwork or jewellery without permission, and jumping competitions with Maasai men are a tourist cliché they often find tiresome — engage genuinely rather than performatively. Time in Kenya is flexible; 'African time' means events may start late without embarrassment.",
+      "tourist_tips": [
+        "Open any interaction — at a shop, with a driver, at a hotel — with a genuine greeting: 'Habari yako?' (how are you?) is more authentic than the tourist 'Jambo' and will be warmly received",
+        "When visiting Maasai manyattas (villages) on cultural tours, listen to your Maasai guide about what is appropriate to photograph or touch — following their lead shows respect and makes for a more genuine experience",
+        "Do not be surprised or offended if a Kenyan meeting or tour starts 30–60 minutes late — 'African time' is a cultural reality, not disrespect; build flexibility into your itinerary"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Kenya",
+      "quick_answer": "English and Swahili are both official languages; English is widely spoken in tourism; learning basic Swahili phrases is warmly appreciated across the country.",
+      "detail": "Kenya has two official languages: English and Swahili (Kiswahili). English is dominant in business, tourism, and Nairobi city life — virtually all tourist-facing services operate in English. Swahili is the national lingua franca spoken across all communities and is the everyday language of much of coastal Kenya. Learning a few Swahili phrases earns immediate goodwill — 'Jambo' is the tourist greeting, while 'Habari' is more genuine and used between Kenyans. Key phrases: 'Asante' (thank you), 'Sawa' (OK/fine/understood), 'Hakuna matata' (no worries — yes, genuinely used in everyday conversation), 'Karibu' (welcome/you're welcome), 'Pole pole' (slowly/take it easy — used on safari and hiking).",
+      "tourist_tips": [
+        "Use 'Habari?' as your greeting instead of 'Jambo' — Habari means 'what's the news?' and is the genuine everyday greeting; responding 'Nzuri' (good) completes the exchange and always prompts a smile",
+        "Learn 'Asante sana' (thank you very much) and deploy it generously — Kenyans are genuinely pleased when tourists attempt Swahili and it opens conversations immediately",
+        "On the Swahili coast from Mombasa to Lamu, Swahili is the first language of most residents — even basic Swahili attempts are met with extraordinary warmth in this region"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Kenya",
+      "quick_answer": "Kenya's Indian Ocean beaches are warm year-round with excellent snorkelling and diving; watch for sea urchins, rip currents, and persistent beach vendors.",
+      "detail": "Kenya's Indian Ocean coastline offers outstanding beach experiences — Diani Beach south of Mombasa is consistently rated among Africa's best, while Watamu, Malindi, and Lamu offer more remote options. Water temperatures are warm year-round (26–29°C). Coral reefs provide excellent snorkelling and scuba diving, particularly at Watamu Marine National Park and Kisite-Mpunguti Marine Park near Diani. Practical hazards: sea urchins hide in coral and shallow reef areas — wear reef shoes. Jellyfish are seasonal, particularly during certain tidal conditions. Tidal variation on the Kenyan coast is dramatic — low tide exposes extensive reef flats while high tide brings swimming depth; check tide tables. Rip currents exist at exposed beach sections.",
+      "tourist_tips": [
+        "Always wear reef shoes when walking over coral at low tide near Diani, Watamu, or Malindi — sea urchin spines are painful and carry infection risk; inexpensive reef shoes are sold everywhere along the coast",
+        "Book snorkelling trips to Kisite-Mpunguti Marine Park from Diani Beach through a licensed operator — it is one of the best snorkelling sites in East Africa and dolphins are frequently spotted",
+        "Check local tide tables before planning beach swimming — at low tide many Kenyan beaches become shallow reef flats extending hundreds of metres; the best swimming is 1–2 hours either side of high tide"
+      ],
+      "warning": "Beach boys (persistent male vendors and informal guides) are a significant presence on Diani and Mombasa beaches and can be very persistent. A firm but polite 'Hapana asante' (no thank you) repeated calmly is more effective than engaging with their offers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Kenya",
+      "quick_answer": "Drive on the LEFT; roads outside Nairobi are often poor; a 4WD is essential for national parks; never drive outside cities at night.",
+      "detail": "Kenya drives on the left-hand side of the road, the same as the UK. An international driving licence is accepted. Nairobi's traffic is notoriously congested, particularly during morning and evening rush hours — allow double travel time. Roads outside the main highways deteriorate quickly and many rural and park roads are unpaved and require a 4WD vehicle. Self-drive safari in the Maasai Mara is possible but the roads are genuinely rough and 4WD is non-negotiable. Night driving outside cities is strongly discouraged — livestock, wildlife, pedestrians, and potholes on unlit roads create serious accident risk. Police security checkpoints are common — stop, be polite, and have your driving licence and passport readily accessible.",
+      "tourist_tips": [
+        "Hire a 4WD vehicle if you intend to self-drive in any national park — standard saloon cars cannot manage the off-road conditions in the Maasai Mara or Amboseli, even in dry season",
+        "Keep your international driving licence, passport copy, and vehicle hire documents on your person at all times — police checkpoints in Kenya will always ask for them",
+        "Plan all driving to arrive at your destination well before sunset — driving on Kenyan roads after dark outside cities is genuinely dangerous due to unmarked hazards, livestock, and minimal roadside lighting"
+      ],
+      "warning": "Kenya has very high road traffic fatality rates. Night driving outside major cities is a serious risk due to unlit roads, wandering livestock, pedestrians, and potholes. Arrange to complete all inter-town driving well before dark.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Kenya",
+      "quick_answer": "Try nyama choma (grilled meat), ugali, Swahili coast pilau and biryani, and samosas; local mama mboga restaurants offer filling meals for KES 200–400.",
+      "detail": "Kenyan cuisine centres on nyama choma — charcoal-grilled meat (goat, beef, or chicken) that is the national food institution, best eaten with hands and ugali (stiff maize porridge) and sukuma wiki (braised collard greens). The Swahili coast offers a distinct cuisine influenced by Arab and Indian traders: pilau (aromatic spiced rice), biryani, coconut fish curries, and samosas are all outstanding in Mombasa and Lamu. The Carnivore Restaurant in Nairobi is a famous tourist institution serving game meats including crocodile and ostrich. Local mama mboga restaurants (informal canteens run by women) serve enormous portions of Kenyan staples for KES 200–400 and are safe, authentic, and excellent value. Nairobi also has a sophisticated international restaurant scene in Westlands and Karen.",
+      "tourist_tips": [
+        "For authentic nyama choma, ask your hotel to recommend a local choma joint rather than a tourist restaurant — the meat is fresher, cheaper, and the experience more genuine; Carnivore is a fun novelty but not where Kenyans eat",
+        "In Mombasa and Lamu, eat at least one meal of Swahili coast seafood — fresh prawns, crab, and fish prepared in coconut milk or tamarind sauce is some of East Africa's finest cooking",
+        "Mama mboga local restaurants near markets or bus stages are safe options for very affordable meals — look for places with high turnover of local customers, which indicates fresh food"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Kenya",
+      "quick_answer": "Dress modestly and remove shoes at mosques; Lamu's Riyadha Mosque is a significant pilgrimage site requiring full respect; Christian churches across Kenya welcome visitors.",
+      "detail": "Kenya's religious landscape reflects its diversity. The Indian Ocean coast is predominantly Muslim — mosques in Mombasa, Lamu, and coastal towns are active places of worship. At any mosque, remove shoes before entering, dress modestly (women cover head, shoulders, and knees; men cover knees), and do not enter during prayer times unless expressly invited. Lamu's Riyadha Mosque is one of East Africa's most important Muslim pilgrimage sites and deserves the highest level of respectful conduct. Kenya's Christian majority operates churches of many denominations — most are welcoming to respectful visitors. Nairobi's All Saints Cathedral and Holy Family Basilica are architecturally significant and open to visitors. Hindu and Sikh temples in Nairobi's business district welcome respectful visitors during non-prayer hours.",
+      "tourist_tips": [
+        "In Lamu, wear a kanzu (men) or bui-bui/khanga wrap (women) available to hire near the main mosques — arriving appropriately dressed rather than asking to borrow a wrap at the door is considered far more respectful",
+        "Nairobi's All Saints Cathedral on Kenyatta Avenue welcomes visitors outside service times and has interesting colonial architecture and a peaceful garden — a good midday respite in the city",
+        "If you wish to visit a Hindu temple in Nairobi's CBD, a small donation at the entrance box is appropriate and appreciated; always remove shoes and dress modestly with covered shoulders"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Kenya",
+      "quick_answer": "Best wildlife viewing is July–October (dry season and Great Migration); long rains April–June are least ideal; January–February and July–September are best for the coast.",
+      "detail": "Kenya straddles the equator and has two distinct rainy seasons. The long rains run April through June — this is the least popular tourist period with muddy roads and reduced wildlife visibility. The short rains arrive October through November and are briefer and less disruptive. The dry season from July to October is the peak season for wildlife: vegetation thins, animals concentrate at water sources, and July to September brings the Great Wildebeest Migration through the Maasai Mara, one of the world's greatest wildlife spectacles. January and February form a second dry season and offer excellent value and fewer crowds. The Kenyan highlands including Nairobi are pleasantly cool year-round due to altitude. The Indian Ocean coast is best January to March and again July to September.",
+      "tourist_tips": [
+        "Book Maasai Mara camps for July–September well in advance — the Great Migration months are Kenya's busiest and most sought-after period; quality camps fill 6–12 months ahead",
+        "January and February offer an excellent and underrated Kenya safari window — dry conditions, good wildlife sightings, calving season in Amboseli, and significantly lower accommodation prices than peak season",
+        "Nairobi sits at 1,795m altitude and is pleasantly cool year-round — pack a light jacket even if visiting during April–June as evenings can be genuinely cold by equatorial standards"
+      ],
+      "warning": "Malaria risk increases during and after the rainy seasons (April–June and October–November) when mosquito populations peak. Ensure your malaria prophylaxis course is correctly timed relative to your travel dates as advised by your travel medicine doctor.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Kenya",
+      "quick_answer": "Visit Nairobi National Park for a safari closest to any capital city on earth; eat at local mama mboga canteens; self-drive parks with a hired 4WD to cut guiding costs.",
+      "detail": "Kenya can be done significantly more cheaply than its luxury safari reputation suggests. Nairobi National Park is unique in the world — a genuine big-five game reserve on the city's doorstep with an entry fee of approximately USD 60, requiring no expensive camp or internal flight. Local mama mboga canteens in Nairobi serve enormous meals of nyama choma, ugali, and sukuma wiki for KES 200–400 (under USD 3). Buying fresh produce at Nairobi's Marikiti market is dramatically cheaper than supermarkets. Self-drive safari using a hired 4WD cuts out expensive guided vehicle costs, though it requires experience and confidence on rough tracks. Budget guesthouses and bandas (simple huts) in national parks via KWS bookings are a fraction of the cost of private luxury camps.",
+      "tourist_tips": [
+        "Book Kenya Wildlife Service (KWS) bandas and self-catering cottages directly at kws.go.ke — accommodation inside or adjacent to national parks at KWS rates is a fraction of private lodge prices and the wildlife is identical",
+        "Eat breakfast and lunch at local Kenyan canteens (jua kali restaurants near matatu stages) — a full cooked breakfast costs KES 100–150 and lunch KES 200–350; save your food budget for one good dinner",
+        "Nairobi National Park offers genuine big-five safari within 7km of the city centre — hire a car for half a day (no guide required), pay the USD 60 entry fee, and you have a real Kenyan safari for under USD 100 total"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

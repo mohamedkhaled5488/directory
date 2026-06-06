@@ -1,0 +1,380 @@
+{
+  "country": "France",
+  "slug": "france",
+  "emoji": "🇫🇷",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "French",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in France",
+      "quick_answer": "Tipping is not obligatory in France. A service charge is included in all restaurant bills by law. Round up or leave 5–10% for genuinely good service.",
+      "detail": "In France, a 15% service charge (service compris) is legally included in all restaurant and café bills. You are not expected to tip on top of this. However, leaving small change or rounding up the bill is a nice gesture for good service — this is called a pourboire. At cafés, leaving €0.50–€1 per coffee is common. At nicer restaurants, 5–10% extra is appreciated but never demanded. French waiters are professionals and do not depend on tips for their income the way American servers do. Taxi drivers appreciate rounding up by 5–10%.",
+      "tourist_tips": [
+        "The service charge is already included in your bill — you do not need to tip, but may choose to",
+        "At a café, leaving the small coins from your change is a typical French gesture",
+        "Never tip in a way that seems patronizing — it should always feel like a spontaneous thank-you",
+        "For taxi drivers, round up 5–10% as a courtesy",
+        "Hotel housekeeping: €1–2 per day is appreciated though not expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in France",
+      "quick_answer": "Paris has an excellent Metro. Buy a carnet (book of 10 tickets) or a Navigo Easy card. SNCF runs intercity trains — book TGV early for big discounts.",
+      "detail": "Paris has one of the world's most extensive metro systems, with 16 lines covering virtually every corner of the city. The Navigo Easy card is a contactless smart card you can load with single tickets or day/week passes — much more convenient than paper tickets. Tapping in and out is required. RER trains connect Paris to suburbs and airports (Charles de Gaulle: RER B). France's national rail (SNCF) operates high-speed TGV trains between cities — booking 3+ months in advance yields tickets from €10–30 vs €100+ walk-up. Intercity buses (FlixBus, BlaBlaBus) are very cheap alternatives.",
+      "tourist_tips": [
+        "Buy a Navigo Easy card at any Metro station or airport — load tickets and avoid queuing each time",
+        "The Paris Visite pass offers unlimited travel in zones 1–5 including airports — good value for 2+ days",
+        "Book TGV and Intercités trains via SNCF Connect app at least 90 days ahead for best prices",
+        "Airport connections: CDG is on RER B (35 min to central Paris, ~€11); Orly uses Orlyval + RER B or bus",
+        "Validating your ticket is essential — inspectors check regularly and fines are €50+"
+      ],
+      "warning": "Always validate (stamp/tap) your ticket before boarding any transport in France. Fines for untamped tickets apply even if you have a valid ticket that you simply forgot to validate.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in France",
+      "quick_answer": "France has excellent healthcare. EU citizens use EHIC for reduced-cost care. Non-EU tourists pay upfront and claim back via insurance. Pharmacists are very helpful.",
+      "detail": "France has one of the world's best healthcare systems. EU citizens with an EHIC card can access state healthcare at reduced cost (you typically pay 30–40% upfront and reclaim the rest through your home country's system). Non-EU tourists must pay full cost and claim via travel insurance. A standard GP visit costs around €25–30, specialist €50–80, emergency room varies significantly. French pharmacists (look for the green cross sign) are extremely well-trained and are a first port of call for minor medical issues — they can recommend treatments, dress minor wounds, and advise on many conditions.",
+      "tourist_tips": [
+        "French pharmacists are highly trained — go to them first for minor ailments; they often solve the problem without a doctor",
+        "SOS Médecins is a service offering home/hotel doctor visits for €50–100 — available 24/7 in major cities",
+        "Carry your EHIC card (EU citizens) or proof of travel insurance at all times",
+        "The number 15 (SAMU) connects you to emergency medical services and can dispatch ambulances",
+        "Paris has several English-speaking medical centers including the American Hospital of Paris"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in France",
+      "quick_answer": "Carry ID at all times. Face coverings in public are banned. Photography laws protect individuals. Speed cameras are everywhere.",
+      "detail": "France requires everyone (including tourists) to be able to produce identification when requested by police — carry your passport or a copy at all times. Full face coverings (niqab, balaclava) in public spaces have been banned since 2011 — this applies to everyone including tourists. France has strict laïcité (secularism) laws affecting religious expression in some public contexts. Smoking is banned in all indoor public spaces and many outdoor areas. Cannabis is illegal. Taking photos of police operations or publishing images that could compromise police activity is restricted.",
+      "tourist_tips": [
+        "Always carry your passport or a certified copy — police can stop and ID anyone",
+        "Full face veils are illegal in all public spaces in France — this law applies to tourists too",
+        "Do not sunbathe topless at non-designated beaches in Paris — it has been restricted in recent years",
+        "Fireworks, knives over 5cm, and certain items are restricted to carry in Paris especially around events",
+        "French jaywalking law exists but is loosely enforced in cities where pedestrians routinely cross against lights"
+      ],
+      "warning": "Full face coverings (niqab, balaclava, etc.) are banned in all public spaces in France by law. Violation results in a €150 fine.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in France",
+      "quick_answer": "SAMU (medical): 15. Police: 17. Fire (Pompiers): 18. EU universal: 112.",
+      "detail": "France uses both national and EU-standard emergency numbers. SAMU (Service d'Aide Médicale Urgente) on 15 handles medical emergencies and coordinates ambulances. Police nationale is 17. Fire brigade (Pompiers) is 18 — note that in France, the pompiers also handle many medical emergencies and have paramedic training. The universal EU number 112 works for all emergencies and is recommended for tourists as operators typically speak multiple languages. Text emergency via 114 is available for people who are deaf or cannot speak.",
+      "tourist_tips": [
+        "112 is the best number to call as EU emergency operators are multilingual",
+        "SAMU (15) and Pompiers (18) both respond to medical emergencies — call either",
+        "Police (17) for crime, theft, disturbances",
+        "114 is a text/SMS emergency line for those unable to speak",
+        "Your embassy emergency line is important for situations involving your legal status"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in France",
+      "quick_answer": "France is fashionable but relaxed. Smart-casual for restaurants. Modesty required at churches. Avoid overly casual sportswear in Paris restaurants.",
+      "detail": "France — especially Paris — has a reputation for fashion, and while dress codes are not strict, appearing in purely athletic wear or beachwear in restaurants and cultural settings is considered poor taste. At restaurants, smart casual is generally the norm; upscale establishments may require no shorts or trainers. At churches and cathedrals (Notre-Dame, Sacré-Cœur), shoulders and knees should be covered — most have signs requesting this and some provide wraps. The French generally dress stylishly but practically, and tourists in full sportswear visiting a Michelin-starred restaurant will stand out.",
+      "tourist_tips": [
+        "Notre-Dame de Paris and Sacré-Cœur have dress code signs — shoulders and knees covered",
+        "Upscale Parisian restaurants sometimes turn away guests in shorts, flip-flops, or athletic wear",
+        "French fashion: understated, well-fitted basics are considered more elegant than logos or bright colors",
+        "Beach resorts in the South of France are very casual — beachwear is fine in the Riviera towns",
+        "Carry a light layer — air conditioning in French buildings can be extreme"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in France",
+      "quick_answer": "Drinking age is 18. Alcohol is freely available in shops 24/7. Wine with meals is culturally embedded. Drink-driving limit is 0.05% BAC.",
+      "detail": "France has one of the most wine-positive cultures in the world. The drinking age is 18. Alcohol is sold in supermarkets, convenience stores, wine shops, and pharmacies (yes, pharmacies sell wine). There are no restrictions on hours for alcohol sales. Drinking in public is generally allowed though some cities have bans in specific areas. Wine with lunch and dinner is a normal cultural practice. Drink-driving limit is 0.05% BAC (lower than the UK), reduced to 0.02% for drivers with less than 3 years' experience. Penalties for drink-driving are severe.",
+      "tourist_tips": [
+        "Wine is cheaper in French supermarkets than almost anywhere else in the world — even €3–5 bottles are often excellent",
+        "Aperitif (before dinner drink) and digestif (after dinner) are cultural rituals worth experiencing",
+        "French beer culture is growing — craft beer bars are now common in major cities",
+        "Drinking at pavement cafés and parks is a quintessential French experience — it's legal and normal",
+        "The 0.05% BAC driving limit means even one standard drink can put you over — plan accordingly"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in France",
+      "quick_answer": "Fixed prices in all retail. Some negotiation acceptable at flea markets (brocantes), antique fairs, and with private sellers.",
+      "detail": "France has a firmly fixed-price retail culture. Attempting to bargain in shops, supermarkets, or restaurants is considered rude and not done. However, at flea markets (marchés aux puces) and antique fairs (brocantes), bargaining is culturally normal and expected. The famous Marché aux Puces de Saint-Ouen in Paris is one of Europe's largest flea markets where negotiation is the norm. With private sellers on platforms like Le Bon Coin (France's equivalent of Craigslist), negotiation is standard. Real estate also involves negotiation.",
+      "tourist_tips": [
+        "At Marché aux Puces flea markets, always negotiate — asking the price, then countering at 70% is standard",
+        "Start with 'C'est votre meilleur prix?' (Is that your best price?) as a polite opener",
+        "Antique dealers expect some back-and-forth on high-value items",
+        "Near closing time at any market, stall holders are often more flexible on price",
+        "Do not bargain in boutiques, department stores, or any fixed-price retail — it creates an awkward situation"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in France",
+      "quick_answer": "Photography in public is broadly legal. The Eiffel Tower at night is copyrighted — publishing those photos commercially requires a license. Privacy laws are strict.",
+      "detail": "France has strong individual privacy laws (droit à l'image) that go further than many countries. While photographing public spaces is legal, publishing photos of identifiable individuals without their consent can lead to legal action. The Eiffel Tower itself is public domain to photograph, but its nighttime illumination display is considered an artistic work under copyright — commercial use of those night photos requires permission. Inside museums, photography rules vary by institution. Photography of private property from public spaces is generally fine. Police and military facilities should not be photographed.",
+      "tourist_tips": [
+        "Personal (non-commercial) photos of the Eiffel Tower at night are fine for social media",
+        "Street photography of crowds is legal but publishing close-up identifiable portraits without consent is legally risky",
+        "The Louvre allows non-flash photography in most permanent galleries but not temporary exhibitions",
+        "Versailles allows photography throughout most of the palace and gardens",
+        "Drone photography requires DGAC authorization and is banned over central Paris and near monuments"
+      ],
+      "warning": "The Eiffel Tower's light show is copyrighted. Commercial use of night photos showing the illuminations requires licensing from SETE, the company operating the tower.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in France",
+      "quick_answer": "Most shops close on Sundays. Supermarkets open limited hours. Paris tourist areas have exceptions. Restaurants and bakeries open Sunday morning.",
+      "detail": "France has Sunday trading restrictions, though less strict than Germany. Most shops and department stores are closed on Sundays. Supermarkets may open until midday in some areas. In major tourist zones of Paris (Champs-Élysées, Marais, tourist areas), shops can open on Sundays. Bakeries (boulangeries) are often open Sunday mornings — it's a French tradition to buy fresh bread for Sunday breakfast. Restaurants, cafés, and museums are generally open on Sundays. France has 11 official public holidays per year — on these days, most businesses close and transport runs on a reduced schedule.",
+      "tourist_tips": [
+        "Sunday morning at a French bakery for croissants and bread is a cultural must-do — they're open",
+        "In Paris tourist areas (Champs-Élysées, Marais, Montmartre), Sunday shopping is mostly possible",
+        "Supermarkets close at noon on Sundays in many areas — do your weekly shop Saturday",
+        "Musée du Louvre and most major Paris museums are open Sundays but closed Tuesdays",
+        "July 14 (Bastille Day) is France's national holiday — expect significant closures and celebrations"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in France",
+      "quick_answer": "Uber and Bolt operate across France, and G7 and Taxis Bleus are Paris's official taxi companies — all taxis are metered and Uber from CDG airport is often cheaper than a taxi.",
+      "detail": "Paris taxis are strictly regulated and metered, with official companies G7 and Taxis Bleus being the most reputable — find them at designated taxi stands outside major train stations and airports. Uber and Bolt both operate widely in Paris and other major French cities, often offering competitive pricing, especially for airport runs from Charles de Gaulle. Always book via app or use official taxi stands rather than accepting offers from drivers approaching you outside terminals. Unlicensed taxis operating near tourist spots and airports are a known scam — never accept unsolicited rides.",
+      "tourist_tips": [
+        "Use the Uber or Bolt app to compare prices before hailing a street taxi — CDG to central Paris is often cheaper via Uber",
+        "Official taxi stands (tête de station) are located outside every major train station and airport terminal",
+        "G7 and Taxis Bleus have their own apps for pre-booking licensed Paris taxis"
+      ],
+      "warning": "Never accept rides from unlicensed drivers approaching you outside airport terminals or train stations — this is a common tourist scam with inflated, non-metered fares.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in France",
+      "quick_answer": "Tap water is completely safe to drink throughout France and is free at all restaurants by law when requested as a carafe d'eau.",
+      "detail": "France has excellent tap water quality across the entire country — Parisian water in particular is well-regarded and regularly tested. By French law, any restaurant must provide free tap water (une carafe d'eau) when requested, so never feel obligated to buy bottled water with a meal. France is also home to some of the world's most famous mineral waters — Evian, Volvic, and Vittel all originate from French sources. Bottled water is widely available but entirely unnecessary for health and safety reasons.",
+      "tourist_tips": [
+        "Ask for 'une carafe d'eau, s'il vous plaît' at any restaurant for free tap water — it is your legal right",
+        "Parisian tap water is high quality — refill a reusable bottle at your hotel or at public fountains",
+        "Wallace fountains (green cast-iron public fountains) throughout Paris dispense free potable water"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in France",
+      "quick_answer": "Cards are widely accepted across France, but some traditional markets and brasseries prefer cash — use Crédit Agricole, BNP Paribas, or Société Générale ATMs and always decline dynamic currency conversion.",
+      "detail": "France is highly card-friendly and contactless payment is standard in most shops, restaurants, and cafés. ATMs are abundant in cities and towns, with Crédit Agricole, BNP Paribas, and Société Générale being the main reliable networks. Avoid Euronet ATMs commonly found in tourist areas — they charge high conversion fees and often push dynamic currency conversion (DCC). Always choose to pay in euros rather than your home currency when offered a choice, as DCC rates are typically 3–8% worse. Some traditional markets, village boulangeries, and older brasseries still operate cash-only.",
+      "tourist_tips": [
+        "Always decline dynamic currency conversion (DCC) at ATMs and card terminals — always choose to pay in euros",
+        "Euronet ATMs near the Eiffel Tower and other tourist sites charge high fees — seek out a bank-branded ATM instead",
+        "Carry €50–100 in cash for markets, small village shops, and any traditional brasserie that may not take cards"
+      ],
+      "warning": "Euronet and other independent ATMs in tourist areas apply unfavorable exchange rates and high fees — use ATMs belonging to major French banks wherever possible.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in France",
+      "quick_answer": "Orange, SFR, Bouygues Telecom, and Free Mobile all offer tourist SIMs available at airports, phone shops, and tabacs — EU residents benefit from free roaming across France.",
+      "detail": "France has excellent mobile coverage in cities and along major transport corridors, with Orange, SFR, Bouygues Telecom, and Free Mobile being the four main carriers. SIMs can be purchased at airports, dedicated phone shops, and tabacs (tobacconists). EU residents can use their home data plan in France under EU roaming rules at no extra cost. For non-EU visitors, Airalo and similar eSIM platforms offer competitive France or Europe-wide data packages without needing a physical SIM. Some rural and mountain areas, particularly in the Alps and Massif Central, can have limited coverage.",
+      "tourist_tips": [
+        "EU residents can use their home SIM in France at no extra cost under EU roaming — check your plan's fair-use limit",
+        "Airalo eSIM offers a France or Europe-wide data package that activates instantly — no physical SIM needed",
+        "Orange has the best rural coverage in France if you plan to travel outside major cities"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in France",
+      "quick_answer": "France uses Type E plugs at 230V/50Hz — UK and US visitors need a plug adapter, though a standard European travel adapter covers French sockets.",
+      "detail": "France operates on 230V/50Hz electricity, which is compatible with all modern European devices. The plug type is Type E (the French variant), which has two round pins plus a round earth socket hole — it is compatible with standard Type C (Europlug) devices and broadly interchangeable with German Type F (Schuko), though the pin layout is slightly different. UK visitors (Type G) and US/Canadian visitors (Type A/B, 120V) need adapters, and US visitors with non-dual-voltage devices also need a voltage converter. Standard European two-pin travel adapters purchased anywhere work fine in France.",
+      "tourist_tips": [
+        "A standard European two-round-pin travel adapter works in all French sockets — buy one before you travel",
+        "US visitors should check their device labels for '100–240V' — most modern laptops, phones, and cameras are dual-voltage and need only an adapter, not a converter",
+        "French hotels often have a mix of Type E and Type C sockets — both are standard"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in France",
+      "quick_answer": "Paris has well-known tourist scams including pickpockets at major sights, the petition clipboard scam, friendship bracelets at Sacré-Cœur, and overcharging restaurants near Notre-Dame.",
+      "detail": "Paris is one of Europe's most-visited cities and unfortunately hosts a number of well-documented scams targeting tourists. The petition scam involves someone thrusting a clipboard at you claiming to collect for charity, then demanding payment or using distraction to enable a companion to pickpocket you. At Sacré-Cœur, individuals aggressively tie 'friendship bracelets' onto your wrist then demand money. Three-card monte games near tourist areas are rigged. Fake police officers asking to inspect your wallet for counterfeit notes are not real police. Restaurants immediately surrounding Notre-Dame and the Eiffel Tower are known to significantly overcharge — walk one or two streets away for honest pricing.",
+      "tourist_tips": [
+        "At Sacré-Cœur, keep your hands in your pockets and firmly say 'Non merci' to anyone approaching with string or a clipboard",
+        "Never eat at a restaurant displaying a menu in ten languages with photos right next to a major monument — walk two streets away",
+        "Real French police do not stop tourists to inspect their wallets — this is always a scam"
+      ],
+      "warning": "Pickpocketing is highly prevalent at the Eiffel Tower, Sacré-Cœur, the Louvre queue, and on RER lines — use a front pocket or hidden money belt at all major tourist sights.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in France",
+      "quick_answer": "France is generally safe for tourists, but pickpocketing is a significant issue at iconic Paris sights — use front pockets or a money belt and stay alert at Gare du Nord and Châtelet-Les Halles at night.",
+      "detail": "France's tourist areas are broadly safe and millions visit without incident each year. The primary risk for tourists is pickpocketing, which is highly organized at major Paris landmarks including the Eiffel Tower, Sacré-Cœur, the Louvre, and on busy RER metro lines. Châtelet-Les Halles and Gare du Nord can feel rough late at night and warrant extra caution. Marseille requires more general awareness in non-tourist neighborhoods, though the Old Port and tourist districts are fine. The French Riviera resort towns (Nice, Cannes, Monaco) are among the safest areas in France.",
+      "tourist_tips": [
+        "Use a front-pocket wallet or under-clothing money belt at all major Paris tourist attractions",
+        "Avoid Châtelet-Les Halles station late at night — use an alternative route or take a taxi",
+        "In Marseille, stay in the Vieux-Port and central tourist areas and ask hotel staff about neighborhoods to avoid"
+      ],
+      "warning": "Pickpocketing gangs specifically target tourists at the Eiffel Tower, Sacré-Cœur, and the Louvre — keep valuables concealed and be especially alert in crowds.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in France",
+      "quick_answer": "Always greet with 'Bonjour Madame/Monsieur' when entering any shop, wait until everyone is served before eating, and never comment on the price of things — it is considered gauche.",
+      "detail": "French social etiquette has a few rules that, once understood, make interactions significantly warmer. Greeting people with 'Bonjour Madame' or 'Bonjour Monsieur' upon entering a shop, café, or any business is non-negotiable — skipping it is considered rude. The cheek-kiss greeting (la bise) is standard between friends and acquaintances — two in Paris, though the number varies by region. At a dinner table, wait until everyone is served before starting to eat. Lunch is treated as a genuine 90-minute to two-hour break — do not expect rushed service. Commenting directly on prices or being overtly transactional is considered vulgar; if service is poor, the French preference is to leave a review rather than make a scene.",
+      "tourist_tips": [
+        "Always say 'Bonjour Madame/Monsieur' when entering any shop or café — this single habit will noticeably improve how you are treated",
+        "Do not start eating until everyone at the table has been served — this is a firm social rule",
+        "If something goes wrong, stay calm and polite — the French respond far better to composed complaints than emotional ones"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in France",
+      "quick_answer": "French is the official language, but many Parisians speak English — attempting even a few French words first, especially 'Bonjour' and 'S'il vous plaît', will dramatically improve how you are received.",
+      "detail": "French is the sole official language and the French are genuinely proud of it. While many younger Parisians and those in tourist-facing roles speak English, making no attempt at French is considered disrespectful and will often result in a noticeably cooler reception. Opening with 'Bonjour, parlez-vous anglais?' signals respect and almost always results in willing help. Key phrases — Bonjour/Bonsoir (hello/good evening), Merci (thank you), S'il vous plaît (please), and L'addition s'il vous plaît (the bill please) — go a long way. Google Translate handles French excellently including camera translation for menus.",
+      "tourist_tips": [
+        "Always open any interaction with 'Bonjour' — this one word sets the entire tone of the exchange in your favour",
+        "Use Google Translate's camera feature to read French menus in real time — it works very well for French",
+        "Learning 'L'addition s'il vous plaît' (the bill please) will save considerable awkward wait time at French restaurants"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in France",
+      "quick_answer": "The French Riviera offers clear Mediterranean swimming with pebble beaches, while Brittany and Normandy have dramatic but cold Atlantic coastlines — jellyfish are common in the Mediterranean in August and September.",
+      "detail": "France offers dramatically varied beach experiences. The French Riviera (Nice, Cannes, St-Tropez) features warm, clear Mediterranean water but predominantly pebble rather than sand beaches — water shoes are useful. Brittany and Normandy offer spectacular scenery but with cold Atlantic water and strong currents that require more caution. France's overseas territories of Guadeloupe and Martinique offer tropical Caribbean beaches. The standard flag warning system is used at all supervised beaches: green (safe), yellow (caution), red (no swimming). Jellyfish (méduses) are increasingly common in the Mediterranean from August to September.",
+      "tourist_tips": [
+        "Pack water shoes for Riviera pebble beaches — they make entry and exit far more comfortable",
+        "Always check the flag colour before swimming — red flag means no swimming regardless of how calm it looks",
+        "Topless sunbathing is culturally normal on the French Riviera — neither required nor noteworthy"
+      ],
+      "warning": "Jellyfish are common along the Mediterranean coast from August to September — ask locals or check beach information boards before swimming during this period.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in France",
+      "quick_answer": "Drive on the right, blood alcohol limit is 0.05%, speed cameras are extremely common, and toll roads (autoroutes) are fast but expensive.",
+      "detail": "France drives on the right side of the road. The blood alcohol limit is 0.05% (lower than the UK at 0.08%), reduced to 0.02% for drivers with less than three years of experience. Speed cameras are among the densest in Europe — fixed, mobile, and average-speed cameras operate on autoroutes and national roads. Toll roads (autoroutes) are efficient but costly, with Paris to Nice via autoroute costing around €50–70 in tolls alone. The priorité à droite rule (priority to vehicles from the right on unmarked roads) still applies in some residential and rural areas and catches many foreign drivers off-guard. At roundabouts, vehicles already in the roundabout have priority over those entering.",
+      "tourist_tips": [
+        "Carry cash or a card for toll booths — most French autoroute péages now accept both, but some lanes are card-only or cash-only",
+        "Watch for priorité à droite signs in towns — unmarked junctions may give priority to traffic joining from the right",
+        "Speed camera locations are no longer shown on GPS apps in France by law — drive to the posted limit at all times"
+      ],
+      "warning": "France has a strict 0.05% BAC drink-drive limit and roadside breathalyser checks are common near weekends and events — even two glasses of wine can put you over the limit.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in France",
+      "quick_answer": "Service is legally included in all French restaurant bills, bread and tap water are free, and the best value is always the lunchtime formule (set menu) at €12–18 for three courses.",
+      "detail": "French dining has its own rhythm and customs. Service compris (service included) is legally required to be included in all restaurant prices, so no additional tipping is necessary. Bread is brought automatically at most restaurants and is free. A carafe d'eau (free tap water) must be provided by law when requested. The lunchtime formule or menu du jour — typically a starter, main, and dessert for €12–18 — represents dramatically better value than ordering à la carte. Dinner is typically served from 7:30pm, with peak dining 8–10pm. Asking for a steak bien cuit (well done) is likely to disappoint the chef; à point (medium) is the French default.",
+      "tourist_tips": [
+        "Order the formule du midi (set lunch menu) for the best value in any French restaurant — the same kitchen, half the price",
+        "Ask for 'une carafe d'eau' for free tap water — never feel obligated to buy bottled water",
+        "Arrive for dinner after 7:30pm — arriving at 6pm will find most restaurants not yet open for evening service"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple and Church Etiquette in France",
+      "quick_answer": "Notre-Dame de Paris (reopened 2024) and Sacré-Cœur both enforce dress codes requiring covered shoulders and knees — entry is free but respectful attire is mandatory.",
+      "detail": "France's laïcité (secularism) principle means religion is considered a private matter, but the country's religious heritage sites are significant. Notre-Dame de Paris reopened in December 2024 after the 2019 fire — entry remains free and dress code (covered shoulders and knees) is enforced. Sacré-Cœur on Montmartre maintains a strict dress code and a reverential atmosphere; shoulders and knees must be covered and silence is expected inside. The Grande Mosquée de Paris welcomes non-Muslim visitors on guided tours. Paris's Marais district is historically the Jewish quarter with active synagogues. Chartres Cathedral and Mont Saint-Michel are major pilgrimage sites with similar dress expectations.",
+      "tourist_tips": [
+        "Carry a scarf or sarong when visiting Paris churches — both Notre-Dame and Sacré-Cœur require covered shoulders and knees",
+        "The Grande Mosquée de Paris offers a beautiful tearoom and hammam open to all visitors regardless of faith",
+        "Photography inside Sacré-Cœur is not permitted — respect this even if you see others doing it"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit France",
+      "quick_answer": "Paris is best in April–June and September–October — July and August are hot and extremely crowded with many local restaurants closed as Parisians themselves leave the city.",
+      "detail": "France's climate varies significantly by region. Paris and northern France have a temperate oceanic climate — spring (April–June) and early autumn (September–October) offer the best combination of pleasant weather and manageable crowds. July and August bring peak heat and peak tourism; many Parisian restaurants and small businesses close in August as locals take their own holidays. The French Riviera is at its best June through September with warm Mediterranean sunshine. The Loire Valley is ideal in spring for château visits. The Alps and Pyrenees offer skiing from December to March. Alsace's Christmas markets, particularly in Strasbourg, run November through December and are spectacular.",
+      "tourist_tips": [
+        "Visit Paris in September or October for near-summer weather, dramatically fewer crowds, and lower accommodation prices than August",
+        "Book Riviera accommodation well in advance for July and August — the Côte d'Azur is extremely popular with French and European tourists",
+        "Strasbourg's Christmas market in late November is one of Europe's finest and justifies a visit specifically for it"
+      ],
+      "warning": "August in Paris means many neighbourhood restaurants and small shops are closed — plan dining in advance and check opening times if visiting in August.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in France",
+      "quick_answer": "The best savings in France come from eating the set lunch menu (formule €12–18), picnicking with boulangerie and market produce, and using the free first-Sunday museum entry at all national museums.",
+      "detail": "France can be expensive but has a rich culture of affordable pleasures. The formule du midi (set lunch) offers three courses at the same restaurants that charge double in the evening. Assembling a picnic from a boulangerie, fromagerie, and charcutier and eating in one of Paris's parks is one of the great budget pleasures and entirely in keeping with French culture. The Paris Museum Pass covers entry to 50+ museums and monuments and pays for itself in two days. All French national museums (the Louvre, Musée d'Orsay, etc.) offer free entry on the first Sunday of each month. The Vélib' bike-share system in Paris is cheap for short rides and covers the city comprehensively.",
+      "tourist_tips": [
+        "Visit the Louvre, Musée d'Orsay, and Versailles on the first Sunday of the month for free — arrive early as queues are long",
+        "Buy a Paris Museum Pass if visiting more than three major attractions — it also lets you skip ticket queues",
+        "Picnic in the Tuileries, Luxembourg Gardens, or on the banks of the Seine with a boulangerie baguette, cheese, and wine — genuinely cheaper and more memorable than any restaurant"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

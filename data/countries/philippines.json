@@ -1,0 +1,360 @@
+{
+  "country": "Philippines",
+  "slug": "philippines",
+  "emoji": "🇵🇭",
+  "region": "Asia",
+  "currency": "PHP",
+  "language": "Filipino/English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in the Philippines",
+      "quick_answer": "Tipping around 10% is expected at sit-down restaurants; check your bill first as a service charge is often already included.",
+      "detail": "At sit-down restaurants, 10% is the standard tip unless a service charge (SC) is already listed on the bill — in that case, no additional tip is required. Hotel staff such as bellboys and housekeeping typically receive 20–50 PHP per service. Tour guides merit 200–500 PHP per day depending on the quality of the tour. Grab drivers are not generally tipped, but you can leave a cash tip for exceptional service.",
+      "tourist_tips": [
+        "Always scan your restaurant bill for a 'service charge' line before adding a tip — double-tipping is common and unnecessary",
+        "For multi-day island tours, budget 200–500 PHP per day for your guide as tips are a major part of their income",
+        "Small bills in 20–50 PHP denominations are handy for hotel staff tips; withdraw a stack at the airport ATM on arrival"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in the Philippines",
+      "quick_answer": "Grab is the safest and easiest option in cities; jeepneys and tricycles cover local routes while domestic flights and ferries connect the islands.",
+      "detail": "In Metro Manila, the MRT and LRT rail lines are cheap but frequently overcrowded and unreliable. Jeepneys are the iconic shared minibus of the Philippines and cover a dense network of routes, but deciphering them as a tourist is difficult. Tricycles (motorcycle sidecars) handle short local hops and fares are usually negotiable. Grab — available as GrabCar or GrabBike — is by far the most convenient and transparent option in cities. For inter-island travel, Cebu Pacific, AirAsia, and Philippine Airlines run frequent domestic flights, while RORO ferries and fast craft connect major islands.",
+      "tourist_tips": [
+        "Install the Grab app before you land — it works in all major cities and removes the need to haggle with taxis",
+        "For ferry travel between islands, book through 2Go Travel or Starlite Ferries in advance during peak season",
+        "Domestic flights between islands are often cheaper and faster than ferries — check Cebu Pacific for promo fares booked weeks ahead"
+      ],
+      "warning": "Jeepney and tricycle routes are confusing for first-time visitors; always confirm the destination with the driver before boarding and agree on the fare for tricycles.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in the Philippines",
+      "quick_answer": "Private hospitals in Manila and Cebu are good quality, but travel insurance with medical evacuation is essential — especially for remote islands.",
+      "detail": "The Medical City, St. Luke's Medical Center, and Makati Medical Center in Metro Manila, as well as Chong Hua Hospital in Cebu, offer reliable private healthcare with English-speaking staff. Outside major cities, medical facilities are significantly more limited and serious conditions may require evacuation to Manila. Dengue fever is a genuine risk year-round across the archipelago — use insect repellent containing DEET consistently. Mercury Drug and Watsons pharmacies are widespread and can handle minor ailments without a prescription.",
+      "tourist_tips": [
+        "Always carry travel insurance that explicitly covers medical evacuation — a helicopter transfer from a remote island to Manila is extremely costly",
+        "Use DEET-based repellent daily, not just at dawn and dusk; dengue mosquitoes bite during daylight hours",
+        "Mercury Drug stores are open late and found even in smaller towns; useful for rehydration salts, antihistamines, and basic medications"
+      ],
+      "warning": "Medical facilities on remote islands and in rural provinces can be very basic. Any serious injury or illness on islands like Palawan's outer areas, Camiguin, or Batanes may require costly evacuation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in the Philippines",
+      "quick_answer": "Drug laws are extremely strict with severe penalties; anti-smoking laws are rigorously enforced with heavy fines for smoking outside designated areas.",
+      "detail": "The Philippines has one of Southeast Asia's harshest anti-drug policies — carrying any controlled substance, even in small amounts, can result in life imprisonment or the death penalty, which has been debated for reinstatement. Do not carry anything that could be mistaken for drugs. Smoking is prohibited in all public places including streets, parks, and building entrances; smoking is only permitted in designated smoking areas and fines of up to 5,000 PHP apply. Anti-littering ordinances are enforced in most cities. Cockfighting (sabong) is legal and culturally embedded. The Philippines has no formal legal protections for LGBTQ individuals, though social attitudes are generally more tolerant than in many neighbouring countries.",
+      "tourist_tips": [
+        "Never accept packages from strangers or carry luggage for others — drug-planting is a known scam targeting foreigners at airports",
+        "Ask your hotel or restaurant staff where the nearest designated smoking area is before lighting up anywhere outdoors",
+        "Dispose of trash only in bins — littering fines are actively enforced in Metro Manila and tourist municipalities like Boracay"
+      ],
+      "warning": "The Philippines' drug war has resulted in thousands of deaths. Even minor drug-related offences are treated with extreme severity. This is not a country where recreational drug use carries a light risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in the Philippines",
+      "quick_answer": "Dial 911 for all emergencies; 117 reaches the Philippine National Police directly, and 143 connects to the Red Cross.",
+      "detail": "The Philippines introduced a unified 911 emergency number that connects to police, fire, and medical services. 117 is the direct line for the Philippine National Police (PNP). 143 reaches the Philippine Red Cross for medical emergencies and disaster response. The Department of Tourism operates a tourist assistance hotline at 1-800-10-TOURISM (1-800-10-868747-6). On arrival, save your accommodation's local number and the nearest hospital contact as response times can vary significantly outside major cities.",
+      "tourist_tips": [
+        "Save 911 and your hotel's direct number in your phone on arrival — local staff often know the fastest route to help",
+        "The DOT tourism hotline (1-800-10-868747-6) can assist with scams, disputes, and non-life-threatening tourist issues",
+        "Your home country's embassy in Manila should have a 24-hour emergency consular line — store it before your trip"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in the Philippines",
+      "quick_answer": "The Philippines is casual overall, but cover shoulders and knees at churches; beachwear is fine at resorts but not in towns.",
+      "detail": "As a predominantly Catholic nation, churches require modest dress — covered shoulders and knees for both men and women. The historic churches of Intramuros in Manila and Quiapo Church are active places of worship and strict about appropriate clothing. Beach and resort areas are extremely casual, with swimwear appropriate around pools and beaches. Manila's heat and humidity make light cotton clothing the practical choice for city exploration. Some resort restaurants have dress codes for dinner — ask your accommodation in advance.",
+      "tourist_tips": [
+        "Carry a light shawl or sarong when visiting churches — many do not provide cover-ups and will turn you away",
+        "In Metro Manila, smart casual is fine for most restaurants and malls; shoes are required in air-conditioned venues",
+        "Beachwear should stay at the beach — walking through town in bikinis or board shorts is considered disrespectful in most communities"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in the Philippines",
+      "quick_answer": "The legal drinking age is 18 and alcohol is widely available; San Miguel Beer is ubiquitous, and some local government units have their own restrictions.",
+      "detail": "Alcohol is freely available across the Philippines and the drinking age is 18. San Miguel Beer is the dominant national brand and cheap at around 50–80 PHP per bottle. Local options include tuba (fermented coconut sap) and the stronger lambanog (distilled coconut spirit), popular in provincial areas. Drinking in public is generally legal in most areas, though some Local Government Units (LGUs) — such as Boracay at certain times — have imposed their own restrictions on public consumption. Bars and restaurants typically serve until late, with no uniform national curfew on alcohol sales.",
+      "tourist_tips": [
+        "Try San Miguel Pale Pilsen or the flavoured Cerveza Negra — both are iconic and extremely affordable at local stores",
+        "In Boracay and some beach resorts, check local ordinances on drinking on the beach — rules change and fines apply",
+        "Lambanog is potent (can exceed 40% ABV) and unregulated versions sold in rural areas carry a risk of methanol contamination — buy only branded bottles"
+      ],
+      "warning": "Illegally distilled lambanog has caused deaths and mass poisoning incidents in rural provinces. Only consume commercially bottled, branded versions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in the Philippines",
+      "quick_answer": "Bargaining is expected at markets, street stalls, and with tricycle drivers; prices at malls and formal shops are fixed.",
+      "detail": "Haggling is a normal and expected part of shopping at wet markets, pasalubong (souvenir) shops, Divisoria market, Greenhills Shopping Center, and with street vendors. Tricycle and pedicab fares are almost always negotiable before you board. The Filipino bargaining style is friendly and good-humoured — never aggressive — and a smile goes a long way. Malls, supermarkets, and established chain restaurants have strictly fixed prices. Offering around 60–70% of the initial asking price is a reasonable starting point at markets.",
+      "tourist_tips": [
+        "Always agree on a tricycle or pedicab fare before boarding — once you arrive, the driver may inflate the agreed price without a prior discussion",
+        "Bargaining at Divisoria in Manila requires patience and energy; go early and compare several stalls before committing to a price",
+        "A friendly 'Magkano?' (How much?) and a smile opens most market negotiations better than jumping straight to a counter-offer"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in the Philippines",
+      "quick_answer": "Filipinos are generally very welcoming of photography, but avoid shooting military installations, government buildings, and church interiors during active mass.",
+      "detail": "The Philippines is one of the most photography-friendly countries in Asia — locals frequently take selfies with tourists and happily pose for photos. There are no special permits required for most tourist photography. Military bases, police facilities, and government buildings should not be photographed. Some historic churches prohibit photography inside the nave during mass services out of respect for worshippers. Always ask before taking close-up portraits of individuals, especially in indigenous communities or remote provinces.",
+      "tourist_tips": [
+        "Ask 'Pwede bang kunan kita ng litrato?' (May I take your photo?) — Filipinos almost always say yes and appreciate being asked",
+        "The Chocolate Hills in Bohol, rice terraces in Batad, and El Nido's lagoons are unrestricted and extremely photogenic",
+        "Drone flights require a permit from the Civil Aviation Authority of the Philippines (CAAP) — check regulations before flying one near beaches or national parks"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in the Philippines",
+      "quick_answer": "Sunday is significant in this Catholic nation and some businesses reduce hours; Holy Week (Semana Santa) sees widespread closures for 4+ days.",
+      "detail": "The Philippines is overwhelmingly Catholic and Sunday is treated as a rest and worship day — many smaller businesses, local government offices, and family-run shops either close or open late. Shopping malls are open seven days a week and are actually busier on Sundays. Holy Week (Semana Santa), spanning the Thursday through Sunday before Easter, is the most significant holiday in the country and results in widespread closures of businesses, banks, and transport services for up to five days. Barangay (neighbourhood) fiesta days vary by location and cause very localised closures and celebrations.",
+      "tourist_tips": [
+        "Plan ATM withdrawals and grocery runs before Holy Week begins — many businesses including banks close from Maundy Thursday through Easter Sunday",
+        "If visiting during Holy Week, book accommodation and transport weeks in advance as domestic travel surges dramatically",
+        "Ask your accommodation about local barangay fiesta dates — these street parties are a wonderful cultural experience but may affect local transport and services"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in the Philippines",
+      "quick_answer": "Use Grab for all city travel — many Manila taxis have tampered meters or refuse to use them; only use the official yellow fixed-rate taxis from NAIA airport.",
+      "detail": "Grab (GrabCar and GrabBike) is the dominant and strongly recommended rideshare platform across the Philippines. It offers upfront pricing, GPS tracking, and a cashless payment option, eliminating the common taxi scams. Standard metered taxis in Metro Manila have a poor reputation for meter tampering, refusing meters, and overcharging tourists. Manila's Ninoy Aquino International Airport (NAIA) has an official yellow airport taxi system with fixed rates per zone — use only these cabs from the official counters inside the terminal and ignore all touts. Outside major cities, tricycles and habal-habal (motorcycle taxis) are the standard local transport.",
+      "tourist_tips": [
+        "Download Grab before your flight lands — airport Wi-Fi is available at NAIA to set it up if needed",
+        "At NAIA, follow signs to the 'Airport Taxi' counter inside the terminal and pay the fixed zonal rate — never follow touts outside",
+        "GrabBike is ideal for beating Metro Manila's notorious traffic jams but always wear the helmet provided by the driver"
+      ],
+      "warning": "Unlicensed taxi touts outside NAIA arrivals will approach you aggressively and charge 5–10x the legitimate rate. Walk past all of them and proceed to the official airport taxi or Grab pick-up zones.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in the Philippines",
+      "quick_answer": "Never drink tap water in the Philippines — bottled water is cheap and widely available everywhere.",
+      "detail": "Tap water in the Philippines is not safe to drink and this applies even in major cities like Manila and Cebu. Bottled water (500ml) costs just 15–25 PHP and is available at every convenience store, market, and sari-sari store. Always check the seal on bottled water before drinking. Ice at local eateries and street stalls may be made from unfiltered water — exercise caution. Many guesthouses and hostels have water dispensers with purified or filtered water for free or a minimal charge.",
+      "tourist_tips": [
+        "Buy a large 1.5-litre or 5-litre jug from a local store rather than multiple small bottles to reduce plastic waste and save money",
+        "At restaurants, ask 'Purified ba ang tubig?' (Is the water purified?) before drinking any complimentary water served",
+        "A reusable water bottle with a built-in filter (such as a LifeStraw bottle) is a practical investment for budget and eco-conscious travellers"
+      ],
+      "warning": "Tap water contamination is a genuine health risk throughout the country. Do not brush teeth with tap water in areas without a reliable water treatment system.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in the Philippines",
+      "quick_answer": "BDO, BPI, and Metrobank ATMs are the most reliable for foreign cards; carry cash as many islands and local businesses are cash-only.",
+      "detail": "BDO (Banco de Oro), BPI (Bank of the Philippine Islands), and Metrobank are the three most reliable banks for accepting international Visa and Mastercard debit/credit cards. Most ATMs impose a single-transaction withdrawal limit of 10,000–20,000 PHP and charge a fee of around 200–250 PHP per transaction. Cash remains essential throughout the Philippines — many island resorts, small restaurants, tricycle drivers, and market vendors do not accept cards. Instapay digital transfers between Philippine bank accounts are growing but of limited use to tourists. Exchange rates at airports are poor; use ATMs in the city instead.",
+      "tourist_tips": [
+        "Withdraw larger amounts less frequently to minimise per-transaction ATM fees — 10,000–20,000 PHP at once is practical",
+        "On remote islands, there may be no ATM at all; withdraw sufficient cash on the mainland before ferrying across",
+        "Wise (formerly TransferWise) debit card users often get competitive exchange rates with lower fees at Philippine ATMs compared to standard bank cards"
+      ],
+      "warning": "ATM skimming and card fraud occur — use machines inside banks or malls rather than standalone street ATMs, and cover the keypad when entering your PIN.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in the Philippines",
+      "quick_answer": "Buy a Globe or Smart tourist SIM at NAIA airport on arrival — both offer affordable data packs, though coverage varies significantly between islands.",
+      "detail": "Globe Telecom and Smart Communications are the two dominant mobile networks in the Philippines. Both sell tourist SIM cards with data packages at NAIA airport kiosks (bring your passport as registration is required by law). Standard tourist data packs offering 5–15GB start from around 300–500 PHP. DITO Telecommunity is a newer third carrier with growing coverage. Coverage in Metro Manila, Cebu, and Boracay is strong, but signal drops sharply on remote islands and in mountainous areas. Airalo eSIM is a convenient alternative if your phone supports eSIM.",
+      "tourist_tips": [
+        "Buy your SIM at the official Globe or Smart kiosks inside NAIA arrivals — street sellers outside may sell expired or improperly registered SIMs",
+        "If travelling to remote islands, download offline maps (Maps.me or Google Maps offline) before leaving areas with good signal",
+        "Pocket Wi-Fi devices rented at the airport are useful if travelling in a group sharing data across multiple devices"
+      ],
+      "warning": "Mobile coverage is genuinely patchy on outer islands — do not rely on having a signal for navigation, emergency contact, or bookings when island-hopping in remote areas like northern Palawan or the Batanes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in the Philippines",
+      "quick_answer": "Type A and B flat-pin plugs (same as the USA) are standard; voltage is 220V at 60Hz — check your device's voltage rating before plugging in.",
+      "detail": "The Philippines uses Type A (two flat parallel pins) and Type B (two flat pins plus a round earth pin) sockets, identical to those used in the United States. The supply voltage is 220V at 60Hz — this is an unusual combination as most 220V countries operate at 50Hz. Most modern laptops, phone chargers, and cameras are dual-voltage (100–240V) and will work fine; check the small print on your charger. Older single-voltage appliances from 110V countries (e.g., US hair dryers) will be damaged. Travellers from the UK, Europe, or Australia will need a plug adapter.",
+      "tourist_tips": [
+        "Check your charger label for '100–240V' — if it says this, you only need a plug adapter, not a voltage converter",
+        "UK and European travellers need a Type A/B adapter, widely available at Manila airports and hardware stores for under 150 PHP",
+        "Power outages (brownouts) are common in provincial areas and some islands — a small power bank for your phone is essential when island-hopping"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in the Philippines",
+      "quick_answer": "Common scams include airport taxi overcharging, ATM skimming, fake police demanding cash, and gem investment schemes — stay alert in tourist areas.",
+      "detail": "The most common scam at NAIA involves unlicensed taxi touts charging grossly inflated fares. The 'broken meter' scam in metered taxis involves a driver claiming the meter is broken and then charging whatever they like. The gem or investment scam involves a friendly local 'accidentally' meeting you and steering you to a shop where you are pressured to buy jewellery or other goods as a 'business investment'. Fake police officers — sometimes in uniform — may approach foreigners demanding to see passports and then extorting cash. Resort bills sometimes include undisclosed 'mandatory fees' that were not quoted at booking.",
+      "tourist_tips": [
+        "Use Grab exclusively for city transport — this eliminates all taxi-related scams with upfront pricing and tracking",
+        "If anyone approaches you claiming to be a plainclothes police officer, ask to be taken to the nearest police station in a Grab — legitimate officers will agree",
+        "Review your hotel and resort bill line by line before paying; query any charge not agreed to at check-in"
+      ],
+      "warning": "The gem/investment scam is particularly sophisticated and has cost tourists thousands of dollars. Any 'friendly local' who suggests visiting a particular shop or jewellery store is almost certainly running a scam.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in the Philippines",
+      "quick_answer": "Popular tourist destinations like Palawan, Cebu, and Boracay are generally safe; avoid western Mindanao and the Sulu Archipelago entirely due to active kidnapping threats.",
+      "detail": "The Philippines has significant regional variation in safety. Major tourist areas — Palawan (El Nido, Coron), Cebu and its surrounding islands, Boracay, Siargao, and Metro Manila's tourist districts — are generally safe with normal urban precautions. Metro Manila has higher petty crime rates; pickpocketing and bag snatching occur in crowded areas like jeepney terminals and markets. Western Mindanao, particularly the Sulu Archipelago, Basilan, and Marawi areas, has an active Abu Sayyaf kidnap-for-ransom threat against foreigners — all major Western governments advise against all travel there. The New People's Army (NPA) communist insurgency is active in some rural areas of Luzon and Visayas.",
+      "tourist_tips": [
+        "Check your government's travel advisory for specific provinces before booking — advisories for Mindanao are frequently updated",
+        "In Metro Manila, keep phones out of sight on streets and in jeepneys, and use inner pockets or money belts in crowded transport",
+        "Stay in established tourist accommodation on islands — reputable resorts have security and emergency contacts, and are far safer than isolated homestays in unfamiliar areas"
+      ],
+      "warning": "Do NOT travel to the Sulu Archipelago, Basilan, or western coastal areas of Mindanao. Kidnapping of foreigners for ransom is an ongoing and active threat in these areas, with multiple incidents involving tourists and aid workers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in the Philippines",
+      "quick_answer": "Filipinos are famously warm and hospitable — use 'po' and 'opo' to show respect to elders, and the mano gesture to greet older relatives or hosts.",
+      "detail": "Filipino culture is built around hospitality, family, and the concept of pakikisama — maintaining harmony and getting along with others. Adding 'po' at the end of sentences when addressing elders or strangers and saying 'opo' (yes) instead of 'oo' are fundamental signs of respect. The mano gesture — taking an elder's hand and touching it to your forehead — is a greeting that shows deep respect and is always appreciated if offered by a guest. Pointing with a finger is considered rude; Filipinos traditionally point with a pursed lip gesture. Family is the central unit of society, and asking about someone's family is a warm conversation opener.",
+      "tourist_tips": [
+        "Accepting food or a meal when offered by a Filipino family is a significant gesture of goodwill — politely refusing repeatedly can cause offence",
+        "Filipinos love taking photos and selfies, and will often want a photo with you as a foreign visitor — embrace it as a friendly cultural exchange",
+        "Showing visible frustration or anger in public — 'losing face' — is deeply uncomfortable in Filipino culture; stay calm in disputes and address issues politely"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in the Philippines",
+      "quick_answer": "English is an official language and spoken fluently by most Filipinos — there is virtually no language barrier for English-speaking tourists.",
+      "detail": "The Philippines has two official languages: Filipino (based on Tagalog) and English. English is used in government, education, business, and media, giving the country one of Asia's highest English proficiency rates. In practice, virtually every person working in tourism, hospitality, transport, and retail speaks functional to fluent English. Regional languages including Cebuano, Ilocano, Hiligaynon, and over 150 others are spoken in their respective provinces. Learning a few Tagalog phrases is appreciated but never necessary.",
+      "tourist_tips": [
+        "'Salamat' (thank you) and 'Magandang araw' (good day) will earn you smiles wherever you use them — Filipinos genuinely appreciate the effort",
+        "In Cebu and the Visayas region, Cebuano (Bisaya) is the dominant language — 'Salamat' still works, but locals may greet you in Bisaya first",
+        "English signage, menus, and announcements are standard throughout the country, including in rural areas and on public transport"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in the Philippines",
+      "quick_answer": "The Philippines has world-class beaches including El Nido, Boracay, Siargao, and Coron — check for rip currents, jellyfish, and typhoon warnings before swimming.",
+      "detail": "The Philippines is home to some of the world's most celebrated beaches. El Nido and Coron in Palawan offer extraordinary limestone karst lagoons and world-class snorkelling. Boracay's White Beach is one of Asia's most famous stretches of powdery sand. Siargao is the country's surf capital, with Cloud 9 producing powerful reef breaks. Many beaches have seasonal jellyfish blooms and occasional sea snake sightings — both require caution. Rip currents are present on exposed surf beaches; swim only at patrolled areas or within designated safe zones. Typhoon season significantly affects beach accessibility from June to November.",
+      "tourist_tips": [
+        "Book island-hopping tours in El Nido and Coron through your accommodation or a reputable operator — they monitor weather and adjust routes for safety",
+        "Boracay has a beach zoning system separating swimming areas from motorised water sports — check the flags and markers before entering the water",
+        "Siargao surf breaks are powerful reef breaks, not sandy-bottom beginner waves — take lessons from a certified local instructor before paddling out"
+      ],
+      "warning": "Typhoons can develop and intensify rapidly in the Philippine Sea. Always check weather forecasts and local coast guard advisories before any boat or island trip, especially June through November.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in the Philippines",
+      "quick_answer": "Driving is on the right side; an international driving licence is valid, but Metro Manila traffic is among the world's worst and Grab is far more practical.",
+      "detail": "Filipinos drive on the right-hand side of the road, consistent with most Asian countries. International driving licences are valid for up to 90 days. Metro Manila is notorious for having some of the worst traffic congestion globally — MMDA's Unified Vehicular Volume Reduction Program (colour coding scheme) restricts certain licence plate endings from major roads on specific weekdays. Road conditions outside major highways vary widely. Between cities and islands, driving typically requires ferry combinations as the archipelago has over 7,000 islands. For most tourists, Grab is far more practical, cost-effective, and stress-free than self-driving.",
+      "tourist_tips": [
+        "Check Manila's MMDA colour coding scheme if renting a car — driving your rental on the wrong day can result in fines and impoundment",
+        "Outside the capital, roads in provinces can be narrow, poorly lit at night, and shared with tricycles and carabao carts — drive cautiously after dark",
+        "Renting a motorbike in places like Siargao or Bohol is popular for tourists, but verify your travel insurance explicitly covers motorbike riding before doing so"
+      ],
+      "warning": "Many travel insurance policies exclude motorbike accidents if you do not hold a valid motorbike licence. Check your policy before renting any two-wheeled vehicle.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in the Philippines",
+      "quick_answer": "Filipino cuisine features adobo, sinigang, lechon, and kare-kare; turo-turo cafeterias offer filling meals from 60–100 PHP, and Jollibee is a beloved national institution.",
+      "detail": "Filipino food centres on rice, pork, seafood, and bold sour or salty flavours. Adobo (meat braised in vinegar and soy sauce), sinigang (tamarind-based sour soup), and lechon (whole roasted pig) are national staples. Turo-turo restaurants — where you point at pre-cooked dishes in metal trays — provide the cheapest sit-down meals at 60–100 PHP for rice and two viands. Mall food courts offer an excellent range at mid-range prices in comfortable, air-conditioned surroundings. Balut (a fertilised developing duck egg eaten from the shell) is the quintessential adventurous street snack. Jollibee, the local fast food chain, is genuinely beloved and a cultural experience in itself.",
+      "tourist_tips": [
+        "Try a turo-turo lunch for an authentic, very affordable meal — point at what looks good, rice is always included, and a full plate costs less than a dollar",
+        "Lechon is best eaten at a dedicated lechon restaurant (Cebu is famous for its version) — the skin must be crackling-crisp and freshly carved",
+        "Jollibee's Chickenjoy and palabok (noodle dish) are the items locals swear by — it is not just a tourist gimmick, Filipinos genuinely queue for it"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in the Philippines",
+      "quick_answer": "Cover up and be quiet at all religious sites; remove shoes at mosques; do not enter churches during active mass unless you intend to participate respectfully.",
+      "detail": "With over 80% of the population Catholic, churches are central to Philippine life — many are centuries-old Spanish colonial structures still in active daily use. Shorts and sleeveless tops are not appropriate inside a church; modest dress covering shoulders and knees is required. Photography inside church naves during active mass is disrespectful and should be avoided entirely. Mosques are concentrated in Mindanao and the Muslim areas of the south; shoes must be removed before entering, and women should cover their hair. Chinese Buddhist and Taoist temples (common in Cebu's Chinatown) are more relaxed but still expect quiet, respectful behaviour.",
+      "tourist_tips": [
+        "Intramuros in Manila contains some of the oldest Catholic churches in Asia — plan a morning visit when masses are less frequent and lighting is better for photos",
+        "The Quiapo Church in Manila hosts a famous Black Nazarene devotion every Friday — fascinating to observe respectfully from the periphery",
+        "When visiting mosques in Mindanao, contact the local tourism office in advance — guided visits are welcomed in many communities and ensure you are properly briefed on protocol"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit the Philippines",
+      "quick_answer": "November to May is the best time for most islands, especially Palawan and Boracay; typhoon season runs June to November with 20+ storms annually.",
+      "detail": "The Philippines is a tropical archipelago with no single best time to visit, as the 7,000-island geography creates distinct microclimates. Palawan, Boracay, and Cebu are at their best from November through May when skies are clear and seas are calm. The east coast — including Siargao, Eastern Samar, and Leyte — faces the Pacific and is best March to October, with November to February being typhoon-exposed. The peak typhoon season is June to November, with the Philippines experiencing over 20 named tropical cyclones annually, several of which make devastating landfalls. Always check forecasts before any boat trip and have flexible plans during typhoon season.",
+      "tourist_tips": [
+        "December and January are peak season for Palawan — book accommodation and island-hopping tours months in advance",
+        "PAGASA (the Philippine weather agency) publishes updated typhoon tracking online and in local news — check it daily during June to November",
+        "Shoulder season (late October to November and late April to May) offers lower prices and thinner crowds with mostly acceptable weather in most regions"
+      ],
+      "warning": "Philippine typhoons can intensify from tropical depression to supertyphoon within 24–48 hours. If a storm is forecast anywhere near your island location, do not take ferry or boat trips — wait it out regardless of schedule pressure.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for the Philippines",
+      "quick_answer": "Turo-turo meals from 60–100 PHP, local transport, budget island guesthouses, and early-booked Cebu Pacific promo fares make the Philippines very affordable.",
+      "detail": "The Philippines is one of Southeast Asia's best-value destinations when you travel like a local. Turo-turo cafeterias serve rice and multiple dishes for 60–100 PHP. Jeepneys and tricycles cost 9–20 PHP for short urban rides. Budget guesthouses and homestays on smaller islands range from 500–1,200 PHP per night. Cebu Pacific regularly runs 'piso fare' domestic flight promotions where base fares are 1 PHP — checking their website months ahead can slash inter-island travel costs. Most beaches in the Philippines are free to access. Buying snacks and water from sari-sari corner stores rather than resort shops saves significantly over a multi-week trip.",
+      "tourist_tips": [
+        "Sign up for Cebu Pacific's promo alerts or check their website on sale days (usually announced on social media) to book domestic flights at a fraction of normal fares",
+        "Self-cater breakfast from 7-Eleven or a local bakery — pandesal bread rolls cost 5 PHP each and are genuinely delicious, saving hundreds of pesos versus hotel breakfasts",
+        "Negotiate multi-day tricycle or habal-habal rates when exploring a new island — a daily rate is nearly always cheaper than per-trip pricing"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    }
+  }
+}

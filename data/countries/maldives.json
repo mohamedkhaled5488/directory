@@ -1,0 +1,460 @@
+{
+  "country": "Maldives",
+  "slug": "maldives",
+  "emoji": "🇲🇻",
+  "region": "Africa & Oceania",
+  "currency": "MVR",
+  "language": "Dhivehi",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in the Maldives",
+      "quick_answer": "Most resorts automatically add a 10% service charge, but small additional tips in USD are appreciated by housekeeping and boat staff.",
+      "detail": "A 10% service charge is included at virtually all resort restaurants and services, so tipping on top is optional but welcomed. Housekeeping staff typically receive USD 1–5 per day, while boat crew and dive guides appreciate USD 2–5 per outing. US dollars are the preferred tipping currency across the Maldives. Given the relatively low local wages, tips make a meaningful difference to resort workers.",
+      "tourist_tips": [
+        "Carry small USD bills — USD 1, 5, and 10 notes — specifically for tips, as local MVR is rarely preferred by resort staff.",
+        "Tip dive instructors and snorkeling guides separately from general boat crew, as they often rely heavily on gratuities.",
+        "Check your resort bill carefully before adding extra tips, since the 10% service charge is almost always already included."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in the Maldives",
+      "quick_answer": "There are no roads between islands — transport is by seaplane, speedboat, or domestic flight, with no rideshare apps available.",
+      "detail": "The Maldives has no inter-island road network, so all travel between atolls and islands relies on seaplanes (USD 400–600 round trip), speedboats, or domestic flights operated by Maldivian Airlines and FlyMe. Seaplanes are the iconic — and most expensive — way to reach remote resorts, and they only operate in daylight hours. Cheaper public ferries run between inhabited local islands for MVR 25–100 per trip. Malé itself is a tiny island where taxis cover short distances, but most visitors have no need to drive anywhere.",
+      "tourist_tips": [
+        "Book seaplane transfers well in advance — they operate only during daylight and slots fill quickly, especially in peak season.",
+        "Speedboat transfers are significantly cheaper than seaplanes and perfectly comfortable for shorter distances between atolls.",
+        "Use the public ferry network if staying at local island guesthouses on islands like Maafushi — it costs a fraction of private resort transfers."
+      ],
+      "warning": "Seaplanes cannot operate after dark, so late-arriving flights can strand you overnight in Malé — always build in a buffer or book a Malé hotel for late arrivals.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in the Maldives",
+      "quick_answer": "Medical facilities are very limited outside Malé, and medical evacuation insurance is absolutely essential for all visitors.",
+      "detail": "ADK Hospital and Indira Gandhi Memorial Hospital in Malé provide the best local care, but serious conditions require evacuation to India, Sri Lanka, or Singapore. Resorts maintain basic medical facilities, but anything beyond minor injuries or illness needs specialist treatment abroad. Divers face particular risk from decompression sickness — always confirm the location of the nearest hyperbaric chamber before your first dive. Comprehensive travel insurance with medical evacuation cover is not optional here; it is a necessity.",
+      "tourist_tips": [
+        "Purchase travel insurance that explicitly covers medical evacuation by air ambulance — standard policies often exclude this expensive service.",
+        "Ask your resort or dive operator to identify the nearest hyperbaric chamber before any diving, as not every atoll has one.",
+        "Bring a full supply of any prescription medications, as pharmacies outside Malé are extremely limited in stock."
+      ],
+      "warning": "Medical evacuation flights to India or Singapore can cost USD 10,000–50,000 without insurance — do not travel without comprehensive cover.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in the Maldives",
+      "quick_answer": "Islam is the state religion and its laws apply strictly — alcohol, pork, gambling, drugs, and LGBTQ relationships are all illegal on local islands.",
+      "detail": "The Maldives is a 100% Muslim nation and Islamic law shapes public life significantly. Alcohol is completely prohibited on all local (inhabited) islands and is only legally available at resort islands, liveaboards, and the international airport departure terminal. Drugs carry severe penalties including possible death, and importing alcohol, pork, or non-Islamic religious materials is illegal. LGBTQ relationships are criminalised under Maldivian law, and public displays of affection are banned regardless of orientation.",
+      "tourist_tips": [
+        "Never attempt to bring alcohol onto a local island — penalties are serious and customs checks can occur on public ferries.",
+        "Keep all prescription medications in their original labelled packaging to avoid any suspicion at customs.",
+        "Same-sex couples should exercise strong discretion, especially on local islands, where local attitudes can be very conservative."
+      ],
+      "warning": "Drug offences can result in the death penalty — do not carry, use, or attempt to purchase any narcotics anywhere in the Maldives.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in the Maldives",
+      "quick_answer": "Police: 119; Ambulance: 102; Fire: 118; Coast Guard: 191.",
+      "detail": "These four numbers cover the main emergency services across the Maldives. For resort guests, the resort reception is usually the fastest first point of contact for any emergency, as they can coordinate coast guard, air ambulance, and local services. Mobile coverage on outer atolls can be patchy, so always note your resort's direct satellite or landline number. The coast guard number (191) is particularly important for any maritime emergency.",
+      "tourist_tips": [
+        "Save your resort's direct emergency contact in your phone from the moment you check in, as it is often faster than dialling national services.",
+        "Note the nearest hyperbaric chamber's contact number if you are diving — decompression emergencies are time-critical.",
+        "In a diving emergency, contact DAN (Divers Alert Network) at +1-919-684-9111, which provides 24-hour worldwide assistance."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in the Maldives",
+      "quick_answer": "Swimwear is fine at resort beaches and private sandbanks, but on local islands you must cover shoulders and knees at all times.",
+      "detail": "The Maldives operates a clear two-zone dress code: resort islands are very relaxed and bikinis or swimwear are entirely normal on resort beaches and overwater walkways. However, on any local (inhabited) island — including Malé — both men and women must cover their shoulders and knees in public areas. Women should always carry a sarong when travelling between islands. Entering mosques or public buildings requires conservative attire for both genders.",
+      "tourist_tips": [
+        "Pack a lightweight sarong or pareo — it doubles as a beach wrap at resorts and an instant cover-up when visiting local islands.",
+        "Men should wear shorts that cover the knee and a T-shirt when walking around any local island or Malé.",
+        "If you are island-hopping, change out of swimwear before boarding the speedboat or ferry to a local island."
+      ],
+      "warning": "Wearing swimwear or revealing clothing on local islands is disrespectful and can result in being asked to leave or causing genuine offence to residents.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in the Maldives",
+      "quick_answer": "Alcohol is completely banned on all local islands and is only legally available at resort islands, liveaboards, and the international departure terminal.",
+      "detail": "This is one of the strictest alcohol regimes in any tourist destination — consumption or possession on any inhabited local island is illegal with no exceptions. Resorts operate under special licences that allow alcohol service to tourists within their island boundaries, and liveaboard dive boats are similarly licensed. Prices at resorts are extremely high, often USD 10–20 per beer and USD 15–25 per cocktail. The international departure terminal in Malé has a duty-free area where alcohol can be consumed before departure.",
+      "tourist_tips": [
+        "If alcohol is important to your trip, book a resort island rather than a local island guesthouse — guesthouses cannot legally serve it.",
+        "Budget carefully for resort alcohol costs, as they can significantly inflate your total holiday spend.",
+        "Never attempt to carry alcohol from a resort to a local island — even sealed bottles in your luggage are prohibited."
+      ],
+      "warning": "Possession of alcohol on a local island is a criminal offence — the prohibition is absolute and enforced.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in the Maldives",
+      "quick_answer": "Bargaining is not a strong cultural norm — prices are mostly fixed, though some flexibility exists at Malé's local market and for boat hire.",
+      "detail": "Unlike many Southeast Asian destinations, the Maldives does not have an active bargaining culture. Resort shops, restaurants, and activity operators post fixed prices and rarely negotiate. Some flexibility can be found at Malé's local market for souvenirs and handicrafts, and local dhoni or speedboat hire may allow modest negotiation. Approaching any price discussion politely and without pressure is important in this conservative culture.",
+      "tourist_tips": [
+        "Ask politely whether there is a package deal or discount for multiple activities rather than bargaining on individual prices.",
+        "Malé's fish market and local craft stalls are the most appropriate places to gently negotiate — keep it friendly and low-key.",
+        "Compare speedboat charter prices between a few operators before committing — this is where the most price variation exists."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in the Maldives",
+      "quick_answer": "Photography is generally unrestricted at resorts and underwater, but always ask permission before photographing local women or mosques.",
+      "detail": "Resorts actively encourage photography and underwater shooting is world-class. In Malé and on local islands, street photography is generally acceptable, but Maldivian women should never be photographed without their explicit consent — this is a matter of cultural and religious respect. Mosques on local islands should be photographed only from outside and only with the caretaker's permission. Military vessels, coast guard facilities, and government security installations should be avoided entirely.",
+      "tourist_tips": [
+        "Invest in an underwater camera housing or a waterproof action camera — the marine life is among the best photographic subjects on earth.",
+        "Approach locals warmly and ask before photographing — most Maldivians are happy to engage when approached respectfully.",
+        "Drone flying requires advance permission from the Civil Aviation Authority — do not fly drones over resorts or local islands without authorisation."
+      ],
+      "warning": "Flying an unlicensed drone over resort islands or local communities can result in confiscation and legal penalties.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in the Maldives",
+      "quick_answer": "Friday is the Islamic holy day — government offices close Thursday–Friday, while resorts operate all week and local shops reduce hours on Friday.",
+      "detail": "The Maldives follows an Islamic working week, so the weekend is Thursday–Friday rather than Saturday–Sunday. Government offices, banks, and many local businesses on inhabited islands close Thursday afternoon and all day Friday. Resorts are completely unaffected and operate seven days a week. During Ramadan, local island restaurants, cafes, and shops observe significant hour restrictions, and eating, drinking, or smoking in public during daylight hours is prohibited on local islands.",
+      "tourist_tips": [
+        "Plan any administrative tasks — SIM registration, money exchange, ferry bookings — for Sunday through Wednesday on local islands.",
+        "Visit Hukuru Miskiy mosque in Malé in the morning on a non-Friday day for the best chance of access outside prayer times.",
+        "If travelling during Ramadan, stock up on snacks and water from your resort before visiting a local island, as daytime food options will be very limited."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in the Maldives",
+      "quick_answer": "There are no rideshare apps — in Malé taxis cover short distances, while speedboats and dhonis serve as inter-island transport.",
+      "detail": "Malé is one of the world's most densely populated islands and is small enough that most journeys are walkable; taxis exist for luggage-heavy trips or if you prefer not to walk. No Uber, Grab, or similar apps operate anywhere in the Maldives. Between islands, resort speedboats, public ferries, and hired dhonis are the equivalent of taxis. Resorts arrange all transfers for their guests, so independent transport needs are minimal unless you are island-hopping independently.",
+      "tourist_tips": [
+        "Negotiate the price with Malé taxi drivers before getting in, as meters are not standard and fares are short but variable.",
+        "If your resort transfer is by speedboat, secure your bags well and wear the life jacket provided — the Indian Ocean can be surprisingly choppy.",
+        "For independent island-hopping, download the public ferry schedule from the Maldives Transport and Contracting Company before your trip."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in the Maldives",
+      "quick_answer": "Do not drink tap water anywhere in the Maldives — bottled water is essential, and staying hydrated in the tropical heat is critical.",
+      "detail": "Tap water throughout the Maldives is desalinated seawater and is safe for showering but not for drinking. Resorts provide bottled water and many upscale resorts have filtered water stations. On local islands, bottled water is available in shops but can be expensive and is less reliably stocked on smaller atolls. The constant tropical heat and humidity (28–32°C year-round) means dehydration is a genuine risk, especially for active tourists diving, snorkelling, or exploring.",
+      "tourist_tips": [
+        "Carry a reusable water bottle and refill at your resort's filtered water station to reduce plastic waste and save money.",
+        "Drink at least 2–3 litres of water daily — heat exhaustion is a real risk even on overcast days near the equator.",
+        "Avoid ice in drinks on local islands unless you are certain it is made from purified water, though most tourist-facing eateries in Malé use safe ice."
+      ],
+      "warning": "Tap water should never be drunk — stick exclusively to bottled or resort-filtered water throughout your stay.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in the Maldives",
+      "quick_answer": "Carry USD cash — resorts are mostly card-friendly but local islands and smaller guesthouses often require cash, and ATMs are scarce outside Malé.",
+      "detail": "Bank of Maldives ATMs are available in Malé and on a few larger inhabited islands, but they are entirely absent on most resort or outer atoll islands. Resorts operate primarily on card payment in USD or EUR, but smaller local island guesthouses, market stalls, and public ferries often require cash. The Maldivian Rufiyaa (MVR) is used on local islands, while USD is widely accepted and often preferred at tourist-facing businesses. Wise card users can withdraw from Bank of Maldives ATMs with lower fees than standard bank cards.",
+      "tourist_tips": [
+        "Exchange or withdraw enough USD before leaving Malé or your arrival point — there are no ATMs on most resort islands.",
+        "Keep small USD bills (USD 1, 5, 10, 20) for tips, local ferries, and small purchases on inhabited islands.",
+        "Notify your home bank of your travel dates before departure to prevent cards being blocked for overseas transactions."
+      ],
+      "warning": "Running out of cash on a remote resort or local island with no ATM can leave you completely stuck — always carry more than you think you need.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in the Maldives",
+      "quick_answer": "Buy a Dhiraagu or Ooredoo SIM in Malé or at the airport — resorts provide WiFi, but coverage thins out significantly on outer atolls.",
+      "detail": "Dhiraagu offers the broadest coverage across the archipelago and is the recommended choice for island-hopping travellers; Ooredoo is a solid alternative and often cheaper. Both are available for purchase at Velana International Airport and in Malé. Most resorts include WiFi in their room rates, though speeds vary. eSIM services like Airalo work well and can be activated before arrival. Mobile signal can be non-existent in seaplane transfer zones and on the most remote atolls.",
+      "tourist_tips": [
+        "Purchase a Dhiraagu tourist SIM at the airport arrivals hall — it is the fastest and most convenient option before reaching your resort.",
+        "Download offline maps (Maps.me or Google Maps offline) for Malé and any local islands you plan to visit before you lose connectivity.",
+        "A VPN is useful if you plan to use messaging apps or access streaming services, as some content may be region-restricted."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "vpn",
+        "travel-insurance"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in the Maldives",
+      "quick_answer": "The Maldives uses 230V/50Hz — socket types are primarily Type D (Indian 3-pin) and Type G (British 3-pin), so bring an adapter.",
+      "detail": "Type D (large round 3-pin, Indian standard) and Type G (rectangular 3-pin, UK standard) are the most common socket types across the Maldives. Voltage is 230V at 50Hz, which is compatible with most modern electronics. Upscale resorts frequently install universal sockets in rooms, making adapters unnecessary there, but local island guesthouses and smaller properties are less reliable. Power supply is generally stable at established resorts but can be inconsistent in remote areas.",
+      "tourist_tips": [
+        "Pack a universal travel adapter that covers both Type D and Type G sockets to cover all scenarios.",
+        "Charge all devices and power banks fully at your resort before any multi-day liveaboard or remote island excursion.",
+        "A multi-port USB charging hub is invaluable on liveaboard boats where socket access per cabin can be limited."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in the Maldives",
+      "quick_answer": "Overall scam risk is low, but fake resort websites, misleading guesthouse listings, and inflated airport speedboat prices do occur.",
+      "detail": "The Maldives has a relatively low scam culture compared to other tourist-heavy destinations, but a few specific risks exist. Fake resort booking websites mimic legitimate properties and take payments for non-existent bookings — always book directly through official resort websites or established OTAs. Guesthouse photos online sometimes dramatically misrepresent the actual property. Airport touts can inflate speedboat transfer prices for newly arrived travellers unfamiliar with standard fares.",
+      "tourist_tips": [
+        "Book resorts and guesthouses only through official websites or reputable platforms like Booking.com or Expedia — verify the resort exists on the official Maldives tourism registry.",
+        "Agree the speedboat transfer price in writing (or via the resort's confirmation email) before leaving the airport.",
+        "Read recent reviews on TripAdvisor or Google specifically mentioning room conditions and photo accuracy before booking local guesthouses."
+      ],
+      "warning": "Fraudulent resort booking websites are a growing problem — check that payment pages use HTTPS and verify the resort directly by email or phone before paying.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in the Maldives",
+      "quick_answer": "The Maldives is one of the world's safest tourist destinations — violent crime against tourists is extremely rare and resorts are essentially private secured islands.",
+      "detail": "Tourist-facing crime is minimal throughout the archipelago, and resort islands function as self-contained, gated environments with high security. Malé has some localised gang activity concentrated in specific neighbourhoods, but this almost never intersects with tourist areas. Petty theft is uncommon but not impossible in busy Malé markets. The greatest physical risks to tourists are water-related — ocean currents, marine life, and diving accidents — rather than crime.",
+      "tourist_tips": [
+        "Keep valuables in your room safe at the resort rather than on the beach, as opportunistic theft from unattended towels is the most common property crime.",
+        "Be aware of strong tidal currents around reef edges and lagoon passages — always check with resort water sports staff before entering the ocean.",
+        "Shuffle your feet when walking in shallow sandy areas to avoid stepping on camouflaged stingrays."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in the Maldives",
+      "quick_answer": "The Maldives is a devout Muslim nation — respect religious practices, dress modestly on local islands, and avoid public displays of affection.",
+      "detail": "Maldivians are warm and welcoming hosts, but cultural respect matters significantly. Remove shoes before entering homes and mosques, use your right hand for eating and passing items, and avoid eating, drinking, or smoking in public on local islands during Ramadan daylight hours. Public displays of affection — even between married heterosexual couples — are frowned upon on local islands. Friday prayers are the most important weekly religious observance, and noise and disruption near mosques at prayer times should be avoided.",
+      "tourist_tips": [
+        "Greet locals with 'As-salamu alaykum' (peace be upon you) — even a basic greeting in the Islamic tradition is warmly appreciated.",
+        "Ask before joining any local gathering or entering private residential areas on inhabited islands.",
+        "Refrain from photographing local women, older community members, or anyone who seems uncomfortable without first asking permission."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in the Maldives",
+      "quick_answer": "Dhivehi is the national language, but English is spoken fluently throughout the tourism industry and in Malé — there is virtually no language barrier for tourists.",
+      "detail": "Dhivehi, written in the unique right-to-left Thaana script, is the official language and the everyday language of Maldivian communities. However, English is used extensively in all tourist-facing contexts — resort staff, dive operators, guesthouses, and shops in Malé all communicate confidently in English. Language difficulties are genuinely rare for English-speaking tourists. Learning a few basic Dhivehi phrases is appreciated as a gesture of respect.",
+      "tourist_tips": [
+        "Say 'Shukuriyyaa' (thank you) in Dhivehi — locals appreciate the effort even though they will likely respond in fluent English.",
+        "'Kihineh?' means 'How are you?' and is a friendly, appreciated opening for conversations with locals.",
+        "Menu boards and signage in Malé are often in both Dhivehi and English, so navigating markets and shops is straightforward."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in the Maldives",
+      "quick_answer": "The Maldives has some of the world's best beaches and snorkelling, but stingrays, strong currents, and swimwear rules on local islands require awareness.",
+      "detail": "The Maldives offers world-class beaches with crystal-clear turquoise lagoons, spectacular coral reefs, and iconic overwater bungalows. Bioluminescent plankton creates glowing blue beaches on some islands at night, especially during warmer months. Stingrays rest in shallow sandy areas near shore, so shuffle your feet rather than lifting them when walking in shallows. Coral bleaching and beach erosion from climate change are genuine concerns, and touching or standing on coral is both damaging and dangerous. Swimwear is appropriate only at resort beaches — not on local island beaches.",
+      "tourist_tips": [
+        "Ask your resort dive or snorkel team about current reef conditions before swimming, as some reef passages have extremely strong tidal flows.",
+        "Visit sandbanks (small temporary sand islands) accessible by speedboat for truly deserted, postcard-perfect beach experiences.",
+        "Night snorkelling with bioluminescent plankton is one of the Maldives' most magical and underrated experiences — ask your resort if it is available."
+      ],
+      "warning": "Ocean currents around reef passages and atoll edges can be extremely powerful — always follow local safety advice and never swim alone in open water.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in the Maldives",
+      "quick_answer": "Tourists essentially never need to drive in the Maldives — resorts use golf carts, and all inter-island transport is by boat or seaplane.",
+      "detail": "Malé has a road network and some scooters and cars, but the island is so compact that walking is the practical transport mode. Larger inhabited islands may have scooters available for hire. At resorts, guests move around by foot or golf cart — both provided by the resort. International driving licences are theoretically required for any road driving, but in practice the vast majority of tourists complete entire Maldives holidays without needing to drive at all. Seaplanes and speedboats are the primary transport infrastructure.",
+      "tourist_tips": [
+        "Inform your resort of any mobility requirements before arrival so appropriate golf cart assistance can be arranged across the island.",
+        "If hiring a scooter on a larger local island, wear a helmet and drive slowly — roads can be narrow and poorly maintained.",
+        "Familiarise yourself with your resort's golf cart routes and jetty locations on arrival, as some resort islands are larger than they look on maps."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in the Maldives",
+      "quick_answer": "Resort food is excellent but expensive; local Maldivian cuisine centres on fresh tuna, coconut, and distinctive short eats available cheaply in Malé.",
+      "detail": "Resort dining is internationally diverse and consistently high quality, but prices reflect the luxury environment — USD 30–80 for a main course at a premium resort is common. Local Maldivian cuisine is tuna-forward: mas huni (shredded tuna with coconut and onion, eaten for breakfast with flatbread) and garudhiya (clear fish broth) are staples. Hedhikaa (short eats — small savoury snacks) are available cheaply at local cafes. No pork or alcohol is served on local islands. Fresh seafood — lobster, snapper, and reef fish — is outstanding throughout.",
+      "tourist_tips": [
+        "Visit the local cafes (tea shops) in Malé for authentic short eats and fish curry at a fraction of resort prices.",
+        "Ask your resort about local fishing excursions where you can catch your own fish and have it prepared by the chef.",
+        "Full-board or all-inclusive packages often represent better value at resorts than paying a la carte for every meal."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque & Temple Etiquette in the Maldives",
+      "quick_answer": "The Maldives is 100% Muslim with no temples or churches — mosque visits require modest dress, and non-Muslims cannot enter during prayer times.",
+      "detail": "There are no Hindu temples or Christian churches in the Maldives. The most significant mosque open to respectful non-Muslim visitors is Hukuru Miskiy (Old Friday Mosque) in Malé, built in 1658 and featuring exquisite coral stone carvings — entry is possible outside the five daily prayer times if modestly dressed. The large Islamic Centre in Malé is visually impressive but generally not open to non-Muslim tourists inside. Mosques on local islands should be viewed respectfully from outside without entering. Remove footwear before approaching mosque entrance areas.",
+      "tourist_tips": [
+        "Visit Hukuru Miskiy in the morning between Fajr (dawn) and Dhuhr (midday) prayer for the most relaxed atmosphere and best photo light.",
+        "Both men and women must cover shoulders and legs completely before approaching any mosque — carry a light cover-up.",
+        "Friday midday prayers are the most important of the week — streets near mosques become very busy and tourist access is strongly discouraged at this time."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit the Maldives",
+      "quick_answer": "The best time to visit is November–April (dry northeast monsoon), with December–March offering the most reliable sunshine and calmest seas.",
+      "detail": "The Maldives has two monsoon seasons: the northeast monsoon (dry season, November–April) brings calm seas, clear skies, and excellent underwater visibility — ideal for diving and snorkelling. The southwest monsoon (wet season, May–October) brings heavier rainfall, stronger winds, and rougher seas, though diving can still be excellent and manta ray sightings increase. Temperature is remarkably stable year-round at 28–32°C with high humidity. Cyclones are rare but not impossible during the wet season. Peak tourist season runs December–March, with highest prices and advance booking essential.",
+      "tourist_tips": [
+        "Book flights and resort stays at least 3–6 months in advance for December–March peak season, as top resorts sell out completely.",
+        "The shoulder months of May and November offer a good compromise of lower prices and mostly acceptable weather.",
+        "Whale shark sightings are most frequent around South Ari Atoll from January to April during the dry season."
+      ],
+      "warning": "Seaplanes are grounded during heavy rain and rough weather — a late-season wet monsoon storm can disrupt resort access by several hours or overnight.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in the Maldives",
+      "quick_answer": "Stay at local island guesthouses on islands like Maafushi or Thoddoo to access the Maldives for USD 30–80 per night instead of USD 500–1,500 at resorts.",
+      "detail": "The budget traveller's Maldives exists — local island guesthouses on inhabited islands like Maafushi, Thoddoo, Rasdhoo, and Ukulhas offer comfortable accommodation from USD 30–80 per night and easy access to snorkelling and beaches. Public ferries between islands cost MVR 25–100 (USD 2–7), compared to hundreds of dollars for resort speedboat transfers. Eating at local tea houses (cafes) in Malé costs USD 3–8 for a full meal. Booking seaplane transfers 6–12 months in advance can unlock discounts of 20–40% versus last-minute pricing.",
+      "tourist_tips": [
+        "Base yourself on Maafushi, the most developed local island for budget tourism, which has guesthouses, dive shops, and a bikini beach all within walking distance.",
+        "Use public inter-island ferries instead of private speedboat charters — the ferry from Malé to Maafushi costs around MVR 40 versus USD 25+ for a private speedboat.",
+        "Snorkelling directly from the beach of a local island's house reef is free — no need to pay for resort excursions to see excellent coral and fish."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    }
+  }
+}

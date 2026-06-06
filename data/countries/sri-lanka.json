@@ -1,0 +1,360 @@
+{
+  "country": "Sri Lanka",
+  "slug": "sri-lanka",
+  "emoji": "🇱🇰",
+  "region": "Asia",
+  "currency": "LKR",
+  "language": "Sinhala/Tamil",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Sri Lanka",
+      "quick_answer": "Tip 10% at tourist restaurants, 500–1,000 LKR per day for guides and drivers, and round up for tuk-tuk rides.",
+      "detail": "Tipping is appreciated but not always expected in Sri Lanka. At tourist-oriented restaurants, 10% is a reasonable tip, though always check if a service charge has already been added to the bill. Guides and drivers who accompany you on multi-day tours deserve 500–1,000 LKR per day as a minimum. For tuk-tuk rides, rounding up the fare to the nearest 50 or 100 LKR is a kind gesture. Hotel staff such as porters and housekeeping appreciate 100–200 LKR.",
+      "tourist_tips": [
+        "Check your restaurant bill for an already-added service charge before leaving an additional tip",
+        "Carry small LKR notes specifically for tipping guides, drivers, and hotel staff throughout the day",
+        "For tuk-tuks arranged through PickMe or Uber, a small cash tip on top is always appreciated"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Sri Lanka",
+      "quick_answer": "PickMe and Uber work in Colombo; tuk-tuks are everywhere; trains are iconic and scenic; buses are cheap but very crowded.",
+      "detail": "Sri Lanka's public transport is varied and affordable. PickMe is the dominant ride-hailing app (similar to Uber) and works for both cars and tuk-tuks in Colombo and other cities — always preferred over hailing off the street to avoid overcharging. Tuk-tuks are ubiquitous island-wide; always negotiate and agree on the fare before you get in. The train network is inexpensive and the Kandy-to-Ella route through the hill country is considered one of the world's most scenic rail journeys. Intercity buses are extremely cheap but often crowded and slow. Hiring a private car with a driver is excellent value for multi-day touring and highly recommended.",
+      "tourist_tips": [
+        "Book the Kandy-to-Ella train (observation car) well in advance — seats sell out weeks ahead",
+        "Use the PickMe app in Colombo for fair, metered tuk-tuk and car fares instead of negotiating on the street",
+        "For multi-day touring of cultural sites, a private driver costs roughly 6,000–10,000 LKR per day and is outstanding value"
+      ],
+      "warning": "Tuk-tuk drivers who don't use an app will almost always quote inflated fares to tourists. Always agree on the price before boarding and consider using PickMe whenever possible.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Sri Lanka",
+      "quick_answer": "Good private hospitals exist in Colombo (Nawaloka, Lanka, Asiri); healthcare outside the capital is limited, making travel insurance essential.",
+      "detail": "Colombo has several well-equipped private hospitals — Nawaloka, Lanka Hospitals, and Asiri Hospital are the most reputable and have English-speaking staff. Outside Colombo, medical facilities drop off sharply, and in rural or hill-country areas, care may be very basic. Dengue fever is a genuine risk throughout the island, particularly during and after the monsoon season, so using DEET-based insect repellent is critical. Pharmacies are widespread, but counterfeit medicines have been reported — always buy from well-established, reputable pharmacies and check packaging carefully.",
+      "tourist_tips": [
+        "In Colombo, Nawaloka Hospital (+94 11 254 4444) and Lanka Hospitals (+94 11 553 0000) are the best private options for tourists",
+        "Apply DEET repellent morning and evening to protect against dengue-carrying mosquitoes, especially in green or wet areas",
+        "Only purchase medicines from established pharmacies with proper signage — avoid street vendors selling pills"
+      ],
+      "warning": "Dengue fever is a real risk throughout Sri Lanka. It is spread by daytime-biting mosquitoes and there is no vaccine — prevention through repellent and covered clothing is the only protection.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Sri Lanka",
+      "quick_answer": "LGBTQ relationships are criminalized, posing disrespectfully with Buddha statues can get you arrested, and drugs carry severe penalties.",
+      "detail": "Sri Lanka has several laws that directly affect tourists. Same-sex relationships remain criminalized under the colonial-era Section 365 of the Penal Code, and LGBTQ travellers should exercise significant caution. Posing irreverently with or turning your back to a Buddha statue is illegal — tourists have been arrested and deported for this offense, so always face the statue respectfully. Cannabis and all recreational drugs are strictly illegal with severe penalties. Exporting antique Buddha statues is restricted. Alcohol is banned island-wide on poya days (full-moon days, roughly monthly).",
+      "tourist_tips": [
+        "Never pose for a photo with your back to a Buddha statue or make irreverent gestures near one — arrests do happen",
+        "Check the poya (full moon) calendar before planning any evening that involves alcohol, as sales are completely banned",
+        "Do not photograph military installations, police checkpoints, or government buildings marked as restricted"
+      ],
+      "warning": "LGBTQ relationships are illegal under Section 365 of the Penal Code. Same-sex couples should be discreet in public to avoid legal risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Sri Lanka",
+      "quick_answer": "Police: 119; Ambulance: 110; Fire: 111; Tourist Police: 1912.",
+      "detail": "Sri Lanka has dedicated emergency lines for each service. The Tourist Police (1912) are specifically trained to assist visitors and have English-speaking officers — this should be the first call in any tourist-related incident including theft, scams, or disputes. The regular police line is 119. For medical emergencies call 110, though private hospital transport is often faster in cities. The fire brigade is reached on 111. Always ask your accommodation for the nearest private hospital number on arrival, as response times for public ambulances can be slow outside Colombo.",
+      "tourist_tips": [
+        "Save the Tourist Police number (1912) in your phone the moment you arrive — they handle tourist incidents in English",
+        "For medical emergencies in Colombo, calling a private hospital directly is usually faster than waiting for a public ambulance",
+        "Note your accommodation's local emergency contacts on arrival, especially if staying in rural or hill-country areas"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Sri Lanka",
+      "quick_answer": "Cover shoulders and knees at all Buddhist temples, remove shoes and hats at every religious site, and dress modestly in cultural areas.",
+      "detail": "Sri Lanka is a conservative Buddhist society and dress code at religious sites is strictly enforced. At all Buddhist temples and dagobas, both men and women must cover shoulders and knees; shoes and hats must be removed before entering any shrine. At some mosques in Muslim areas, women should also cover their hair. Beach resorts and coastal areas are relaxed, and swimwear is appropriate at the beach. When moving between beach towns and inland cultural sites, changing into modest clothing is expected. The interior hill country and Cultural Triangle sites (Sigiriya, Polonnaruwa) are more conservative.",
+      "tourist_tips": [
+        "Keep a light sarong or scarf in your daypack at all times — temple dress code is enforced and there is no warning before arriving",
+        "Shoes must be removed at virtually every religious site; wear sandals that slip on and off easily",
+        "Even at tourist-heavy sites like Sigiriya, tank tops and short shorts are frowned upon — dress one step up from beach wear"
+      ],
+      "warning": "Some sites near temples have vendors who will offer sarong rentals as part of a scam — carry your own and ignore unsolicited 'dress code reminders' from strangers outside the official entrance.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Sri Lanka",
+      "quick_answer": "Alcohol is widely available at licensed venues but is completely banned island-wide on poya (full moon) days each month.",
+      "detail": "Alcohol is sold at licensed hotels, restaurants, wine stores (Wines Board of Ceylon shops), and supermarkets. The legal drinking age is 21. The most important restriction for tourists to know is that alcohol sales are completely banned on poya days — the full-moon day each month, which is a Buddhist national holiday. On these days, no shop, bar, or restaurant can legally serve alcohol. Local beers (Lion, Carlsberg brewed locally) and arrack (a coconut-distilled spirit) are the signature drinks. Some provinces with large Muslim populations may have additional restrictions, and during Ramadan some Muslim-area restaurants will not serve alcohol.",
+      "tourist_tips": [
+        "Download a Sri Lanka poya calendar before your trip and stock up the day before if alcohol matters to you",
+        "Lion Lager is the iconic local beer and costs 350–500 LKR at most restaurants",
+        "Coconut arrack is the traditional Sri Lankan spirit — try it with ginger beer as a 'Ceylon Sling'"
+      ],
+      "warning": "Poya day alcohol bans are strictly enforced — even hotel minibars are supposed to be locked. Plan ahead on these days as it affects the entire island, not just specific areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Sri Lanka",
+      "quick_answer": "Bargaining is expected with tuk-tuks and at markets; use PickMe or Uber for fair app-based prices; fixed prices apply at supermarkets and formal shops.",
+      "detail": "Bargaining is a normal part of commerce in Sri Lanka at markets, souvenir stalls, and for tuk-tuk fares. Always negotiate the tuk-tuk fare before you get in — the opening price for tourists is typically two to three times the fair rate. The PickMe and Uber apps eliminate this entirely by showing a fixed metered fare. At tourist market stalls and craft shops around sites like Galle Fort or Kandy market, negotiating 20–30% off the asking price is perfectly acceptable. Supermarkets, government shops, and formal retail stores have fixed prices. Be friendly and relaxed — aggressive bargaining is considered rude.",
+      "tourist_tips": [
+        "Use the PickMe app instead of haggling for tuk-tuks — it saves time, money, and awkward negotiations",
+        "At souvenir shops near major sites, the first asking price is often double the real price — start at 50–60% and work up",
+        "Walk away politely if you can't agree on a price — vendors will often call you back with a better offer"
+      ],
+      "warning": "The 'gem scam' is common in Colombo and tourist areas — a friendly stranger leads you to a gem shop claiming the items are duty-free exports with huge resale value. This is always a scam; do not buy gems from anyone introduced by a stranger.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Sri Lanka",
+      "quick_answer": "Photography is generally free, but posing disrespectfully with Buddha statues is illegal and tourists have been arrested and deported for it.",
+      "detail": "Sri Lanka is highly photogenic and photography is broadly welcomed. However, the most important rule for tourists is regarding Buddha statues: you must never turn your back to a statue for a photo, point your finger at one, or pose in a way deemed irreverent. Sri Lankan authorities have arrested and deported foreign tourists specifically for this offense, so it must be taken seriously. Military bases, police stations, and certain government buildings are prohibited photo zones. Inside temple inner sanctuaries, photography may be banned — always follow posted signs and staff directions. Always ask before photographing local people, especially monks.",
+      "tourist_tips": [
+        "When photographing near any Buddha statue, always face it directly — never turn your back to it for a selfie",
+        "Ask permission before photographing monks — most are accommodating if approached respectfully",
+        "Inner shrine chambers at temples like the Temple of the Tooth in Kandy have strict no-photography rules that are actively enforced"
+      ],
+      "warning": "Tourists have been arrested, held by police, and deported for taking photos deemed disrespectful to the Buddha. This law is enforced. When in doubt, skip the photo.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Sri Lanka",
+      "quick_answer": "Poya (full-moon) days are national holidays with alcohol bans and some closures; cities operate commercially 7 days a week otherwise.",
+      "detail": "Commercial life in Colombo and major cities runs 7 days a week outside of public holidays. The most impactful recurring holiday for tourists is the poya day — the full-moon day each month, which is a Buddhist public holiday. On poya days, alcohol is banned island-wide, many businesses close early, and the atmosphere is quieter and more religious. National parks and tea estates operate daily. Government offices close on weekends and public holidays. During major holidays like New Year (Sinhala and Tamil New Year in April), many businesses shut for several days and transport is packed.",
+      "tourist_tips": [
+        "Mark poya days in your travel calendar — they occur monthly and affect alcohol availability across the whole country",
+        "Sinhala and Tamil New Year (around April 13–14) causes widespread closures — book transport and accommodation well in advance if visiting then",
+        "National parks like Yala and Udawalawe are open daily; book safari jeeps in advance during peak season (December–April)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Sri Lanka",
+      "quick_answer": "PickMe is the dominant local app; Uber also works in Colombo; tuk-tuks are everywhere but always negotiate the price before boarding.",
+      "detail": "PickMe is Sri Lanka's leading ride-hailing app and covers both car taxis and tuk-tuks in Colombo and major cities — it is the safest and most transparent way to get around. Uber operates in Colombo as well, though with a smaller driver pool. Tuk-tuks are the backbone of local transport throughout the island, including areas where apps don't reach; always agree on the fare before getting in to avoid disputes on arrival. For touring multiple cultural sites or travelling between cities, hiring a private car with a driver for the day or multi-day is common practice and excellent value. Trains are the recommended option for the scenic hill-country route from Kandy to Ella.",
+      "tourist_tips": [
+        "Download PickMe before you land — it is more widely used than Uber outside Colombo and shows upfront prices",
+        "For the Kandy–Ella train, book the scenic observation or first-class seats online through the Sri Lanka Railways website weeks ahead",
+        "Negotiate multi-day driver rates directly with a recommended driver — typical cost is 6,000–10,000 LKR per day including fuel"
+      ],
+      "warning": "Street-hailed tuk-tuk drivers routinely charge tourists two to three times the fair fare. Use PickMe whenever possible, and always settle the price before starting any unmetered journey.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Sri Lanka",
+      "quick_answer": "Never drink tap water anywhere in Sri Lanka — drink sealed bottled water only and always check the seal before consuming.",
+      "detail": "Tap water is not safe to drink anywhere in Sri Lanka, including Colombo. Stick exclusively to sealed bottled water, which is inexpensive and widely available throughout the country. Always inspect the seal before purchasing, as counterfeit filled bottles have been reported at some tourist sites. In the heat and humidity of Sri Lanka, dehydration is a genuine risk — drink more water than you think you need. If trekking or hiking in the hill country, carry a water filter or purification tablets as a backup. Ice in established tourist restaurants is generally made from purified water, but ice from unknown sources should be avoided.",
+      "tourist_tips": [
+        "Buy bottled water from supermarkets or larger shops rather than individual street vendors to reduce the counterfeit bottle risk",
+        "Drink at least 2–3 litres per day in coastal areas — the heat and humidity cause rapid dehydration",
+        "A reusable bottle with a built-in filter (such as a LifeStraw bottle) is worth carrying for hiking in the hill country"
+      ],
+      "warning": "Counterfeit bottled water (tap water in resealed bottles) has been reported at some tourist sites. Always check that the tamper seal is intact and unbroken before drinking.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Sri Lanka",
+      "quick_answer": "Commercial Bank, HNB, and Sampath Bank ATMs are most reliable for foreign cards; carry cash in rural areas as card acceptance is limited.",
+      "detail": "Sri Lanka is still a heavily cash-based economy, particularly outside Colombo and major tourist centres. Commercial Bank, Hatton National Bank (HNB), and Sampath Bank are the most reliable for international card withdrawals. ATMs in Colombo and main tourist towns are widely available. In rural areas, at national parks, or in hill-country villages, cash is often the only option so always carry enough LKR before heading off the beaten track. The country's economic crisis of 2022 has largely stabilised but cash access can still be inconsistent in very remote areas. Carrying some USD as an emergency backup is wise.",
+      "tourist_tips": [
+        "Withdraw larger amounts when you find a reliable ATM before heading to national parks or rural hill-country areas",
+        "Wise or Revolut cards avoid foreign transaction fees on ATM withdrawals — significantly better than standard bank cards",
+        "Keep USD 50–100 in cash as a backup emergency fund in case local ATMs are out of service in remote areas"
+      ],
+      "warning": "ATM skimming has been reported in Sri Lanka — use ATMs attached to bank branches rather than standalone machines in tourist areas, and cover your PIN.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Sri Lanka",
+      "quick_answer": "Buy a Dialog SIM at the airport on arrival for the best coverage — passport required, data packages are cheap and fast.",
+      "detail": "Sri Lanka has good mobile data coverage in cities and tourist areas. Dialog is the leading network with the best coverage including rural and hill-country regions, followed by Mobitel and Hutch. Tourist SIM cards with generous data packages can be bought at the Bandaranaike International Airport (CMB) arrivals hall immediately after landing — this is the easiest and most convenient option. A passport is required for SIM registration. Typical tourist data packages offer 15–25 GB for 500–1,000 LKR. eSIMs from providers like Airalo work with compatible handsets if you prefer to set up before arrival.",
+      "tourist_tips": [
+        "Buy your Dialog SIM at the Bandaranaike Airport arrivals counter immediately after landing — it takes about 10 minutes",
+        "Airalo eSIMs for Sri Lanka can be activated before you board your flight, eliminating any airport queue",
+        "Mobile data is fast and cheap enough that you rarely need to seek out Wi-Fi — a local SIM is better than relying on hotel internet"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Sri Lanka",
+      "quick_answer": "Sri Lanka uses Type D (3-pin round) and Type G (British 3-pin square) sockets at 230V/50Hz — bring both adapters or a universal adapter.",
+      "detail": "Sri Lanka uses 230V at 50Hz. The most common socket types are Type G (the British 3-pin square-blade plug found in many hotels) and Type D (the 3-pin round plug of Indian origin, found in older buildings and guesthouses). Having both a Type D and Type G adapter — or a universal travel adapter — is strongly recommended as you may encounter either depending on where you stay. Power cuts (load shedding) are possible, particularly in rural areas and during periods of electricity shortage, so a portable power bank is a useful item to carry.",
+      "tourist_tips": [
+        "A universal travel adapter covering both Type D and Type G covers all bases in Sri Lanka",
+        "Carry a portable power bank — power cuts can occur in rural and hill-country areas without notice",
+        "Most modern hotels in tourist areas have Type G British sockets; older guesthouses and rural stays are more likely to have Type D"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Sri Lanka",
+      "quick_answer": "The gem scam and tuk-tuk overcharging are the most common tourist traps — use PickMe and never buy gems from shop introductions by strangers.",
+      "detail": "Sri Lanka has several well-documented tourist scams to be aware of. The gem scam involves a friendly local steering you to a gem shop and claiming the stones can be resold at huge profit at home — this is always false. The 'temple closed today' redirect involves a tuk-tuk driver claiming your destination is closed and suggesting an alternative shop owned by a relative. Overcharging for tuk-tuks is nearly universal without an app. At tourist sites, fake tour guides may attach themselves to your group. Dress code 'reminders' from strangers outside temples can lead to paid sarong rentals at inflated prices — carry your own.",
+      "tourist_tips": [
+        "Use PickMe for all tuk-tuk rides to completely avoid fare negotiation scams",
+        "If a stranger volunteers to be your guide or takes you anywhere, agree a price explicitly upfront or decline politely",
+        "Never buy gems, antiques, or valuables based on advice from someone you just met on the street — it is always a scam"
+      ],
+      "warning": "The gem scam is sophisticated and long-running in Sri Lanka. Friendly, English-speaking locals who approach you in tourist areas and offer to show you around often receive shop commissions — this does not mean everyone is dishonest, but be alert.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Sri Lanka",
+      "quick_answer": "Sri Lanka is generally safe for tourists; petty theft exists in Colombo and at beaches but violent crime against tourists is rare.",
+      "detail": "Sri Lanka is considered a safe travel destination. The civil war ended in 2009 and the country has been peaceful since. Violent crime against tourists is uncommon. The main risks are petty theft — pickpocketing in Colombo Fort and Pettah markets, and bag snatching from tuk-tuks (thieves on motorbikes can grab bags from open tuk-tuks). At beaches, do not leave valuables unattended. Political protests and demonstrations can occur but tourists are not typically targeted. Solo female travellers should exercise standard caution, particularly at night and in less-frequented areas.",
+      "tourist_tips": [
+        "Keep bags on your lap and doors closed when riding tuk-tuks in busy areas to prevent opportunistic bag snatching",
+        "Use a money belt or hidden pouch for passports and large amounts of cash in Colombo's busy markets",
+        "Leave valuables (passport, extra cash, electronics) in your hotel safe rather than taking them to the beach"
+      ],
+      "warning": "Bag snatching from moving tuk-tuks by motorbike riders does occur in Colombo. Keep bags secured on your body and avoid having phones or cameras visibly accessible while moving through traffic.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Sri Lanka",
+      "quick_answer": "Remove shoes at temples, never touch a monk or turn your back to Buddha, and use the right hand or both hands when giving and receiving.",
+      "detail": "Sri Lankan culture is warm, hospitable, and deeply rooted in Buddhist tradition. The head is considered sacred — never touch anyone on the head, including children. The right hand is preferred for eating, giving, and receiving; presenting something with both hands is a sign of extra respect. Never touch a Buddhist monk, and in particular women should not make physical contact with monks at all. The 'head wobble' (tilting the head from side to side) is an affirmative gesture meaning yes or acknowledgment, similar to neighbouring India. The traditional greeting 'Ayubowan' (palms pressed together, a slight bow) is deeply appreciated when offered by tourists.",
+      "tourist_tips": [
+        "Learn and use 'Ayubowan' as a greeting — Sri Lankans genuinely appreciate the effort and it opens doors",
+        "Always use your right hand alone, or both hands together, when handing over money, gifts, or food",
+        "Women should not attempt to shake hands with or touch Buddhist monks — a smile and slight nod is the appropriate respectful greeting"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Sri Lanka",
+      "quick_answer": "English is widely spoken in tourism, hotels, and cities; Sinhala is the majority language with Tamil in the north and east.",
+      "detail": "Sri Lanka has two official languages: Sinhala (spoken by the Sinhalese majority) and Tamil (spoken in the north and east). English is an associate official language and a legacy of British colonial rule — it is widely spoken in Colombo, tourist areas, hotels, and business settings. In rural areas and smaller towns, English proficiency drops but basic communication is usually manageable. Most signs in tourist areas are in all three languages. Learning a few words of Sinhala is warmly received and creates an immediate positive connection with locals.",
+      "tourist_tips": [
+        "Say 'Ayubowan' (AH-yoo-BOH-wan) as a greeting — it means 'may you live long' and always generates a big smile",
+        "'Isthuthi' (ISS-too-tee) means thank you in Sinhala and is appreciated wherever you use it",
+        "In the Tamil north (Jaffna, Trincomalee), 'Vanakkam' is the Tamil greeting and equally well-received"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Sri Lanka",
+      "quick_answer": "Stunning beaches span three coasts with different best seasons — always swim within flagged areas due to strong rip currents.",
+      "detail": "Sri Lanka is blessed with beaches on its western, southern, and eastern coasts, each with their own optimal season driven by the monsoon. The west and south coasts (Negombo, Bentota, Unawatuna, Mirissa, Weligama) are best from December to March. The east coast (Trincomalee, Arugam Bay) is best from April to September, making it popular when the west is in monsoon. Strong rip currents and unpredictable surf are a genuine hazard at some beaches — swim only where yellow or red safety flags are displayed and lifeguards are present. Weligama and Arugam Bay are world-class surfing destinations; Mirissa and Kalpitiya offer whale shark and blue whale watching.",
+      "tourist_tips": [
+        "Check which coast is in its good season for your travel dates — the monsoon makes one side rough while the other is calm",
+        "Only swim in flagged, lifeguard-patrolled zones — rip currents have caused tourist drownings at unpatrolled beaches",
+        "Mirissa (November–April) is one of the world's best spots to see blue whales and sperm whales on morning boat tours"
+      ],
+      "warning": "Rip currents are a serious hazard at several popular beaches. Drowning incidents involving tourists are reported every year. Never swim at unpatrolled beaches or when red flags are flying.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Sri Lanka",
+      "quick_answer": "Drive on the left; an International Driving Permit is required alongside your home licence; hiring a driver is strongly recommended over self-driving.",
+      "detail": "Sri Lanka drives on the left, a legacy of British rule. To legally drive, you need both your home country licence and a valid International Driving Permit (IDP). While self-driving is possible, it is not recommended for most tourists: Colombo traffic is chaotic and aggressive, hill-country roads are narrow and winding, and tuk-tuks and buses dominate the road in unpredictable ways. A hired driver for the duration of your trip is widely considered the safest and most practical option — costs are low and local drivers know the roads. If you do drive, note that road conditions vary significantly and night driving in rural areas is particularly hazardous.",
+      "tourist_tips": [
+        "Hire a driver for your trip rather than self-driving — it is safer, less stressful, and often only marginally more expensive than renting a car",
+        "Obtain an International Driving Permit in your home country before travel if you plan to drive or rent a scooter",
+        "Avoid driving after dark outside of Colombo — road conditions, animals on roads, and unmarked hazards make it genuinely dangerous"
+      ],
+      "warning": "Driving standards in Sri Lanka are significantly more chaotic than in Western countries. Overtaking on blind corners, unmarked speed bumps, and unexpected obstructions are common. Self-driving tourists have a higher accident rate than those using local drivers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Food & Restaurants in Sri Lanka",
+      "quick_answer": "Rice and curry is the national dish served daily; hoppers, kottu roti, and fresh seafood are must-tries; food is spicy by default so specify mild if needed.",
+      "detail": "Sri Lankan cuisine is one of the great undiscovered food cultures of Asia. Rice and curry — a plate of rice surrounded by multiple small curries, dhal, and pol sambol (fresh coconut relish) — is eaten at lunch and dinner across the whole island. Hoppers (bowl-shaped crispy rice-flour pancakes, eaten with egg or curry) are the iconic breakfast food. Kottu roti, made from chopped flatbread stir-fried with vegetables, egg, and meat, is a popular evening street food. Sri Lankan food is genuinely very spicy; always specify 'mild please' if you have a low spice tolerance. Vegetarians are well-served as Buddhist and Hindu traditions make vegetable dishes abundant.",
+      "tourist_tips": [
+        "Eat rice and curry at a local 'hotel' (the Sri Lankan term for a simple local restaurant) — a full meal costs 200–400 LKR, roughly ten times cheaper than tourist restaurants",
+        "Try a string hopper breakfast — steamed rice noodle nests served with coconut milk curry — at any local guesthouse",
+        "Fresh seafood (grilled crab, prawn curry, tuna) is exceptional along all three coasts and very affordable at local fish restaurants"
+      ],
+      "warning": "Sri Lankan curries are significantly hotter than Indian curries in many cases. Ordering 'not spicy' or 'very mild' is necessary if you have a low spice tolerance — 'mild' by local standards can still be quite hot.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Temple, Mosque & Church Etiquette in Sri Lanka",
+      "quick_answer": "Remove shoes and hats at all religious sites, cover shoulders and knees, and never disrespect or touch sacred images or monks.",
+      "detail": "Sri Lanka has an extraordinary density of sacred sites: Buddhist temples (including the unmissable Temple of the Tooth Relic in Kandy and the Dambulla Cave Temple), Hindu kovils in the Tamil north and east, colonial churches in Galle and Colombo, and mosques in Muslim communities. Universal rules apply across all: remove footwear before entering, dress modestly (shoulders and knees covered), and behave quietly and respectfully. At Buddhist temples, never turn your back to a Buddha image for a photo, never touch monk's robes or bodies, and follow all photography rules posted at the entrance. At mosques, women should cover hair. At Kandy's Temple of the Tooth, photography of the inner relic chamber is prohibited.",
+      "tourist_tips": [
+        "At the Temple of the Tooth in Kandy, arrive early for the morning or evening puja (ritual) — the atmosphere is extraordinary but crowds are large",
+        "The Dambulla Cave Temple requires a steep climb in barefoot — go in the cooler morning hours to avoid hot stone surfaces",
+        "At Hindu kovils in Jaffna and the north, non-Hindus are generally welcome but should follow all dress codes and be especially quiet and respectful"
+      ],
+      "warning": "The Temple of the Tooth in Kandy is Sri Lanka's most sacred Buddhist site — behaviour considered disrespectful here can cause serious public offence. Observe strict dress code and photography rules without exception.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Sri Lanka",
+      "quick_answer": "Two monsoons split the island by coast: west and south are best December–March; east coast is best April–September; hill country is cooler year-round.",
+      "detail": "Sri Lanka's weather is governed by two monsoon systems that affect different coasts at different times, meaning some part of the island is always in good condition. The southwest monsoon (May–September) brings heavy rain to the west and south coast and hill country, while the northeast monsoon (November–February) affects the north and east. The west and south coast — Colombo, Galle, Mirissa, Weligama — is best from December to March. The east coast — Trincomalee and Arugam Bay — peaks from April to September. The Cultural Triangle (Sigiriya, Polonnaruwa, Dambulla) is best December to April before the heat becomes intense. The hill country around Kandy and Nuwara Eliya is cooler year-round at 15–22°C but can receive rain at any time.",
+      "tourist_tips": [
+        "To visit both coasts on one trip, time it for shoulder season (March or October) when both sides are relatively settled",
+        "December to March is peak tourist season on the south coast — book accommodation 2–3 months in advance for popular spots like Mirissa and Galle",
+        "The hill country (Ella, Nuwara Eliya) is refreshingly cool compared to the coast — pack a light layer even in the hottest months"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Sri Lanka",
+      "quick_answer": "Sri Lanka is extremely affordable — eat at local restaurants, travel by train and tuk-tuk apps, and stay at guesthouses to keep daily costs very low.",
+      "detail": "Sri Lanka is one of the most affordable destinations in Asia for travellers who engage with local options. A full rice and curry lunch at a local 'hotel' costs just 200–400 LKR (under USD 1.50). Train travel between cities is extraordinarily cheap — the scenic Kandy-to-Ella journey in a second-class seat costs around 200–400 LKR. Using PickMe instead of unmetered tuk-tuks consistently saves 50–70% on transport. Government-run rest houses and budget guesthouses provide clean, safe accommodation for 2,000–5,000 LKR per night. Buying tea directly at hill-country tea estates is significantly cheaper than buying packaged teas at tourist shops. Beaches, temples (many), and natural sites charge low or no entrance fees.",
+      "tourist_tips": [
+        "Eat where locals eat — a full meal at a local 'hotel' (not a tourist restaurant) costs under USD 1.50 and is often more authentic",
+        "Buy loose-leaf tea directly at a tea estate factory shop in Nuwara Eliya — prices are a fraction of airport or tourist shop prices",
+        "Second-class train seats on the Kandy–Ella route cost almost nothing and offer nearly identical scenery to the expensive observation car"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

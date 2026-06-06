@@ -1,0 +1,447 @@
+{
+  "country": "Colombia",
+  "slug": "colombia",
+  "emoji": "🇨🇴",
+  "region": "Americas",
+  "currency": "COP",
+  "language": "Spanish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Colombia",
+      "quick_answer": "A 10% propina is added at restaurants and is voluntary by law, but expected in practice; tip guides and drivers 10–20%.",
+      "detail": "Colombian law allows you to decline the restaurant service charge (propina), but doing so is considered rude and servers rely on it. Tip tour guides and private drivers 10–20% of the total cost. Taxi drivers are not typically tipped unless they provide extra assistance, though rounding up the fare is appreciated. Hotel porters and housekeeping staff appreciate 2,000–5,000 COP.",
+      "tourist_tips": [
+        "If a restaurant bill includes a 10% propina and service was poor, you can legally ask for it to be removed — but be polite about it.",
+        "Always carry small COP bills (1,000–5,000) for tipping porters, parking attendants, and street service workers.",
+        "Coffee farm tour guides work hard and earn modest wages — a 10,000–20,000 COP tip per person is genuinely appreciated."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Colombia",
+      "quick_answer": "Colombia has excellent urban transit including Bogotá's TransMilenio BRT and Medellín's Metro with cable cars, plus intercity buses and affordable domestic flights.",
+      "detail": "Bogotá's TransMilenio is a large BRT (bus rapid transit) network that covers the city cheaply, though it can be very crowded during rush hour. Medellín's Metro system is one of Latin America's safest and most impressive, including gondola cable cars serving hillside communities — all included in one fare. Uber, InDriver, and Cabify operate in major cities, while intercity buses connect most towns. Domestic flights are surprisingly affordable and often worth it for long distances.",
+      "tourist_tips": [
+        "In Medellín, the Metro cable cars (Metrocable) are a fantastic way to see hillside comunas — included in the standard Metro fare with a rechargeable Cívica card.",
+        "Bogotá's Sunday Ciclovía closes major roads to cars and opens them to cyclists and pedestrians — a free and uniquely Colombian experience.",
+        "For intercity buses, use terminals (terminales de transportes) and book via Redbus.com.co or buy at the terminal; comfort levels vary widely so check reviews."
+      ],
+      "warning": "Never hail a street taxi in Colombia, especially in Bogotá — always book through apps like Uber, InDriver, or Cabify to avoid the very real risk of 'paseo millonario' (kidnapping via fake or unofficial taxis).",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Colombia",
+      "quick_answer": "Colombia has good private hospitals in major cities, but travel insurance is essential as costs for foreigners can be high and quality varies outside urban areas.",
+      "detail": "Bogotá's Fundación Santa Fe de Bogotá and Clínica del Country are among the best hospitals in Latin America and are accustomed to treating international patients. Medellín and Cartagena also have quality private clinics. Altitude sickness (soroche) is a real concern in Bogotá (2,600m) and even more so in towns like Salento or the Cocora Valley — acclimatize slowly. Pharmacies (droguerías) are widespread and many medications available over the counter, but bring critical prescriptions from home.",
+      "tourist_tips": [
+        "Arrive in Bogotá a day early before heading to higher-altitude destinations — altitude sickness can ruin the first few days if you rush.",
+        "Carry your travel insurance documents and emergency number in both printed and digital form; major private hospitals will expect payment guarantees upfront.",
+        "Yellow fever vaccination is required if you are arriving from or traveling to certain Amazon/jungle regions — check requirements before your trip."
+      ],
+      "warning": "Altitude sickness in Bogotá (2,600m) and surrounding areas can be debilitating — avoid alcohol and heavy food on your first day, drink water, and rest; seek medical help if symptoms are severe.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Colombia",
+      "quick_answer": "Drug laws are strictly enforced despite Colombia's reputation; scopolamine (burundanga) is used in tourist-targeting crimes, and LGBTQ rights are legally protected.",
+      "detail": "Colombia is a major cocaine source country, and carrying even small amounts of illegal drugs results in serious criminal penalties — the 'personal dose' law is frequently misapplied and will not protect tourists reliably. Firearms are strictly prohibited for tourists. LGBTQ people have full legal protections including same-sex marriage since 2016. Scopolamine ('devil's breath') is a genuine documented threat — criminals use it to render victims compliant and amnesiac, most commonly via spiked drinks or even skin contact in some cases.",
+      "tourist_tips": [
+        "Never accept drinks, cigarettes, food, or even business cards from strangers — scopolamine is odorless and tasteless and can be applied via paper or skin contact.",
+        "Carry a color photocopy of your passport and leave the original in a hotel safe; Colombian law requires ID on your person but police generally accept copies.",
+        "Marijuana possession exists in a legal grey zone but is not a safe assumption — avoid purchasing or carrying any drugs as a tourist."
+      ],
+      "warning": "Scopolamine ('burundanga' or 'devil's breath') is used in documented crimes against tourists — never accept anything to eat, drink, or smell from strangers, even in friendly social settings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Colombia",
+      "quick_answer": "Dial 112 for national emergencies, 123 for police, 125 for ambulance, and 119 for fire services.",
+      "detail": "Colombia's unified emergency number 112 is the single most important number to remember and works across the country. The 123 police line (SIJIN/National Police) is well-known locally and should be your first call for theft or crime. The 125 ambulance line connects to Cruz Roja (Red Cross) or public ambulance services. In tourist areas of Bogotá, Policía de Turismo (tourist police) can be especially helpful and often speak some English.",
+      "tourist_tips": [
+        "Save 112, 123, and your travel insurance emergency line in your phone before you travel — program them the moment you land.",
+        "Tourist police (Policía de Turismo) are stationed in major tourist areas and can assist with reports, translation, and directions — their number is also accessible via 123.",
+        "If you are robbed, get a formal police report (denuncia) immediately — you'll need it for insurance claims and it's easiest to do on the day."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Colombia",
+      "quick_answer": "Dress is casual in hot coastal cities but layers are essential in Bogotá and highland areas; Colombians dress stylishly and modest attire is required at churches.",
+      "detail": "Cartagena, Santa Marta, and other Caribbean coastal cities are hot and humid year-round — light, breathable clothing is standard. Bogotá sits at 2,600m and its weather can shift from warm to cool and rainy within hours, making layers and a light waterproof jacket essential. Colombians in cities generally dress more formally and stylishly than many other Latin American countries, so looking presentable at restaurants and social events is appreciated. Cover shoulders and knees when visiting churches or religious sites.",
+      "tourist_tips": [
+        "Pack a lightweight rain jacket for Bogotá regardless of season — afternoon showers are common and the temperature can drop quickly.",
+        "Medellín is called the 'city of eternal spring' for good reason — 22–28°C most of the year means light layers are all you need.",
+        "Colombians take appearance seriously; overly scruffy or beach attire in Bogotá restaurants or upscale areas may attract odd looks — smart casual is always appreciated."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Colombia",
+      "quick_answer": "The drinking age is 18; aguardiente is the beloved national spirit, beer is widely available, and alcohol is very affordable throughout the country.",
+      "detail": "Aguardiente, an anise-flavored spirit, is Colombia's national drink and a deeply cultural fixture — brands like Antioqueño and Cristal vary by region. Club Colombia is the most popular local beer. The legal drinking age is 18 and is generally enforced at bars and clubs in cities. Public drinking rules vary by city and municipality — Bogotá has restrictions in some areas, particularly around transit. Drinking culture is social and festive, especially during fiestas and events.",
+      "tourist_tips": [
+        "Try regional aguardiente varieties — Antioquians are particularly proud of theirs and sharing a round is a genuine social bonding experience.",
+        "Alcohol is very affordable; a bottle of aguardiente from a tienda costs as little as 8,000–12,000 COP, making pre-drinking before clubs common.",
+        "Avoid drinking heavily in unfamiliar areas or with new acquaintances — scopolamine-spiked drinks are a documented crime vector, particularly in nightlife settings."
+      ],
+      "warning": "Never leave your drink unattended or accept drinks from strangers — scopolamine drug-spiking in bars and nightlife areas is a documented and serious criminal practice in Colombia.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Colombia",
+      "quick_answer": "Bargaining is acceptable at artisan markets and street stalls, especially in tourist areas like Cartagena, but fixed prices apply in malls and formal shops.",
+      "detail": "In Cartagena's walled city (Ciudad Amurallada), bargaining with souvenir and artisan vendors is expected and part of the shopping experience — start at around 50–60% of the asking price. Craft markets throughout Colombia similarly welcome negotiation. Supermarkets, shopping malls, established restaurants, and transportation apps all use fixed pricing with no negotiation expected. Street food and small tiendas generally have set prices.",
+      "tourist_tips": [
+        "In Cartagena's craft markets, vendors often quote double the expected sale price — polite, good-humored negotiation is welcomed and expected.",
+        "Buying multiple items from the same vendor is the best leverage for a discount — 'cuánto por los dos?' (how much for both?) often unlocks a deal.",
+        "Never bargain aggressively or rudely — Colombians are warm and pride themselves on dignity; a friendly approach gets far better results."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Colombia",
+      "quick_answer": "Photography is generally unrestricted for tourists, but avoid photographing military/police operations, conflict-sensitive areas, and always ask permission in indigenous communities.",
+      "detail": "Cartagena's colonial architecture, colorful streets, and Caribbean coast are freely and enthusiastically photographed. Military bases, checkpoints, and active police operations are off-limits and photographing them can result in equipment confiscation or detention. In indigenous communities such as those in the Sierra Nevada or Amazon regions, always ask permission before photographing people or ceremonies — some communities charge a small fee. Conflict-affected rural areas require extreme sensitivity and caution.",
+      "tourist_tips": [
+        "Cartagena's flower-basket-carrying palenqueras (women in traditional dress) are iconic photo subjects — they expect and appreciate a small tip (2,000–5,000 COP) for posing.",
+        "Ask 'puedo tomar una foto?' (may I take a photo?) before photographing people — most Colombians are friendly and will agree, and the gesture is greatly appreciated.",
+        "Avoid photographing poverty, slums, or sensitive areas without clear purpose and consent — it can cause offense and may attract unwanted attention."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Colombia",
+      "quick_answer": "Most shops open on Sundays; Sunday markets are often the best day to visit, and Bogotá's famous Ciclovía closes major roads to cars every Sunday morning.",
+      "detail": "Colombia observes many national public holidays (around 18 per year), during which banks, government offices, and some businesses close. Restaurants and tourist attractions generally remain open on holidays. Sunday is an active, social day — markets, parks, and cultural sites tend to be busiest. Bogotá's Ciclovía every Sunday morning closes major roads to cars from 7am–2pm, creating a massive open-air recreation corridor used by hundreds of thousands of residents.",
+      "tourist_tips": [
+        "Check Colombia's public holiday calendar before planning banking or administrative tasks — there are many holidays and banks close completely.",
+        "Don't miss Bogotá's Sunday Ciclovía — rent a bike or just walk the 120km of car-free roads; it's one of the best free urban experiences in South America.",
+        "Sunday markets like Usaquén flea market in Bogotá are excellent for artisan crafts, antiques, and local food — far more authentic than touristy shops."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Colombia",
+      "quick_answer": "Always use ride-hailing apps (Uber, InDriver, Cabify) — never hail a street taxi, as unofficial cabs are linked to documented kidnapping crimes called 'paseo millonario'.",
+      "detail": "'Paseo millonario' (millionaire's tour) is a well-documented crime in Colombia where victims are picked up in unofficial taxis, driven around, and forced to withdraw cash from ATMs while being held captive. App-based taxis, including yellow licensed taxis ordered via InDriver or Cabify, are safe. Uber operates in a legally grey zone but functions reliably in Bogotá, Medellín, and other major cities. Always confirm the driver's plate and name matches the app before getting in.",
+      "tourist_tips": [
+        "Install InDriver, Cabify, and Uber before you arrive — InDriver is particularly popular in Colombia and often cheaper than Uber.",
+        "Even licensed yellow taxis should be ordered via app rather than hailed on the street — the app gives you accountability if anything goes wrong.",
+        "Share your ride details (driver name, plate, route) with someone you trust before getting in, especially late at night."
+      ],
+      "warning": "Street taxis in Colombia, particularly in Bogotá, pose a genuine kidnapping risk known as 'paseo millonario' — only use app-booked rides, every single time, without exception.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Colombia",
+      "quick_answer": "Tap water is not safe to drink in most of Colombia — always drink bottled or filtered water.",
+      "detail": "Despite Bogotá's tap water being technically treated, most locals and health authorities recommend using bottled water for drinking and teeth brushing. In coastal cities like Cartagena and Santa Marta, and in smaller towns, tap water quality is less reliable and bottled water is strongly recommended. Good hotels often provide filtered water dispensers. Bottled water is cheap and widely available everywhere in Colombia.",
+      "tourist_tips": [
+        "Buy large 5-liter bottles from supermarkets (around 3,000 COP) rather than small bottles to save money and reduce plastic waste.",
+        "In remote areas like Tayrona or the Amazon, always carry more water than you think you need — refill points can be scarce on jungle or beach trails.",
+        "Ice in reputable restaurants and hotels is generally made from filtered water, but be cautious with street-vendor drinks containing ice."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Colombia",
+      "quick_answer": "Bancolombia, Davivienda, and BBVA Colombia ATMs accept foreign cards, but use ATMs inside banks or malls during daylight hours to avoid robbery risk.",
+      "detail": "ATM robberies and 'express kidnappings' from ATMs are documented crimes in Colombia — victims are followed from ATMs or forced to withdraw money. Always use ATMs inside bank lobbies or shopping malls during business hours, never at night or in isolated outdoor locations. Foreign card fees can be high (5,000–13,000 COP per transaction). Cash is still essential in smaller towns and for street food, while credit cards are accepted widely in Bogotá and Medellín. Wise and Revolut cards reduce foreign transaction fees significantly.",
+      "tourist_tips": [
+        "Withdraw larger amounts less frequently to minimize ATM fees and your number of trips to the ATM — each transaction typically costs 5,000–13,000 COP.",
+        "Cover the keypad when entering your PIN and be aware of who is around you; avoid using ATMs after dark or in deserted areas.",
+        "Carry a moderate amount of cash in a hidden money belt for emergencies, and keep daily spending cash in a separate, easily accessible pocket."
+      ],
+      "warning": "ATM-related robberies and express kidnappings are documented crimes in Colombia — use ATMs inside banks or malls during daylight only, and never at night or in isolated locations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Colombia",
+      "quick_answer": "Claro has the best nationwide coverage; buy a SIM at airports or phone stores with your passport, or use an Airalo eSIM before you arrive.",
+      "detail": "Colombia's three main networks are Claro (best overall coverage including rural areas), Movistar, and Tigo. SIM cards are sold at airports, Éxito supermarkets, and carrier stores — passport registration is required at purchase. Plans are very affordable: 20–30GB of data can cost as little as 25,000–40,000 COP for 30 days. Airalo eSIM works well for Colombia and can be set up before departure. 4G coverage is strong in Bogotá, Medellín, Cartagena, and other major cities but can be patchy in remote jungle, mountain, and Pacific coast areas.",
+      "tourist_tips": [
+        "Buy a Claro SIM at the airport immediately upon arrival — it's the most reliable network, especially if you plan to visit rural coffee regions, the Amazon, or the Pacific coast.",
+        "Airalo eSIM (Colombia-specific or Latin America multi-country plan) is ideal if your phone supports eSIM and you want data connectivity before landing.",
+        "WhatsApp is ubiquitous in Colombia — locals use it for everything from restaurant reservations to taxi booking; having it active is practically essential."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Colombia",
+      "quick_answer": "Colombia uses Type A and B plugs at 110V/60Hz — the same as the USA and Canada; European visitors need both an adapter and possibly a voltage converter.",
+      "detail": "North American travelers (USA, Canada, Mexico) can use their devices in Colombia without any adapter or converter. European, Australian, and other visitors using 220V devices need a plug adapter and may need a voltage converter for devices that don't support dual voltage (check your device label — most modern electronics and phone chargers handle 100–240V automatically). Power outages are uncommon in cities but more frequent in rural and remote areas.",
+      "tourist_tips": [
+        "Check your device chargers for '100–240V' input — most modern laptops, phone chargers, and camera chargers are dual-voltage and only need a plug adapter, not a converter.",
+        "European visitors should bring a Type A/B adapter (widely available and cheap); two-pin European plugs will not fit Colombian sockets.",
+        "Carry a small power strip with a USB hub — Colombian hotels sometimes have limited outlets, and it's useful for charging multiple devices from one socket."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Colombia",
+      "quick_answer": "Scopolamine ('devil's breath') is Colombia's most dangerous tourist scam — never accept anything from strangers; fake police, ATM scams, and romance scams are also common.",
+      "detail": "Scopolamine (burundanga) is a real and serious threat — it can be administered via spiked drinks, cigarettes, or even on paper; victims become compliant and lose all memory of events. Fake police (men approaching tourists and demanding to see documents or wallets — real police never do this) operate in tourist areas. Express kidnapping via unofficial taxis is well-documented. Romance scams where friendly locals befriend tourists before drugging and robbing them have also been reported. ATM shoulder-surfing and card skimming occur at outdoor ATMs.",
+      "tourist_tips": [
+        "If 'plainclothes police' approach you and ask to inspect your wallet or drugs, do not comply — offer to walk together to the nearest police station (comisaría); real police don't operate this way.",
+        "Be especially cautious in Bogotá's La Candelaria district and nightlife areas — scopolamine incidents have been most commonly reported there.",
+        "Tell someone your plans before going out, especially at night — a check-in buddy system is genuinely valuable in Colombia."
+      ],
+      "warning": "Scopolamine ('devil's breath') is a colorless, odorless drug used in documented robberies and assaults — never accept drinks, cigarettes, food, or even paper from strangers under any circumstances.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "wise"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Colombia",
+      "quick_answer": "Colombia has made remarkable safety improvements and major tourist areas are generally safe with sensible precautions, but petty crime and occasional violent crime still require vigilance.",
+      "detail": "Medellín's transformation from the world's most dangerous city to a thriving, innovative metropolis is genuinely remarkable — the tourist areas of El Poblado, Laureles, and Envigado are very safe by regional standards. Bogotá's Zona Rosa, Chapinero Alto, and Usaquén are safe for tourists during the day and evening. La Candelaria (Bogotá's historic center) is best visited in daytime only. Rural areas near former FARC strongholds (certain parts of Putumayo, Chocó, Arauca) require research and caution — check current government travel advisories before visiting.",
+      "tourist_tips": [
+        "Use a cheap or decoy phone when out on the street — phone snatching is common in Bogotá; flash an expensive iPhone in La Candelaria and you're a target.",
+        "Check your government's travel advisory (US State Dept, UK FCO, Canadian DFATD) for specific region-by-region assessments before venturing outside major tourist corridors.",
+        "Walk with purpose and avoid looking lost or distracted — tourists who pause to consult their phone in the street are prime targets for quick theft."
+      ],
+      "warning": "Certain rural departments (parts of Chocó, Putumayo, Arauca, and border areas) remain affected by armed group activity — check current advisories and avoid these regions without expert local guidance.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Colombia",
+      "quick_answer": "Colombians are warm, hospitable, and socially expressive; greet with a kiss on the cheek, embrace coffee culture, and avoid casual references to the country's drug history.",
+      "detail": "A kiss on the right cheek is the standard greeting between people who have met before or in social settings — men often shake hands on first meeting. Colombians are proud of their country's transformation and resilience, and bringing up Pablo Escobar, drug tourism (narco-tours are controversial and offensive to many Colombians), or the conflict carelessly is considered deeply disrespectful. Coffee culture is central — Colombia produces some of the world's finest Arabica, and accepting or offering a tinto (small black coffee) is a social ritual. Time flexibility is common socially, but punctuality is more expected in business settings.",
+      "tourist_tips": [
+        "Never mention Pablo Escobar or joke about cocaine with Colombians unless they bring it up — many find it deeply offensive given the immense suffering the drug trade caused.",
+        "Accepting a tinto (small coffee) when offered is a social courtesy — refusing without a genuine reason can seem rude; just say 'con mucho gusto' and enjoy it.",
+        "Colombians dress with care and take personal presentation seriously — arriving at a dinner or social event looking presentable shows respect for your hosts."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Colombia",
+      "quick_answer": "Colombian Spanish is considered among the clearest in Latin America; English is available in tourist areas of Bogotá, Medellín, and Cartagena, but very limited outside these zones.",
+      "detail": "Colombia's highland Spanish (particularly the Bogotano accent) is famously clear and neutral — many Spanish learners find it the easiest Latin American variant to understand. In tourist hubs like Medellín's El Poblado, Bogotá's Zona Rosa, and Cartagena's old city, English-speaking staff are fairly common at hotels, tour operators, and upscale restaurants. Outside these areas, English proficiency drops sharply. Key phrases — 'cuánto cuesta?' (how much?), 'dónde está?' (where is?), 'ayuda' (help) — go a long way, and Colombians warmly appreciate any attempt at Spanish.",
+      "tourist_tips": [
+        "Download the Spanish offline pack on Google Translate before you travel — it works excellently for Colombia's clear accent and is invaluable in non-touristy areas.",
+        "The Colombian term for 'you' (usted) is used more formally even between friends compared to other Spanish-speaking countries — using it is always safe and polite.",
+        "Learn 'parce' (friend/mate) and '¿qué más?' (what's up?) — using local slang warmly delights Colombians and breaks the ice instantly."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Colombia",
+      "quick_answer": "Colombia's Caribbean coast (Cartagena, Tayrona, San Andrés) offers excellent beaches, but some Tayrona beaches have dangerous currents and swimming is prohibited there.",
+      "detail": "Colombia has both a Caribbean coast and a Pacific coast, offering dramatically different beach experiences. Tayrona National Park near Santa Marta is spectacular but several beaches (notably Arrecifes) are banned for swimming due to strong, deadly currents — obey all warning signs. San Andrés island in the Colombian Caribbean has turquoise water, coral reefs, and excellent diving. The Pacific coast around Nuquí is remote, dramatically beautiful, and sees humpback whale migrations (July–October). Cartagena's city beaches are convenient but not the most pristine — nearby Playa Blanca or Islas del Rosario are far better.",
+      "tourist_tips": [
+        "In Tayrona National Park, only swim at beaches marked as safe (La Piscina and Cabo San Juan are the main approved swimming spots) — the currents at Arrecifes have killed multiple tourists.",
+        "San Andrés is easily reached by direct flight from Bogotá and is a UNESCO Biosphere Reserve — book accommodation and flights well ahead, especially during Colombian holidays.",
+        "Pacific coast beaches near Nuquí are world-class for surfing and whale watching but require planning — limited accommodation, no road access, and propeller plane flights; do your research."
+      ],
+      "warning": "Several beaches in Tayrona National Park are banned for swimming due to deadly rip currents — always check and strictly obey posted swimming warnings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Colombia",
+      "quick_answer": "Colombians drive on the right; an international driving license is valid, but avoid driving at night in rural areas and never stop for unknown roadblocks.",
+      "detail": "Colombia drives on the right side of the road and your international driving permit is recognized. City driving in Bogotá and Medellín is chaotic, fast-paced, and stressful — most tourists are better served by app taxis or public transport in urban areas. Rural roads vary from decent highways to rough mountain tracks. Driving after dark outside of cities and towns is strongly discouraged due to reduced visibility, road conditions, and the potential for criminal activity. If you encounter an unofficial roadblock in a rural area, do not stop — turn around if safely possible.",
+      "tourist_tips": [
+        "Bogotá has a 'pico y placa' (peak and plate) scheme restricting certain vehicles by license plate number on weekdays — if renting, confirm your plate is unrestricted for your travel days.",
+        "Roads in Colombia's coffee region (Eje Cafetero) and Carretera Panamericana can be stunning but involve steep mountain passes — drive carefully, especially in wet conditions.",
+        "Gasoline (gasolina) is widely available in cities and towns; always fill up before entering rural or mountain areas where stations can be far apart."
+      ],
+      "warning": "Never drive in rural Colombia after dark — poor road conditions, limited lighting, and the risk of criminal activity make nighttime rural driving genuinely dangerous.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Colombia",
+      "quick_answer": "Colombian food is hearty and regional; the menú del día (set lunch) is excellent value, coffee is world-class, and tropical fruit juices are a highlight everywhere.",
+      "detail": "Bandeja paisa — a massive platter of beans, rice, ground meat, chicharrón, egg, arepa, and plantain — is Colombia's most iconic dish and a must-try in the Antioquia region. Bogotá's signature dish is ajiaco, a rich chicken and potato soup. Arepas (cornmeal cakes) accompany almost every meal in varying regional styles. The menú del día (set lunch) typically includes soup, main course, juice, and sometimes dessert for 8,000–15,000 COP — outstanding value. Colombia's coffee is exceptional and should be drunk as a tinto (small black) or café con leche; Juan Valdez cafés are the local equivalent of Starbucks but higher quality.",
+      "tourist_tips": [
+        "Always seek out the menú del día for lunch — it's what locals eat, it's fresh and substantial, and at 8,000–15,000 COP (roughly $2–4 USD) it's the best food deal in the country.",
+        "Fresh fruit juice (jugo natural) is everywhere and extraordinary — lulo, maracuyá (passion fruit), guanábana, and tomate de árbol are Colombian specialties you won't easily find elsewhere.",
+        "Visit a local tienda or Juan Valdez café for coffee — a tinto costs just 1,000–2,000 COP and is genuinely some of the best coffee in the world grown and served in the same country."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Colombia",
+      "quick_answer": "Colombia is predominantly Catholic with many historic churches; dress modestly (covered shoulders and knees), speak quietly, and be respectful during services.",
+      "detail": "Colombia is one of Latin America's most strongly Catholic countries — churches are active places of worship, not just tourist attractions. Cartagena's historic churches (including the Cathedral Basílica) and Las Lajas Sanctuary in Nariño (a stunning Gothic church built into a cliff face) are among the most visited. Holy Week (Semana Santa) is a major national event with processions and ceremonies throughout the country. Remove hats when entering; women are not required to cover their heads but should have shoulders and knees covered; maintaining a hushed, respectful tone is expected.",
+      "tourist_tips": [
+        "Las Lajas Sanctuary near the Ecuador border is one of Colombia's most spectacular religious sites — well worth the detour if you're in the Nariño region.",
+        "Attending a Semana Santa (Holy Week) procession in Popayán, one of Latin America's most celebrated Easter events, is a remarkable cultural experience if your timing allows.",
+        "Most churches have free entry; some charge a small photography fee or ask you to refrain from photography during Mass — always check before raising your camera inside."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Colombia",
+      "quick_answer": "Colombia has no single best season as its climate varies dramatically by altitude and region — Bogotá is cool year-round, Cartagena hot year-round, and Medellín is perfect most months.",
+      "detail": "Colombia's geography ranges from Caribbean coast to Amazon jungle to Andean highlands, creating wildly different climates within short distances. Bogotá sits at 2,600m and stays around 14°C year-round with afternoon rain common. Cartagena is hot and humid every month (28–33°C), with a slightly drier period December–March. Medellín earns its 'City of Eternal Spring' title with 22–28°C year-round. Most regions have two rainy seasons (April–May and October–November), but these rarely ruin a trip — rain is usually short afternoon showers. The Amazon sees heaviest rain April–June.",
+      "tourist_tips": [
+        "December to February is generally the driest and most popular period for visiting most of Colombia — book accommodation well ahead for Cartagena and the coffee region.",
+        "July–October is prime humpback whale season on the Pacific coast near Nuquí and Bahía Solano — if this is your goal, plan around these months.",
+        "Bogotá and highland areas can feel cold for unprepared visitors — always pack a fleece or jacket, even if you're coming from a hot destination."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Colombia",
+      "quick_answer": "Colombia is affordable by international standards — eat the menú del día for lunch, use the Metro in Medellín, and take free walking tours to stretch your budget.",
+      "detail": "A menú del día lunch (8,000–15,000 COP, roughly $2–4 USD) gives you a full three-course meal and is the single best budget move in Colombia. Public transport is very cheap — Medellín Metro including cable cars costs a flat fare of around 3,100 COP. Bogotá's TransMilenio is similarly affordable. Free walking tours operate in Bogotá, Medellín, and Cartagena (tip-based). A small black coffee (tinto) from a local tienda costs just 1,000–2,000 COP. Aguardiente is very cheap — a bottle is 8,000–12,000 COP from a tienda. Domestic flights can be surprisingly affordable if booked in advance via Avianca, LATAM, or VivaAir.",
+      "tourist_tips": [
+        "The Medellín Metro cable car (Metrocable) lines K and J are included in the standard Metro fare — a spectacular ride over the comunas that also provides transport, not just tourism.",
+        "Free walking tours in Bogotá (La Candelaria), Medellín (El Centro), and Cartagena (old city) are excellent — they're tip-based, so bring 10,000–20,000 COP but only if you're satisfied.",
+        "Buy fruit from market stalls and local tiendas rather than supermarkets — Colombia's tropical fruit variety is extraordinary and absurdly cheap compared to home."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

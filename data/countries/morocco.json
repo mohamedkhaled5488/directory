@@ -1,0 +1,460 @@
+{
+  "country": "Morocco",
+  "slug": "morocco",
+  "emoji": "🇲🇦",
+  "region": "Middle East",
+  "currency": "MAD",
+  "language": "Arabic/French",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Morocco",
+      "quick_answer": "Tipping is expected and culturally embedded in Morocco — budget 10% at restaurants and 10-20 MAD for guides and hotel staff.",
+      "detail": "Tipping is not optional in Morocco; it is a genuine part of daily economic life and locals depend on it. Aim for around 10% at restaurants, round up taxi fares rather than expecting change, and tip hotel porters, riad staff, hammam attendants, and tour guides 10-20 MAD as a minimum. For multi-day guided tours, 50-100 MAD per day per guide is appropriate. If a local helps you find your riad or gives unsolicited directions, a small tip of 5-10 MAD is expected.",
+      "tourist_tips": [
+        "Keep a supply of small denomination MAD coins and notes specifically for tipping — you will use them constantly throughout the day.",
+        "For guided tours in Marrakech or Fes medinas, tip your guide at least 50 MAD per half day as a baseline; guides earn most of their income from tips.",
+        "Always tip the parking attendant (gardien) 2-5 MAD when collecting your car — they are semi-official and skipping the tip causes friction."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Morocco",
+      "quick_answer": "ONCF trains connect major cities reliably, while petit taxis serve city travel and CTM buses cover intercity routes not on the rail network.",
+      "detail": "Morocco's ONCF rail network is the best option for the Casablanca-Rabat-Fes-Marrakech corridor, with comfortable air-conditioned trains and reasonable fares. Petit taxis (small, metered, maximum 3 passengers) operate within cities — always insist on the meter or agree a price before setting off. Grand taxis are shared intercity vehicles that depart when full and must be negotiated. CTM and Supratours buses are reliable for routes not served by rail. There is no Uber in Morocco; Careem has launched in Casablanca. Medinas can only be navigated on foot as streets are too narrow for vehicles.",
+      "tourist_tips": [
+        "Book ONCF train tickets at the station or online at oncf.ma — the Casablanca Airport (Casa Voyageurs) train is cheap and fast into the city centre.",
+        "In Marrakech, always agree the petit taxi fare before getting in or insist on the meter — many drivers prefer to negotiate with tourists.",
+        "For the Fes medina, hire a licensed guide through your riad rather than navigating solo — getting lost for hours is extremely common."
+      ],
+      "warning": "Unofficial 'faux guides' at train stations and bus stops will offer to help you find accommodation or transport for a fee — politely decline and use pre-arranged transport from your riad.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Morocco",
+      "quick_answer": "Travel insurance is essential in Morocco as public hospitals are overcrowded and private clinic fees must be paid upfront.",
+      "detail": "Private clinics in Casablanca and Marrakech offer the best care for tourists, with some English-speaking doctors available — Polyclinique du Sud in Marrakech is frequently recommended. Public hospitals exist in every city but are severely underfunded and crowded; they are a last resort for non-emergency treatment. Pharmacies (pharmacies) are widespread throughout Morocco, well-stocked with European medications, often cheaper than at home, and pharmacists provide competent advice for minor ailments without requiring a prescription. Always carry comprehensive travel insurance that covers medical evacuation.",
+      "tourist_tips": [
+        "Pharmacies display a green crescent sign and are found even in small medina streets — they are your first stop for stomach upsets, minor infections, or heat exhaustion.",
+        "Carry a copy of any prescription medications with you in original packaging with your doctor's note to avoid problems at customs.",
+        "If you need a private clinic in Marrakech, ask your riad reception for their recommendation — they will know the nearest English-friendly facility."
+      ],
+      "warning": "Do not rely on public hospitals for routine tourist medical needs — travel insurance covering private clinic access and medical evacuation is essential before visiting Morocco.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Morocco",
+      "quick_answer": "Several activities legal elsewhere are criminal offences in Morocco, including same-sex relations, sex outside marriage, and public displays of affection between unmarried couples.",
+      "detail": "Morocco's penal code criminalises homosexuality (up to 3 years imprisonment), sexual relations outside marriage, and public displays of affection between unmarried couples — these laws apply to tourists. Cannabis is technically illegal despite being widely grown and used in the northern Rif region; possession can result in arrest even where tolerance appears high. Alcohol is restricted but available in licensed venues. Import of prescription medications requires documentation. Insulting the King, Islam, or the territorial integrity of Morocco (including regarding Western Sahara) is a serious criminal offence.",
+      "tourist_tips": [
+        "Unmarried couples — including heterosexual couples — can face difficulties booking a shared room at traditional guesthouses in conservative areas; city riads and hotels are generally more pragmatic.",
+        "Carry your prescription medications in original packaging with a doctor's letter stating the medical necessity and your diagnosis.",
+        "Do not express political opinions about the Western Sahara, the monarchy, or Islam to strangers — the legal risk is real and enforcement has caught tourists."
+      ],
+      "warning": "Same-sex relations are illegal in Morocco and prosecutions of tourists have occurred — LGBTQ+ travellers should exercise significant caution and discretion throughout the country.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Morocco",
+      "quick_answer": "Dial 19 for police, 15 for the SAMU ambulance, 150 for fire, and 0800 00 2424 for the dedicated tourist hotline.",
+      "detail": "Morocco's emergency numbers differ from the European 112 standard, so save them before you travel. The Gendarmerie Royale (19) handles both urban policing and rural areas; the SAMU (15) dispatches medical ambulances. In Marrakech and major tourist cities, tourist police offices (Brigade Touristique) exist specifically to assist visitors. The free tourist hotline 0800 00 2424 is staffed by multilingual operators who can assist with scams, harassment, lost documents, and general emergencies.",
+      "tourist_tips": [
+        "Save all four numbers — 19, 15, 150, and 0800 00 2424 — in your phone before you arrive, as networks vary and international emergency numbers may not redirect.",
+        "The tourist hotline 0800 00 2424 is your best first call for non-life-threatening situations such as scams, harassment, or theft — operators speak French and often English.",
+        "In Marrakech, the Brigade Touristique office near Djemaa el-Fna can assist with complaints against guides, taxi drivers, or shop vendors."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Morocco",
+      "quick_answer": "Dress modestly throughout Morocco — cover shoulders and knees especially in medinas, souks, and rural areas.",
+      "detail": "Morocco is a conservative Muslim country and modest dress is not just respectful but reduces harassment significantly, particularly for women. Cover shoulders and knees when walking through medinas, visiting towns, and in all rural areas. Beachwear should stay at the beach or pool. Marrakech and Casablanca are the most relaxed cities, but even there, very revealing clothing in medinas draws unwanted attention. Men should also avoid shirtless walking in non-beach areas. During Ramadan, modest dress is even more important.",
+      "tourist_tips": [
+        "Women travelling solo should pack loose-fitting, light fabrics that cover arms and legs — this dramatically reduces street harassment in medinas and souks.",
+        "A lightweight scarf is invaluable: it serves as a head covering when visiting religious sites, a shoulder cover, and protection from desert sun.",
+        "In Agadir and other resort towns, Western-style beachwear is widely accepted at hotels and beach clubs, but cover up when walking into town."
+      ],
+      "warning": "Women travelling alone in conservative areas and medinas face persistent verbal harassment regardless of dress, but revealing clothing significantly increases its frequency and intensity.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Morocco",
+      "quick_answer": "Alcohol is available at licensed hotels, tourist restaurants, and specialist off-licences but is not sold in general supermarkets and is restricted during Ramadan.",
+      "detail": "The legal drinking age is 18. Alcohol is available but not as freely accessible as in Europe — it is sold at licensed hotel bars, tourist-oriented restaurants, dedicated alcohol shops (often discreetly signed), and some supermarkets in Casablanca and major cities. Local options include Flag beer, Casablanca beer, and red wines from the Meknes-Meknès region which are genuinely good value. During Ramadan, alcohol service is severely restricted even in licensed venues and drinking in public is illegal. Buying and drinking alcohol in small conservative towns can be very difficult.",
+      "tourist_tips": [
+        "Stock up on wine or beer at a licensed off-licence before heading into the medina or into rural areas where none will be available.",
+        "Moroccan Meknes region red wines such as Médaillon and Cuvée du Président are worth trying — available at licensed restaurants for 80-150 MAD a bottle.",
+        "During Ramadan, check ahead whether your hotel or riad serves alcohol — many reduce or suspend service entirely as a matter of respect."
+      ],
+      "warning": "Drinking alcohol in public spaces or in conservative towns away from tourist areas is illegal and can attract police attention — consume only in licensed venues.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Morocco",
+      "quick_answer": "Bargaining is not only expected but culturally essential in Moroccan souks, medinas, and with guides and taxi drivers.",
+      "detail": "Haggling in Morocco is a social ritual as much as a commercial transaction — it is expected, enjoyed, and refusing to engage can seem rude. In souks and medinas, initial asking prices are typically three to four times the final expected price; start your counter-offer at 25-30% of the asking price and work from there. Walking away is your most powerful tool — vendors will often call you back with a significantly better price. The process often involves mint tea and friendly conversation. Fixed prices exist only in government-regulated co-operatives (argan oil, handicrafts) and supermarkets.",
+      "tourist_tips": [
+        "Never show enthusiasm for an item before negotiating — interest drives the price up immediately. Browse casually, pick up several items, and only express interest once you start haggling.",
+        "Walking away slowly and genuinely is the single most effective negotiating tactic in Moroccan souks — you will often be called back within seconds.",
+        "Argan oil cooperatives run by women's associations sell at fixed fair-trade prices — these are worth supporting and the quality is guaranteed."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Morocco",
+      "quick_answer": "Always ask before photographing people in Morocco as many demand payment or flat out refuse, and never photograph military or police.",
+      "detail": "Morocco is extraordinarily photogenic — medinas, kasbahs, the Sahara, and the Atlas Mountains offer world-class photography. However, photographing people without permission is considered intrusive and some individuals, particularly women, will take strong offence. Many people in tourist-heavy areas will expect payment (5-20 MAD) for being photographed. Military installations, police, and checkpoints must never be photographed — this can result in arrest. Some mosques prohibit photography entirely and entry is restricted for non-Muslims. Photography of demonstrations or security operations is also prohibited.",
+      "tourist_tips": [
+        "Hire a local photographer-guide in Fes medina for the morning — they know exactly when and where to shoot the famous tanneries and can negotiate access to rooftop views.",
+        "The Chefchaouen blue medina is one of the world's most photographed places — go before 8am to capture empty streets and golden morning light.",
+        "If you want to photograph locals, learn the Arabic phrase 'Momkin tsawwer?' (Can I take a photo?) — the attempt at local language almost always generates goodwill."
+      ],
+      "warning": "Photographing police, military personnel, checkpoints, or government buildings is strictly prohibited and can result in immediate detention and deletion of your images.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Morocco",
+      "quick_answer": "Friday is Morocco's holy day with mosque attendance and partial business closures at midday, while souks follow their own complex weekly schedules.",
+      "detail": "Friday is the Islamic day of prayer and many businesses, particularly in conservative areas, close midday for Jumu'ah (Friday prayer). Medina shops generally operate six days a week, often staying open late into the evening. In rural areas, different souks (weekly markets) operate on different days — the weekly souk is a major commercial and social event. Ramadan dramatically alters all schedules: restaurants close during daylight hours (or serve only tourists discreetly), businesses operate shorter hours, and the night comes alive after iftar. National holidays cause widespread closures.",
+      "tourist_tips": [
+        "Plan visits to rural weekly souks in advance — ask your accommodation which nearby villages hold souks on which days, as they are authentically Moroccan experiences.",
+        "During Ramadan, eat breakfast at your riad, then wait until evening for the spectacular iftar atmosphere at local restaurants and food stalls.",
+        "Friday mornings are an excellent time to visit mosques' exteriors and photograph medinas — the streets are relatively quiet before Friday prayer fills them."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Morocco",
+      "quick_answer": "Use petit taxis for city travel (always insist on the meter) and grand taxis for intercity routes; there is no Uber, and Careem operates only in Casablanca.",
+      "detail": "Petit taxis are small metered vehicles licensed only within city limits, taking a maximum of 3 passengers — always insist on the meter or negotiate the fare before departure. Grand taxis are larger shared vehicles for intercity travel, departing when full and with fares negotiated upfront. Careem (ride-hailing) has launched in Casablanca but coverage remains limited. Airport taxis at Marrakech Menara and Casablanca Mohammed V airports are official — use only the designated taxi rank and agree the fare before setting off to avoid significant overcharging.",
+      "tourist_tips": [
+        "For Marrakech Airport, the official petit taxi fare to the medina is posted at the taxi rank — confirm it before you get in and do not accept the first inflated offer.",
+        "When sharing a grand taxi, you can pay to occupy multiple seats if you do not want strangers joining your journey — negotiate this before departure.",
+        "Download the Careem app before arriving in Casablanca — it eliminates fare negotiation and is significantly more convenient than street taxis."
+      ],
+      "warning": "Airport taxis in Marrakech and Casablanca are notorious for demanding grossly inflated fares from arriving tourists — always confirm the price before getting in and use the official rank only.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Morocco",
+      "quick_answer": "Do not drink tap water in Morocco — drink only sealed bottled water and be cautious with ice and raw salads at local establishments.",
+      "detail": "Tap water in Morocco is not safe for tourists to drink and is a common cause of traveller's diarrhoea. Bottled mineral water is cheap, widely available, and essential — Sidi Ali and Oulmes are the main Moroccan brands. Be cautious with ice in drinks at local establishments as it may be made from tap water; ice at tourist hotels and restaurants is generally safe. Raw salads and fruit washed in tap water at street stalls carry risk. Brushing teeth with bottled water is advisable if you have a sensitive stomach.",
+      "tourist_tips": [
+        "Buy a 1.5-litre bottle of Sidi Ali or Oulmes at a convenience store for 5-8 MAD — far cheaper than hotel minibar prices — and refill as needed throughout the day.",
+        "Avoid fresh fruit juice from street vendors unless you watch it being made from whole fruit — pre-made juice in medinas is often diluted with tap water.",
+        "Carry oral rehydration sachets in your medical kit — stomach upsets from food and water adjustments are extremely common in Morocco even with precautions."
+      ],
+      "warning": "Tap water is unsafe to drink throughout Morocco — always drink sealed bottled water and treat ice and raw vegetables at local stalls with caution.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Morocco",
+      "quick_answer": "Cash is king in Morocco — withdraw dirhams from bank ATMs in cities and note that taking dirhams out of Morocco is illegal in significant quantities.",
+      "detail": "The Moroccan dirham (MAD) is a semi-convertible currency and it is illegal to export large amounts — exchange any leftover MAD back to euros or dollars at the airport before departure. Attijariwafa Bank, BMCE, and CIH Bank ATMs are the most reliable for foreign cards. Many medina shops, street food vendors, hammams, and souvenir sellers are cash-only. Exchange money only at official bank branches or licensed bureaux de change — never with street money changers who will shortchange you. Keep a mix of denominations as smaller notes are needed for tipping and small purchases.",
+      "tourist_tips": [
+        "Withdraw a good amount of cash on arrival at the airport ATM — rates are fair and it saves time hunting for ATMs in unfamiliar medina streets.",
+        "Use a Wise card or Revolut for ATM withdrawals to minimise foreign transaction fees — standard bank cards often charge 3-4% plus a fixed fee.",
+        "Keep 50 and 100 MAD notes for payments; vendors often claim to have no change for 200 MAD notes as a tactic to keep the overpayment."
+      ],
+      "warning": "Exporting Moroccan dirhams above the permitted limit is illegal — convert leftover MAD back to hard currency at the airport before flying out.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Morocco",
+      "quick_answer": "Maroc Telecom offers the best nationwide coverage including desert and mountain areas; buy a tourist SIM at the airport with your passport.",
+      "detail": "Morocco has three main operators: Maroc Telecom (Iam), Orange Maroc, and Inwi. Maroc Telecom has the most extensive coverage, including the Sahara Desert, Atlas Mountains, and rural areas — it is the clear choice for travellers venturing beyond major cities. Tourist data packages are genuinely affordable (around 100-200 MAD for several gigabytes). SIMs are available at the airport, official operator stores, and many corner shops. Passport registration is required. Airalo eSIM works in Morocco and is a convenient pre-arrival option. 4G coverage is good on main routes; 5G is available in Casablanca and Rabat.",
+      "tourist_tips": [
+        "Buy a Maroc Telecom SIM at Mohammed V Airport or Menara Airport arrivals — the process takes 10 minutes and costs around 30-50 MAD for the SIM plus top-up.",
+        "Set up the Airalo eSIM app before travel if your phone is eSIM-compatible — it activates instantly without needing to find a physical store on arrival.",
+        "Hotel and riad Wi-Fi is available throughout Morocco but can be slow in medinas due to thick walls — a local SIM is invaluable for navigation."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Morocco",
+      "quick_answer": "Morocco uses Type C/E plugs (French-style round pins) at 220V/50Hz — European plugs work directly, but UK and US visitors need adapters.",
+      "detail": "Morocco operates on 220V/50Hz electricity using Type C (two round pins) and Type E (two round pins with a hole for a grounding pin) sockets — the standard French-style plug found across most of Europe and North Africa. European visitors will find their devices plug in without any adapter. UK visitors need a UK to Type C/E adapter. US and Canadian visitors need an adapter and should check their devices support dual voltage (100-240V) — most modern phones, laptops, and cameras do. Power cuts in medinas and rural areas are occasional; a small power bank is useful.",
+      "tourist_tips": [
+        "Check your device chargers for '100-240V, 50/60Hz' labelling — if it says this, you only need a plug adapter, not a voltage converter.",
+        "UK visitors should pack a Type G to Type C/E adapter before travelling — they are harder to find in medina hardware shops than you might expect.",
+        "Bring a compact multi-port USB charging hub with a single EU adapter to charge all your devices from one socket — riad rooms often have limited outlets."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Morocco",
+      "quick_answer": "Morocco has a well-documented range of tourist scams — the faux guide, carpet shop pressure sales, henna traps, and free spice samples are the most common.",
+      "detail": "The most prevalent scam is the 'faux guide' — an unofficial guide who offers help or directions but steers you into commission-paying carpet, leather, or spice shops where you face hours of hard-sell pressure over tea. The 'free' henna offer leads to demands for 200-500 MAD once applied. Spice shop owners offer 'free' samples that become a mandatory purchase. Wrong change is common when paying with larger notes. Fake directions to riads (where the 'helper' expects payment) are routine. Being firm, polite, and decisive is the key defence — never follow a stranger who approaches you unprompted.",
+      "tourist_tips": [
+        "If someone offers you help, directions, or a 'free' anything in the medina, decline firmly and immediately — engagement is interpreted as interest and becomes very hard to exit.",
+        "Book a licensed official guide through your riad or the official tourism office for medina tours — it costs 300-400 MAD for a half day and eliminates all faux guide encounters.",
+        "If you enter a carpet or leather shop and feel pressured after the tea ritual, you are legally and morally free to leave without buying — say 'La shukran' (No thank you) and walk out."
+      ],
+      "warning": "The faux guide and carpet shop commission scam is the most financially significant tourist scam in Morocco — never follow strangers who approach you in medina streets offering unsolicited help or directions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Morocco",
+      "quick_answer": "Morocco is generally safe for tourists with violent crime being rare, but solo women face significant street harassment in medinas and pickpocketing is a concern.",
+      "detail": "Violent crime against tourists is uncommon and Morocco is considered safe overall by regional standards. The main concerns are petty theft, bag snatching on motorbikes in Marrakech, and pervasive verbal harassment directed at solo female travellers in medinas. Some areas of Casablanca (particularly around the port and older quarters) can be rough after dark. The Rif Mountain region around Chefchaouen and Ketama has a cannabis culture and occasional police checkpoints; exercise extra caution there. Street harassment — persistent following, calling out, and unwanted contact — is widespread and exhausting particularly for women travelling without male companions.",
+      "tourist_tips": [
+        "Solo female travellers should wear a fake wedding ring and reference a fictional husband when deflecting unwanted attention — it is widely effective in conservative areas.",
+        "In Marrakech medina, keep bags worn across the body and in front; motorbike bag snatching is a real and reported problem on medina edges and quieter alleys.",
+        "Avoid prolonged eye contact and responding to comments from strangers in medinas — engaging even briefly is interpreted as an invitation to continue."
+      ],
+      "warning": "Solo women travellers face persistent and unavoidable verbal harassment in Moroccan medinas — this is not dangerous but is exhausting and should be mentally prepared for before visiting.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Morocco",
+      "quick_answer": "Accept offered mint tea as a gesture of hospitality, use your right hand for eating and passing items, and eat discreetly in public during Ramadan.",
+      "detail": "Moroccan culture places hospitality at its heart — accepting an offer of mint tea, even when negotiating or when you plan to buy nothing, is a respectful gesture. Use only the right hand for eating, accepting food or gifts, and passing items; the left hand is considered unclean. Remove shoes when entering mosques, traditional homes, and some riads. During Ramadan, eating, drinking, or smoking in public during daylight hours is disrespectful and in some areas technically illegal — do so only at your accommodation or tourist-designated spaces. Bargaining is expected and is a social as well as commercial activity.",
+      "tourist_tips": [
+        "Accepting mint tea during a souk negotiation does not obligate you to buy anything — enjoy it, conduct the haggling, and leave politely if the price is not right.",
+        "Friday prayer time (around midday) is a significant moment — if you are near a mosque, step aside, keep noise down, and allow worshippers to pass.",
+        "When entering a Moroccan home, follow your host's lead regarding shoes — when in doubt, remove them at the door."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Morocco",
+      "quick_answer": "French is more useful than English in most of Morocco — learn a few words of Darija (Moroccan Arabic) and you will receive a genuinely warm reception.",
+      "detail": "Morocco's languages reflect its layered history: Darija (Moroccan Arabic dialect) is the everyday spoken language, French is widely used in business, tourism, and educated contexts as a colonial legacy, Modern Standard Arabic is used in formal and religious settings, and Tamazight (Berber) is spoken in the Atlas Mountains and rural areas. English is improving rapidly in tourist zones but remains limited outside them. French is genuinely more useful than English for navigating daily life, reading menus, and communicating in smaller towns. A few words of Darija — greetings, numbers, please and thank you — are welcomed with disproportionate warmth.",
+      "tourist_tips": [
+        "Learn the Darija greeting: 'As-salamu alaykum' (peace be upon you) and response 'Wa alaykum as-salam' — using this in the morning creates immediate goodwill wherever you go.",
+        "Key Darija words: 'Shukran' (thank you), 'La shukran' (no thank you), 'Bshal?' (how much?), 'Ghali bzzaf' (too expensive), 'B'slama' (goodbye).",
+        "In Fes and Chefchaouen, Spanish is often understood due to proximity to Spain — more so than English in many cases."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Morocco",
+      "quick_answer": "Agadir has safe, lifeguarded swimming, but Essaouira is extremely windy and the Atlantic coast can have powerful currents requiring caution.",
+      "detail": "Morocco's coastline spans both the Atlantic Ocean and the Mediterranean Sea with dramatically different swimming conditions. Agadir has calm, well-patrolled beaches ideal for families and casual swimmers. Essaouira is stunningly beautiful but subject to near-constant strong Atlantic winds, making it a world-class kite and windsurfing destination rather than a calm swimming beach. The Atlantic coast generally carries stronger currents and waves than tourists expect — drownings occur each year among swimmers who underestimate conditions. The Mediterranean coast around Al Hoceima and Tetouan is calmer and warmer. Jellyfish appear seasonally at various beaches from July onwards.",
+      "tourist_tips": [
+        "At Agadir beach, stay within the lifeguarded zone marked by flags — even here, rip currents can develop and conditions change with tidal patterns.",
+        "Essaouira's wind is an asset, not a problem: book a beginner kite-surfing lesson at one of the many schools on the beach and embrace the conditions.",
+        "Check for jellyfish advisories before swimming in July-September — local hotel staff will know current conditions on their stretch of coastline."
+      ],
+      "warning": "Atlantic currents along Morocco's west coast are powerful and underestimated — several tourist drownings occur each year on unpatrolled beaches north of Agadir.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Morocco",
+      "quick_answer": "Drive on the right; an international driving permit is recommended, and be prepared for chaotic city driving and variable road conditions outside major routes.",
+      "detail": "Morocco drives on the right. An International Driving Permit (IDP) is recommended alongside your national licence and is required by rental agencies. Driving in medinas is impossible — streets are too narrow for vehicles and navigation is on foot only. Marrakech city driving is chaotic with aggressive driving norms but is manageable. Atlas Mountain roads (Route des Kasbahs, Tizi n'Tichka pass) are scenic but narrow with steep drops — drive slowly and in daylight only. Night driving between cities carries additional risk due to unlit roads and pedestrians. Police checkpoints are frequent; always carry your licence, passport, and rental documents.",
+      "tourist_tips": [
+        "Never drive in the medina — park at the medina edge car parks, pay the gardien, and walk in. This is not optional; the streets simply do not permit vehicles.",
+        "For the Tizi n'Tichka mountain pass to Ouarzazate, drive in the morning for clear light and safety — afternoon heat haze and fatigue increase risk on the bends.",
+        "At police checkpoints (common on all main routes), stop fully, be polite, and have your driving licence and passport ready to present — they are routine and rarely cause delays."
+      ],
+      "warning": "Night driving on rural roads and mountain passes in Morocco is genuinely dangerous due to unlit roads, livestock on carriageways, and minimal road markings — avoid it where possible.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Morocco",
+      "quick_answer": "Moroccan cuisine is outstanding — tagine, couscous, harira, pastilla, and the Djemaa el-Fna food stalls are unmissable, with excellent street food from 10-30 MAD.",
+      "detail": "Moroccan food is among the finest in Africa and the Arab world, with centuries of Berber, Arab, Andalusian, and French influence. The national dishes — slow-cooked lamb or chicken tagine with preserved lemon and olives, Friday couscous with seven vegetables, chicken bastilla (pastilla) dusted with sugar and cinnamon, and harira lentil and tomato soup — are unmissable. Street food is excellent and safe if chosen carefully: bissara (broad bean soup), msemen (layered flatbread), and brochettes from busy stalls are recommended. The Djemaa el-Fna food stalls in Marrakech are a world-famous evening experience. Mint tea (atay) is ceremonial and omnipresent.",
+      "tourist_tips": [
+        "Eat your first couscous on a Friday when families traditionally prepare it — look for local restaurants advertising 'couscous du vendredi' for the most authentic version.",
+        "At Djemaa el-Fna food stalls, go to stalls numbered in the middle (not those at the entrance) for better quality and less aggressive hawking — prices are similar across all stalls.",
+        "Bissara (thick broad bean soup) from a street vendor costs 5-10 MAD and is one of Morocco's finest breakfast dishes — look for the large pots of soup near medina entrances in the morning."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Morocco",
+      "quick_answer": "Non-Muslims cannot enter most Moroccan mosques; the Hassan II Mosque in Casablanca is the main exception open to guided tours.",
+      "detail": "Morocco is notable among Muslim-majority countries for maintaining a strong tradition of mosque exclusivity — non-Muslims are not permitted to enter the vast majority of mosques, zaouias (shrines), and mausoleums. The Hassan II Mosque in Casablanca is the primary exception, running official guided tours at specific times for non-Muslim visitors; it is the world's seventh-largest mosque and genuinely spectacular. Dress modestly near all religious sites even if you cannot enter. During prayer times and especially on Fridays, give extra space to mosques and be quiet nearby. Some Jewish mellah (quarter) synagogues in Fes and Marrakech offer more open access and are worth visiting.",
+      "tourist_tips": [
+        "Book Hassan II Mosque guided tours in Casablanca in advance — tickets cost around 120 MAD and tours run in the morning; it is the single most impressive interior in Morocco open to non-Muslims.",
+        "The Jewish mellah in Fes el-Bali contains active synagogues open to respectful non-Jewish visitors — a fascinating counterpoint to the medina's Islamic heritage.",
+        "Even standing outside a mosque during prayer time, lower your voice, put your phone away, and allow worshippers to pass freely — the atmosphere during the call to prayer is one of Morocco's most memorable experiences."
+      ],
+      "warning": "Attempting to enter a mosque that is not open to non-Muslims is a serious breach of Moroccan law and religious respect — always check status before approaching and respect any barrier or sign.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Morocco",
+      "quick_answer": "October to April is the best time for most of Morocco; summer inland (Marrakech, Sahara) reaches 40°C+ and is brutally hot for most visitors.",
+      "detail": "Morocco has dramatically varied climates across its regions. The best overall months are October-November and March-April: temperatures are comfortable (20-28°C), crowds are smaller than peak season, and landscapes are at their most colourful. Coastal cities (Agadir, Essaouira, Casablanca) are pleasant year-round with sea breezes moderating summer heat. Inland Marrakech reaches 38-42°C in July and August — functional but exhausting. The Sahara Desert is extreme in summer (45°C+) and magical in November-February when nights are cold but days are clear and warm. The Atlas Mountains see snow from December to March, enabling skiing at Oukaimeden.",
+      "tourist_tips": [
+        "Visit Marrakech in November, March, or April for the perfect combination of warm weather, manageable crowds, and full souk and market activity.",
+        "Plan any Sahara Desert trip (Merzouga, Erg Chebbi) between October and February — camping under the stars is the centrepiece experience and summer heat makes it unsafe and miserable.",
+        "The Atlantic coast towns of Essaouira and Agadir are viable year-round but genuinely excellent in June-September when inland Morocco is too hot — coastal winds keep temperatures at 22-26°C."
+      ],
+      "warning": "Summer heat in Marrakech and the Sahara (June-September) regularly exceeds 40°C — heat exhaustion and heatstroke are genuine risks, particularly for visitors unaccustomed to dry extreme heat.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Morocco",
+      "quick_answer": "Street food from 10-30 MAD, prix fixe local lunches, public hammams for 15-30 MAD, and riads over chain hotels offer outstanding value throughout Morocco.",
+      "detail": "Morocco can be visited on a very low budget if you eat and travel like locals. Street food from medina stalls and small local restaurants costs 10-30 MAD per dish. Prix fixe menus at local restaurants (not tourist squares) offer a three-course meal with mint tea for 60-100 MAD. Public hammams (traditional steam baths) cost 15-30 MAD entry compared to 300-600 MAD at tourist spa hammams — the experience is more authentic too. Riads in medinas offer better value, character, and location than international chain hotels. Negotiate all guide and tour prices firmly before beginning, and use petit taxis with the meter running.",
+      "tourist_tips": [
+        "A public hammam visit costs 15-30 MAD for entry and scrub service — ask your riad for the nearest local hammam and go in the late afternoon when it is busiest and most atmospheric.",
+        "Buy water, snacks, and picnic supplies at a local hanout (corner shop) in the medina — prices are a fraction of what tourist cafes and riads charge for the same items.",
+        "Negotiate guide fees before starting any tour: 300-400 MAD for a licensed half-day medina tour is fair; paying 600-800 MAD upfront and then being taken to commission shops to make up the difference is the classic tourist trap."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

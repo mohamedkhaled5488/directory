@@ -1,0 +1,460 @@
+{
+  "country": "Nepal",
+  "slug": "nepal",
+  "emoji": "🇳🇵",
+  "region": "Asia",
+  "currency": "NPR",
+  "language": "Nepali",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Nepal",
+      "quick_answer": "Tipping is not mandatory but deeply appreciated given the low wages in the service industry, especially for trekking guides and porters.",
+      "detail": "At tourist restaurants, a 10% tip is customary and welcomed. Trekking guides deserve 500–1,000 NPR per day and porters 300–500 NPR per day as a genuine show of appreciation for demanding physical work. Hotel staff and drivers also appreciate small tips. Tipping is not expected in basic local eateries where Nepalis eat.",
+      "tourist_tips": [
+        "Budget tipping money in cash NPR before a trek — ATMs are scarce above Lukla and porters cannot accept card payments.",
+        "Give tips directly to guides and porters at the end of the trek rather than through the agency to ensure they receive the full amount.",
+        "At tourist restaurants in Thamel, check the bill — some add a service charge automatically, in which case an additional tip is optional."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Nepal",
+      "quick_answer": "Nepal has no trains; travel is by local bus, shared jeep, domestic flight, or app-based taxi depending on the route and region.",
+      "detail": "Local buses are the cheapest option but are crowded, slow, and uncomfortable on mountain roads. Domestic flights are essential for reaching remote areas — the Kathmandu–Lukla flight (for Everest treks) and Kathmandu–Pokhara route save many hours. The Pokhara–Kathmandu bus takes 6–8 hours versus a 20–25 minute flight. Shared jeeps are the standard transport for hill routes and off-road destinations. In Kathmandu and Pokhara, Pathao and InDriver apps offer affordable motorbike and car rides.",
+      "tourist_tips": [
+        "Book domestic flights early during the October–November trekking peak season as Lukla flights sell out weeks in advance.",
+        "Use the Pathao or InDriver app in Kathmandu for fair-priced rides instead of haggling with street taxis.",
+        "For the Pokhara–Kathmandu route, the tourist bus (around 1,000–1,500 NPR) is more comfortable than the local bus and well worth the small extra cost."
+      ],
+      "warning": "Mountain roads have no guardrails and are prone to landslides during monsoon season (June–September); night travel by road in the hills is genuinely dangerous.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Nepal",
+      "quick_answer": "Kathmandu has reliable private hospitals with English-speaking doctors, but medical facilities outside major cities are extremely limited and altitude sickness is a life-threatening risk on treks.",
+      "detail": "CIWEC Travel Medicine Center and Norvic International Hospital in Kathmandu are the go-to facilities for tourists requiring quality English-language care. Pokhara also has adequate hospitals for a regional city. Above 3,000m, altitude sickness (AMS, HACE, HAPE) is the primary medical emergency tourists face, and knowing the symptoms is critical. Helicopter evacuation insurance is effectively mandatory for Everest Base Camp and other high-altitude treks. Pharmacies in Kathmandu and Pokhara are well-stocked, but bring key medications from home as rural pharmacies are unreliable.",
+      "tourist_tips": [
+        "Ascend slowly above 3,000m — follow the 'climb high, sleep low' principle and never gain more than 300–500m of sleeping altitude per day.",
+        "Carry a pulse oximeter on high-altitude treks to monitor blood oxygen levels; below 90% at rest is a serious warning sign.",
+        "Get comprehensive travel insurance that explicitly covers helicopter evacuation before arriving — a single rescue flight can cost USD 3,000–6,000."
+      ],
+      "warning": "Altitude sickness (AMS, HACE, HAPE) can be fatal if ignored; descend immediately if symptoms worsen — do not push on hoping to acclimatize.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Nepal",
+      "quick_answer": "Nepal's key legal risks for tourists include strict drug laws, a prohibition on harming or disrespecting cows, and a ban on proselytizing to Hindus or Buddhists.",
+      "detail": "Drugs including cannabis and hashish are illegal despite their cultural presence in some religious contexts — foreigners have been arrested and the legal risk is real. The cow is Nepal's national animal and sacred; harming, mocking, or even inadvertently disrespecting a cow can lead to serious legal trouble. Proselytizing to convert Hindus or Buddhists is a criminal offense. Nepal has notably progressive LGBTQ laws by Asian standards, with legal protections in place. Photography of military installations and certain government buildings is prohibited.",
+      "tourist_tips": [
+        "Never consume or purchase drugs regardless of what you see locals doing near certain temples — enforcement against foreigners does occur.",
+        "Beef is not available in Nepal as a point of national law and cultural practice; buffalo meat (buff) is the substitute used in local cuisine.",
+        "Carry a copy of your passport at all times as police checkpoints are common on trekking routes and highways."
+      ],
+      "warning": "Drug possession carries serious criminal penalties including imprisonment; do not be misled by the cultural visibility of hashish near some temple areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Nepal",
+      "quick_answer": "Key emergency numbers are 100 (police), 102 (ambulance), 101 (fire), and 1144 for the tourist police in Kathmandu.",
+      "detail": "The tourist police hotline (1144) is specifically staffed to assist foreign visitors and can communicate in English. For trekking emergencies, Nepal Police (100) and CIWEC hospital (+977 1 4435232) are primary contacts. Helicopter rescue is coordinated through your trekking agency or directly with rescue companies — your travel insurer's 24-hour emergency line is also critical to have saved before you trek. Mobile coverage is unreliable above certain altitudes, so satellite communicators (Garmin inReach) are used by experienced trekkers.",
+      "tourist_tips": [
+        "Save your travel insurer's 24-hour emergency line in your phone before arriving — it is the first call to make in a high-altitude rescue situation.",
+        "Register your trek route with the Tourist Police or your embassy so they have a baseline if you go missing.",
+        "Consider renting a satellite communicator (Garmin inReach or SPOT) for remote treks where mobile coverage drops out."
+      ],
+      "warning": "In remote trekking areas there may be no mobile signal at all — never rely solely on a smartphone for emergency communication above the main teahouse trails.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Nepal",
+      "quick_answer": "Cover shoulders and knees when visiting temples and religious sites, and always remove shoes before entering any temple or many homes.",
+      "detail": "Nepal's religious sites — Hindu temples and Buddhist stupas — require modest dress as a sign of respect; sleeveless tops and shorts above the knee are inappropriate. Tourist hubs like Thamel in Kathmandu are very casual, and Western dress is widely accepted in non-religious settings. Never point your feet toward altars, deities, or sacred objects, and avoid touching religious objects unless invited. On treks, practical layering gear is appropriate for all settings along the route.",
+      "tourist_tips": [
+        "Carry a light scarf or sarong in your daypack to cover up quickly when you encounter a temple while sightseeing.",
+        "Many temples provide wrap-around skirts or scarves at the entrance for rent or loan if you arrive underdressed.",
+        "Wear shoes that slip on and off easily — you will be removing them constantly at temples, shrines, and traditional homes."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Nepal",
+      "quick_answer": "The legal drinking age is 18, alcohol is widely available in tourist areas, and local brews like Everest beer, tongba, and chhaang are popular cultural experiences.",
+      "detail": "Nepal has a lively local beer culture — Everest and Gorkha are the main commercial lagers. Tongba (hot millet beer sipped through a straw), raksi (home-brewed grain spirit), and chhaang (fermented barley or millet drink) are traditional Himalayan beverages found on trekking routes and in mountain communities. Alcohol is freely available in tourist-oriented restaurants and bars in Kathmandu and Pokhara. On certain Hindu holy days, alcohol sales may be restricted or closed even in tourist areas.",
+      "tourist_tips": [
+        "Try tongba at high-altitude teahouses — it is a warm, social drink perfect for cold evenings and a genuinely unique experience.",
+        "Stock up on beer or spirits before major Hindu festivals like Dashain if you are in a less tourist-oriented area.",
+        "Pace alcohol carefully at altitude — it dehydrates you faster and impairs acclimatization at elevations above 3,000m."
+      ],
+      "warning": "Drinking alcohol at altitude significantly worsens dehydration and can mask symptoms of altitude sickness; avoid drinking heavily above 3,000m.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Nepal",
+      "quick_answer": "Bargaining is expected in markets, tourist shops, and taxis — start at 50–60% of the asking price and negotiate from there.",
+      "detail": "In Thamel and tourist markets throughout Kathmandu and Pokhara, virtually every price is negotiable except in supermarkets and government-fixed-price establishments. Trekking gear rental, souvenir shopping, and taxi fares are all subject to negotiation. The process is generally friendly rather than confrontational — smile, counter-offer respectfully, and be prepared to walk away. Fixed prices are usually displayed in pharmacies, ticketed attractions, and chain stores.",
+      "tourist_tips": [
+        "Research fair market prices online before shopping in Thamel so you know a genuinely good deal from an overcharge.",
+        "Walk away slowly if a price feels too high — vendors will often call you back with a better offer.",
+        "Always negotiate your taxi fare before getting in and confirm it is in Nepali rupees, not US dollars."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Nepal",
+      "quick_answer": "Photography is generally permitted outdoors but is prohibited inside most temples and religious interiors, and absolutely forbidden at military checkpoints.",
+      "detail": "Nepal's mountain landscapes, stupas, and street life make it one of Asia's great photography destinations, and outdoor shooting is broadly welcome. However, the interiors of most Hindu temples and Buddhist shrine rooms prohibit cameras. At Pashupatinath, non-Hindus are restricted to the outer areas and must not photograph the inner sanctum. Military checkpoints and certain government buildings are strict no-photography zones. Always ask permission before photographing individuals, particularly in religious or ceremonial settings.",
+      "tourist_tips": [
+        "Look for posted 'no camera' signs at temple entrances — they are often small and easy to miss when you are excited to be inside.",
+        "At Boudhanath Stupa, photography of the stupa itself and the courtyard is freely permitted; it makes for spectacular dawn and dusk shots.",
+        "Offering a small donation at a temple before asking to photograph a ceremony is seen as respectful and is often appreciated."
+      ],
+      "warning": "Photographing military personnel, checkpoints, or installations can result in detention and confiscation of your camera or phone — do not risk it.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Nepal",
+      "quick_answer": "Saturday is Nepal's official day off, not Sunday — government offices are closed on Saturday while Sunday is a normal working day.",
+      "detail": "Nepal follows its own calendar system (Bikram Sambat, currently 2081/2082) and its own weekly rest day: Saturday. Tourists expecting Sunday closures will be surprised to find government offices, banks, and many services fully operational on Sunday. Major festivals including Dashain and Tihar cause widespread closures for days at a time across the country. Trekking agencies, tourist restaurants, and shops in tourist hubs typically operate seven days a week during the trekking season (October–November and March–May).",
+      "tourist_tips": [
+        "Plan any visa extensions, TIMS permit applications, or government office visits for Sunday through Friday to avoid Saturday closures.",
+        "Check the Nepali festival calendar before your trip — Dashain (October) and Tihar (October/November) can affect transport, accommodation, and services for a week.",
+        "ATMs and tourist-area shops remain open through most public holidays, but stock up on cash before major festival periods."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Nepal",
+      "quick_answer": "Taxis in Kathmandu and Pokhara rarely use meters — use the Pathao or InDriver apps for transparent pricing or firmly negotiate a fare before getting in.",
+      "detail": "The meter in most Kathmandu taxis is technically required but widely ignored; drivers will quote a fixed price, often inflated for obvious tourists. Pathao (motorbike and car) and InDriver (car) are local ride-hailing apps that show upfront prices and work well in both Kathmandu and Pokhara, cutting through the negotiation. At Tribhuvan International Airport, use the official pre-paid taxi desk inside the arrivals hall to get a fixed fair fare. Motorbike taxis through Pathao are the fastest way to navigate Kathmandu's notorious traffic.",
+      "tourist_tips": [
+        "Download Pathao and InDriver before you land — you will need a local SIM to register, which you can buy at the airport on arrival.",
+        "The official airport taxi desk in arrivals issues a printed receipt with a fixed price; ignore all drivers who approach you before you reach the desk.",
+        "If you must negotiate with a street taxi, agree on NPR (not USD) and confirm the price is for the whole car, not per person."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Nepal",
+      "quick_answer": "Never drink tap water in Nepal — use bottled, filtered, or purified water at all times including on trekking routes.",
+      "detail": "Tap water throughout Nepal is not safe to drink and can cause serious gastrointestinal illness. In Kathmandu and Pokhara, refill stations selling filtered water are widely available and far cheaper and more eco-friendly than single-use plastic bottles. On treks, boil water from streams or use purification tablets and a filter; most teahouses charge a small fee for boiled water. Altitude dramatically increases dehydration risk — drink 3–4 litres per day while trekking. Avoid ice in non-tourist restaurants as it may be made from tap water.",
+      "tourist_tips": [
+        "Carry a quality water filter bottle (like LifeStraw or Sawyer Squeeze) on any trek to purify stream water for free rather than paying teahouse prices all the way up.",
+        "Use refill stations in Kathmandu (around 5–10 NPR per litre) rather than buying plastic bottles — it saves money and reduces plastic waste.",
+        "Brush your teeth with bottled or filtered water, not tap water, even in Kathmandu's better hotels."
+      ],
+      "warning": "Giardia and other waterborne parasites are common; a single lapse in water vigilance on a trek can ruin your entire trip with days of illness far from medical help.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Nepal",
+      "quick_answer": "Cash is essential in Nepal, especially beyond Kathmandu — Standard Chartered, Nabil, and Everest Bank ATMs are the most reliable for foreign cards.",
+      "detail": "Daily ATM withdrawal limits are typically NPR 10,000–35,000 per transaction, meaning multiple withdrawals may be needed for a long trip. Power cuts can knock out ATMs, particularly outside Kathmandu, so always carry a cash buffer. Trekking areas above Lukla have virtually no ATMs — withdraw all the cash you need in Kathmandu before your flight. Carrying USD or EUR as emergency backup is wise since they can be exchanged reliably. The Wise card works at most ATMs and avoids foreign transaction fees.",
+      "tourist_tips": [
+        "Withdraw enough cash in Kathmandu to cover your entire Everest Base Camp trek — banking infrastructure disappears after Lukla.",
+        "Use the Wise card to minimize ATM fees and get near mid-market exchange rates; load it with your home currency before your trip.",
+        "Exchange USD or EUR at licensed money changers in Thamel for competitive rates — hotel exchange desks offer poor rates."
+      ],
+      "warning": "Fake NPR notes do circulate; check bills carefully especially 500 and 1,000 NPR notes when receiving change from street vendors.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Nepal",
+      "quick_answer": "Buy an Ncell SIM for the best data in tourist areas or a Nepal Telecom SIM for the best coverage in remote mountains — both are available at Tribhuvan Airport on arrival.",
+      "detail": "Ncell (private operator) offers the best 4G data speeds in Kathmandu, Pokhara, and main trekking hubs. Nepal Telecom (NTC) has the widest physical coverage including better signal in remote mountain areas, making it preferred by trekkers going off the beaten path. Both require a passport to register. eSIMs via Airalo work for Nepal and are a convenient option to activate before landing. Internet speeds drop significantly and coverage becomes patchy or nonexistent above certain altitudes on major treks. A local SIM is important for ride-hailing apps and emergency communication.",
+      "tourist_tips": [
+        "Buy your SIM at the Ncell or NTC counters in the Tribhuvan Airport arrivals hall immediately after customs — it is the easiest and most reliable place to get set up.",
+        "Consider carrying both an Ncell and an NTC SIM if you are doing serious high-altitude trekking — one may have signal where the other does not.",
+        "Use a VPN on public Wi-Fi in guesthouses and cafes to protect your data, as security standards vary widely."
+      ],
+      "warning": "Do not rely on mobile data for navigation or emergency contact in remote trekking areas — coverage gaps can last for days on some routes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "vpn",
+        "travel-insurance"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Nepal",
+      "quick_answer": "Nepal uses Type C, D, and M sockets at 230V/50Hz — bring a universal adapter as plug types vary even within the same building.",
+      "detail": "The inconsistency of plug sockets used across Nepal means a universal travel adapter is strongly recommended over a specific adapter type. Voltage is 230V/50Hz, compatible with most modern electronics. Load shedding (scheduled power cuts) was historically severe and can still occur, especially outside Kathmandu during dry season. A power bank is considered essential gear for trekkers because teahouse charging is limited and sometimes charged per device. Solar chargers are practical above the teahouse line where mains power disappears entirely.",
+      "tourist_tips": [
+        "Bring a high-capacity power bank (20,000mAh+) for trekking — some teahouses charge USD 1–3 per device per charge, and charging opportunities become rarer at higher elevations.",
+        "Charge all devices fully every night when you have power access, as you cannot predict when the next reliable charging opportunity will arise.",
+        "A universal travel adapter with surge protection is worth the extra cost given the voltage fluctuations that can occur during power restoration after cuts."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Nepal",
+      "quick_answer": "Common scams target tourists in Thamel with fake gear, gem deals, and taxi overcharging — stick to reputable agencies and use ride-hailing apps.",
+      "detail": "Thamel trekking shops are notorious for selling counterfeit or low-quality gear labelled as premium brands (North Face, Patagonia) at prices that still feel like a good deal. Gem and precious stone scams are a classic Kathmandu con where a stranger befriends you and leads you to a 'family shop.' Fake police demanding to inspect your bag or wallet are another risk. Some massage parlours offer services with unexpected extras; book through hotel recommendations. Overly friendly locals offering 'free' tea, a tour, or an introduction to their uncle's shop are usually setting up a sales pressure situation.",
+      "tourist_tips": [
+        "Book trekking agencies through Trekking Agencies' Association of Nepal (TAAN) registered operators or recommendations from reputable travel forums.",
+        "Test trekking gear before you buy — stretch seams, check zip quality, and look for branding inconsistencies to spot fakes.",
+        "Never accept unsolicited help with your bag at the airport or bus station from someone who is not in an official uniform — they will demand payment."
+      ],
+      "warning": "Fake high-altitude gear (down jackets, sleeping bags) can be life-threatening if it fails in cold conditions; test and inspect everything before leaving Kathmandu.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Nepal",
+      "quick_answer": "Nepal is generally safe for tourists with very low violent crime, though petty theft in Thamel and altitude-related emergencies are the real risks to manage.",
+      "detail": "Violent crime against foreign tourists is rare, and Nepal is considered one of South Asia's safer destinations. Petty theft (bag snatching, pickpocketing) occurs in the Thamel tourist district and on crowded buses. Political protests happen periodically and can turn unpredictable; checking current news before travel is advisable. The primary danger to tourists in Nepal is not crime but altitude sickness, mountaineering accidents, and traffic on poor mountain roads. Solo female travelers generally report feeling safer in Nepal than in many other South Asian destinations.",
+      "tourist_tips": [
+        "Use a padlock on your bag zippers when in crowded Thamel streets or on public buses where pickpockets are active.",
+        "Check your government's travel advisory for any current political unrest before and during your visit, particularly around election periods.",
+        "Keep digital and physical copies of your passport and travel insurance in separate locations in case your originals are lost or stolen."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Nepal",
+      "quick_answer": "Greet with 'Namaste' (palms together, slight bow), always use your right hand for giving and eating, and never disrespect cows or religious objects.",
+      "detail": "Namaste is a meaningful and universally appreciated greeting that signals respect rather than just politeness. The right hand is used for eating, passing food, and offering or receiving items — the left hand is considered impure. Walking clockwise around stupas and spinning prayer wheels clockwise follows Buddhist custom and is expected from visitors. Never touch another person's head, and do not point the soles of your feet at people, deities, or altars. Offering food from your own plate is a common expression of hospitality in Nepali homes — accepting graciously is courteous.",
+      "tourist_tips": [
+        "Practice the Namaste gesture and use it freely — Nepalis consistently appreciate the effort and it opens doors to warmer interactions.",
+        "Sit cross-legged or with feet tucked to the side rather than pointing them forward when seated on the floor in a home or temple.",
+        "Accept tea or food when offered in a home even if only symbolic — refusing hospitality can cause offence in traditional households."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Nepal",
+      "quick_answer": "Nepali is the national language, but English is widely spoken in tourist areas, trekking businesses, and Kathmandu — a few Nepali words go a long way.",
+      "detail": "The trekking industry operates largely in English: virtually all licensed guides and many teahouse owners in popular areas like Annapurna and Everest speak excellent English. In Kathmandu and Pokhara, menus, signs, and service staff in tourist establishments are English-capable. Outside major cities and tourist corridors, English drops off sharply and basic Nepali becomes very useful. Sherpa guides in the Khumbu region often speak English and sometimes other languages too. Learning 'Namaste' (hello/greeting), 'Dhanyabad' (thank you), and 'Kati ho?' (how much?) earns genuine warmth.",
+      "tourist_tips": [
+        "Learn to say 'Dhanyabad' (thank you) and use it often — it is consistently met with smiles and appreciation from locals.",
+        "Carry a phrasebook or download a Nepali offline language app before heading into areas where English is not spoken.",
+        "Hand signals and pointing work well in markets and local restaurants when language barriers arise — Nepalis are patient and helpful with non-verbal communication."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Nepal",
+      "quick_answer": "Nepal is landlocked with no ocean beaches, but Phewa Lake in Pokhara and several other mountain lakes offer calm swimming and boating.",
+      "detail": "The most popular freshwater swimming and boating destination is Phewa Lake in Pokhara, which also offers rowing and kayaking with the Annapurna range as a backdrop. Begnas Lake and Rupa Lake near Pokhara are quieter alternatives popular with locals. Nepal's rivers — including the Sun Koshi and Trishuli — are famous for white-water rafting rather than swimming due to strong currents. Chitwan National Park has river activities but swimming in rivers there carries genuine risk from currents and wildlife. There are no beach resorts in Nepal in the traditional sense.",
+      "tourist_tips": [
+        "Rent a rowboat on Phewa Lake for an hour at sunset — the reflection of the Fishtail Mountain (Machapuchare) on the water is one of Nepal's iconic experiences.",
+        "Begnas Lake is far less crowded than Phewa and makes for a peaceful half-day trip from Pokhara if you want a quiet swim.",
+        "If you plan to go white-water rafting on the Trishuli or Sun Koshi, book with an operator that provides certified guides and proper safety equipment."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Nepal",
+      "quick_answer": "Nepal drives on the left and requires an international driving permit, but road conditions outside Kathmandu are poor and hiring a driver is strongly recommended.",
+      "detail": "An International Driving Permit (IDP) is required to rent or drive a vehicle in Nepal. Roads in the Kathmandu Valley have improved but remain congested and chaotic. Outside the Valley, mountain roads are narrow, often unpaved, lack guardrails, and are prone to landslides during monsoon season (June–September). Night driving on mountain roads is particularly dangerous. Most experienced travelers hire a private driver rather than self-driving, as local knowledge of road conditions and checkpoints is invaluable.",
+      "tourist_tips": [
+        "If renting a motorbike in Pokhara (a popular activity), stay on well-traveled routes and never ride into the mountains without significant off-road experience.",
+        "Hire a driver with your rental car for mountain excursions — the daily cost (approximately USD 25–40) is minimal compared to the safety benefit.",
+        "Check for active landslide or road closure reports on mountain routes during and after the monsoon — roads can be blocked for days."
+      ],
+      "warning": "Mountain road accidents are a leading cause of tourist fatalities in Nepal; do not underestimate the danger of narrow cliff-edge roads, especially at night or in wet conditions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Nepal",
+      "quick_answer": "Dal bhat (lentils and rice) is the national meal eaten twice daily by most Nepalis and comes with unlimited refills — it is both the most authentic and best-value meal available.",
+      "detail": "Dal bhat is nutritionally complete, bottomless, and typically costs 300–500 NPR at a local restaurant — making it the ideal trekker's meal. Momo (dumplings, usually buff/chicken/vegetable) are enormously popular as a snack or light meal across the country. Thukpa (noodle soup) and sel roti (fried rice doughnut) are other staples. Newari cuisine from the Kathmandu Valley is a distinct culinary tradition worth seeking out in Bhaktapur and Patan. Tourist restaurants in Thamel offer extensive 'traveler's menus' with pizza and pasta, but local dal bhat is far more authentic and cheaper.",
+      "tourist_tips": [
+        "Order dal bhat and keep asking for refills of the dal, vegetable curry, and rice — it is culturally normal and expected to ask, and it is included in the price.",
+        "Try buff momo (buffalo dumplings) from a street stall in Kathmandu — it is one of the city's best street food experiences for around 100–150 NPR.",
+        "In Bhaktapur's Durbar Square, eat lunch at a rooftop restaurant for the view and try the local juju dhau (king curd, a sweet yogurt specialty of Bhaktapur)."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Nepal",
+      "quick_answer": "Remove shoes before entering any temple or religious site, dress modestly covering shoulders and knees, and walk clockwise around Buddhist stupas and shrines.",
+      "detail": "Nepal's religious heritage includes UNESCO World Heritage temple complexes of extraordinary significance. Pashupatinath Temple, the holiest Hindu site in Nepal, restricts non-Hindus to the outer areas — respect this boundary. Boudhanath Stupa and Swayambhunath are open to all visitors; circumambulate clockwise and spin prayer wheels clockwise as you go. Photography inside most temple interiors is prohibited even when the exterior is freely photographed. Monks and priests should be approached with respectful distance; do not touch religious statues or offerings. Lumbini, the birthplace of Buddha, is a UNESCO site requiring especially quiet and respectful behavior.",
+      "tourist_tips": [
+        "At Boudhanath, visit at dawn or dusk when monks and pilgrims perform their kora (circumambulation circuit) — the atmosphere is deeply moving and photography of the stupa exterior is spectacular in that light.",
+        "At Pashupatinath, watch the evening aarti ceremony from the permitted viewpoint on the eastern bank — it is one of Nepal's most powerful cultural experiences and is open to non-Hindus.",
+        "Hire a knowledgeable local guide for the Kathmandu Durbar Squares — the symbolism and history of the temples is rich and largely invisible without interpretation."
+      ],
+      "warning": "Entering restricted inner sanctums of Hindu temples as a non-Hindu can lead to confrontation with priests and potentially the police; observe posted rules without exception.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Nepal",
+      "quick_answer": "The best trekking seasons are October–November (post-monsoon, clear skies) and March–May (pre-monsoon, rhododendrons in bloom) — monsoon season from June to September makes trekking difficult.",
+      "detail": "October and November offer the most reliably clear mountain views, stable weather, and firm trails — making it the peak season for Everest Base Camp, Annapurna Circuit, and Langtang. March to May brings warming temperatures, spectacular rhododendron forests, and slightly fewer crowds than autumn. The monsoon (June–September) brings heavy rain, leeches on jungle trails, frequent trail washouts and landslides, and thick cloud obscuring mountain views — experienced trekkers can still travel but conditions are genuinely harder. Winter (December–February) brings cold at altitude and possible snow on high passes but offers crystal-clear skies and almost no crowds at lower elevations.",
+      "tourist_tips": [
+        "Book flights and popular teahouse accommodation on the Everest and Annapurna routes months in advance for the October–November season — it is extremely busy.",
+        "The Annapurna Circuit in October offers the best combination of weather, trail conditions, and mountain views of any trek in Nepal.",
+        "If visiting in shoulder season (late November or early March), you will find significantly reduced crowds and prices with only marginally lower conditions."
+      ],
+      "warning": "The Thorong La Pass on the Annapurna Circuit (5,416m) can close without warning due to snowfall even in the best seasons — always check current conditions with your teahouse host.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Nepal",
+      "quick_answer": "Dal bhat with unlimited refills at local restaurants (300–500 NPR) and teahouse trekking instead of camping are the two biggest ways to dramatically cut costs in Nepal.",
+      "detail": "Nepal is one of Asia's most affordable destinations if you eat, sleep, and travel like locals. Dal bhat at local eateries costs a fraction of tourist restaurant meals and comes bottomless. Teahouse trekking on popular routes means no need for tents, sleeping bags, or camping gear — just pack light and pay as you go. Everything in Thamel is negotiable; buying gear there is cheap but inspect quality carefully. Sharing a jeep with other trekkers heading to the same trailhead slashes transport costs. Government fees (TIMS card, national park entry) are unavoidable but are the same for all tourists.",
+      "tourist_tips": [
+        "Day trips to Bhaktapur, Patan, and Swayambhunath from Kathmandu are extremely cheap and far less crowded than the main Durbar Square — combine two or three in a single day using local buses.",
+        "Buy your trekking snacks (energy bars, nuts, chocolate) in Kathmandu's supermarkets before you leave — the same items triple in price at high-altitude teahouses.",
+        "The TIMS permit and national park fee are unavoidable costs, but getting them yourself directly from the Nepal Tourism Board office costs less than buying through an agency middleman."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

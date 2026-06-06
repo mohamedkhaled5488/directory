@@ -1,0 +1,360 @@
+{
+  "country": "Spain",
+  "slug": "spain",
+  "emoji": "🇪🇸",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Spanish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Spain",
+      "quick_answer": "Tipping is not obligatory in Spain as service is included by law, but rounding up or leaving 5–10% for good service is a welcome gesture.",
+      "detail": "In Spain, a service charge is legally included in restaurant bills, so you are under no obligation to tip. Leaving small change, rounding up the bill, or adding 5–10% for exceptional service is appreciated but never expected or pressured. At bars and cafés, leaving the coins from your change on the counter is a common and friendly habit. Taxi drivers also appreciate a small round-up, and hotel porters expect €1–2 per bag.",
+      "tourist_tips": [
+        "Never feel pressured to tip — Spanish staff do not rely on gratuities the way North American servers do",
+        "At a tapas bar or café, leaving the loose coins from your change is perfectly normal and appreciated",
+        "For sit-down restaurant meals, 5–10% is a generous and well-received tip for good service"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Spain",
+      "quick_answer": "Madrid and Barcelona have excellent, affordable metro systems; use the Renfe app to book intercity trains and buy tickets in advance for the best fares.",
+      "detail": "Madrid's Metro has 12 lines covering the entire city, and Barcelona's Metro is similarly extensive — both use contactless cards or multi-journey tickets. Cercanías commuter trains connect suburbs and surrounding towns to city centres. Renfe operates Spain's intercity and high-speed AVE rail network; booking via the Renfe app or website well in advance can yield fares as low as €15–30 for journeys that cost €80+ at the door. EMT buses fill gaps in major cities, and long-distance buses (ALSA, FlixBus) are a budget-friendly alternative for routes not well served by rail.",
+      "tourist_tips": [
+        "In Madrid, load a tarjeta de transporte (transport card) for cheaper per-journey fares instead of buying single tickets",
+        "Book AVE high-speed trains on the Renfe app at least 2–3 weeks ahead for the best prices",
+        "Validate your ticket before boarding Cercanías and regional trains — fines for non-validation are common"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "pocket-wifi"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Spain",
+      "quick_answer": "EU citizens with a valid EHIC card receive free or reduced-cost treatment in Spain's excellent public healthcare system; non-EU visitors should carry comprehensive travel insurance.",
+      "detail": "Spain has a high-quality national health system (Sistema Nacional de Salud). EU/EEA citizens holding a European Health Insurance Card (EHIC) or the UK Global Health Insurance Card (GHIC) are entitled to medically necessary treatment at public hospitals on the same terms as Spanish residents. Non-EU tourists should arrange travel insurance before departure, as private treatment or repatriation costs can be very high. For minor ailments, Spanish farmacias (identifiable by a green cross sign) are excellent first ports of call — pharmacists are well-trained and can advise on and dispense a wide range of medications over the counter.",
+      "tourist_tips": [
+        "Carry your EHIC/GHIC card at all times — it covers emergency and necessary treatment at public hospitals and clinics",
+        "Look for a green cross sign to find a farmacia; they are widespread and pharmacists speak some English in tourist areas",
+        "Private clinics (clínicas privadas) offer faster appointments for non-emergencies — travel insurance usually covers these"
+      ],
+      "warning": "Non-EU visitors without travel insurance face potentially very large bills for hospital treatment or medical evacuation — do not skip this coverage.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Spain",
+      "quick_answer": "Cannabis is decriminalized for personal use in private spaces only — smoking in public or buying on the street is illegal and subject to fines.",
+      "detail": "Spain has relatively liberal social laws but some important rules catch tourists off guard. Cannabis is decriminalized for personal use in private, and private cannabis clubs operate in a legal grey area, but any consumption or possession in public spaces is subject to police fines. Drinking alcohol in public is banned in most major cities including Barcelona, where fines (multas) are actively enforced. Pickpocketing is a criminal offence prosecuted seriously. Busking and street selling laws vary by city and neighbourhood, and unlicensed vendors face confiscation of goods. Smoking is banned in enclosed public spaces, restaurants, and bars.",
+      "tourist_tips": [
+        "Do not consume cannabis in public — even in areas that feel relaxed about it, police can and do issue on-the-spot fines",
+        "Avoid buying counterfeit goods from street vendors; purchasers can also be fined under Spanish law",
+        "Jaywalking is technically illegal in Spain and police in some cities do issue fines to pedestrians"
+      ],
+      "warning": "Public drinking bans in Barcelona and other cities are actively enforced with on-the-spot fines — do not assume outdoor drinking is tolerated.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Spain",
+      "quick_answer": "Call 112 for all emergencies in Spain — it is the EU universal number and connects to police, ambulance, and fire services with English-speaking operators.",
+      "detail": "The main emergency number 112 works across Spain and the EU, and operators can connect you to police, ambulance, or fire services in multiple languages including English. For police-specific needs, 091 reaches the National Police (Policía Nacional) and 092 reaches the Local Police (Policía Local or Municipal). Medical emergencies and ambulances can also be reached directly on 061. The Civil Guard (Guardia Civil), which polices rural areas and highways, is reached on 062. All these numbers are free from any phone including mobiles without a SIM card.",
+      "tourist_tips": [
+        "Save 112 in your phone before you travel — it works even with no mobile signal or without a local SIM",
+        "Use 091 for non-urgent national police matters such as reporting a theft for insurance purposes (denuncia)",
+        "In tourist areas, look for the Policía Turística (Tourist Police) who are trained to assist visitors in English"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Spain",
+      "quick_answer": "Spain is generally relaxed about dress, but cover your shoulders and knees when entering churches or cathedrals, and avoid wearing swimwear away from the beach.",
+      "detail": "In everyday street life, Spain is among the most relaxed countries in Europe regarding dress — casual, fashionable clothing is standard. However, visiting churches, cathedrals, or other religious sites requires covered shoulders and knees; many sites offer scarves or will turn visitors away who are dressed inappropriately. Topless sunbathing is legal on all Spanish beaches and is practised openly, particularly on the Mediterranean coast. Wearing swimwear, bikini tops, or going shirtless in city streets, shops, or restaurants away from beach areas can result in fines in some coastal cities such as Barcelona (up to €300).",
+      "tourist_tips": [
+        "Always carry a light scarf or pashmina to cover up when visiting churches and cathedrals — entry may be refused without it",
+        "Topless sunbathing is completely legal and normal on Spanish beaches, but cover up when leaving the beach area",
+        "Barcelona and some coastal towns have introduced fines for wearing swimwear in city streets — change before heading into town"
+      ],
+      "warning": "Barcelona actively fines tourists (up to €300) for walking in the city centre in swimwear or going shirtless outside of beach areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Spain",
+      "quick_answer": "The legal drinking age in Spain is 18, bars stay open very late, and wine culture is deeply embedded — but public drinking is banned and fined in most major cities.",
+      "detail": "Spain has a rich wine, beer, and spirits culture, and alcohol is available almost everywhere at reasonable prices. The minimum legal drinking age is 18, enforced at bars and shops. Public drinking (botellón) has been banned in most major cities including Barcelona and Madrid, with fines for violators, though enforcement varies by location and time. Bars and nightclubs routinely stay open until 3–6am, and the Spanish nightlife rhythm means dinner at 10pm and clubs starting to fill after midnight is entirely normal. Drinking and driving limits are strict: 0.5g/L blood alcohol for standard drivers, 0.3g/L for new drivers and professionals.",
+      "tourist_tips": [
+        "Do not drink in public spaces such as parks, plazas, or streets in Barcelona or Madrid — fines are actively issued",
+        "Supermarket wine starts at around €2–3 a bottle, making self-catering with Spanish wine excellent value",
+        "Pace yourself with the late dining and nightlife schedule — dinner rarely starts before 9pm and clubs peak after 1am"
+      ],
+      "warning": "Drink-driving limits are lower than in the UK (0.5g/L vs 0.8g/L) and enforcement is regular — designate a driver or use taxis if drinking.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Spain",
+      "quick_answer": "Bargaining is not customary in Spanish shops or markets — prices are fixed almost everywhere, though El Rastro flea market in Madrid has some room for negotiation.",
+      "detail": "Spain is not a bargaining culture. In shops, supermarkets, restaurants, and most markets, prices are fixed and haggling is considered rude or odd. The main exception is El Rastro, Madrid's famous Sunday open-air flea market, where vendors selling second-hand or antique items may negotiate slightly, especially near closing time. Second-hand shops and private sales via apps like Wallapop also allow negotiation. Some small independent souvenir stalls may give informal discounts for bulk purchases, but this should never be assumed or pushed.",
+      "tourist_tips": [
+        "Do not attempt to haggle in regular shops, department stores, or supermarkets — it will cause embarrassment",
+        "At El Rastro in Madrid on Sundays, politely asking 'me hace un precio?' (can you do a better price?) is acceptable",
+        "Loyalty discounts and deals are better found through apps, discount cards, and booking platforms than in-person negotiation"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Spain",
+      "quick_answer": "Photography is generally free in Spain's public spaces and streets, but many major attractions including the Sagrada Família prohibit interior photography — always check signage.",
+      "detail": "Spain's picturesque streets, plazas, and architecture can be freely photographed. Public spaces, outdoor landmarks, and street scenes have no restrictions for personal photography. However, many major paid attractions have their own rules: the Sagrada Família in Barcelona prohibits photography inside (rules may update — always check current policy on the website or at entry). The Alhambra in Granada allows photography but with restrictions in certain rooms. Military installations and government buildings should not be photographed. Spain has strong privacy laws, and photographing individuals without consent in a way that could be considered intrusive may be challenged.",
+      "tourist_tips": [
+        "Check the current photography policy for major attractions on their official website before visiting — rules change frequently",
+        "Street photography is generally legal and Spain's cities are visually stunning subjects — just be respectful of people",
+        "Drone photography requires prior authorization from AESA (Spain's aviation authority) — flying drones near airports or crowds is illegal"
+      ],
+      "warning": "Flying a drone without AESA authorization is illegal in Spain and can result in confiscation and significant fines.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Spain",
+      "quick_answer": "Large shops are restricted on Sundays in most regions, siesta closures (2–5pm) are common on weekdays, and fiesta days vary significantly by region.",
+      "detail": "Spain's siesta culture means many smaller shops close between roughly 2pm and 5pm on weekdays, though this is less rigidly observed in major cities than in smaller towns. Large supermarkets and department stores are subject to regional Sunday trading restrictions — in many autonomous communities they may only open a limited number of Sundays per year. Small independent shops, restaurants, and bars typically open on Sundays. National public holidays (festivos) close most shops and services, and Spain also has regional and local fiestas that vary by autonomous community and municipality, making local research essential when planning activities.",
+      "tourist_tips": [
+        "Plan major shopping for weekday mornings or evenings to avoid siesta closures and Sunday restrictions",
+        "Check local fiesta calendars before visiting — many towns hold annual festivals that close businesses but create spectacular cultural experiences",
+        "El Corte Inglés department stores have extended and Sunday hours in tourist areas and are a reliable fallback when smaller shops are closed"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "travel-insurance"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Spain",
+      "quick_answer": "Uber and Cabify both operate in Spain's major cities, and official metered taxis are reliable and regulated — always use the meter or agree a fare before departure.",
+      "detail": "Official taxis in Spain are metered and well-regulated. In Barcelona, taxis are black and yellow; in Madrid they are white with a diagonal red stripe. Taxis can be hailed on the street, found at official ranks, or booked via apps. Uber operates in major Spanish cities including Madrid, Barcelona, Seville, and Málaga; Cabify is a strong local competitor with good coverage. Free Now (mytaxi) is another popular app for booking official taxis. Always ensure the meter is running or agree a price (particularly for airport runs, where fixed fares sometimes apply), and check for supplements for luggage, airport routes, or night/weekend travel.",
+      "tourist_tips": [
+        "Use the Uber, Cabify, or Free Now apps for transparent pricing and to avoid any meter disputes",
+        "Airport taxi fares in Barcelona are fixed-rate to/from the city centre — confirm the flat fare applies before starting the journey",
+        "Avoid unofficial taxis offering rides outside airports or train stations — use marked taxi ranks or book via app"
+      ],
+      "warning": "Unlicensed taxi touts operate near airports and major tourist sites — always use official marked taxis or a registered app-based service.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Spain",
+      "quick_answer": "Tap water is safe to drink throughout mainland Spain and the Balearic Islands, but tap water in the Canary Islands is not recommended for drinking.",
+      "detail": "Spain's mainland and Balearic Islands (Mallorca, Ibiza, Menorca) have tap water that meets EU safety standards and is safe to drink. Many Spaniards prefer bottled water for taste reasons, but there is no health risk from the tap. The Canary Islands (Tenerife, Gran Canaria, Lanzarote, etc.) are a notable exception — the local tap water, while technically treated, is generally not recommended for drinking due to desalination processes and pipe quality; use bottled water there. Bottled water is inexpensive and universally available throughout Spain.",
+      "tourist_tips": [
+        "On the Spanish mainland and Balearics, tap water is perfectly safe — refill a reusable bottle to save money and reduce plastic waste",
+        "In the Canary Islands, always drink bottled water and use it for brushing teeth to be safe",
+        "Ask for 'agua del grifo' (tap water) in restaurants to avoid being charged for bottled water if you prefer tap"
+      ],
+      "warning": "Do not drink tap water in the Canary Islands — it is not recommended even though it is technically treated.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Spain",
+      "quick_answer": "Use bank-branded ATMs and always choose to be charged in euros (decline DCC) — Euronet and standalone ATMs charge very high fees.",
+      "detail": "ATMs (cajeros automáticos) are widely available throughout Spain, including in small towns and resorts. However, there are significant cost differences between ATM networks. Bank-branded ATMs (Santander, CaixaBank, BBVA, Sabadell) typically charge lower or no surcharge fees. Euronet ATMs, which are bright yellow and positioned heavily in tourist areas, charge very high convenience fees and should be avoided. When any ATM offers to convert the transaction to your home currency (Dynamic Currency Conversion / DCC), always decline and choose to be charged in euros — your home bank's rate will almost always be better. Cards are widely accepted in Spain, though small bars, markets, and rural businesses may be cash-only.",
+      "tourist_tips": [
+        "Always decline Dynamic Currency Conversion (DCC) at ATMs and card terminals — choose euros to get a better exchange rate",
+        "Avoid bright yellow Euronet ATMs in tourist zones — find a bank-branded ATM or use a Wise/Revolut card with no foreign fees",
+        "Carry some cash for small tapas bars, market stalls, and rural areas where card machines may not be available"
+      ],
+      "warning": "Euronet ATMs in tourist areas charge up to €5+ per withdrawal plus an unfavourable exchange rate — always use a bank ATM instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Spain",
+      "quick_answer": "Buy a prepaid SIM from Movistar, Vodafone, Orange, or Yoigo at airports, phone shops, or supermarkets — tourist SIMs with generous data are available from around €10.",
+      "detail": "Spain has excellent 4G/LTE coverage across major cities, tourist areas, and main transport routes, with 5G expanding rapidly. The main operators are Movistar (Telefónica), Vodafone, Orange, and Yoigo. Prepaid tourist SIMs can be purchased at airports on arrival, in phone shops (phone shops and carrier stores are abundant), and in large supermarkets such as Carrefour and Lidl. EU citizens benefit from EU roaming rules, meaning their home SIM should work at no extra cost throughout Spain. Visitors from outside the EU (US, UK, Australia, etc.) will find a local prepaid SIM the most cost-effective option. Wi-Fi is widely available in hotels, cafés, and many public spaces.",
+      "tourist_tips": [
+        "EU residents can use their home SIM at no extra charge in Spain under EU roaming rules — check with your provider before travelling",
+        "Buy a SIM at the airport arrivals hall for immediate connectivity — Orange and Vodafone both have airport stores",
+        "Lidl and Carrefour supermarkets sell Lidl Connect and other budget SIM cards that are among the cheapest data options"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Spain",
+      "quick_answer": "Spain uses Type C and Type F (Schuko) plugs at 230V/50Hz — British visitors need a plug adapter and American visitors need both an adapter and a voltage converter for older devices.",
+      "detail": "Spain's standard socket type is the two-round-pin Type C or Type F (Schuko/CEE 7/4), operating at 230V and 50Hz. This is the standard continental European format used across most of the EU. Visitors from the UK need a Type C/F adapter as British plugs (Type G, three rectangular pins) are incompatible. Visitors from the United States or Canada need a plug adapter and, for devices that do not support 110–240V dual voltage (check the device label), a voltage converter. Most modern electronics (laptops, phone chargers, cameras) are dual-voltage and only need an adapter. Adapters are available in Spanish supermarkets and electrical shops.",
+      "tourist_tips": [
+        "Check your device's power brick for '100–240V' — if it says this, you only need a plug adapter, not a voltage converter",
+        "Buy a universal travel adapter before departure — they are cheaper than buying one at a Spanish airport",
+        "USB-C charging has made most modern travel electronics compatible with any voltage worldwide — older devices with motors (hair dryers, shavers) may still need a converter"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Spain",
+      "quick_answer": "Barcelona's La Rambla and Madrid's Puerta del Sol are pickpocket hotspots — stay alert, use a money belt, and be wary of distraction scams including the bird poo and fake police tricks.",
+      "detail": "Spain, particularly Barcelona, has one of the highest tourist pickpocketing rates in Europe. Common scam tactics include the 'bird poo scam' where a stranger points out a stain on your clothes and offers to help clean it while an accomplice pickpockets you, and the 'mustard scam' which works similarly with condiment. Fake police officers approach tourists and ask to inspect their wallet — real police do not do this. On La Rambla in Barcelona and the Metro, thieves work in groups to distract and steal. Unsolicited friendship bracelets placed on your wrist are another common scam requiring a 'donation'.",
+      "tourist_tips": [
+        "Use a money belt or an anti-theft bag in crowded tourist areas and on the Metro — keep wallets in front pockets only",
+        "If someone approaches you claiming to be a plain-clothes police officer, ask to see their badge and offer to walk to the nearest police station rather than hand over your wallet",
+        "Firmly refuse unsolicited friendship bracelets on La Rambla — once it is on your wrist, vendors will aggressively demand payment"
+      ],
+      "warning": "Barcelona has the highest pickpocketing rate in Europe for tourists — be especially vigilant on La Rambla, in the Metro, and at major attractions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Spain",
+      "quick_answer": "Spain is generally a safe country, but Barcelona has Europe's highest tourist pickpocketing rate — distraction theft and bag snatching are the primary risks for visitors.",
+      "detail": "Spain ranks as one of the safer countries in Europe for tourists, with violent crime against visitors being rare. The overwhelming risk for tourists is petty theft, particularly pickpocketing and bag snatching in crowded tourist areas. Barcelona is consistently rated the European city with the highest pickpocketing rate — La Rambla, the Gothic Quarter, the Metro, and Barceloneta beach are known hotspots. Madrid's Puerta del Sol, Gran Vía, and busy Metro lines are also targeted. Other Spanish cities including Seville, Valencia, and Málaga have significantly lower rates. Terrorism risk is present but low; follow government travel advisories. Night-time safety in city centres is generally good, though tourist-heavy areas attract opportunist crime.",
+      "tourist_tips": [
+        "Distribute valuables between a money belt and your bag so a single theft does not lose everything — keep a photocopy of your passport separately",
+        "Report any theft to the police (Policía Nacional, 091) and obtain a denuncia (crime report number) for travel insurance claims",
+        "Be particularly vigilant on the Barcelona Metro Line 3 (green) and Line 5 (blue) which connect major tourist sites and are well-known for theft"
+      ],
+      "warning": "Bag snatching on motorcycles (tirones) is a risk in some Spanish cities — wear bags across your body and away from the road when walking on pavements.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Spain",
+      "quick_answer": "Greet with two kisses on the cheeks (left first), expect lunch to be the main meal at 2–4pm, and embrace the late Spanish schedule — dinner before 9pm marks you as a tourist.",
+      "detail": "Spanish social culture is warm, tactile, and unhurried. Greetings between acquaintances typically involve two kisses on the cheeks (left cheek first), and handshakes are common in professional settings. Lunch (comida) is the main meal of the day, eaten between 2pm and 4pm, often as a leisurely social occasion. Dinner (cena) is typically eaten between 9pm and 11pm — restaurants serving dinner before 8:30pm are mainly targeting tourists. The concept of mañana (a relaxed attitude towards time and schedules) is real — do not expect punctual service or fast-paced restaurant experiences. Spaniards are generally loud, expressive conversationalists and consider animated discussion a sign of engagement, not aggression.",
+      "tourist_tips": [
+        "Embrace the Spanish meal schedule — try eating lunch at 2–3pm and dinner at 9–10pm for the most authentic and crowded (i.e., best quality) restaurants",
+        "Do not rush waiters or demand the bill (la cuenta) immediately after finishing — it is considered rude; ask when you are ready and be patient",
+        "Learn a few words of Spanish: even a basic attempt is warmly appreciated and will get you better service in most places"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Spain",
+      "quick_answer": "Castilian Spanish is the official national language, but Catalan, Basque, and Galician are co-official in their regions — English is widely spoken in tourist areas.",
+      "detail": "Castilian Spanish (español/castellano) is spoken throughout Spain and is the primary language for visitors. However, Spain has significant regional languages: Catalan (català) is co-official in Catalonia, Valencia, and the Balearic Islands; Basque (euskera) in the Basque Country and Navarre; and Galician (galego) in Galicia. In tourist areas of Barcelona, Madrid, the Costa del Sol, and the Balearic and Canary Islands, English is very widely spoken. Outside major tourist centres, English proficiency drops significantly. Attempting basic Spanish — hola (hello), gracias (thank you), por favor (please), ¿habla inglés? (do you speak English?) — is always appreciated and often rewarded with warmer service.",
+      "tourist_tips": [
+        "In Catalonia, locals will appreciate a greeting in Catalan — 'Bon dia' (good morning) and 'Gràcies' (thank you) go a long way",
+        "Download Google Translate with Spanish offline data before your trip — useful in rural areas and small restaurants with no English menus",
+        "Spanish menus often lack English translations outside major tourist zones — a food vocabulary list or translation app is invaluable"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Spain",
+      "quick_answer": "Spain's beaches use a flag system — only swim when the green flag is flying, topless sunbathing is legal everywhere, and watch for seasonal jellyfish in the Mediterranean.",
+      "detail": "Spain has world-class beaches on the Mediterranean, Atlantic, and its island territories. Official beaches operate a flag warning system: green means safe to swim, yellow means caution (weak swimmers should not enter), red means swimming is prohibited. Lifeguards enforce the red flag seriously. Topless sunbathing is legal on all Spanish beaches and widely practised, particularly on the Mediterranean coast and in the Balearics. Some designated nudist beaches exist on the Costa Naturista and the Canary Islands. Jellyfish (medusas) are a seasonal hazard in the Mediterranean, particularly in summer — check local reports and beach warning signs. The Balearic and Canary Islands have outstanding snorkelling and diving conditions.",
+      "tourist_tips": [
+        "Always swim within the flagged safe zones at supervised beaches and never enter the water under a red flag",
+        "Check for jellyfish warnings on the local beach authority website or app — the Medusozoa app tracks Mediterranean jellyfish blooms",
+        "The Canary Islands have warm water year-round (18–24°C) making them ideal for beach holidays in winter when mainland beaches are cool"
+      ],
+      "warning": "Atlantic-facing beaches (particularly in Galicia and the Bay of Biscay) can have powerful rip currents even in calm-looking conditions — always swim at lifeguarded beaches.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Spain",
+      "quick_answer": "Drive on the right, carry your driving licence and passport at all times, and be aware that many major motorways (autopistas) charge tolls.",
+      "detail": "Spain drives on the right-hand side of the road. An International Driving Permit (IDP) is not required for EU, UK, or US licence holders for short-term visits, but your national driving licence must be carried at all times along with your passport. Speed limits are 120km/h on autopistas (motorways), 100km/h on dual carriageways, 90km/h on single carriageway roads, and 30–50km/h in urban areas. Many motorways charge significant tolls (peajes) — budget for these on longer journeys or plan routes via free N-roads. Roundabouts give priority to vehicles already on the roundabout. Blood alcohol limit is 0.5g/L (lower for new drivers at 0.3g/L). Police conduct regular roadside checks.",
+      "tourist_tips": [
+        "Use the Via Michelin or Google Maps app to calculate toll costs before your journey — some motorway tolls can add €20–40 to a route",
+        "Carry two warning triangles and a reflective vest in the car — they are legally required in Spain and some rental companies do not supply them",
+        "Download offline maps for Spain before driving in rural areas where phone signal can be unreliable"
+      ],
+      "warning": "Driving under the influence is heavily policed in Spain — random breathalyser checkpoints are common, particularly on holiday weekends.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Spain",
+      "quick_answer": "Lunch (2–4pm) is the main meal in Spain — order the menú del día for a 3-course meal with wine for €10–15, and expect dinner to begin no earlier than 9pm.",
+      "detail": "Spanish food culture revolves around a late and leisurely lunch as the main meal, followed by a light tapas-style evening and a late dinner. The menú del día (menu of the day), available at lunchtime Monday to Friday in most restaurants, typically offers a starter, main, dessert, bread, and a drink for €10–15 — extraordinary value for the quality. Tapas culture means small free or low-cost snacks accompany drinks in many bars, particularly in Andalusia (Granada and Seville give free tapas with every drink). Breakfast (desayuno) is typically light — a coffee and a tostada (toast with tomato and olive oil) or churros. Service is typically slower than Anglo or Northern European standards and this is by design — meals are social occasions.",
+      "tourist_tips": [
+        "Always ask for the menú del día at lunchtime (Monday–Friday) — it is the best value meal in Spain and usually not listed on the main tourist menu",
+        "In Granada and Seville, free tapas come with every drink ordered — moving from bar to bar for drinks is the local way to eat cheaply",
+        "Do not arrive for dinner before 9pm if you want to eat where locals eat — earlier restaurants cater almost exclusively to tourists"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Spain",
+      "quick_answer": "Cover shoulders and knees when entering any church or cathedral in Spain, and note that the Mezquita-Catedral in Córdoba now charges entry for non-worshippers.",
+      "detail": "Spain has a rich religious architectural heritage spanning Catholic churches, medieval cathedrals, and the unique Moorish-Christian legacy of Andalusia. All Catholic churches and cathedrals require modest dress: covered shoulders and knees for both men and women — many churches keep scarves or shawls at the entrance for those unprepared. The Sagrada Família in Barcelona requires ticketed entry booked well in advance and has its own specific rules including no interior photography (verify current policy). The Mezquita-Catedral de Córdoba now charges entry for visitors (non-worshippers) despite significant controversy. The Alhambra in Granada must be booked far in advance. Silence and respectful behaviour are expected in all active places of worship.",
+      "tourist_tips": [
+        "Book Sagrada Família and Alhambra tickets online months in advance — both regularly sell out and there is no reliable walk-up availability",
+        "Many smaller village churches are free to enter and offer an authentic, uncrowded alternative to famous cathedral interiors",
+        "The Mezquita in Córdoba is free to enter for Catholic Mass (early morning) — check the schedule if you wish to visit without paying entry"
+      ],
+      "warning": "The Alhambra in Granada sells out weeks or months in advance — book official tickets only via the Patronato de la Alhambra website to avoid scam resellers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Spain",
+      "quick_answer": "The best time to visit mainland Spain is March–May or September–October; August is extremely hot inland; the Canary Islands are warm year-round.",
+      "detail": "Spain has diverse climate zones. The Mediterranean coast (Barcelona, Valencia, Costa del Sol) enjoys hot dry summers and mild winters. Central Spain including Madrid has a continental climate with very hot summers (frequently 35–40°C in July and August) and cold winters. Northern Spain (Galicia, Basque Country) is cool and green year-round with significant rainfall. The Balearic Islands (Mallorca, Ibiza) peak in July and August with crowds and high prices. The Canary Islands (Tenerife, Gran Canaria) have a unique subtropical climate with temperatures of 18–24°C year-round, making them ideal winter-sun destinations. Spring (March–May) and early autumn (September–October) offer the best combination of good weather, manageable crowds, and reasonable prices on mainland Spain.",
+      "tourist_tips": [
+        "Visit Seville and Córdoba in spring (April–May) — summer temperatures regularly exceed 42°C making outdoor sightseeing gruelling",
+        "Book Balearic Islands accommodation 6+ months ahead for July/August travel — it is one of Europe's peak summer destinations and prices surge",
+        "Consider the Canary Islands for a November–March beach holiday — Tenerife and Gran Canaria offer reliable warm weather when the rest of Europe is in winter"
+      ],
+      "warning": "Inland Spain (Madrid, Seville, Córdoba) experiences extreme heat in July and August — heat-related illness is a genuine risk for tourists unaccustomed to 40°C+ temperatures.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Spain",
+      "quick_answer": "Order the menú del día for a 3-course lunch with wine for €10–15, visit museums on their free entry days, and use an Interrail pass for multi-city rail travel.",
+      "detail": "Spain offers excellent value when you eat and live like a local. The menú del día (set lunch menu) at €10–15 for three courses including bread and a drink is the single best money-saving strategy for food. In Granada and Seville, free tapas accompany every drink ordered at traditional bars — bar-hopping with drinks is a legitimate and cheap way to eat well. Many of Spain's world-class museums offer free entry on certain days or evenings: the Prado in Madrid is free daily from 6–8pm, and the Reina Sofía has free hours too. An Interrail (for Europeans) or Eurail pass makes multi-city rail travel significantly cheaper. Budget airlines (Vueling, Iberia Express, Ryanair) offer very cheap domestic and short-haul European connections.",
+      "tourist_tips": [
+        "Check the free entry times for every museum on your itinerary — the Prado, Reina Sofía, and many regional museums have free evening or first-Sunday access",
+        "In Granada and Seville, choose traditional local bars over tourist restaurants and order drinks to receive free tapas — this can replace a meal entirely",
+        "Use a Wise or Revolut card for all payments to eliminate foreign transaction fees, which add up quickly over a two-week trip"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

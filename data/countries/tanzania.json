@@ -1,0 +1,441 @@
+{
+  "country": "Tanzania",
+  "slug": "tanzania",
+  "emoji": "🇹🇿",
+  "region": "Africa & Oceania",
+  "currency": "TZS",
+  "language": "Swahili/English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Tanzania",
+      "quick_answer": "Tipping is essential in Tanzania — USD 10–20 per day for safari guides is the norm, as tips form the bulk of their income.",
+      "detail": "Safari guides expect USD 10–20 per day and camp/lodge staff USD 5–10 per day; these are not optional gratuities but a core part of how the hospitality and safari industry compensates workers. Kilimanjaro porters and guides should receive USD 5–10 per person per day, and many trekking operators provide tip envelopes with guidance. Restaurants in tourist areas appreciate a 10% tip, though it is rarely included in the bill. USD cash is the preferred tipping currency throughout Tanzania, and small denominations are ideal.",
+      "tourist_tips": [
+        "Bring a supply of clean USD small bills from home — local ATMs dispense TZS and USD exchange at lodges often gives poor rates.",
+        "Many lodges provide a communal tip box for camp staff; ask your guide whether a communal or individual tip is preferred.",
+        "On Kilimanjaro, tip at the final camp or at the gate after descent — there are established crew tip ceremonies that most guides will explain."
+      ],
+      "warning": "Undertipping safari guides or Kilimanjaro crews is widely considered disrespectful and can affect the quality of your experience — do not skip it.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Tanzania",
+      "quick_answer": "There is no practical public transport network for tourists; domestic flights are the most efficient way to reach national parks, with taxis and bajaj for city travel.",
+      "detail": "Dalla-dallas (minibuses) are the main local transport but are overcrowded and impractical for tourists with luggage. Bolt has recently launched in Dar es Salaam and is more reliable than street taxis; bajaj (auto-rickshaws) are common in cities and towns but require negotiating the fare upfront. Domestic airlines including Coastal Aviation, Auric Air, and Air Excel link Arusha, Dar es Salaam, the Serengeti, and Zanzibar efficiently. The TAZARA railway connecting Dar es Salaam to Zambia is a scenic but very slow option suited only to travellers with time. The Zanzibar ferry from Dar es Salaam runs multiple times daily and takes about two hours on the fast catamaran.",
+      "tourist_tips": [
+        "Book domestic flights well in advance during peak safari season (July–October) — small aircraft fill up quickly.",
+        "Use your hotel or lodge to arrange trusted taxi drivers in Dar es Salaam or Arusha rather than hailing unknown street taxis.",
+        "For the Zanzibar ferry, buy tickets at Dar es Salaam port in person or through your accommodation to avoid tout overcharging."
+      ],
+      "warning": "Budget safari operators sometimes use poorly maintained vehicles — always verify the condition of the safari 4WD before departing Arusha.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Tanzania",
+      "quick_answer": "Medical facilities are extremely limited outside Dar es Salaam and Arusha, making medical evacuation insurance and AMREF Flying Doctors membership absolutely essential.",
+      "detail": "The best hospitals in Tanzania are Aga Khan Hospital in Dar es Salaam and Arusha Lutheran Medical Centre (ALMC) in Arusha — both are significantly better than rural facilities but fall short of Western standards for serious cases. Malaria is present throughout Tanzania including Zanzibar, and prophylaxis (atovaquone-proguanil, doxycycline, or mefloquine) is strongly recommended before arrival. Yellow fever vaccination is required for entry if arriving from a yellow fever endemic country, and a certificate may be checked at borders. Rabies risk from wildlife and stray animals is real — pre-exposure vaccination is advised for anyone spending extended time outdoors or handling animals.",
+      "tourist_tips": [
+        "Register with AMREF Flying Doctors before your safari — their annual membership covers emergency evacuation across East Africa and can save your life in a remote park.",
+        "Carry a full malaria test kit and first-aid supplies; malaria symptoms can appear weeks after leaving Tanzania so report travel history to your doctor at home.",
+        "Avoid mosquito bites at dawn and dusk with DEET-based repellent and long sleeves — this is the single most effective malaria prevention measure."
+      ],
+      "warning": "Do not rely on national park camps or remote lodges for any serious medical care — the nearest qualified hospital could be a multi-hour flight away, and without evacuation insurance the cost can exceed USD 50,000.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Tanzania",
+      "quick_answer": "LGBTQ relationships are illegal and actively enforced with penalties up to 30 years; plastic bags are banned, ivory is strictly prohibited, and cannabis is illegal.",
+      "detail": "Same-sex relationships are criminalised under Tanzanian law with sentences of up to 30 years — this applies to tourists, and several foreign nationals have been arrested. Zanzibar is semi-autonomous and applies even stricter interpretations of law with an Islamic framework. Importing plastic bags is banned just as in Kenya — dispose of any in your luggage before arrival. Anti-poaching laws are extremely strict: purchasing ivory, pangolin scales, or any wildlife products carries severe criminal penalties. Photography of government buildings, military installations, and airports is prohibited and can result in arrest and equipment confiscation.",
+      "tourist_tips": [
+        "Remove all plastic bags from your luggage before landing — customs officials actively check, and fines or confiscation apply on arrival.",
+        "LGBTQ travellers should exercise extreme discretion; any public display of affection between same-sex couples carries genuine legal risk.",
+        "Never purchase souvenirs made from wildlife products — even items sold openly in markets may be illegal to export and constitute a criminal offence under Tanzanian law."
+      ],
+      "warning": "LGBTQ relationships are a criminal offence in Tanzania with sentences up to 30 years imprisonment — this law is enforced against foreigners and is not merely theoretical.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Tanzania",
+      "quick_answer": "Dial 112 from a mobile for general emergencies, 115 for police or ambulance, and +255 22 213 4278 for AMREF Flying Doctors.",
+      "detail": "The universal mobile emergency number 112 works across all networks including with no SIM credit. Police and ambulance share the 115 number. Government ambulance services are extremely limited outside major cities, and response times in rural areas or national parks can be hours. AMREF Flying Doctors (+255 22 213 4278) is the most reliable emergency medical evacuation service in East Africa and is the primary resource for serious incidents on safari or Kilimanjaro. Most lodges and safari camps maintain direct radio contact with AMREF and can coordinate evacuation.",
+      "tourist_tips": [
+        "Save the AMREF Flying Doctors number (+255 22 213 4278) in your phone before you travel — lodge staff may not have it instantly available.",
+        "Your lodge or camp guide is your first point of contact in an emergency — they have established protocols and radio contact with evacuation services.",
+        "Carry your travel insurance emergency number and policy number on a physical card separate from your phone in case of device loss or damage."
+      ],
+      "warning": "Government ambulance services in Tanzania are unreliable and under-resourced — do not depend on them for life-threatening emergencies outside Dar es Salaam.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Tanzania",
+      "quick_answer": "Dress modestly throughout Tanzania, and significantly more conservatively in Zanzibar where shoulders and knees must be covered at all times away from the beach.",
+      "detail": "On the mainland, modest dress (covering shoulders and avoiding very short shorts or skirts) is respectful and expected in towns and villages. Zanzibar is a predominantly Muslim island where conservative dress is genuinely required in Stone Town and all non-beach areas — both men and women should cover shoulders and knees. Swimwear is appropriate only at beach and pool areas in Zanzibar. For safaris, neutral earth-tone clothing (khaki, olive, brown) is practical for wildlife photography and avoids attracting insects. Religious sites throughout Tanzania require full covering — shoulders, arms, and legs.",
+      "tourist_tips": [
+        "Pack a lightweight sarong or pareo — it doubles as a beach cover-up in Zanzibar and a modesty wrap for unexpected visits to religious sites.",
+        "In Stone Town Zanzibar, dress as you would for a conservative mosque visit at all times, not just inside religious buildings.",
+        "Avoid bright colours on safari — neutral earth tones help you blend into the environment and do not startle wildlife."
+      ],
+      "warning": "Tourists have been verbally confronted and harassed in Zanzibar's Stone Town for wearing revealing clothing — the local community takes modesty norms seriously.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Tanzania",
+      "quick_answer": "Alcohol is freely available on the mainland but heavily restricted in Zanzibar, where it is sold only at tourist hotels and resorts.",
+      "detail": "On mainland Tanzania, beer, wine, and spirits are sold at hotels, restaurants, bars, and supermarkets with no unusual restrictions; the minimum age is 18. Safari Lager and Kilimanjaro Beer are popular local brews. Zanzibar is a Muslim-majority island and alcohol is only legally available at tourist-licensed hotels and resorts — drinking in public, on the beach, or at local restaurants is inappropriate and can cause serious offence. During Ramadan in Zanzibar, restrictions tighten further and some establishments reduce or cease alcohol service. Purchasing alcohol from street vendors in Zanzibar is strongly discouraged.",
+      "tourist_tips": [
+        "Stick to your hotel or resort bar in Zanzibar — wandering into local areas with visible alcohol or drinking on the street will attract negative attention.",
+        "If travelling during Ramadan in Zanzibar, avoid eating, drinking, or smoking in public during daylight hours as a mark of respect.",
+        "Safari lodges and camps universally serve alcohol — most include sundowner drinks as part of the daily schedule."
+      ],
+      "warning": "Drinking alcohol in public in Zanzibar outside designated tourist areas is socially unacceptable and can result in confrontation with local residents.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Tanzania",
+      "quick_answer": "Bargaining is expected at markets, craft stalls, and with taxi and bajaj drivers, but fixed prices apply at lodges, safaris, and national parks.",
+      "detail": "Negotiating prices is a normal and expected part of commercial life at curio markets, Maasai craft stalls, street vendors, and when hiring taxis or bajaj. A good starting strategy is to offer around 40–50% of the initial asking price and negotiate upward, always remaining friendly and patient. Maasai beadwork and crafts are popular purchase items and vendors expect negotiation. Prices at safari operators, national park gates, hotels, and restaurants are generally fixed, and attempting to bargain there is not appropriate. Always agree a taxi fare before getting in the vehicle.",
+      "tourist_tips": [
+        "Keep bargaining light-hearted and smile throughout — walking away politely is a valid tactic and often brings the seller back with a better price.",
+        "Have small denomination TZS notes ready when paying for market purchases so you are not forced to accept poor change.",
+        "Research approximate fair prices before visiting major craft markets in Arusha or Stone Town so you have a realistic negotiating target."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Tanzania",
+      "quick_answer": "Wildlife photography in national parks is unrestricted, but photographing people — especially Maasai — requires permission and often a fee, and government buildings are strictly off-limits.",
+      "detail": "The Serengeti, Ngorongoro Crater, and other parks offer unlimited wildlife photography with no additional fees beyond the park entrance charge. Photographing Maasai people requires explicit permission and a payment of USD 1–5 per photo is the accepted norm — photograph without asking and expect a very negative reaction. Military installations, airports, government buildings, and police stations may not be photographed; violations have led to arrests and confiscation of equipment. In Zanzibar's Stone Town, be sensitive when photographing in front of mosques or photographing local women without permission.",
+      "tourist_tips": [
+        "Budget USD 10–20 for photography payments if visiting a Maasai village or cultural tour — it is the respectful and expected practice.",
+        "Use a long telephoto lens for wildlife photography in open vehicles — 400mm or more gives outstanding results at the distances typically encountered.",
+        "When in doubt about whether a location is restricted, ask your guide — they know which buildings are off-limits and can prevent an awkward situation."
+      ],
+      "warning": "Photographing military or government buildings in Tanzania can result in immediate arrest, confiscation of your camera and memory cards, and potential detention — do not take the risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Tanzania",
+      "quick_answer": "National parks and lodges operate seven days a week; mainland businesses may close on Sunday while Zanzibar observes Friday as the main holy day with significant closures.",
+      "detail": "On the mainland, Tanzania has a predominantly Christian population in many areas and some businesses observe Sunday closures, though cities like Dar es Salaam and Arusha have active commercial life seven days a week. In Zanzibar, Friday is the Islamic holy day — government offices, many local shops, and some services reduce hours or close on Friday afternoons. National parks, safari lodges, and tourist-facing businesses operate every day of the year regardless of religious observances. Public holidays include Zanzibar Revolution Day (January 12), Union Day (April 26), Eid celebrations, and Christmas.",
+      "tourist_tips": [
+        "Plan any bureaucratic tasks such as bank visits or government office visits on weekdays on the mainland, and avoid Friday afternoon in Zanzibar.",
+        "Supermarkets and tourist shops in Arusha and Dar es Salaam are generally open seven days — the Sunday closure pattern mainly affects smaller local businesses.",
+        "Check Eid dates before travelling to Zanzibar if you need specific services — the island can slow down significantly during major Islamic celebrations."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Tanzania",
+      "quick_answer": "Uber is not available in Tanzania; Bolt operates in Dar es Salaam, and everywhere else taxis require negotiating a firm price before you enter the vehicle.",
+      "detail": "Bolt (the Estonian ride-hailing app) has launched in Dar es Salaam and provides a more reliable metered alternative to street taxis in the city. Outside Dar, taxis are entirely unmetered and negotiation before boarding is mandatory — always agree the price clearly and in writing or very clearly verbally. Airport taxis at Kilimanjaro International and Julius Nyerere International operate a semi-official fixed-rate system from the rank, which is generally fair. Hotel and lodge taxis are the most reliable option, with staff who can recommend trusted drivers. Bajaj (tuk-tuks) are available in many towns and useful for short trips, again with price agreed upfront.",
+      "tourist_tips": [
+        "Ask your hotel or lodge to recommend a named driver for the duration of your stay in Arusha or Dar es Salaam — repeat business keeps fares fair and reliable.",
+        "Download the Bolt app and set it up before arriving in Dar es Salaam — it provides fare transparency and avoids negotiation entirely.",
+        "At airports, use the official taxi rank rather than accepting offers from touts who approach you inside the terminal — rank prices are generally fairer."
+      ],
+      "warning": "Unlicensed taxis in Dar es Salaam have been associated with robbery — always use hotel-recommended drivers or Bolt rather than accepting unsolicited rides.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Tanzania",
+      "quick_answer": "Never drink tap water anywhere in Tanzania — bottled or filtered water is essential, and purification tablets are necessary for remote trekking.",
+      "detail": "Tap water throughout Tanzania including in tourist hotels in Dar es Salaam and Arusha is not safe to drink without treatment. Most lodges and safari camps provide filtered or bottled water; confirm this on arrival and never assume tap water in your room is safe. On the Kilimanjaro ascent, streams and mountain water sources must be treated with purification tablets or a filter as they can be contaminated by other trekkers upstream. Cholera outbreaks have occurred historically in parts of Tanzania and remain a risk in areas with poor sanitation. Ice in drinks at non-tourist establishments may also be made from tap water.",
+      "tourist_tips": [
+        "Carry a Lifestraw or SteriPen water purifier for Kilimanjaro trekking — it reduces plastic waste and ensures you can treat water from mountain streams safely.",
+        "Ask your lodge or camp explicitly whether drinking water provided is bottled or filtered — most reputable establishments use filtered dispensers to reduce plastic.",
+        "Avoid salads, raw vegetables, and ice in drinks at local restaurants where hygiene standards are uncertain."
+      ],
+      "warning": "Tap water in Tanzania is not safe to drink under any circumstances — even brushing teeth with tap water can cause illness in travellers without local immunity.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Tanzania",
+      "quick_answer": "CRDB and NMB ATMs in Arusha and Dar es Salaam reliably accept foreign cards, but cash — especially USD — is essential as ATMs are absent in national parks.",
+      "detail": "CRDB Bank, NMB Bank, and Standard Chartered Tanzania are the most reliable ATM networks for foreign Visa and Mastercard withdrawals in the major cities. National parks including the Serengeti and Ngorongoro have no ATMs whatsoever — all park fees, tips, and additional purchases must be covered with cash you carry in. USD is widely accepted alongside TZS for tipping and large transactions; crisp, post-2009 USD notes in good condition are preferred and pre-2009 notes are often refused. In Zanzibar, ATMs are available in Stone Town but can run out of cash during peak season. Always carry a cash reserve before heading to remote areas.",
+      "tourist_tips": [
+        "Withdraw a generous TZS and USD cash supply in Arusha before entering any northern circuit national park — assume you will have no ATM access for the duration of your safari.",
+        "Inform your bank of your travel dates before departure to prevent cards being blocked on first use at a Tanzanian ATM.",
+        "USD notes must be post-2009 issue and in perfect undamaged condition — take new bills from your bank at home and keep them flat and clean."
+      ],
+      "warning": "Many Tanzanian ATMs have low withdrawal limits per transaction (around TZS 400,000–500,000, roughly USD 150–200) — you may need multiple transactions at different machines to get sufficient cash before a safari.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Tanzania",
+      "quick_answer": "Vodacom Tanzania offers the best coverage including in most national parks; buy a SIM at the airport with your passport and expect patchy signal on Kilimanjaro upper slopes.",
+      "detail": "Vodacom Tanzania is the market leader for data coverage and is the most reliable network for tourists visiting national parks, with reasonable signal in the Serengeti and Ngorongoro Crater. Airtel Tanzania and Tigo are alternatives with competitive data pricing but weaker rural coverage. SIM cards are available at Julius Nyerere International (Dar) and Kilimanjaro International airports, requiring your passport for registration. Airalo and other eSIM providers offer Tanzania data plans that work on arrival without needing a physical SIM. Coverage on Kilimanjaro deteriorates significantly above 3,000m and is unreliable above Horombo Hut.",
+      "tourist_tips": [
+        "Buy your Vodacom SIM at the airport arrivals hall immediately after clearing customs — the process takes five minutes and data packages are very affordable.",
+        "Load a generous data bundle upfront (5GB or more) as topping up in national parks is impossible and lodge Wi-Fi is often slow or expensive.",
+        "Zanzibar uses the same Tanzanian networks — your mainland SIM works seamlessly on the island without any changes."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Tanzania",
+      "quick_answer": "Tanzania uses Type G (British 3-pin) sockets at 230V/50Hz, and power cuts are common — a power bank is essential for safaris.",
+      "detail": "The standard socket type is the British Type G (three large rectangular pins), the same as Kenya and the UK. Some older buildings also have Type D (large round 3-pin Indian style) outlets. The voltage is 230V/50Hz, compatible with all modern European and Australian appliances without an adapter; US/Canadian devices (110V) need a voltage converter unless they are dual-voltage. Power outages (load shedding) are frequent outside the major cities, and remote lodges and camps rely on solar panels and diesel generators — charge all devices during generator hours which are typically limited to evenings. A high-capacity power bank is essential for keeping camera batteries and phones charged on multi-day safaris.",
+      "tourist_tips": [
+        "Bring a Type G (UK) plug adapter if your devices use EU, US, or any other plug type — these are the most common sockets throughout Tanzania.",
+        "Charge all camera batteries, phones, and power banks during the evening generator hours at your lodge — morning drives depart before sunrise with no charging opportunity.",
+        "A 20,000mAh or larger power bank is a worthwhile investment for multi-day Kilimanjaro treks or remote fly-camps with no electricity."
+      ],
+      "warning": "Do not rely on USB charging in safari vehicles — voltage from vehicle sockets can be inconsistent and may damage sensitive electronics; use a power bank instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Tanzania",
+      "quick_answer": "The most common scam is dangerously cheap or fraudulent safari packages sold by Arusha touts — always book through verified, licensed operators.",
+      "detail": "Arusha is the main safari staging point and attracts aggressive operators offering suspiciously cheap Serengeti or Kilimanjaro packages — budget safaris with unqualified guides, unsafe vehicles, or non-existent permits have left tourists stranded or in danger. Fake Kilimanjaro permit sellers approach travellers in Moshi — all permits must be booked through registered operators only. At markets and souvenir shops, significant overpricing for tourists is standard practice; counter it with confident negotiation. Taxi overcharging at transport hubs is common — always agree the fare before boarding. Charity or orphanage scams targeting well-meaning tourists also operate particularly in Arusha.",
+      "tourist_tips": [
+        "Book safaris and Kilimanjaro climbs through operators listed on the Tanzania Tourist Board register or verified by reputable review platforms — never with touts who approach you on the street.",
+        "If a safari price seems too good to be true it genuinely is — the park fees alone for the Serengeti cost USD 60 per person per day, so any package below this arithmetic cannot be legitimate.",
+        "Politely but firmly decline approaches from 'friendly' strangers in Arusha who offer to show you around — this is a common setup for being taken to overpriced shops or presented with fake charity appeals."
+      ],
+      "warning": "Substandard budget safaris operating dangerous vehicles with unqualified guides are a genuine safety risk in Tanzania — poor-quality operators have left tourists without food, water, or rescue in remote parks.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Tanzania",
+      "quick_answer": "Tanzania is generally safe for tourists in safari areas and Zanzibar, but petty theft, bag snatching, and beach robberies occur — avoid deserted beaches and stay alert in Dar es Salaam.",
+      "detail": "Tourist areas including safari lodges, Zanzibar's Stone Town, and the northern circuit parks are considered relatively safe with low rates of violent crime against visitors. Dar es Salaam has a higher rate of petty theft and opportunistic bag snatching, particularly in crowded markets and around the ferry terminal. Deserted beaches anywhere in Tanzania are associated with robberies — always use populated beach areas and avoid walking alone after dark on the coast. The border region near Mozambique has elevated risk including kidnapping concerns — check your government's travel advisory before visiting the far south. Safaris and lodge environments have very strong safety records.",
+      "tourist_tips": [
+        "Use your lodge safe for passports, extra cash, and electronics rather than leaving valuables in your room or vehicle during game drives.",
+        "On Zanzibar beaches, leave valuables at your hotel and take only what you need for the day — beach boys targeting tourists with valuables are active.",
+        "Check your government's travel advisory (UK FCDO, US State Department) for the latest specific regional warnings before finalising your itinerary."
+      ],
+      "warning": "The border area near Mozambique and parts of the south coast carry elevated security risks including kidnapping — these areas require checking current government travel advisories before visiting.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Tanzania",
+      "quick_answer": "Greetings are paramount in Tanzanian culture — always greet before any interaction, use both hands or the right hand when giving or receiving, and respond to 'Karibu' with 'Asante'.",
+      "detail": "Tanzanians place great value on courteous, unhurried greetings; launching straight into a request or transaction without first exchanging pleasantries is considered rude. 'Karibu' (welcome) will be said to you constantly and the correct response is 'Asante' (thank you) or 'Asante sana' (thank you very much). Handing over money, food, or gifts should be done with the right hand or both hands — using the left hand alone is considered disrespectful across most of Tanzania. With Maasai communities, ask permission before taking photographs and engage respectfully — their culture has significant dignity and they are not a tourist attraction. In Zanzibar, Islamic customs apply: avoid public displays of affection, dress conservatively, and be respectful during prayer times.",
+      "tourist_tips": [
+        "Learn the basic Swahili greeting sequence — even a basic 'Habari?' (How are you?) answered with 'Nzuri' (Fine) from a foreigner will earn an enormous amount of goodwill.",
+        "Never rush a Tanzanian interaction — patience and warmth are the social currency, and hurrying someone is perceived as disrespectful regardless of how pressed for time you feel.",
+        "When visiting a Maasai boma or village, follow your guide's lead on protocol and be prepared to participate respectfully in any welcome ceremony offered."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Tanzania",
+      "quick_answer": "Swahili is the national language spoken by everyone; English is widely used in tourism and business, making Tanzania very accessible to English-speaking visitors.",
+      "detail": "Tanzania is the cultural home of Swahili (Kiswahili), which is spoken as a first or second language by virtually the entire population and serves as the true lingua franca of East Africa. English is the co-official language and is used throughout the tourism industry, in hotels, and by educated Tanzanians in cities; safari guides universally speak English to a high standard. In rural areas and local markets, Swahili is essential and English may not be understood. Key phrases: 'Jambo' or 'Mambo' (hello, informal), 'Habari?' (how are you?), 'Nzuri' (fine/good — the standard reply), 'Asante' (thank you), 'Karibu' (welcome/you're welcome), 'Sawa sawa' (OK/no problem), 'Maji' (water), 'Bei gani?' (how much?).",
+      "tourist_tips": [
+        "Making any effort to use Swahili greetings — even just 'Mambo!' and 'Asante' — creates instant warmth and connection with local people throughout Tanzania.",
+        "Download a Swahili phrasebook or offline dictionary app before arrival — even basic vocabulary for market transactions and pleasantries is highly valued.",
+        "On Zanzibar, Arabic-influenced Swahili dialects differ slightly from mainland Swahili, but standard phrases are universally understood across the island."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Tanzania",
+      "quick_answer": "Zanzibar's north and east coast beaches — Nungwi, Kendwa, and Paje — are world-class, with warm Indian Ocean waters and excellent diving and kite surfing year-round.",
+      "detail": "Zanzibar offers some of the finest beaches in Africa, with white sand and turquoise water at Nungwi and Kendwa in the north (minimal tidal variation, good for swimming at all times) and Paje on the east coast (world-class kite surfing, strong trade winds June–September). Tidal variation on the east coast is significant — at low tide the sea can retreat hundreds of metres, making swimming impossible; check tidal tables. Pemba Island off the north coast offers exceptional diving with near-pristine coral walls. Mainland coast beaches at Bagamoyo and Pangani are less developed and quieter. Jellyfish are seasonal and can affect some beaches; ask locally before swimming.",
+      "tourist_tips": [
+        "Stay at Nungwi or Kendwa in northern Zanzibar for the most reliable swimming — the lagoon holds water even at low tide unlike the east coast beaches.",
+        "Book kite surfing lessons at Paje in advance if visiting June–September — it is considered one of the top five kite surfing destinations in the world and schools fill up.",
+        "Check tidal times for any east coast beach before planning your swim — low tide turns many beaches into mudflats and makes swimming impossible for several hours."
+      ],
+      "warning": "Stone Town beaches on the west coast of Zanzibar are exposed to boat traffic and poor water quality — take a taxi or dala-dala to the north or east coast beaches rather than swimming near the city.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Tanzania",
+      "quick_answer": "Drive on the left; a 4WD is essential in national parks, night driving outside cities is risky, and self-driving in the Serengeti is technically possible but guided is strongly recommended.",
+      "detail": "Tanzania drives on the left side of the road, as in the UK and Kenya. Road quality is generally poor outside major highways — potholes, unpaved sections, and unmarked speed bumps are hazards throughout the country. A 4WD vehicle is mandatory for national park driving where tracks are deeply rutted during the wet season. Night driving on rural roads is strongly discouraged due to livestock, unmarked vehicles, pedestrians, and wildlife near park buffer zones. Self-drive safaris in the Serengeti are technically permitted but navigation without marked roads, combined with the risk of breakdown in remote areas, makes a guided vehicle far safer. An International Driving Permit is required alongside your national licence.",
+      "tourist_tips": [
+        "If renting a vehicle for independent travel, hire a local driver for the day — the cost is modest and eliminates the risks of navigation, breakdown management, and road condition uncertainty.",
+        "Speed bumps (often unmarked) appear suddenly even on main roads in Tanzania — drive slowly through any settlement regardless of the road quality.",
+        "Fuel up at every opportunity outside major towns — petrol stations are scarce on routes between cities and non-existent inside national parks."
+      ],
+      "warning": "Driving at night outside major Tanzanian cities is genuinely dangerous due to unlighted livestock on roads, broken-down vehicles without lights, and wildlife near park boundaries — avoid it entirely where possible.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Tanzania",
+      "quick_answer": "Tanzania's food highlights include nyama choma (grilled meat), ugali, Zanzibar's spiced seafood cuisine, and the legendary Forodhani Gardens night food market in Stone Town.",
+      "detail": "Ugali (stiff maize porridge) is the national staple, served with stews, beans, or nyama choma (grilled goat or beef). Chipsi mayai — a chips-and-egg omelette available from street stalls — is the cheapest filling meal available almost anywhere. Zanzibar's cuisine is heavily influenced by Arabic and Indian spice trading history and features outstanding seafood biryani, pilau rice, and dishes rich in cardamom, cloves, and cinnamon. Forodhani Gardens in Stone Town Zanzibar comes alive at night with dozens of grilling vendors serving fresh seafood, Zanzibar pizza (stuffed flatbread), and sugarcane juice at very low prices. Safari lodge food is universally of high quality, with buffet meals and packed lunches included in most packages.",
+      "tourist_tips": [
+        "Visit Forodhani Gardens in Stone Town after dark for the best value food experience in Tanzania — grilled lobster, octopus, and fresh-caught fish cost a fraction of restaurant prices.",
+        "Order chipsi mayai (chips and egg) at any local restaurant for a hot, filling meal under USD 2 — it is the backpacker staple of Tanzania.",
+        "Tell your safari operator about dietary requirements before departure — lodge kitchens can accommodate vegetarian and most other dietary needs with advance notice."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Tanzania",
+      "quick_answer": "Remove shoes before entering mosques, cover fully before entering any religious site, and do not enter Zanzibar mosques during prayer times.",
+      "detail": "Tanzania is approximately one-third Muslim, one-third Christian, and one-third traditional/indigenous — religious diversity is generally harmonious. Mosques on Zanzibar are particularly important sites; non-Muslims are generally not admitted to the prayer hall, and even viewing from the entrance requires modest dress (full covering of arms, legs, and head for women) and removal of shoes. The historic Old Fort in Stone Town and the House of Wonders are cultural rather than active religious sites and are open to all. Christian churches on the mainland welcome visitors but expect modest dress and quiet respect. All religious sites require shoulders and knees covered as a minimum, and women should carry a headscarf.",
+      "tourist_tips": [
+        "Carry a lightweight headscarf if you are female and visiting Zanzibar — it is essential for mosques and respectful in the broader Stone Town area.",
+        "Visit Zanzibar's mosques and Stone Town religious quarter outside Friday prayer time for the most open access and the opportunity to speak with local worshippers.",
+        "The KCMC Lutheran complex in Kilimanjaro region and old mission churches in Bagamoyo are historically significant and worth respectful visits during non-service hours."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Tanzania",
+      "quick_answer": "The best time for safaris is June–October (dry season, Great Migration peak); January–February is excellent for Kilimanjaro and Zanzibar beaches with hot, sunny conditions.",
+      "detail": "Tanzania has two rainy seasons: the long rains from March to May (heavy, some parks inaccessible) and the short rains from November to December (lighter and less disruptive). The dry season from June to October is peak safari season — the Great Migration river crossings in the Serengeti occur July through October, and wildlife concentrates at waterholes making game viewing exceptional. Kilimanjaro is best climbed January–March and June–October, avoiding both rainy seasons. Zanzibar has its driest, windiest conditions June–September — ideal for kite surfing at Paje but cooler than ideal for beach holidays. January and February offer warm, calm conditions perfect for beach time and Zanzibar snorkelling.",
+      "tourist_tips": [
+        "Book peak season safaris (July–October) at least six months in advance — the best camps in the Serengeti Migration zone sell out quickly and prices are highest during this window.",
+        "The shoulder season of January–February offers lower prices, fewer tourists, and excellent wildlife viewing as short-grass plains from the short rains are still lush.",
+        "If Kilimanjaro is your primary goal, January–March gives the clearest summit views and most stable conditions — avoid the April–May long rains entirely."
+      ],
+      "warning": "Attempting Kilimanjaro during the March–May long rains significantly increases the risk of summit failure due to snow, ice, reduced visibility, and dangerously slippery trails.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Tanzania",
+      "quick_answer": "Tanzania's national parks have high fixed fees (Serengeti USD 60/person/day), but costs can be significantly reduced by camping, joining group safaris, booking shoulder season, and eating local food.",
+      "detail": "National park entrance fees are unavoidable and fixed — Serengeti costs USD 60 per person per day and Ngorongoro USD 60–70; these must be factored into any budget. Camping inside the parks at public campsites costs far less than private lodges and tented camps, sometimes saving USD 200–400 per night. Group safaris with 6–8 people in a shared vehicle dramatically reduce the per-person cost versus private bookings. The fast Zanzibar ferry (premium catamaran) costs more than the standard ferry — the slower public service saves around USD 20–30. In Zanzibar, guesthouses in Stone Town cost a fraction of beach resorts; the beaches are a 45-minute taxi ride away.",
+      "tourist_tips": [
+        "Book your safari as part of a group departure through a reputable operator — the difference between a private and group safari can be USD 500–1,000 per person for the same itinerary.",
+        "Stay in Stone Town Zanzibar for affordable accommodation and day-trip to the north or east coast beaches — beach resort prices are three to five times higher for equivalent comfort.",
+        "Travel in January–February or November for lower safari rates, fewer tourists, and green landscape photography that differs beautifully from the classic dry-season golden savannah look."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

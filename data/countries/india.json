@@ -1,0 +1,360 @@
+{
+  "country": "India",
+  "slug": "india",
+  "emoji": "🇮🇳",
+  "region": "Asia",
+  "currency": "INR",
+  "language": "Hindi/English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in India",
+      "quick_answer": "Tipping is expected but modest — around 10% at restaurants and 50–100 INR for guides and drivers, but not required at street food stalls.",
+      "detail": "Tipping is appreciated and fairly standard in India, especially in tourist-facing services. Restaurant bills at mid-range and upscale places often do not include service charge, so leaving 10% is customary. For private tour guides and hired drivers, 100–200 INR per day is a fair tip. Hotel porters and housekeeping staff appreciate 50–100 INR. At dhabas and street food stalls, tipping is not expected and can feel out of place.",
+      "tourist_tips": [
+        "Keep a supply of small INR notes (10, 20, 50) specifically for tipping porters, guides, and auto-rickshaw drivers",
+        "Check your restaurant bill first — some upscale establishments already add a 5–10% service charge",
+        "At Ayurvedic spas and massage parlors, 100–200 INR tip is standard and very appreciated"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in India",
+      "quick_answer": "Use Ola or Uber in cities for safe, metered rides, and book train tickets well in advance via IRCTC — Tatkal quota helps for last-minute travel.",
+      "detail": "India has an enormous and varied public transport network. Ola and Uber operate in all major cities and are the safest, most transparent option for road travel. Delhi, Mumbai, Bangalore, Kolkata, Chennai, and Hyderabad all have metro systems that are clean, air-conditioned, and inexpensive. The Indian Railways network is one of the largest in the world — book through the IRCTC website or app, and use Tatkal quota if booking fewer than two days before travel. Auto-rickshaws are ubiquitous but meters are frequently ignored; always agree on a fare before boarding.",
+      "tourist_tips": [
+        "Download the Ola or Uber app before arrival and link an international card or use cash payment options",
+        "For trains, book on the IRCTC app (requires registration) or use third-party sites like MakeMyTrip or Cleartrip",
+        "Always negotiate the auto-rickshaw fare before getting in, or firmly insist on the meter in cities where it is mandatory"
+      ],
+      "warning": "Unofficial taxis at airports and stations frequently overcharge tourists. Use only prepaid taxi booths inside the terminal or app-based rides.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in India",
+      "quick_answer": "Travel insurance is critical — use Apollo, Fortis, or Medanta private hospitals for reliable care, and take malaria and dengue precautions before and during your trip.",
+      "detail": "India's private hospital sector, led by chains like Apollo, Fortis, and Medanta, offers genuinely world-class care at a fraction of Western prices. Public hospitals are often overcrowded and under-resourced, so tourists should seek private facilities. Pharmacies (chemists) are extremely widespread and stock many medications over the counter that require prescriptions elsewhere. Malaria and dengue are present in many parts of India, particularly during and after the monsoon — consult a travel medicine clinic before departure. Travel insurance with medical evacuation cover is essential.",
+      "tourist_tips": [
+        "Start antimalarials before arriving if visiting high-risk areas and use DEET-based mosquito repellent throughout",
+        "Carry a basic medical kit including oral rehydration salts, imodium, and broad-spectrum antibiotics prescribed by your doctor",
+        "Apollo Hospitals has a dedicated international patient service with English-speaking coordinators — save the number for your destination city"
+      ],
+      "warning": "Rabies is present in India. Any animal bite — dog, monkey, or bat — requires immediate medical attention and a full post-exposure prophylaxis course.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in India",
+      "quick_answer": "Drug laws are extremely strict with mandatory prison sentences even for small quantities — never carry any narcotics, and note that beef is restricted or banned in several states.",
+      "detail": "India's Narcotic Drugs and Psychotropic Substances Act imposes mandatory minimum sentences of 10 years for possession even of small quantities of cannabis or other drugs — tourist status provides no leniency. Beef products are restricted or banned in states including Uttar Pradesh, Rajasthan, Gujarat, Maharashtra, and several others; check local rules. LGBTQ+ relationships were decriminalized nationally by the Supreme Court in 2018, but public displays of affection remain inadvisable in most regions due to conservative social attitudes. Photography near military installations, government buildings, and sensitive border areas is prohibited.",
+      "tourist_tips": [
+        "Never purchase or carry drugs of any kind — even in states like Goa where use appears open, police enforcement can be sudden and severe",
+        "Check the specific beef/food laws for each state you visit if dietary habits are relevant to your travel",
+        "Carry a photocopy of your passport at all times — police can ask for ID, and having a copy avoids handing over the original"
+      ],
+      "warning": "Drug possession in India can result in a minimum 10-year prison sentence with no possibility of bail for the first year. This applies equally to tourists.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "sim"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in India",
+      "quick_answer": "Dial 112 for all emergencies — this single universal number (active since 2018) connects to police, ambulance, and fire services nationwide.",
+      "detail": "India unified its emergency response under the single number 112 in 2018, which operates 24/7 across all states and union territories. Legacy numbers still function in most areas: 100 for police, 102 for ambulance, and 101 for fire. The 112 app also allows text and data-based emergency reporting, useful in areas with weak voice connectivity. English-speaking operators are generally available at 112. Tourist police helplines exist in major tourist destinations like Delhi (1363) and Rajasthan.",
+      "tourist_tips": [
+        "Save 112 in your phone immediately upon arrival — it works from any network including when roaming with no local SIM",
+        "The 112 India mobile app allows location sharing with emergency services, which is critical in unfamiliar areas",
+        "For non-urgent tourist assistance and complaints, contact India Tourism's helpline at 1800-11-1363 (toll-free)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in India",
+      "quick_answer": "Dress conservatively — cover shoulders, knees, and midriff, especially women, and always remove shoes before entering any religious site.",
+      "detail": "India is a socially conservative country outside of certain urban pockets and beach resorts. Women should avoid revealing clothing in most public settings and are strongly advised to carry a light scarf or dupatta that can cover the head and shoulders when required. Temples, mosques, gurdwaras, and churches all require shoes to be removed; most also require modest covering of arms and legs regardless of gender. Some temples provide wraps at the entrance. In beach destinations like Goa, Western swimwear is acceptable at beaches and resorts but should not be worn away from the waterfront.",
+      "tourist_tips": [
+        "Women should always carry a large lightweight scarf — it serves as temple cover, sun protection, and adds a layer of safety in conservative areas",
+        "Wear slip-on sandals or shoes when sightseeing at temple complexes, as you will remove them constantly",
+        "At Sikh gurdwaras, all visitors must cover their heads — scarves and bandanas are provided free at the entrance"
+      ],
+      "warning": "Women wearing revealing clothing in non-beach public areas may attract unwanted attention, harassment, or difficulty accessing religious sites. Dressing modestly significantly reduces these incidents.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in India",
+      "quick_answer": "Alcohol rules vary sharply by state — Gujarat, Bihar, and Nagaland are completely dry, and many states enforce dry days on elections and national holidays.",
+      "detail": "India has no single national alcohol policy; each state sets its own rules. Gujarat, Bihar, and Nagaland are fully dry states where possession and consumption can lead to arrest. The legal drinking age ranges from 18 to 25 depending on the state — Maharashtra is 25, Goa is 18. Most states observe mandatory dry days on election days, national holidays like Gandhi Jayanti (October 2), and sometimes religious festivals. In states where alcohol is permitted, beer, wine, and spirits are sold at licensed wine shops and bars; quality varies significantly by brand and establishment.",
+      "tourist_tips": [
+        "Research the specific alcohol laws of each state on your itinerary — rules change, and penalties in dry states are serious",
+        "In Goa, alcohol is cheap, widely available, and the drinking culture is very relaxed compared to the rest of India",
+        "Stick to sealed, name-brand bottles — illicit hooch (locally brewed unlicensed alcohol) has caused mass poisoning events in India"
+      ],
+      "warning": "Never consume locally brewed illicit alcohol. Hooch tragedies involving dozens of deaths occur regularly in India due to methanol contamination in unlicensed spirits.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in India",
+      "quick_answer": "Bargaining is expected and normal at markets, craft stalls, and with auto-rickshaws — start at roughly half the asking price and negotiate from there.",
+      "detail": "Haggling is a fundamental and expected part of commerce in India for tourists in most informal settings. Markets, bazaars, souvenir shops, craft stalls, and auto-rickshaw fares are all negotiable. A common starting strategy is to offer 40–50% of the initial asking price and meet somewhere in the middle. Fixed prices apply only in established retail chains, malls, government-run Cottage Industries emporia, and supermarkets. Attempting to bargain at those locations is unnecessary and will seem odd. For auto-rickshaws, always either insist on the meter or agree a firm price before boarding.",
+      "tourist_tips": [
+        "Be willing to walk away — this is often the single most effective bargaining tactic, and sellers will frequently call you back with a better price",
+        "Keep the interaction friendly and good-humored — bargaining is a social exchange, not a confrontation",
+        "Government-run emporiums like Cottage Industries and state handicraft stores sell authentic crafts at fixed, fair prices — useful as a price reference before buying at markets"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in India",
+      "quick_answer": "Photography at ASI-protected monuments often requires a paid camera ticket, is prohibited near military or government buildings, and is restricted inside most temple inner sanctums.",
+      "detail": "The Archaeological Survey of India (ASI) manages India's major historic monuments including the Taj Mahal, Red Fort, and Qutb Minar; these charge a separate camera fee for professional or video equipment and some sites prohibit tripods. Photography inside the inner sanctums of Hindu temples is almost universally prohibited and signs are usually posted. Military installations, defense zones, border areas, and many government buildings are strict no-photography zones — violations can lead to arrest. Street photography is generally accepted but always ask before photographing individuals, especially in rural areas or religious contexts.",
+      "tourist_tips": [
+        "At the Taj Mahal, DSLR cameras are permitted but tripods and video cameras have separate fees — check the ASI website for current charges",
+        "Always ask permission before photographing local people, particularly women, children, and religious figures — a smile and a gesture go a long way",
+        "Drone flights near monuments, airports, and in many urban areas require prior DGCA permits and are heavily restricted — check regulations before bringing a drone"
+      ],
+      "warning": "Photographing military installations, checkpoints, or defense facilities — even accidentally — can result in detention and confiscation of equipment. When in doubt, do not shoot.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in India",
+      "quick_answer": "Most businesses open 7 days a week, but government offices close on Sundays, banks close on national holidays, and India's many festivals can cause unexpected local closures.",
+      "detail": "India's commercial sector largely operates daily, including Sundays — shops, restaurants, and markets are generally open seven days a week. Government offices, courts, and public administration offices are closed on Sundays and on the many national and state public holidays. Banks observe national holidays strictly and some observe regional holidays; ATMs remain operational. Many bazaars have a fixed weekly closing day (often Monday or Tuesday depending on the city and trader community). India has an exceptional number of festivals — Diwali, Holi, Eid, and regional celebrations — during which local businesses may close or operate reduced hours.",
+      "tourist_tips": [
+        "Check Google Maps for specific business hours, as weekly closing days vary by establishment and city neighborhood",
+        "Plan banking and government-related tasks (visa extensions, police registration) for weekday mornings",
+        "Traveling during major festivals like Diwali or Holi is a wonderful experience, but book transport and accommodation months in advance as demand is extreme"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in India",
+      "quick_answer": "Use Ola or Uber for safe, app-metered rides in all major cities, and always use prepaid taxi booths inside airports rather than touts outside.",
+      "detail": "Ola and Uber are reliable and widely available across India's major cities and many smaller ones, offering transparent app-based pricing and GPS tracking. At airports, use only official prepaid taxi counters located inside the terminal — touts outside will substantially overcharge. Auto-rickshaws are the dominant short-distance transport option in most cities; in cities like Delhi and Bangalore meters are legally required but frequently disabled, so negotiate a firm fare upfront or use Ola Auto. In Mumbai, kaali-peeli (black and yellow) taxis and autos typically run on meters and are generally honest.",
+      "tourist_tips": [
+        "Screenshot your Ola or Uber booking and share the trip details — this adds accountability and helps in case of disputes",
+        "Rapido (bike taxi) is useful for solo travelers in traffic-heavy cities and is very inexpensive",
+        "If an auto-rickshaw driver claims the meter is broken, either firmly insist on it being used or agree a specific fare in writing before boarding"
+      ],
+      "warning": "Unofficial taxis and 'tourist cabs' at railway stations are common scams. Always book through apps or official counters, and never accept unsolicited ride offers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in India",
+      "quick_answer": "Never drink tap water in India — always use sealed bottled water, and be cautious of ice and raw foods washed in local water.",
+      "detail": "Tap water in India is not safe to drink for tourists and can cause severe gastrointestinal illness due to bacterial, viral, and parasitic contamination. Always buy sealed bottled water (check the seal is intact) or use a high-quality filter or purification tablets. Ice in drinks at budget restaurants and street stalls may be made from unfiltered water. Salads and raw vegetables washed in local water pose a risk; fruit that you peel yourself (bananas, oranges, mangoes) is generally safe. Brushing teeth with tap water is generally low-risk but using bottled water is safer during the first week.",
+      "tourist_tips": [
+        "Carry a portable water bottle with a built-in filter (e.g. LifeStraw) as a backup for areas where bottled water is hard to find",
+        "If you develop diarrhea, immediately start oral rehydration salts — dehydration is dangerous in India's heat",
+        "Stick to hot cooked foods, freshly prepared dishes at busy stalls, and fruit you peel yourself to minimize stomach issues"
+      ],
+      "warning": "Drinking unfiltered tap water or consuming ice from unknown sources is the single most common cause of illness for tourists in India — do not take the risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in India",
+      "quick_answer": "Use ATMs from major banks like SBI, HDFC, ICICI, or AXIS — they reliably accept foreign cards, and always carry cash as many small vendors and rural areas are cash-only.",
+      "detail": "ATMs are widespread in Indian cities and most towns, but connectivity can be unreliable, particularly at non-bank ATMs and in rural areas. SBI, HDFC, ICICI, and AXIS Bank ATMs are the most reliable for international Visa and Mastercard withdrawals. Daily withdrawal limits vary by ATM (typically 10,000–20,000 INR per transaction). India is still substantially cash-dependent despite the growth of UPI digital payments — markets, auto-rickshaws, rural accommodation, and small restaurants almost always require cash. Inform your home bank before travel to prevent cards being blocked for foreign transactions.",
+      "tourist_tips": [
+        "Withdraw larger amounts per transaction to minimize ATM fees — withdrawing 10,000–15,000 INR at once is more efficient than multiple small withdrawals",
+        "Use a Wise or Revolut card to minimize foreign transaction fees and get close-to-mid-market exchange rates",
+        "Keep a mix of denominations — 500 INR notes are widely accepted but 2,000 INR notes can be difficult to break at small vendors"
+      ],
+      "warning": "Avoid standalone ATMs in isolated locations or those not attached to a bank branch — skimming devices are occasionally found on these machines.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in India",
+      "quick_answer": "Get a Jio tourist SIM at the airport on arrival — it offers the best data value and nationwide coverage, and requires your passport for registration.",
+      "detail": "India's three main carriers are Jio, Airtel, and Vi (Vodafone-Idea). For tourists, Jio consistently offers the best combination of 4G/5G coverage, data value, and national reach. SIM cards for foreign nationals can be purchased at airport booths and authorized dealer stores; you will need a copy of your passport and a passport photo. Registration activates within a few hours to one day. eSIMs are increasingly available through Airtel and Jio, which can be activated before departure. Wi-Fi is available at hotels, cafes, and airports but can be slow; a local SIM is strongly recommended for navigation and app-based services.",
+      "tourist_tips": [
+        "Buy your SIM at the airport arrivals hall immediately — it saves time and the booths are official, reducing risk of fraud",
+        "Jio's tourist prepaid packs offer 1–2 GB/day for 28–84 days at very low cost — check their website for current plans before arriving",
+        "Keep your SIM registration paperwork in case of any network issues requiring verification at a store"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in India",
+      "quick_answer": "India uses Type C, D, and M plugs at 230V/50Hz — carry a Type D adapter (the large 3-pin British-style round pin) as it is the most common standard.",
+      "detail": "India primarily uses two socket types: the large round 3-pin Type D (the legacy British standard with large round pins), and the smaller Type C (two round pins, Europlug-compatible). Type M (large 3-pin with all round pins) also appears. The voltage is 230V at 50Hz, which is compatible with most modern electronics. Universal travel adapters usually cover these types but specifically check for Type D compatibility. Power outages and voltage fluctuations are common, especially in rural areas and smaller towns; use a surge protector for laptops and sensitive electronics.",
+      "tourist_tips": [
+        "Buy a specific Type D adapter before leaving home — they are harder to find of good quality in tourist markets in India",
+        "Many mid-range and upscale hotels provide universal sockets in rooms — check before unpacking all your adapters",
+        "Consider a small universal power strip with surge protection if you are traveling with multiple devices, particularly in areas with unstable power supply"
+      ],
+      "warning": "Voltage fluctuations are common in rural India. Plugging expensive electronics directly into wall sockets without a surge protector risks damage.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Scams & Haggling in India",
+      "quick_answer": "India has well-documented tourist scams — the most common are fake ticket offices near monuments, gem investment traps in Jaipur and Agra, and the 'temple is closed today' redirect.",
+      "detail": "India's most prolific tourist scams follow recognizable patterns. Fake ticket offices for the Taj Mahal, Red Fort, and other monuments operate near entrances and sell counterfeit or inflated-price tickets — always buy directly from the official ASI booth inside the monument entrance. The gem investment scam (most common in Jaipur and Agra) involves friendly strangers convincing tourists to buy gems to resell at profit at home — the gems are worthless. The 'closed today' scam involves an auto-rickshaw driver or local insisting your hotel or attraction is closed and redirecting you to commission-paying shops. Fake charity monks and 'accidentally' dropped garlands that then demand payment also operate in temple areas.",
+      "tourist_tips": [
+        "If anyone approaches you unsolicited near a major monument offering tickets, tours, or directions, decline politely and proceed to official counters",
+        "Never agree to a 'short shopping detour' from an auto or taxi driver — they earn significant commission and the prices will be massively inflated",
+        "Use Google Maps to navigate independently so you can verify whether your claimed destination is actually 'closed' before accepting any alternative"
+      ],
+      "warning": "The gem investment scam has cost tourists thousands of dollars. No legitimate business opportunity involves buying gems from a stranger you met today in Jaipur.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in India",
+      "quick_answer": "India is generally safe for tourists at major sites but women should exercise significant caution, especially at night, and petty theft is common in crowded areas.",
+      "detail": "India's popular tourist sites are well-policed and serious violent crime against tourists is relatively uncommon. However, petty theft — pickpocketing on public transport, bag snatching, and overcharging — is frequent. Women travelers face particular challenges including unwanted attention, harassment, and in serious cases assault; traveling in groups, dressing conservatively, and avoiding isolated areas at night substantially reduces risk. Solo female travelers should research specific destinations carefully. Delhi has seen high-profile sexual assault incidents and requires extra vigilance. Northern tourist circuit cities generally feel safer for tourists than some urban peripheries.",
+      "tourist_tips": [
+        "Solo female travelers should use app-based rides exclusively at night and share their trip details with a trusted contact",
+        "Use a money belt or hidden pouch for passports and bulk cash, particularly on trains and in crowded markets",
+        "Trust your instincts — if a situation or person feels wrong, leave promptly without worrying about being polite"
+      ],
+      "warning": "Women traveling alone at night in India face elevated risks. Avoid unlit streets, isolated areas, and accepting drinks from strangers — incidents of harassment and assault, while not the norm, do occur.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in India",
+      "quick_answer": "Remove shoes at all religious sites, greet with Namaste, use your right hand for eating and giving, and never point your feet at people or sacred objects.",
+      "detail": "India's cultural etiquette is rooted in deep religious and social traditions that vary by region but share common threads. Shoes must be removed before entering any temple, mosque, gurdwara, or many homes — this is non-negotiable and applies to all visitors. The traditional greeting is Namaste (palms pressed together with a slight bow), which is appreciated and appropriate universally. Using the left hand for eating, passing items, or touching others is considered unclean in Hindu and Muslim traditions; always use or lead with the right hand. Pointing the soles of your feet toward a person or a religious image is disrespectful. The Indian head wobble (a side-to-side tilt) generally means agreement or acknowledgment.",
+      "tourist_tips": [
+        "Carry a small bag for your shoes when visiting multiple temples in a day — temple courtyards can be hot underfoot and footwear can get separated in busy sites",
+        "Public displays of affection between couples are frowned upon in most parts of India outside of westernized urban spaces and beach resorts",
+        "Accepting food or chai when offered by a host is considered good manners — a polite initial refusal followed by acceptance is the most gracious approach"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in India",
+      "quick_answer": "English is widely spoken in tourism, business, and educated circles across India, making it one of the more accessible countries for English-speaking visitors.",
+      "detail": "India has 22 constitutionally scheduled languages and hundreds of dialects, but English serves as the practical lingua franca for tourism, national business, and inter-regional communication. In major cities and tourist centers, English is spoken confidently. In rural areas and outside the main tourist circuit, regional languages (Hindi in the north, Tamil/Telugu/Kannada/Malayalam in the south, Bengali in the east, Marathi in Maharashtra) dominate and English knowledge drops significantly. A few words of Hindi ('Namaste', 'Dhanyavaad' for thank you, 'Kitna hai?' for how much) are very well received. Translation apps perform well for written text.",
+      "tourist_tips": [
+        "Learning 'Namaste' (hello/greeting), 'Dhanyavaad' (thank you), and 'Kitna hai?' (how much?) will earn you immediate goodwill everywhere in India",
+        "Google Translate's camera mode works well for Hindi and many regional scripts — useful for menus, signs, and medicine labels",
+        "In South India, Hindi is not universally understood or welcomed — English is more effective than Hindi when communicating outside the north"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in India",
+      "quick_answer": "Goa's beaches are world-famous but avoid swimming during monsoon (June–September) when red flags indicate dangerous currents — fatalities occur every year.",
+      "detail": "India has thousands of kilometers of coastline with beaches ranging from the famous Goa party beaches to the quiet shores of Kerala and the remote Andaman Islands. Goa remains the most developed beach destination for tourists. The monsoon season (June to September) brings extremely strong currents, rip tides, and unpredictable waves; red flags on beaches mean swimming is prohibited and should be taken seriously. Jellyfish blooms occur seasonally on parts of the coast. Stray dogs are common on Indian beaches — while generally passive, do not feed or provoke them. Persistent beach vendors are a constant presence in Goa; a firm 'no thank you' and avoiding eye contact works best.",
+      "tourist_tips": [
+        "Always check beach flag conditions before entering the water — even beaches that look calm can have deadly rip currents during and just after monsoon",
+        "The Andaman Islands offer world-class snorkeling and scuba with excellent visibility, but require advance booking for dive operators during peak season",
+        "Apply sunscreen generously — tropical Indian sun is intense year-round and sunburn happens quickly, especially on the water"
+      ],
+      "warning": "Drowning is a serious risk at Indian beaches during and immediately after monsoon season. Red flags are not advisory — they indicate life-threatening water conditions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in India",
+      "quick_answer": "India drives on the LEFT, roads are chaotic and conditions vary dramatically — hiring a local driver is strongly recommended over self-driving for most tourists.",
+      "detail": "India inherited left-hand traffic from British rule. An International Driving Permit (IDP) alongside your home license is required for self-driving. Traffic conditions range from reasonable on national highways to extraordinarily chaotic in cities and towns, with lane discipline, traffic signals, and road rules treated as suggestions by many drivers. Constant honking is normal and not aggressive — it serves as a proximity warning. Road quality varies from excellent new expressways to pot-holed rural tracks. Cows on roads are a genuine hazard day and night. Hiring a car with driver from a reputable operator is far more cost-effective than renting a car and safer by a considerable margin.",
+      "tourist_tips": [
+        "If you do self-drive, avoid night driving entirely — unmarked road hazards, animals, and unlit vehicles make it genuinely dangerous",
+        "Motorbike rental is popular in Goa and Kerala for tourists; wear a helmet, carry your IDP, and stay on coastal roads rather than venturing into highway traffic",
+        "Use Google Maps for navigation but cross-reference with local knowledge — maps sometimes lag behind new road construction or diversions"
+      ],
+      "warning": "India has one of the world's highest road accident death tolls. Night driving on non-highway roads is particularly dangerous due to unlit vehicles, animals, and poor road surfaces.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in India",
+      "quick_answer": "Indian cuisine is extraordinarily diverse and delicious — start with cooked, hot foods at busy restaurants, avoid raw foods initially, and explore thali meals for outstanding value.",
+      "detail": "India has one of the most diverse culinary traditions in the world, varying dramatically by region — North Indian curries and breads, South Indian rice and lentil dishes, coastal seafood, and Mughal-influenced cuisine all exist as distinct traditions. India has the world's largest vegetarian population and vegetarian options are excellent and widespread everywhere. Street food is central to Indian food culture but carries risk for newly arrived tourists whose digestive systems are unacclimatized; choose stalls with high turnover and food cooked fresh in front of you. Thali meals (a platter of multiple dishes) offer extraordinary variety and value at all price levels. Tap water and ice remain risks at any restaurant below mid-range level.",
+      "tourist_tips": [
+        "Start your first few days with fully cooked, hot food and gradually introduce street food as your stomach adjusts — rushing it leads to illness",
+        "Dosa, idli, and sambar in South India, and dal makhani or chole bhature in the North are universally safe, delicious, and inexpensive introductions to regional food",
+        "Tell restaurant staff your spice tolerance clearly — 'medium spicy' in India can be very hot by international standards; asking for 'mild' (halka teekha) is perfectly acceptable"
+      ],
+      "warning": "Delhi Belly (traveler's diarrhea) affects a large proportion of first-time visitors. Carry oral rehydration salts and an antibiotic prescribed by your doctor before departure.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Temple, Mosque & Religious Site Etiquette in India",
+      "quick_answer": "Remove shoes before entering all religious sites, dress modestly with covered limbs, and follow specific rules for each faith — head covering is required in Sikh gurdwaras.",
+      "detail": "India has hundreds of thousands of significant religious sites across Hinduism, Islam, Sikhism, Buddhism, Jainism, and Christianity. Shoes must be removed before entering all temples, mosques, and gurdwaras without exception — carry socks if the ground will be hot. In Sikh gurdwaras, all visitors must cover their heads; scarves and disposable head covers are provided free at the entrance. Entry to inner sanctums of Hindu temples is sometimes restricted to Hindus only. Mosques require women to cover hair and body fully; men should wear long trousers. Foreigners typically pay higher entry fees than Indian nationals at major sites. Photography restrictions vary widely by site.",
+      "tourist_tips": [
+        "The Golden Temple in Amritsar (the holiest Sikh gurdwara) is free to enter, open 24 hours, and serves free langar (communal meals) to all visitors regardless of faith",
+        "At major Hindu temples like Tirupati and Vaishno Devi, queues can be many hours long — book special entry darshan tickets online in advance to save time",
+        "When visiting mosques, go outside prayer times (Jumu'ah Friday noon prayer sees mosques at full capacity and non-Muslim visitors may be asked to wait)"
+      ],
+      "warning": "Entry to some Hindu temple inner sanctums is restricted to Hindus only. Attempting to enter restricted areas can cause significant offense and may result in removal by security.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit India",
+      "quick_answer": "October to March is the best time to visit most of India — cool and dry — while April–May is extremely hot and June–September brings the monsoon.",
+      "detail": "India's climate varies enormously by region and season. The primary tourist season runs October to March when temperatures are comfortable across most of the subcontinent, skies are clear, and conditions are ideal for sightseeing. April and May see temperatures exceed 40–45°C in much of North and Central India, making outdoor sightseeing grueling. The southwest monsoon arrives in June, progressing from Kerala northward through September — travel is possible but expect heavy rain, disrupted transport, and some sites partially closed. Hill stations like Darjeeling, Shimla, Manali, and Ooty offer pleasant temperatures in summer when the plains are unbearable. Kerala's backwaters and the Northeast are especially beautiful during the monsoon for experienced travelers.",
+      "tourist_tips": [
+        "Book the Golden Triangle (Delhi-Agra-Jaipur) in November to February for the best combination of weather, visibility at the Taj Mahal, and manageable crowds",
+        "Rajasthan in winter (November–February) is spectacular — the desert is cool, festivals are concentrated in this period, and the colors are at their most vivid",
+        "Kerala in June–July during early monsoon is lush and magical if you embrace the rain — houseboat tariffs drop significantly and crowds are minimal"
+      ],
+      "warning": "Heat stroke is a serious risk in April–May across India's plains, where temperatures routinely exceed 42°C. If visiting during summer, plan all outdoor activities before 10am and after 4pm.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for India",
+      "quick_answer": "Eat at dhabas for exceptional and cheap food, travel by train for long distances, shop at government emporiums for fair-priced crafts, and negotiate hotel rates directly.",
+      "detail": "India can be extraordinarily affordable with the right approach. Dhabas — roadside eateries serving freshly made regional food — charge a fraction of tourist restaurant prices and are often superior in quality and authenticity. Indian Railways offers the cheapest intercity travel in the world per kilometer; sleeper and 3AC class are very affordable and cover the entire country. Government-run Cottage Industries emporia and state handicraft stores sell genuine crafts at fixed, fair prices, making them good benchmarks before buying in markets. Many of India's most profound experiences — ghats in Varanasi, temple visits, village walks — are completely free.",
+      "tourist_tips": [
+        "Book train tickets on IRCTC as far in advance as possible — popular routes sell out weeks ahead, and last-minute Tatkal tickets cost significantly more",
+        "Negotiate hotel rates directly by phone or email rather than through booking platforms — hotels frequently offer 10–20% discounts to avoid platform commissions",
+        "The Indian Museum Card (available for certain ASI monument clusters) saves significantly on entry fees if visiting multiple heritage sites in one city"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

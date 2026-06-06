@@ -1,0 +1,380 @@
+{
+  "country": "Germany",
+  "slug": "germany",
+  "emoji": "🇩🇪",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "German",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Germany",
+      "quick_answer": "Tip 5–10% at restaurants by rounding up the bill. Always pay directly to the server, not by leaving cash on the table.",
+      "detail": "Germany has a tipping culture, but it is more modest than in the US. The standard practice is to round up the bill or add 5–10% for good service. The important German tradition is that you tell the server the amount you want to pay (including tip) when handing over cash or card. For example, if your bill is €18 and you want to tip €2, you say 'zwanzig' (twenty) and they give you the change. Leaving cash on the table is unusual and may be seen as forgotten money. Tipping is not obligatory and poor service warrants no tip.",
+      "tourist_tips": [
+        "When paying cash, tell the server the total you want to pay (e.g. 'Machen Sie 25') rather than leaving change",
+        "For card payments, many restaurants now ask 'Möchten Sie ein Trinkgeld geben?' (Do you want to leave a tip?)",
+        "Taxi drivers: round up to the nearest euro or add 5-10%",
+        "Bar staff: round up your change or add €1 per round for table service",
+        "Hotel housekeeping: €1-2 per day left in the room is appreciated"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Germany",
+      "quick_answer": "Germany has excellent trains, trams, and buses. Buy a day pass (Tageskarte) for city travel. Deutsche Bahn runs intercity trains — book in advance for discounts.",
+      "detail": "Germany has one of Europe's best public transport networks. Cities have integrated systems of U-Bahn (subway), S-Bahn (suburban rail), trams, and buses under one ticketing system. The Deutschland-Ticket (€49/month) covers all local and regional transport nationwide and is excellent value for longer stays. Deutsche Bahn (DB) operates intercity ICE, IC, and regional trains. Book DB tickets in advance online for significant savings on high-speed routes. Validate paper tickets by punching them in the machines on the platform before boarding — traveling without a valid punched ticket results in a €60 fine.",
+      "tourist_tips": [
+        "Always validate (stamp) your ticket before boarding — even if no one checks, inspectors appear regularly",
+        "The Deutschland-Ticket (€49/month) covers all local transport in every German city — great value",
+        "Book Deutsche Bahn ICE tickets via the DB app or website well in advance for the best prices",
+        "Cycling is a legitimate transport option in most German cities — bikes integrate well with trains",
+        "Taxis in Germany are metered and honest — no scams, but quite expensive compared to public transport"
+      ],
+      "warning": "Fare dodging (Schwarzfahren) is taken seriously — inspectors check regularly. A first offense results in a €60 fine. Always have a valid ticket.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Germany",
+      "quick_answer": "Germany has excellent healthcare. EU citizens use their EHIC card. Non-EU tourists need travel insurance. Pharmacies are widely available for minor issues.",
+      "detail": "Germany has a world-class healthcare system. EU citizens should carry their European Health Insurance Card (EHIC) — this gives access to state healthcare at the same rates as German residents. Non-EU tourists will be treated at hospitals but will be billed the full cost without insurance, which can be very high. Pharmacies (Apotheke) are everywhere and pharmacists are highly trained — they can advise on and dispense many medications that require prescriptions in other countries. For urgent but non-emergency care, look for Bereitschaftsdienst (on-call doctor service) which is cheaper than emergency rooms.",
+      "tourist_tips": [
+        "EU citizens: always carry your EHIC card — it covers emergency and necessary treatment",
+        "Non-EU tourists: travel insurance with European medical coverage is essential",
+        "Pharmacies (Apotheke) are excellent for minor ailments — look for the green cross sign",
+        "For after-hours pharmacy needs, every district has a duty pharmacy (Notdienstapotheke) — check the door of any closed pharmacy for the nearest open one",
+        "Emergency room visits without life-threatening illness cost a significant self-pay fee — use on-call doctors (Kassenärztlicher Bereitschaftsdienst, 116117) instead"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Germany",
+      "quick_answer": "Jaywalking is a minor offense. Nazi symbols and Holocaust denial are criminal offenses. Cycling without a light at night is illegal. Noise rules are strict.",
+      "detail": "Germany is a law-abiding country with rules that are taken seriously. Jaywalking (crossing on a red pedestrian light) is technically illegal and can result in a small fine — more importantly, you will receive disapproving looks from Germans. Displaying Nazi symbols (swastikas, SS runes, Hitler salutes) is a criminal offense under German law, regardless of your nationality or intent. Holocaust denial is also illegal. Sunday quiet laws (Sonntagsruhe) prohibit loud activities including drilling, mowing lawns, and excessive noise. Cycling: helmets are not legally required, but lights front and rear are mandatory at night.",
+      "tourist_tips": [
+        "Wait for the green pedestrian light — German locals do, and you may be fined for crossing on red",
+        "Do not display any Nazi-era symbols, even ironically or as a costume — it is a criminal offense",
+        "Recycling is serious in Germany — use the correct bins (Papier, Restmüll, Bio, Gelber Sack)",
+        "Sunday is very quiet in Germany — shops are mostly closed, drilling is banned, and noise is frowned upon",
+        "Speed limits on the Autobahn: many sections have no speed limit, but advisory limits exist — read the signs"
+      ],
+      "warning": "Displaying Nazi symbols or making Hitler salutes, even as a joke, is a criminal offense in Germany with penalties including imprisonment. This applies to tourists.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Germany",
+      "quick_answer": "Police: 110. Ambulance & Fire: 112. Medical non-emergency: 116117. All EU emergency: 112.",
+      "detail": "Germany uses the standard EU emergency number 112 for ambulance and fire services, and 110 for police. The 112 number also works across all EU countries. For non-emergency medical issues outside doctor's hours, call 116117 (Ärztlicher Bereitschaftsdienst) — this is an on-call doctor service staffed by medical professionals who can give advice or arrange a house call. Most operators on these lines speak English, especially in major cities.",
+      "tourist_tips": [
+        "112 is the universal emergency number across all EU countries — memorize it",
+        "116117 is the non-emergency doctor line for when you need medical advice but it's not life-threatening",
+        "110 is police-only; use 112 if you need police and don't remember 110",
+        "Operator English is reliable in major cities; in rural areas, speak slowly and clearly",
+        "Germany's ambulance system is excellent — response times in cities are typically under 10 minutes"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Germany",
+      "quick_answer": "Germany is relaxed about clothing. Dress practically. Some clubs and upscale restaurants have dress codes. Churches ask for modest dress.",
+      "detail": "Germany has no national dress code requirements for tourists. Cities like Berlin are known for very casual, experimental fashion. At churches and cathedrals, modest clothing is respectful (no bare shoulders or very short shorts) but enforcement is rare. Some high-end restaurants and clubs in Munich, Frankfurt, and Düsseldorf have dress codes — typically 'smart casual'. Berlin's famous clubs (Berghain in particular) do not have a dress code per se but do have a highly selective door policy based on perceived fit with the club's culture. FKK (naturism/nudism) is culturally accepted at specific beaches and parks.",
+      "tourist_tips": [
+        "Comfortable walking shoes are essential in German cities — extensive walking is expected",
+        "For Oktoberfest in Munich, locals wear traditional Dirndl and Lederhosen — it's optional but fun for tourists",
+        "Berlin nightclubs: all-black clothing and minimal logos tend to help at selective door policies",
+        "At churches and cathedrals, cover shoulders and knees out of respect — many have stoles available to borrow",
+        "Germans value function over fashion in everyday life — overly dressed tourists in tourist areas stick out"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Germany",
+      "quick_answer": "Drinking in public is legal. Beer and wine from age 16, spirits from 18. Germany has a vibrant beer culture with no real restrictions on public consumption.",
+      "detail": "Germany is one of the most permissive countries in the world for alcohol. Drinking beer and wine in public — on the street, in parks, at train stations — is completely legal and culturally normal. The legal age for beer and wine is 16 (one of the lowest in Europe), and for spirits it is 18. Supermarkets, petrol stations, and corner shops sell beer 24 hours a day. Germany's beer culture is deeply embedded — the Munich Oktoberfest is the world's largest beer festival. Drink-driving is illegal: the limit is 0.05% BAC (0.00% for new drivers under 21 and commercial drivers).",
+      "tourist_tips": [
+        "Buying a beer at a kiosk and drinking it while walking is perfectly normal German behavior",
+        "German supermarkets sell excellent local beers for €0.50–€1.50 — much cheaper than bars",
+        "Pfand (deposit) system: buy a bottle, pay a deposit (€0.08–€0.25), return the bottle for a refund",
+        "Do not drink and drive — 0.05% BAC limit, and new drivers/under-21s must be at 0.00%",
+        "Beer gardens (Biergarten) are a cultural institution — you can often bring your own food from home"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Germany",
+      "quick_answer": "Germany has fixed prices. Bargaining is not the norm in shops or restaurants. Some negotiation is acceptable when buying second-hand items or at flea markets.",
+      "detail": "Germany is firmly a fixed-price retail culture. Haggling at shops, restaurants, supermarkets, or most markets is considered strange and would make most German vendors uncomfortable. The exception is flea markets (Flohmärkte) where some negotiation on price is acceptable, especially for higher-priced items. When buying second-hand cars, electronics, or large items from private sellers, negotiation is normal. In formal business contexts, German buyers sometimes negotiate terms but not in a way that would feel familiar to someone from a bargaining culture.",
+      "tourist_tips": [
+        "Accept the displayed price in all retail settings — asking for discounts is not customary",
+        "At flea markets, a polite 'Können Sie etwas am Preis machen?' (Can you do something on the price?) is acceptable",
+        "Weekend flea markets are common in German cities — good for vintage finds with some price flexibility",
+        "Supermarkets run weekly offers and loyalty programs — use their apps for digital coupons",
+        "Car boot sales and private sales (Kleinanzeigen platform) are where negotiation is expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Germany",
+      "quick_answer": "Photography is generally free in public. Privacy laws are strict — do not photograph individuals without consent and do not publish photos of people without their permission.",
+      "detail": "Germany has strong privacy laws (Recht am eigenen Bild — right to one's own image) that affect photography more than in many other countries. Photography in public spaces is generally allowed. However, photographing individuals in a way that makes them the main subject (as opposed to background crowd shots) legally requires their consent to publish or use the photo commercially. Inside museums, many galleries have no-photography rules. Some court houses and government buildings prohibit photography. Private properties photographed from public spaces are generally fine to photograph.",
+      "tourist_tips": [
+        "Street photography of crowds and cityscapes is legal in Germany",
+        "Photographing individuals as the main subject and publishing online without consent can create legal issues",
+        "Most museums in Germany prohibit flash photography in galleries — check for signs",
+        "The Reichstag glass dome in Berlin requires a free pre-booked timed entry — photography inside is allowed",
+        "Drone photography requires registration with the German aviation authority (LBA) and flight permits in many areas"
+      ],
+      "warning": "Germany's privacy laws (GDPR and Recht am eigenen Bild) are strictly enforced. Publishing a photo of a private individual without their consent can lead to legal action even if taken in a public place.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Germany",
+      "quick_answer": "Shops are closed on Sundays by law. Restaurants and cafés are open. Supermarkets close Sunday. Plan your grocery shopping for Saturday.",
+      "detail": "Germany has strict Sunday trading laws (Ladenschlussgesetz) — almost all retail stores, supermarkets, and shops are legally required to close on Sundays. This is a firm part of German culture. Exceptions include: gas stations, pharmacies, airport shops, bakeries (limited hours in the morning), kiosks, and restaurants and cafés which stay open. In the four Sundays before Christmas (Advent Sundays), some states allow special shopping hours. Public holidays follow similar rules — shops close and the country slows down significantly.",
+      "tourist_tips": [
+        "Do all grocery shopping on Saturday if you need supplies for Sunday",
+        "Restaurants, cafés, beer gardens, and tourist attractions are open on Sundays",
+        "Petrol station shops sell basic food and drinks on Sundays",
+        "Christmas markets (late November–December) are a major exception — open daily including Sundays",
+        "Germany has around 10+ public holidays per year — check dates as they vary by state (Bundesland)"
+      ],
+      "warning": "Supermarkets are completely closed on Sundays in Germany. Do not plan your grocery run for Sunday morning — you will find locked doors.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Germany",
+      "quick_answer": "Uber in Germany operates only with licensed taxis, not private drivers — expect the same metered fares as a regular cab.",
+      "detail": "Germany's regulatory environment means Uber functions as a taxi-booking app rather than a peer-to-peer rideshare platform, so fares match standard metered taxi rates. FREENOW and Bolt also operate in major cities, similarly dispatching licensed drivers. Traditional taxis are metered, honest, and reliable — find dedicated taxi stands at all major train stations and airports. Rideshares cannot be hailed on the street; all bookings must be made through an app or via a taxi stand. Prices are noticeably higher than in many other European countries, so public transport is usually the better value option for city travel.",
+      "tourist_tips": [
+        "Use FREENOW, Bolt, or Uber apps to book in advance — you cannot hail a rideshare from the street",
+        "Taxi stands (Taxistand) at main train stations and airports are reliable for immediate rides",
+        "For airport transfers, agree on a flat rate with the driver before departure or confirm the meter is running"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Germany",
+      "quick_answer": "Tap water in Germany is completely safe to drink throughout the entire country and meets some of the highest quality standards in Europe.",
+      "detail": "German tap water (Leitungswasser) is rigorously tested and safe everywhere — there is no need to buy bottled water for health reasons. Germans often prefer Mineralwasser (sparkling mineral water) by cultural habit rather than necessity, but tap water is perfectly fine to drink. At restaurants, tap water is not automatically served and some establishments may decline to provide it, but you can always ask for Leitungswasser. Bottled water is sold in still (still) and sparkling (mit Kohlensäure) varieties, and the Pfand deposit system applies to bottles.",
+      "tourist_tips": [
+        "Ask for 'Leitungswasser' at restaurants if you want free tap water — most will provide it",
+        "Carry a reusable bottle and refill it from any tap — the quality is excellent nationwide",
+        "If ordering bottled water, specify 'ohne Kohlensäure' (still) or 'mit Kohlensäure' (sparkling)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM and Cash in Germany",
+      "quick_answer": "Germany is more cash-dependent than most Western European countries — always carry euros as many restaurants and smaller shops are cash-only.",
+      "detail": "Despite being a wealthy, modern economy, Germany has a strong cash culture and many businesses — including restaurants, markets, and smaller shops — do not accept credit or debit cards at all. The dominant card system is Girocard (EC-Karte), a German-specific debit system; some venues accept Girocard but not international Visa or Mastercard. Sparkasse and Volksbank ATMs are widely distributed and typically charge no or low fees for withdrawals. Avoid Euronet ATMs found in tourist areas — they charge high conversion fees and unfavorable rates. Always withdraw cash on arrival, especially outside major city centres.",
+      "tourist_tips": [
+        "Withdraw cash at Sparkasse or Volksbank ATMs to avoid the high fees charged by Euronet machines",
+        "Carry at least €50 in cash at all times — many places, including some supermarkets, are cash-only",
+        "Use a Wise or Revolut card for ATM withdrawals to minimise foreign exchange fees"
+      ],
+      "warning": "Euronet ATMs in tourist areas charge dynamic currency conversion fees that can add 5–10% to your withdrawal. Always choose to be charged in euros, not your home currency.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Germany",
+      "quick_answer": "Buy a prepaid SIM at the airport or any Saturn/MediaMarkt electronics store — Telekom offers the best coverage across Germany.",
+      "detail": "Germany's main mobile operators are Telekom (strongest nationwide coverage including rural areas), Vodafone DE, and O2 Germany. Prepaid SIMs are available at airports, Saturn and MediaMarkt electronics stores, and carrier shops in city centres. EU residents benefit from EU roaming regulations and can use their home SIM without extra charges. Airalo and other eSIM providers work well for short-stay visitors with compatible devices. 4G coverage is strong in cities and along major routes, but rural areas — particularly in eastern Germany and parts of Bavaria — can have notable gaps.",
+      "tourist_tips": [
+        "Buy a Telekom prepaid SIM at the airport on arrival for the best rural and nationwide coverage",
+        "EU residents can use their home SIM under EU roaming rules at no extra charge",
+        "Check Airalo for a Germany or EU eSIM if your phone supports eSIM — convenient and competitively priced"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Germany",
+      "quick_answer": "Germany uses Type C and Type F (Schuko) plugs at 230V/50Hz — the same standard as most of continental Europe.",
+      "detail": "German sockets use the two-round-pin Type C plug and the grounded Type F (Schuko) plug, operating at 230 volts and 50Hz. This is identical to the standard used across most of mainland Europe, so travellers arriving from France, Spain, Italy, or the Netherlands need no adapter. UK visitors need a UK-to-EU adapter, and US/Canadian visitors need both a plug adapter and a voltage converter for devices that do not support dual voltage (check the device label for 100–240V). Most modern electronics — phones, laptops, cameras — are universally compatible and need only a plug adapter.",
+      "tourist_tips": [
+        "UK visitors need a Type G to Type C/F adapter — buy one before travelling or at German airports",
+        "US visitors: check your device charger for '100–240V' — if listed, only a plug adapter is needed, not a converter",
+        "Universal travel adapters covering EU sockets are inexpensive and available at most German electronics stores"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Germany",
+      "quick_answer": "Germany has very low scam activity — fixed prices are universal and tourists are rarely targeted, though a few low-level schemes exist in major city centres.",
+      "detail": "Germany is one of Europe's safest countries for tourists in terms of scams and fraud. Fixed pricing is the strict norm everywhere, so no haggling or price inflating occurs in legitimate shops. The most common nuisance in tourist areas (Brandenburg Gate in Berlin, Cologne Cathedral) is the charity petition approach — people with clipboards requesting signatures and then pressuring for cash donations. Pickpocketing is rare but not unknown, with the highest risk at busy Christmas markets, Oktoberfest crowds, and the main train stations in Cologne, Frankfurt, and Berlin. Overpriced tourist restaurants cluster around major landmarks — walking one or two streets away dramatically improves both price and quality.",
+      "tourist_tips": [
+        "Decline clipboard-wielding 'charity petition' approaches in tourist hotspots — they are typically scams",
+        "Use a money belt or inside pocket at Oktoberfest, Christmas markets, and major train stations",
+        "Walk away from restaurants immediately adjacent to major landmarks — prices drop and quality rises within 200 metres"
+      ],
+      "warning": "Pickpocketing is the primary tourist risk in Germany, concentrated at Oktoberfest, Christmas markets, and busy train stations. Keep valuables in front pockets or a concealed money belt.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Germany",
+      "quick_answer": "Germany is very safe for tourists — violent crime targeting visitors is extremely rare, though a few urban areas have localised issues worth knowing about.",
+      "detail": "Germany consistently ranks among Europe's safest countries and violent crime against tourists is exceptionally uncommon. Berlin has a small number of neighbourhoods with visible drug activity, notably around Kottbusser Tor and Görlitzer Park in Kreuzberg, but these areas rarely pose a physical threat to tourists passing through. The greatest practical risk is petty theft: pickpockets operate at major Christmas markets, Oktoberfest, and crowded train station concourses. Drink spiking has been reported at Oktoberfest — never leave your drink unattended in large crowds. Emergency services (police 110, ambulance/fire 112) are fast, professional, and reliable throughout the country.",
+      "tourist_tips": [
+        "Keep bags zipped and valuables in front pockets at Christmas markets, Oktoberfest, and busy stations",
+        "At Oktoberfest, never leave your drink unattended and watch for signs of drink spiking in large tent crowds",
+        "Berlin's Kottbusser Tor and Görlitzer Park have drug activity but are generally safe to walk through in daylight"
+      ],
+      "warning": "Drink spiking and opportunistic theft are the main risks at Oktoberfest — stay with your group, watch your drink, and keep valuables secure in the large festival tent crowds.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Germany",
+      "quick_answer": "Punctuality, directness, and respect for rules are core German values — being on time and following social norms will earn immediate respect.",
+      "detail": "Punctuality is taken very seriously in Germany: arriving late to a meeting, dinner, or appointment is considered disrespectful. Direct communication is a cultural norm, not rudeness — Germans say what they mean without softening language, and they expect the same in return. When toasting, always make eye contact with each person as you clink glasses and say 'Prost'. Do not start eating before everyone at the table has been served. Recycling is a civic duty observed seriously — use the correct labelled bins. Sunday quiet rules (Sonntagsruhe) mean no drilling, power tools, or lawn mowing, and noise complaints to neighbours are taken seriously.",
+      "tourist_tips": [
+        "Always be on time — arriving even 10 minutes late without notice is considered rude in Germany",
+        "Make direct eye contact with every person when clinking glasses and saying 'Prost' — skipping someone is bad luck by tradition",
+        "Do not start eating at a restaurant until everyone at the table has their food and someone says 'Guten Appetit'"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Germany",
+      "quick_answer": "German is the official language, but English is widely spoken in cities and tourist areas — learning a few German phrases is warmly appreciated.",
+      "detail": "English proficiency in Germany is high among younger generations and is almost universal in hotels, major tourist attractions, airports, and city-centre restaurants. Outside urban areas — particularly in rural Bavaria, Saxony, and parts of eastern Germany — English is less reliably spoken and basic German phrases become more useful. Germans genuinely appreciate any effort to use their language, even imperfectly. Essential words include 'Bitte' (please / you're welcome), 'Danke' (thank you), 'Entschuldigung' (excuse me / sorry), and 'Sprechen Sie Englisch?' (Do you speak English?). German pronunciation follows consistent rules and is more predictable than English once the basics are learned.",
+      "tourist_tips": [
+        "Learn 'Bitte', 'Danke', and 'Entschuldigung' — these three words alone will visibly improve interactions with locals",
+        "In rural areas, use Google Translate's camera mode to read menus and signs that have no English version",
+        "Germans appreciate the attempt even if your German is poor — starting with a German phrase before switching to English is well received"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Germany",
+      "quick_answer": "Germany has beautiful Baltic and North Sea coasts and scenic inland lakes, but water temperatures are cool — expect 15–20°C at peak summer.",
+      "detail": "Germany's Baltic Sea coastline — particularly the islands of Rügen and Usedom — offers attractive sandy beaches popular with German holidaymakers in summer. The North Sea coast around Sylt and the Frisian Islands is dramatic and windswept but very cold even in August. Inland, Bavaria's alpine lakes such as Starnberger See and Chiemsee near Munich are stunning summer destinations, with cleaner, calmer water than the sea coasts. Water temperatures across all German swimming destinations peak at roughly 15–20°C in July and August — significantly cooler than Mediterranean or tropical destinations. There are no shark, jellyfish, or dangerous marine life concerns.",
+      "tourist_tips": [
+        "The Baltic Sea coast (Rügen, Usedom) is warmest for swimming in July–August — still cool but manageable",
+        "Bavaria's alpine lakes (Starnberger See, Chiemsee) are accessible by S-Bahn from Munich and beautiful for day trips",
+        "Pack a wetsuit or rash vest if you plan extended swimming — water temperatures rarely exceed 20°C"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Germany",
+      "quick_answer": "Drive on the right; parts of the Autobahn have no speed limit, but strict enforcement applies everywhere else and drink-driving laws are among Europe's toughest.",
+      "detail": "Germans drive on the right-hand side of the road. The Autobahn (motorway) network is famous for sections with no statutory speed limit, though an advisory speed of 130 km/h is recommended — however, speed cameras and strict enforcement apply on the majority of roads outside unrestricted sections. The drink-driving limit is 0.05% BAC for experienced drivers and a strict 0.00% for new drivers and those under 21. No motorway vignette or toll is required for private cars on the Autobahn. Winter tyres are strongly recommended (effectively mandatory by law in winter road conditions) from October through April. TÜV vehicle inspection is a cornerstone of German road safety culture — rental cars will always be compliant.",
+      "tourist_tips": [
+        "Check Autobahn signs carefully — overhead signs show when speed limits apply; no sign means unrestricted on those sections",
+        "Carry your driving licence, passport, and car rental documents at all times — roadside checks do occur",
+        "Winter travel (October–April): confirm your rental car is fitted with winter tyres before leaving the depot"
+      ],
+      "warning": "Germany has zero tolerance for drink driving for new drivers and under-21s (0.00% BAC). For all other drivers, the 0.05% limit is strictly enforced with heavy fines and licence suspension.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant and Food in Germany",
+      "quick_answer": "German food is hearty and regional — bread, sausages, pretzels, and Schnitzel are staples, and lunch is often the main meal of the day.",
+      "detail": "German cuisine varies significantly by region: Bavaria offers Weisswurst, pretzels, and pork knuckle; Berlin is famous for Currywurst; the Rhine region for Sauerbraten and Flammkuchen. Bread culture is exceptional — Germany has hundreds of regional bread varieties. At restaurants, bread and still water are sometimes charged as extras rather than being complimentary. The main restaurant meal is traditionally at lunch (12–2pm) when many restaurants offer a cheaper Mittagstisch (lunch menu). Dinner service typically runs 7–9pm and reservations are recommended at popular restaurants. To tip, tell the server the total amount you wish to pay when handing over cash or card.",
+      "tourist_tips": [
+        "Order the Mittagstisch (lunch special) for a significantly cheaper version of the same restaurant's dinner menu",
+        "Ask for 'Leitungswasser' (tap water) — some restaurants charge for water, but many will provide tap water if asked",
+        "Street food staples — Currywurst, pretzels, and Döner kebab — are cheap, filling, and found everywhere in cities"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple, and Church Etiquette in Germany",
+      "quick_answer": "Germany's churches and cathedrals are open to tourists, while mosques and synagogues welcome respectful visitors — modest dress and advance notice are key.",
+      "detail": "Germany's historic Christian churches and cathedrals — including Cologne Cathedral (Dom) and the Frauenkirche in Munich — are generally open to tourists throughout the day. Services are held regularly and tourists are welcome to observe quietly, but photography during active worship is inappropriate. Germany has a significant Muslim community, with mosques in Berlin, Frankfurt, Cologne, and most major cities — modest dress and removal of shoes are required, and it is courteous to ask permission before entering for a non-prayer visit. Synagogues in Germany typically require advance booking for visits and may require passport ID due to security protocols. All religious sites expect respectful, quiet behaviour.",
+      "tourist_tips": [
+        "Cologne Cathedral entry is free but timed tower climbs require a small ticket — arrive early to avoid queues",
+        "For mosque visits, contact the mosque in advance, dress modestly (women cover hair), and remove shoes at the entrance",
+        "Synagogue visits require advance booking and photo ID — contact the Jewish community centre in each city for arrangements"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Germany",
+      "quick_answer": "May to September is the best time to visit Germany — summers are warm and pleasant, while Christmas market season in November–December is magical.",
+      "detail": "Germany has a temperate continental climate with distinct seasons. Summer (June–August) brings warm temperatures of 20–28°C in most cities and is ideal for sightseeing, outdoor activities, and festivals including Oktoberfest (late September to early October). Spring (April–May) is beautiful, with lower crowds and blooming landscapes. Autumn is colourful and the Rhine and Mosel valleys are at their most scenic. Winter (December–February) is cold — 0 to 5°C in cities, colder in Bavaria and the Black Forest — but the Christmas market season from late November makes it a popular and atmospheric time to visit. The Rhine River cruises and cycling routes are best in spring and early autumn.",
+      "tourist_tips": [
+        "Book Oktoberfest accommodation in Munich 6–12 months ahead — the city fills completely in late September",
+        "Visit the Rhine Valley in May or September for ideal weather, fewer crowds, and the most scenic river conditions",
+        "Christmas markets run from late November through 23 December — Nuremberg, Cologne, and Dresden have the most famous ones"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Germany",
+      "quick_answer": "Germany is manageable on a budget — supermarket picnics, lunch specials, early train bookings, and free outdoor attractions keep costs down significantly.",
+      "detail": "Germany is not a cheap destination but offers excellent value if approached strategically. Aldi, Lidl, and Rewe supermarkets are ideal for assembling cheap, high-quality picnic meals — Germany's bread, cheese, and deli culture means supermarket food is genuinely good. The Mittagstisch (weekday lunch special) at sit-down restaurants is typically 30–40% cheaper than the same items at dinner. Deutsche Bahn Sparpreise (saver fares) for ICE trains are dramatically cheaper when booked weeks in advance. Germany has a strong hostel culture with high-quality, inexpensive accommodation. Many city parks, gardens, riverbanks, and memorials are free to enter, and some museums offer free or reduced admission on specific evenings.",
+      "tourist_tips": [
+        "Book Deutsche Bahn train tickets 4–6 weeks in advance online for Sparpreis fares that are a fraction of walk-up prices",
+        "Eat the Mittagstisch (lunch special) at restaurants instead of dinner — same kitchen, same quality, significantly lower price",
+        "Buy picnic supplies from Aldi or Lidl and eat in one of Germany's many excellent public parks — cheap and culturally authentic"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

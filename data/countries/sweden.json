@@ -1,0 +1,360 @@
+{
+  "country": "Sweden",
+  "slug": "sweden",
+  "emoji": "🇸🇪",
+  "region": "Europe",
+  "currency": "SEK",
+  "language": "Swedish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Sweden",
+      "quick_answer": "Tipping is not obligatory in Sweden — service is included in prices and there is no social pressure whatsoever, though rounding up or leaving 10% for genuinely good service is appreciated.",
+      "detail": "Swedish restaurant and café prices include full service charges, meaning staff wages are not tip-dependent. There is no cultural expectation or social awkwardness if you leave nothing extra. For exceptional service, rounding up the bill or leaving around 10% is a warm gesture that will be appreciated but never expected. The same relaxed attitude applies to taxis, hotel staff, and tour guides — a round-up is polite, but nothing more.",
+      "tourist_tips": [
+        "Round up the bill or tell the card terminal a higher total if service was excellent — there is no formal ritual required and no awkwardness if you skip it entirely",
+        "For taxi rides, simply round up to the nearest clean number — saying the total you want to pay when the driver asks is the local custom",
+        "Hotel porters and housekeeping staff appreciate SEK 10–20 per service as a discretionary gesture, but it is never expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Sweden",
+      "quick_answer": "Stockholm's T-bana metro, Pendeltåg commuter trains, trams, and buses all operate under SL with a unified ticketing system via the SL app or Access card.",
+      "detail": "Stockholm's public transport authority (SL) integrates the T-bana (metro), Pendeltåg (commuter rail), trams, and buses under a single fare system — buy tickets via the SL app or load an SL Access card. The Arlanda Express train connects Stockholm Arlanda Airport to Stockholm Central in 20 minutes, though Flygbussarna coaches are significantly cheaper. Göteborg has an extensive tram network. SJ operates intercity trains including the X2000 high-speed service connecting Stockholm, Göteborg, and Malmö. Regional trains fill gaps between cities throughout the country.",
+      "tourist_tips": [
+        "Download the SL app for Stockholm — it sells tickets, shows real-time departures, and eliminates the need for an SL Access card for short stays",
+        "Take Flygbussarna airport coaches instead of the Arlanda Express to save significant money if you are not in a rush — both drop at Stockholm Central Station",
+        "A 24-hour or 72-hour SL travel card offers unlimited travel on all Stockholm public transport and pays for itself quickly if you make more than two journeys"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Sweden",
+      "quick_answer": "EU citizens with an EHIC card can access Sweden's excellent public healthcare at reduced cost, but non-EU tourists should carry comprehensive travel insurance as treatment costs are high.",
+      "detail": "Sweden has a world-class universal healthcare system, but tourists are not fully covered and will face fees even with an EHIC card. The 1177 healthcare advice line provides nurse consultations in Swedish and often English, and can direct you to the right care level — call 1177 before heading to an emergency room for non-urgent issues. Apotek (pharmacies) are widespread, clearly signed, and Swedish pharmacists are highly trained for handling minor ailments without a doctor visit. Non-EU visitors without travel insurance face significant out-of-pocket costs for any treatment.",
+      "tourist_tips": [
+        "Call 1177 first for any non-emergency health concern — trained nurses advise whether you need a clinic, pharmacy, or emergency room, saving time and money",
+        "Find your nearest Apotek pharmacy for minor illnesses, common medications, and health advice without needing a doctor's appointment",
+        "EU citizens should carry their EHIC card and a printed version as backup — it reduces but does not eliminate healthcare costs in Sweden"
+      ],
+      "warning": "Non-EU tourists without travel insurance face full private rates for Swedish healthcare, which can be very expensive. Comprehensive travel insurance with medical coverage is strongly recommended before arrival.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Sweden",
+      "quick_answer": "Allemansrätten — Sweden's unique right to roam — lets you camp, walk, swim, and pick berries or mushrooms on almost any land, but cannabis is illegal and the drink-drive limit is a near-zero 0.02% BAC.",
+      "detail": "Allemansrätten (the freedom to roam) is a constitutional right that allows anyone to walk, cycle, camp, pick berries and mushrooms, and swim on virtually any land in Sweden — including private property — as long as you respect nature and do not disturb or damage. Cannabis possession is illegal in Sweden with no decriminalization, and Swedish authorities enforce drug laws firmly. The drink-drive limit of 0.02% BAC is effectively a zero-tolerance policy — a single drink can put you over the limit. Strict rules govern disturbance of wildlife in protected areas, particularly during nesting seasons.",
+      "tourist_tips": [
+        "Use Allemansrätten freely for hiking, camping, and swimming — Sweden's wild nature is genuinely open to you, just leave no trace, light no open fires in dry conditions, and respect any crops or gardens",
+        "Do not assume Swedish cannabis tolerance from neighboring countries — Sweden has among Europe's strictest drug enforcement and zero tolerance for possession",
+        "If driving in Sweden, treat the 0.02% BAC limit as a full no-drink rule — it is effectively impossible to have any alcohol and be legal behind the wheel"
+      ],
+      "warning": "Sweden's drink-drive limit of 0.02% BAC is one of Europe's strictest — even one beer can put you over the legal limit. Do not drive after any alcohol consumption.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Sweden",
+      "quick_answer": "The main emergency number is 112 (police, fire, ambulance); 114 14 reaches non-emergency police; 1177 is the 24/7 healthcare advice line.",
+      "detail": "Sweden uses 112 as the single universal emergency number for police, fire brigade, and ambulance — it works from any phone including without a SIM card. For non-urgent police matters such as reporting theft or filing a report, 114 14 is the correct number and avoids tying up emergency lines. The 1177 healthcare line is staffed 24 hours by registered nurses who provide medical advice and direct callers to appropriate care, including in English. All emergency operators in Sweden speak English and are trained to handle calls from international visitors.",
+      "tourist_tips": [
+        "Call 1177 for any medical question before going to an emergency room — nurses assess urgency and can save you hours of waiting for a non-emergency issue",
+        "Save 114 14 in your phone for non-emergency police contact such as theft reports — 112 is for genuine life-threatening emergencies only",
+        "112 works even without a SIM card or mobile data and will connect to the nearest emergency service — the operator will speak English"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Sweden",
+      "quick_answer": "Sweden is very casual and egalitarian — practical outdoor clothing is the cultural norm, there are no formal requirements anywhere, and modest dress is appreciated when visiting churches.",
+      "detail": "Swedes dress practically and without ostentation — quality outdoor and functional clothing is valued far above fashion labels. There are no legal or social dress requirements for tourists in any public setting. In Stockholm restaurants and bars, smart casual is perfectly appropriate; very few establishments have formal requirements. Churches appreciate modest dress (covered shoulders), though enforcement is gentle. The most important clothing consideration in Sweden is weather preparedness — temperatures change rapidly and rain is possible year-round, making layers and a waterproof jacket essential regardless of season.",
+      "tourist_tips": [
+        "Pack a waterproof jacket and layering pieces regardless of the season — Swedish weather is highly changeable and outdoor Swedes are always prepared",
+        "Smart casual is appropriate for Stockholm's nicer restaurants — clean clothes and neat appearance are sufficient without any formal dress requirement",
+        "Bring a scarf or light layer for church visits as a gesture of respect, even though Swedish churches rarely enforce any dress code"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Sweden",
+      "quick_answer": "All alcohol above 3.5% can only be purchased for home consumption at Systembolaget — the state monopoly off-licence — which is closed on Sundays and has limited hours; pubs and restaurants serve from age 18.",
+      "detail": "Sweden's Systembolaget is the state-controlled monopoly and the only place to buy beer above 3.5% ABV, wine, and spirits for off-premise consumption — regular supermarkets and convenience stores only sell light beer (folköl, up to 3.5%). The minimum age for Systembolaget is 20; bars and restaurants serve from age 18. Systembolaget is closed on Sundays and public holidays and has limited evening hours — typically closing by 6–7pm on weekdays and 3pm on Saturdays. Alcohol is expensive across the board: a 500ml beer in a Stockholm bar easily costs SEK 80–100. Sweden's beloved fika (coffee and pastry) culture is the social alternative that transcends alcohol.",
+      "tourist_tips": [
+        "Stock up at Systembolaget on Friday or Saturday — it is closed Sundays and public holidays, and you cannot buy wine or proper beer anywhere else for home consumption",
+        "Pre-drink responsibly from Systembolaget purchases before going out — bar prices in Sweden are very high and a bottle of wine from Systembolaget costs a fraction of restaurant prices",
+        "Embrace fika culture — a coffee and kanelbulle (cinnamon roll) at a café is the authentic Swedish social ritual and far more affordable than drinking out"
+      ],
+      "warning": "Systembolaget is the only legal source for wine, spirits, and beer above 3.5% to take away — it is closed Sundays and public holidays. Plan ahead or you will have nothing for a Sunday evening.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Sweden",
+      "quick_answer": "Bargaining is not customary anywhere in Sweden — prices are fixed and Swedes consider haggling undignified, though secondhand platforms like Blocket have some room for negotiation.",
+      "detail": "Sweden has a firmly fixed-price culture across all retail, hospitality, and market settings. Attempting to negotiate a price in a shop, restaurant, or hotel would cause genuine confusion and mild social offence. Swedish pricing is transparent and honest — the displayed price is the real price for everyone, with no tourist inflation layers expecting negotiation. The one exception is private secondhand transactions: Sweden's popular classified site Blocket (similar to Craigslist) is where individuals sell used goods and some price negotiation is understood and acceptable in that context.",
+      "tourist_tips": [
+        "Accept displayed prices everywhere — Swedish vendors are not inflating prices as a negotiation starting point, and the price shown is simply what it costs",
+        "Book accommodation and transport in advance online to access genuine lower rates without any need for negotiation at reception",
+        "If buying secondhand goods from individuals on Blocket, a polite offer slightly below the asking price is acceptable — but this applies only to private sales, never retail"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Sweden",
+      "quick_answer": "Sweden is very open to photography in public spaces, supported by Allemansrätten's spirit of public access, though GDPR creates legal considerations around publishing identifiable portraits of individuals.",
+      "detail": "Public spaces, landscapes, architecture, streets, and transport infrastructure are all freely photographable in Sweden with no restrictions except at military installations. Allemansrätten's ethos of open public access reinforces the freedom to photograph nature, forests, and coastlines unreservedly. The main consideration is GDPR: while taking photos of people in public is generally legal, publishing or commercially using identifiable portraits of individuals without consent can create legal liability under EU privacy law. Inside museums and galleries, photography rules vary and posted signs should be followed.",
+      "tourist_tips": [
+        "Sweden's archipelagos, forests, and city waterfronts are spectacularly photogenic and completely unrestricted — the Stockholm archipelago at golden hour is world-class",
+        "Ask permission before taking close-up portraits of individuals — Swedish people value privacy and a direct, polite request is appreciated and usually granted",
+        "Check posted signs in museums — some exhibitions (particularly touring shows) prohibit photography due to licensing, while permanent collections often permit it"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Sweden",
+      "quick_answer": "Shops in Swedish cities generally open seven days a week, but Systembolaget is closed on Sundays, banks are closed weekends, and Midsommar and Christmas are major nationwide closures.",
+      "detail": "Unlike many European countries, Swedish supermarkets and retail shops in cities (ICA, Hemköp, Willys, Lidl) typically open every day of the week, including Sundays. Systembolaget, the state alcohol monopoly, is closed every Sunday without exception — this is one of its defining features. Banks are closed on weekends. In smaller towns and rural areas, Sunday trading is more limited and individual shops may not open. Midsommar (the Friday and Saturday nearest the summer solstice) and Christmas Eve through Boxing Day are the main closures that affect almost all businesses — plan supplies in advance for these periods.",
+      "tourist_tips": [
+        "Plan any Systembolaget purchases before Sunday — it is always closed, no exceptions, and no other shop can legally sell wine or spirits",
+        "Midsommar is a national near-shutdown — stock up on food and drinks beforehand as most shops, restaurants, and services close or operate minimal hours",
+        "ICA and Lidl supermarkets in Stockholm and major cities reliably open on Sundays — use the ICA app to check hours for your specific local branch"
+      ],
+      "warning": "Systembolaget closes every Sunday and on all public holidays with no exceptions — if you want wine or spirits for a Sunday evening, buy it Saturday before 3pm.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Sweden",
+      "quick_answer": "Always use app-based taxis or official metered services — avoid unmarked taxis, particularly at Arlanda Airport, where overcharging tourists is a well-documented scam.",
+      "detail": "Uber and Bolt operate in Stockholm and other major Swedish cities and are generally the most convenient and price-transparent options. Official taxi companies including Taxi Stockholm and Sverigetaxi are metered, honest, and reliable. The primary tourist scam in Sweden involves unofficial taxis at Arlanda Airport and major transport hubs quoting fixed prices that are several times higher than fair rates — some tourists have been charged SEK 2,000+ for a journey worth SEK 500. Always confirm that the meter is running, or use a prebooked app-based service for fixed-price peace of mind.",
+      "tourist_tips": [
+        "Book Uber or Bolt from the app before walking to a taxi rank — fixed app prices eliminate the risk of meter disputes or overcharging entirely",
+        "At Arlanda Airport, use the official Arlanda Express train to Stockholm Central (20 minutes) or a prebooked Taxi Stockholm ride — never accept an approach from an unofficial driver",
+        "If taking a metered taxi, confirm the meter is switched on and running before the journey starts — reputable drivers will do this automatically"
+      ],
+      "warning": "Unofficial taxi touts at Arlanda Airport and Stockholm Central are a known tourist scam — some charge ten times the fair rate. Only use app-booked rides or clearly marked official taxi companies with meters running.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Sweden",
+      "quick_answer": "Swedish tap water is among the world's best and completely safe to drink everywhere — bottled water is an unnecessary expense that most Swedes never purchase.",
+      "detail": "Sweden's tap water is sourced from carefully protected lakes and groundwater and meets the highest quality standards in the world. Drinking tap water is universal Swedish practice and the quality is considered superior to most bottled waters. Every tap, public fountain, and hotel room supply is safe to drink without any treatment or filtering. Purchasing bottled water in Sweden is genuinely unusual behaviour — locals never do it. This extends to public facilities, campgrounds, and even most outdoor tap points in parks and recreation areas.",
+      "tourist_tips": [
+        "Bring a reusable water bottle and refill it from any tap — Swedish tap water is excellent quality and refilling is completely normal and encouraged",
+        "Do not waste money on bottled water in any Swedish shop — the tap water in your hotel room is of equal or better quality",
+        "Public parks and recreation areas in Sweden often have tap water access points — use them freely as Swedes do during outdoor activities"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Sweden",
+      "quick_answer": "Sweden is moving rapidly toward being a cashless society — many places refuse cash entirely, so a contactless card is essential, though Swedbank, SEB, and Handelsbanken ATMs accept foreign cards.",
+      "detail": "Sweden is one of the world's most cashless economies, with Swish (instant mobile payment) dominant among locals and contactless card payment expected virtually everywhere. Many restaurants, cafés, and even some taxis now legally refuse to accept cash — this is not unusual or rude, it is simply Swedish commercial reality. Swedbank, SEB, and Handelsbanken ATMs are widely distributed and reliably process foreign Visa and Mastercard. International card fees apply, making a low-fee card like Wise or Revolut genuinely worth using to avoid charges on every transaction in a country with high average prices.",
+      "tourist_tips": [
+        "Carry a contactless Visa or Mastercard as your primary payment method — some Swedish businesses literally do not accept cash and a card is non-negotiable",
+        "Use a Wise or Revolut card to avoid foreign transaction fees and get the real exchange rate on every purchase — this adds up significantly given Sweden's high prices",
+        "ATMs are available in all towns and most transport hubs if you need cash for the rare cash-only vendor — always choose to be charged in SEK, not your home currency"
+      ],
+      "warning": "Some Swedish businesses, including cafés and restaurants, legally refuse to accept cash. Do not rely on cash as your only payment method — a functioning contactless card is essential.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Sweden",
+      "quick_answer": "EU roaming applies in Sweden, so EU SIM cards work without extra charges; for others, Telia has the best coverage and SIMs are available at airports, 7-Eleven stores, and carrier shops.",
+      "detail": "Sweden is covered by EU roaming regulations, meaning EU/EEA mobile customers can use their home plans without additional charges. For non-EU visitors, Swedish operators Telia (strongest nationwide coverage including rural and forested areas), Tele2, Tre (Three), and budget operator Comviq all offer prepaid tourist SIMs. SIMs are sold at Stockholm Arlanda Airport, 7-Eleven convenience stores, and carrier outlets. Airalo eSIM provides a convenient pre-arrival option. Sweden has excellent 4G/5G coverage nationwide including forests, archipelago islands, and remote areas — connectivity is rarely an issue.",
+      "tourist_tips": [
+        "EU travellers can use their home SIM without roaming charges in Sweden — check that your plan includes EU roaming before departing",
+        "Non-EU visitors should buy an Airalo Sweden eSIM before departure for instant connectivity on arrival without queuing at a shop",
+        "Telia offers the best rural and forest coverage in Sweden — worth choosing over cheaper alternatives if you plan outdoor activities away from cities"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Sweden",
+      "quick_answer": "Sweden uses Type C and Type F (Schuko) plugs at 230V/50Hz — the same as most of mainland Europe, so UK and US visitors need adapters but most Europeans do not.",
+      "detail": "Sweden uses the standard continental European two-pin Type C and Type F (Schuko) sockets at 230 volts and 50Hz frequency. This is identical to Germany, France, Spain, Italy, and most of Europe, meaning visitors from these countries need no adapter. UK visitors need a UK-to-EU adapter as British three-pin plugs do not fit. US and Canadian visitors need both a plug adapter and a voltage converter for devices not rated for 220–240V, though most modern electronics (phones, laptops, cameras) are automatically compatible with any voltage worldwide. Adapters are available at Swedish airports and electronics stores if needed.",
+      "tourist_tips": [
+        "Most modern phone chargers, laptop adapters, and camera chargers are dual-voltage (100–240V) — check the label on your charger and you likely need only a plug adapter, not a converter",
+        "UK visitors need a simple UK-to-EU adapter available cheaply at airports and electronics stores such as Elgiganten in Sweden",
+        "US visitors should verify their device labels say '100-240V' before plugging in — most modern electronics comply, but older devices or hairdryers may not"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Sweden",
+      "quick_answer": "Sweden has an extremely low scam culture overall — the main tourist risk is taxi overcharging at Arlanda Airport, with the rest of the country being one of the world's most honest commercial environments.",
+      "detail": "Sweden consistently ranks among the safest and most scam-free tourist destinations globally. Price manipulation, fake tours, and street hustles are essentially absent. The primary documented scam is taxi overcharging, particularly at Arlanda Airport where unofficial drivers approach arriving tourists with seemingly fixed prices that are grossly inflated — using app-based rideshare or the Arlanda Express train eliminates this risk entirely. A secondary low-level occurrence is charity petition approaches in busy city areas. Otherwise, Swedish commercial life is remarkably honest — displayed prices are fair prices, change is returned accurately, and tourist exploitation is culturally foreign.",
+      "tourist_tips": [
+        "Never accept a taxi approach from an unofficial driver at Arlanda Airport — always prebook via an app or use the Arlanda Express train to Stockholm Central",
+        "If approached by people carrying clipboards for charity petitions in Stockholm city centre, decline politely — these sometimes precede pickpocket attempts",
+        "Sweden's honest pricing culture means you can trust displayed prices — no need for price comparison anxiety or suspicion of tourist markups"
+      ],
+      "warning": "Unofficial taxi touts at Arlanda Airport are the primary tourist scam in Sweden — overcharging of SEK 1,500–2,500 for a journey worth under SEK 600 is well-documented. Always use official metered taxis or app-based services.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Sweden",
+      "quick_answer": "Sweden is very safe for tourists overall, with violent crime against visitors being rare — standard urban pickpocket awareness in Stockholm city centre is the main practical precaution.",
+      "detail": "Sweden is one of Europe's safer countries for tourists and violent crime targeting visitors is very rare. Some outer urban areas of Göteborg and Malmö have experienced gang-related incidents in recent years, but these are residential areas unconnected to tourist zones and visitors are extremely unlikely to encounter them. Pickpocketing in Stockholm's busy city centre areas — particularly around T-Centralen, Gamla Stan, and Drottninggatan — is the realistic petty crime risk. Standard urban awareness (keeping bags close in crowds, avoiding obvious phone display in busy streets) is sufficient protection.",
+      "tourist_tips": [
+        "Keep bags closed and phones pocketed in crowded areas of Stockholm city centre and on busy metro carriages — standard pickpocket awareness is all that is needed",
+        "Tourist areas in Göteborg and Malmö are safe to explore freely — the gang-related issues in those cities are in residential outer areas, not the historic centres or tourist districts",
+        "Sweden is very safe at night — women travelling alone can walk city streets after dark with normal awareness, and public transport is safe to use at all hours"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Sweden",
+      "quick_answer": "Lagom — the Swedish concept of moderation and not standing out — underpins Swedish social life, alongside strong respect for queuing, personal space, and the sacred ritual of fika.",
+      "detail": "Lagom (literally 'just the right amount') is the philosophical core of Swedish culture — modesty, balance, and not being excessive in either direction. Personal space matters greatly to Swedes: avoid standing too close and do not sit immediately next to a stranger on public transport if other seats are available. Silence in public spaces is completely comfortable for Swedes and does not indicate hostility. Queue etiquette is taken very seriously — cutting a queue is a genuine social transgression. Gender equality is deeply embedded in Swedish culture and is visible in language, workplace behaviour, and social interactions. Fika — the ritual coffee and pastry break taken with colleagues or friends — is culturally sacred and declining an invitation is socially awkward.",
+      "tourist_tips": [
+        "Join queues properly and do not push or skip — Swedish people will quietly but clearly signal their displeasure at queue-jumping, and the social pressure is real",
+        "Accept fika invitations enthusiastically — being invited to fika with a Swedish person is a genuine gesture of warmth and the coffee-and-pastry ritual is a meaningful social moment",
+        "Do not interpret Swedish quietness or reserve as coldness — Swedes are warm and friendly once acquainted and the initial reserve is simply cultural comfort with silence"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Sweden",
+      "quick_answer": "English is spoken fluently by virtually the entire Swedish population — Sweden ranks among the world's highest English proficiency countries and there is no meaningful language barrier for English-speaking visitors.",
+      "detail": "Swedish is the official language but English proficiency in Sweden is exceptional — consistently ranked number one or two globally in non-native English proficiency surveys. All age groups, from teenagers to pensioners, speak confident English in cities and tourist areas. Many Swedes will switch to English proactively to avoid the perceived formality of their own language. Official signage in transport hubs, museums, and tourist areas is bilingual. Learning a few Swedish words is received with genuine warmth and delight by locals, even though it is completely unnecessary for practical communication.",
+      "tourist_tips": [
+        "English works everywhere without exception in Sweden — you will never be stuck without a translation or unable to communicate in any tourist situation",
+        "Try a few Swedish words like 'tack' (thank you) and 'hej' (hello) — Swedes are genuinely delighted when visitors attempt their language and it creates immediate warmth",
+        "Swedish menus almost always have English translations or staff will explain dishes in English — ordering food is never a challenge"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Sweden",
+      "quick_answer": "Sweden's Stockholm archipelago of 30,000 islands, the Bohuslän west coast, and Gotland island offer beautiful swimming, with Allemansrätten making most shorelines freely accessible.",
+      "detail": "Summer swimming is a central part of Swedish life, with the season running from June to August. Stockholm's archipelago offers island-hopping and rocky sea swimming among 30,000 islands accessible by public ferry. The Bohuslän coast north of Göteborg has dramatic granite shorelines and clear water. Gotland island has Sweden's best sandy beaches and warmest waters. The water temperature is refreshingly cool rather than warm — typically 18–22°C in summer — but Swedes swim enthusiastically regardless. Allemansrätten grants free access to virtually all shorelines, and designated nude bathing areas exist at many popular beaches.",
+      "tourist_tips": [
+        "Take the SL ferry to islands in Stockholm's inner archipelago for day trips — many islands have swimming rocks, cafés, and hiking trails within an hour of the city",
+        "Visit Gotland in July for Sweden's best sandy beaches, warmest water, and a medieval walled city (Visby) that is a UNESCO World Heritage Site",
+        "Nude bathing is accepted at designated areas (marked with signs) and is completely normal at many Swedish beaches — respect designated zones and local conventions"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Sweden",
+      "quick_answer": "Drive on the right, carry winter tyres from December to March, watch for moose at dawn and dusk, and respect Sweden's near-zero 0.02% BAC drink-drive limit enforced by widespread speed cameras.",
+      "detail": "Sweden drives on the right with standard European road signs. Speed cameras are widespread and strictly enforced. Congestion charges apply in Stockholm and Göteborg and are billed automatically to the registered vehicle. Winter tyres are legally mandatory from December 1 to March 31 (or earlier if conditions require) — hire cars in Sweden during this period will have winter tyres fitted. The moose (älg) road hazard is serious: moose-vehicle collisions are common, often fatal, and occur most often at dawn and dusk — reduce speed in forested areas during these times. Road infrastructure is excellent throughout the country.",
+      "tourist_tips": [
+        "Watch for moose warning signs on forested roads, especially at dawn and dusk — moose are extremely large, often fatal in a collision, and can appear suddenly from dense forest",
+        "Congestion charges in Stockholm and Göteborg are applied automatically to your vehicle's registration plate — check whether your hire car company adds admin fees for this",
+        "Confirm winter tyres are fitted before driving any hire car from December through March — driving without them in winter conditions is illegal and genuinely dangerous"
+      ],
+      "warning": "Moose on roads are a genuine, serious hazard in Sweden — collisions are frequently fatal. Reduce speed and heighten vigilance on forested roads, particularly at dawn and dusk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Sweden",
+      "quick_answer": "Sweden's food scene ranges from world-famous New Nordic fine dining to beloved classics like köttbullar, gravlax, and kanelbulle — and the dagens lunch (daily set lunch) is outstanding value at SEK 100–140.",
+      "detail": "Swedish cuisine has two distinct registers: husmanskost (traditional hearty home cooking) and the internationally celebrated New Nordic movement centered on foraged ingredients and seasonal Swedish produce. Köttbullar (Swedish meatballs) are served with lingonberry jam and cream sauce — nothing like the IKEA version. Gravlax (cured salmon), smörgåsbord, pickled herring, and kanelbulle (cinnamon rolls) are iconic. Surströmming (fermented herring) is an acquired taste and genuinely challenging for first-timers. The dagens lunch (daily set lunch, typically SEK 100–140 including salad, bread, and coffee) is how working Swedes eat well affordably — it represents exceptional value compared to dinner prices.",
+      "tourist_tips": [
+        "Always order the dagens lunch if available — a two-course set menu at SEK 100–140 is the same kitchen quality as dinner at double the price and is a genuinely Swedish dining ritual",
+        "Try a kanelbulle (cinnamon roll) at a proper Swedish café rather than an airport chain — the authentic version is fragrant with cardamom and incomparably better than imitations",
+        "Avoid surströmming unless you are genuinely adventurous — the fermented herring smell is extremely pungent and the experience is more of a cultural dare than a dining pleasure for most visitors"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Sweden",
+      "quick_answer": "Sweden is highly secular but Lutheran churches are found everywhere — modest dress is appreciated for visits, and the historic churches in Gamla Stan (Stockholm) and Uppsala Cathedral are major attractions.",
+      "detail": "Sweden is one of the world's most secular countries, with Svenska Kyrkan (the Church of Sweden) having low regular attendance despite widespread nominal membership. The historic churches are architecturally and historically significant tourist sites — Stockholm's Gamla Stan contains several medieval churches, and Uppsala Cathedral is the largest church in Scandinavia. Modest dress (covered shoulders, quiet behaviour) is appreciated as a gesture of respect even in these less actively religious spaces. Midsommar, while having historical ties to pre-Christian solstice celebration, is observed today primarily as a cultural rather than religious event. Mosques and other religious centres in Swedish cities welcome respectful visitors who observe appropriate dress and customs.",
+      "tourist_tips": [
+        "Visit Uppsala Cathedral — the largest church in Scandinavia — on a day trip from Stockholm (40 minutes by train) for impressive Gothic architecture and the burial sites of Swedish kings",
+        "Gamla Stan in Stockholm has several medieval churches worth visiting for free, including Storkyrkan (the Great Church) where Swedish royal ceremonies take place",
+        "Bring a scarf or light jacket when planning church visits — covered shoulders show respect even in Sweden's very secular context, and the churches are often cool inside"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Sweden",
+      "quick_answer": "June to August is peak season with long days and warm weather; Midsommar in late June is magical; Lapland offers midnight sun in summer and northern lights from October to March.",
+      "detail": "Sweden spans a dramatic range of climates from the temperate south to subarctic Lapland in the north. Stockholm is best June to August with temperatures of 20–25°C and up to 18 hours of daylight. Midsommar (the Friday-Saturday closest to June 21) is Sweden's most important cultural celebration, with outdoor dancing, flower wreaths, and a genuine sense of collective joy. Northern Sweden (Lapland) offers two extraordinary natural phenomena: midnight sun from June to July and the northern lights (aurora borealis) from October to March. Winter in Stockholm is cold (−5 to −10°C) but beautiful with snow, Christmas markets, and Advent candlelight. Shoulder seasons (April-May and September) offer fewer crowds and lower prices.",
+      "tourist_tips": [
+        "Visit during Midsommar if possible — the long daylight, outdoor celebrations, and distinctly Swedish atmosphere around the summer solstice are unlike anything else in Europe",
+        "Plan a Lapland trip in February or March for the best northern lights viewing combined with dog sledding and snowmobile excursions — or return in June for midnight sun hiking",
+        "April and September are excellent shoulder season choices — fewer tourists, lower accommodation prices, and still very pleasant weather in southern Sweden"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Sweden",
+      "quick_answer": "Sweden is expensive, but dagens lunch (SEK 100–140), ICA and Lidl supermarket picnics, Systembolaget pre-drinks, free Allemansrätten camping, and public transport day passes cut costs dramatically.",
+      "detail": "Sweden is one of Europe's more expensive countries but is very manageable with the right strategies. The single biggest saving is using dagens lunch (the daily set lunch at SEK 100–140 including salad and coffee) as your main meal, then self-catering from ICA, Lidl, or Willys supermarkets for other meals. Buying drinks from Systembolaget before going out saves enormously given bar prices. Allemansrätten makes wild camping in Sweden's forests and archipelago completely free — no campsite fees needed. Stockholm and other cities offer museum-rich itineraries with free entry on specific days or with city tourist cards. Public transport day and multi-day passes cover unlimited journeys and quickly pay for themselves.",
+      "tourist_tips": [
+        "Use the dagens lunch as your main meal every day — SEK 100–140 for a proper two-course hot meal with salad, bread, and coffee is the best value in Sweden and how locals eat",
+        "Buy wine and beer from Systembolaget before evenings out — bar prices for alcohol are very high, and a Systembolaget bottle of wine costs a fraction of one glass at a restaurant",
+        "Camp under Allemansrätten for free in Sweden's forests, islands, and coastlines — pitching a tent on public land costs nothing and puts you in some of the world's most beautiful nature"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

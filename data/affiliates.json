@@ -1,0 +1,37 @@
+{
+  "travel-insurance": {
+    "name": "SafetyWing Travel Insurance",
+    "description": "Medical coverage for travelers worldwide. Covers emergency care, hospital stays, and evacuation.",
+    "cta": "Get covered from $1.50/day",
+    "url": "YOUR_AFFILIATE_LINK_HERE",
+    "icon": "🛡️"
+  },
+  "vpn": {
+    "name": "NordVPN",
+    "description": "Stay secure on public WiFi and access your home country's content while abroad.",
+    "cta": "Get 70% off NordVPN",
+    "url": "YOUR_AFFILIATE_LINK_HERE",
+    "icon": "🔒"
+  },
+  "wise": {
+    "name": "Wise (formerly TransferWise)",
+    "description": "Send and spend money abroad using real mid-market exchange rates with no hidden fees.",
+    "cta": "Get your free Wise card",
+    "url": "YOUR_AFFILIATE_LINK_HERE",
+    "icon": "💳"
+  },
+  "pocket-wifi": {
+    "name": "Pocket WiFi Rental",
+    "description": "Unlimited mobile internet in your pocket. Rent a WiFi hotspot device for your entire trip.",
+    "cta": "Compare WiFi rental prices",
+    "url": "YOUR_AFFILIATE_LINK_HERE",
+    "icon": "📶"
+  },
+  "sim": {
+    "name": "Airalo eSIM",
+    "description": "Instant eSIM for 190+ countries. Set up before you leave — no physical SIM card needed.",
+    "cta": "Get a local eSIM instantly",
+    "url": "YOUR_AFFILIATE_LINK_HERE",
+    "icon": "📱"
+  }
+}

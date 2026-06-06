@@ -1,0 +1,360 @@
+{
+  "country": "Norway",
+  "slug": "norway",
+  "emoji": "🇳🇴",
+  "region": "Europe",
+  "currency": "NOK",
+  "language": "Norwegian",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Norway",
+      "quick_answer": "Tipping is not obligatory in Norway — service is included in prices and there is no social pressure, though rounding up or leaving 10% for genuinely good service is appreciated.",
+      "detail": "Norwegian restaurant and café prices already factor in fair staff wages, so tipping is entirely optional and no one will think less of you for leaving nothing extra. For exceptional service, rounding up the bill or adding roughly 10% is a warm gesture that staff will appreciate. The same relaxed attitude applies to taxis, hotel staff, and tour guides — a small tip is a kindness, not an expectation. Norway is one of the few countries where the no-tipping culture is genuinely ingrained rather than just politely claimed.",
+      "tourist_tips": [
+        "Round up to the nearest 50 or 100 NOK on restaurant bills if service was excellent — it is a friendly gesture rather than an obligation",
+        "For card payments, most Norwegian point-of-sale terminals include an optional tip prompt — simply enter zero or press skip without any awkwardness",
+        "Taxi and rideshare drivers do not expect tips; rounding up slightly on cash payments is fine but entirely discretionary"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Norway",
+      "quick_answer": "Norway's public transport combines Vy trains, Ruter metro and buses in Oslo, Bybanen light rail in Bergen, Hurtigruten coastal ferries, and essential domestic flights for reaching remote fjord regions.",
+      "detail": "Oslo's integrated Ruter network covers the T-bane (metro), trams, buses, and local ferries — buy tickets via the Ruter app before boarding as inspectors check regularly and fines for travelling without a valid ticket are steep. Vy (formerly NSB) operates the national rail network connecting major cities, with scenic highlights including the Bergen Railway over the Hardangervidda plateau and the famous Flåm Railway (a steep tourist route down to Sognefjord). For the fjord regions and northern Norway, domestic flights with SAS, Norwegian, and Widerøe are frequently the most practical option as road and rail distances are enormous. Hurtigruten coastal ferries connect communities along the entire Norwegian coast from Bergen to Kirkenes.",
+      "tourist_tips": [
+        "Download the Ruter app before arriving in Oslo and load a travel card — buying individual tickets without the app is more expensive and inspectors check frequently",
+        "The Bergen Railway (Oslo to Bergen) is one of Europe's most scenic train journeys — book in advance on vy.no for the best fares and a window seat",
+        "Book domestic flights on Widerøe for connecting to smaller fjord airports (Flåm, Sogndal, Ørsta-Volda) that are inaccessible by train"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "travel-insurance"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Norway",
+      "quick_answer": "EU EHIC cards are valid in Norway as it is an EEA member, covering emergency treatment at public hospitals, but travel insurance is still strongly recommended for mountain rescue and repatriation.",
+      "detail": "Norway is part of the European Economic Area (EEA) but not the EU, and the European Health Insurance Card (EHIC) is accepted at public hospitals and doctors for medically necessary treatment. However, EHIC does not cover mountain rescue, helicopter evacuation, or repatriation — all of which can be extremely costly in Norway's remote terrain and are scenarios that realistically affect hikers and skiers. The emergency medical advice line 116 117 connects to on-call doctors outside hospital hours. Apotek (pharmacies) are widespread, well-stocked, and staffed by highly trained pharmacists who can handle minor ailments. English is spoken fluently by all medical staff.",
+      "tourist_tips": [
+        "Carry your EHIC card for emergency hospital cover, but also purchase travel insurance that specifically includes mountain rescue and helicopter evacuation before any hiking",
+        "Call 116 117 for non-emergency medical advice — it connects to an on-call doctor and is available 24/7 throughout Norway",
+        "Apotek pharmacies (identified by a green cross or mortar-and-pestle sign) are excellent for minor illnesses and over-the-counter medications"
+      ],
+      "warning": "EHIC covers emergency hospital treatment but not mountain rescue or helicopter evacuation — a single rescue operation in a remote Norwegian fjord or mountain area can cost tens of thousands of NOK and must be covered by travel insurance.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Norway",
+      "quick_answer": "Norway's Friluftsloven gives everyone the right to roam, camp, and pick berries on uncultivated land, but drink-driving limits are extremely strict at 0.02% BAC and cannabis remains illegal.",
+      "detail": "Friluftsloven (the Outdoor Recreation Act) is a cherished Norwegian law granting everyone the right to hike, cycle, camp, and pick wild berries on uncultivated land regardless of who owns it — a tradition central to Norwegian outdoor culture (friluftsliv). You may camp for up to two nights in one spot in uncultivated areas as long as you are at least 150 metres from the nearest dwelling. Norway's drink-driving limit of 0.02% BAC is among the strictest in Europe — essentially zero tolerance — and penalties include automatic licence suspension and imprisonment. Cannabis is illegal and decriminalization remains debated. Littering carries fines and is taken seriously.",
+      "tourist_tips": [
+        "Use Friluftsloven freely — you can hike and camp anywhere on uncultivated land, but stay 150m from buildings, leave no trace, and do not disturb livestock or crops",
+        "Never drive after even a single drink in Norway — the 0.02% BAC limit means one beer can put you over the legal limit and the penalties are severe",
+        "Pick wild blueberries, cloudberries, and mushrooms freely under Friluftsloven — this is a beloved Norwegian activity that is yours to enjoy as a visitor"
+      ],
+      "warning": "Norway's drink-driving limit of 0.02% BAC is near-zero tolerance — even one drink before driving can result in automatic licence suspension, heavy fines, and possible imprisonment. Do not drive after consuming any alcohol.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Norway",
+      "quick_answer": "Police: 112. Ambulance: 113. Fire: 110. Medical advice line: 116 117. Road assistance: 12 19. Non-emergency police: 02800.",
+      "detail": "Norway uses distinct three-digit emergency numbers for each service alongside the universal EU 112 number, which also works in Norway. The medical advice line 116 117 is specifically for non-life-threatening situations where you need to speak with an on-call doctor or nurse — an important distinction from 113 (ambulance dispatch). Mountain and sea rescue is coordinated by the Norwegian Joint Rescue Coordination Centres (HRS), reached through the standard emergency numbers. All emergency operators speak English. Mobile phones can dial emergency numbers even without a SIM card or signal on many networks.",
+      "tourist_tips": [
+        "Save 113 (ambulance) and 116 117 (medical advice) separately — 116 117 is for urgent but non-life-threatening situations and connects you to a doctor quickly without dispatching an ambulance",
+        "112 works even without a local SIM card and will route your call to the appropriate Norwegian emergency service",
+        "In mountain areas, register your hiking plans with the Norwegian Trekking Association (DNT) or leave details with your accommodation so rescuers know your route if needed"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Norway",
+      "quick_answer": "Norway has no formal dress requirements — the culture is entirely practical and outdoor-focused, with the national philosophy being 'there's no bad weather, only bad clothing.'",
+      "detail": "Norwegians dress functionally and for the weather rather than for fashion or social status. High-quality outdoor gear from brands like Helly Hansen, Bergans, and Norrøna is everyday clothing, not just for hiking. There are no religious or cultural dress codes for tourists anywhere in the country. Smart restaurants in Oslo may appreciate smart casual attire for evening dining, but even this is relaxed by European standards. In mountain, fjord, and Arctic regions, proper layering with waterproof outer shells and warm base layers is essential for safety, not just comfort. Packing functional, weather-appropriate clothing is the single most important dress consideration in Norway.",
+      "tourist_tips": [
+        "Pack waterproof and windproof outer layers regardless of the season — Norwegian weather, especially in fjord regions and the north, changes rapidly and can be cold and wet even in July",
+        "Proper hiking boots with ankle support are essential for most Norwegian trails — trail surfaces include rocky scree, tree roots, and boggy ground that flip-flops cannot handle",
+        "Smart casual is sufficient for Oslo's best restaurants — a collared shirt or blouse and clean trousers will get you into virtually any establishment"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Norway",
+      "quick_answer": "The legal age is 18 for beer and wine, 20 for spirits; wine and spirits for off-premise consumption are only sold at Vinmonopolet state shops, which are closed on Sundays.",
+      "detail": "Vinmonopolet is Norway's state-controlled alcohol retail monopoly — the only legal outlet for buying wine and spirits to take home or to accommodation. Vinmonopolet shops are found in most towns but are closed on Sundays, all public holidays, and have limited hours on Saturdays (typically closing at 3pm or 6pm depending on location). Beer above 4.7% ABV is also restricted to Vinmonopolet; supermarkets stock beer up to 4.7% only. Alcohol is extremely expensive in Norway — a glass of wine in a restaurant typically costs NOK 100–150 (€9–14). Aquavit (akvavit) is Norway's traditional spirit, flavoured with caraway or dill. Drink-driving rules are the strictest in Europe at 0.02% BAC.",
+      "tourist_tips": [
+        "Shop at Vinmonopolet before Sunday or late Saturday — it is the only place to buy wine and spirits and is completely closed on Sundays and public holidays",
+        "Buy wine and spirits at Vinmonopolet for pre-dinner drinks in your accommodation — restaurant prices are 3–4 times higher than shop prices for the same bottle",
+        "Try Norwegian aquavit (akvavit) while here — Linie Aquavit (aged in sherry casks on a ship crossing the equator twice) is the most famous variety and a genuine Norwegian tradition"
+      ],
+      "warning": "Vinmonopolet closes early on Saturday (3pm or 6pm depending on location) and is completely closed on Sundays and public holidays — plan your purchases in advance or you will have no access to wine or spirits.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Norway",
+      "quick_answer": "There is no bargaining culture in Norway whatsoever — prices are fixed everywhere and attempting to haggle would be considered strange or rude.",
+      "detail": "Norway operates on a strict fixed-price culture even more pronounced than in neighbouring Sweden. All retail, restaurant, accommodation, and market prices are set and non-negotiable. Vendors do not inflate prices with tourist premiums expecting to be bargained down — the price shown is the genuine price everyone pays. Prices are genuinely very high in Norway, but they are honest and consistent. The one exception is private second-hand transactions — buying a used car, furniture, or electronics from an individual on FINN.no (Norway's equivalent of Craigslist) where some negotiation is normal.",
+      "tourist_tips": [
+        "Accept all displayed prices as final — Norwegian vendors are not expecting negotiation and the stated price is the real price for everyone",
+        "Use FINN.no if buying second-hand goods privately — this is the one context in Norway where negotiating the price is socially normal",
+        "Book accommodation, trains, and domestic flights well in advance on official websites for lower prices — this is the Norwegian approach to saving money, not negotiation"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Norway",
+      "quick_answer": "Norway is extremely photography-friendly with spectacular fjord and Arctic scenery freely photographable — standard rules apply at military installations, and photographing Sami people respectfully is appreciated.",
+      "detail": "Norway offers some of the world's most spectacular photography opportunities — fjords, Northern Lights, midnight sun, Lofoten archipelago, and dramatic mountain landscapes are all freely photographable from public land. There are no unusual restrictions on photographing infrastructure, public buildings, or government facilities beyond standard military installation rules. Norway's indigenous Sami people have a strong cultural identity and appreciate being asked before being photographed — it is a respectful gesture rather than a legal requirement. Drone photography is subject to Norwegian Civil Aviation Authority (Luftfartstilsynet) regulations requiring registration and respecting no-fly zones near airports and populated areas.",
+      "tourist_tips": [
+        "Lofoten Islands, Geirangerfjord, and Trolltunga are among the world's most photogenic locations — golden hour light under the midnight sun in June creates extraordinary conditions",
+        "Ask permission respectfully before photographing Sami people in traditional dress at cultural events — most are welcoming when approached politely",
+        "Register your drone with Luftfartstilsynet and check the Drone Norway map app before flying — rules vary by zone and fines for violations are significant"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Norway",
+      "quick_answer": "Most shops are closed on Sundays in Norway — stricter than many European countries — and Vinmonopolet (wine and spirits) is always closed on Sundays and public holidays.",
+      "detail": "Norwegian Sunday closing is comprehensive in residential areas and smaller towns. Large supermarket chains (ICA, Rema 1000, Kiwi, Coop) have some locations open on Sundays but with reduced hours, typically until 6pm — this varies by municipality and location. Shops in major tourist areas, Oslo city centre, and at airports operate with more flexibility. Vinmonopolet is absolutely closed every Sunday, all public holidays, and closes early (3–6pm) on Saturdays. Fjord ferry services, trains, and key tourist attractions operate daily. Planning grocery shopping and any alcohol purchases before Sunday prevents a frustrating discovery of closed shops.",
+      "tourist_tips": [
+        "Stock up on groceries and any wine or spirits from Vinmonopolet on Saturday — Sunday closures catch many tourists unprepared, especially in smaller towns",
+        "Convenience stores (Narvesen, 7-Eleven, Deli de Luca) in cities remain open on Sundays though at premium prices — useful for essentials if caught short",
+        "Major tourist attractions including fjord cruises, Flåm Railway, and Oslo museums operate on Sundays — plan cultural activities for Sunday and shopping for other days"
+      ],
+      "warning": "Vinmonopolet (the only shop selling wine and spirits) is completely closed every Sunday and on all public holidays — if you want wine or spirits for the weekend, buy it on Friday or Saturday before closing time.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Norway",
+      "quick_answer": "Uber and Bolt operate in Oslo alongside metered official taxis — all are honest but expensive; outside Oslo, taxis generally need to be pre-booked.",
+      "detail": "Oslo has a functioning rideshare market with Uber and Bolt competing alongside traditional taxi companies (Oslo Taxi, Norgestaxi). All metered taxis are regulated, honest, and transparent with pricing — overcharging is rare. Prices are however very high by international standards: a short Oslo city journey of 3–4km can cost NOK 150–200 (€14–19). Uber and Bolt are typically 10–20% cheaper than traditional taxis in Oslo. Outside major cities, taxis are scarce and must generally be pre-booked by phone — they do not cruise for street hails in smaller towns and fjord communities. Norway's excellent public transport should be the default for getting around wherever possible.",
+      "tourist_tips": [
+        "Use Uber or Bolt in Oslo for cheaper fares than traditional taxis — both apps work well and show upfront pricing before you confirm the ride",
+        "In Bergen, Trondheim, and other cities, pre-book taxis by phone or app for journeys outside public transport hours rather than expecting to hail one on the street",
+        "Oslo's Ruter public transport is far cheaper and nearly as convenient as taxis for most city journeys — use the T-bane, trams, or buses and save significantly"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Norway",
+      "quick_answer": "Norwegian tap water and mountain water are among the world's finest — drink freely from taps everywhere and safely from most mountain streams.",
+      "detail": "Norway has exceptionally pure water sourced from glaciers, mountains, and clean natural aquifers with minimal agricultural or industrial contamination. Tap water is of excellent quality throughout the country and buying bottled water is an unnecessary expense that locals consider mildly unusual. Mountain streams and lakes are generally very safe to drink from directly — the main caveat being to check if there are sheep or livestock grazing above your water source, which can occasionally introduce contamination. In practice, Norwegian mountain water is safe the vast majority of the time and hikers drink from streams routinely. No water purification tablets are needed for normal travel.",
+      "tourist_tips": [
+        "Bring a refillable water bottle and drink from taps and public fountains throughout Norway — the water quality is outstanding and this is completely normal local behaviour",
+        "On hiking trails, drinking from fast-flowing mountain streams is generally safe — exercise judgement if there are visible livestock above you on the hillside",
+        "Norwegian glacier meltwater streams (particularly in Jotunheimen and the Jostedalsbreen area) are exceptionally pure and safe to drink directly"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Norway",
+      "quick_answer": "Norway is extremely cashless — Vipps mobile payments and contactless cards dominate daily life, but carry some NOK cash for very remote areas and small rural vendors.",
+      "detail": "Norway is arguably the world's most cashless society — the vast majority of Norwegians never carry physical cash, and many shops, cafés, and even market stalls in cities are card-only. Vipps is the dominant Norwegian mobile payment platform used for splitting bills, paying at many vendors, and transferring money. Visa and Mastercard are universally accepted and contactless payments are the norm everywhere. DNB, Nordea, and SpareBank 1 ATMs are found in towns and cities and reliably accept foreign cards. In very remote fjord communities, mountain huts, and some rural areas, cash can still be necessary — withdraw NOK before heading deep into the countryside. Norway does not use EUR.",
+      "tourist_tips": [
+        "Use a Wise or Revolut card for all purchases to get the real NOK exchange rate and avoid foreign transaction fees — this saves meaningfully given Norway's high prices",
+        "Withdraw NOK from bank ATMs (not currency exchange kiosks) before visiting remote fjord areas or planning multi-day DNT hut hikes where cash may be required",
+        "Download the Vipps app if staying with Norwegian locals — it is how Norwegians split bills and transfer money between friends, and it accepts foreign cards"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Norway",
+      "quick_answer": "EU roaming applies in Norway as an EEA member, so EU SIM cards work without extra charges; Telenor has the best coverage in remote fjords and mountains.",
+      "detail": "Norway is part of the EEA, meaning EU mobile roaming regulations apply — EU SIM card holders can use their home data and calling allowances in Norway without extra roaming charges, subject to fair use limits. For non-EU visitors, local SIMs from Telenor (best rural and fjord coverage), Telia, and Ice are available at airports, 7-Eleven stores, and Elkjøp electronics shops. Airalo eSIMs offer a convenient Norway data plan purchasable before departure. Mobile coverage in Norway is impressive given the terrain — 4G reaches most fjord communities, hiking trails, and coastal areas thanks to significant national infrastructure investment. Some very remote mountain areas and deep fjords still have gaps.",
+      "tourist_tips": [
+        "EU SIM card holders can use their home plan in Norway under EEA roaming rules — check your operator's fair-use data limit before heavy streaming or navigation use",
+        "Buy a Telenor SIM for the best coverage in remote areas including Lofoten, Svalbard approaches, and deep fjord valleys where other operators lose signal",
+        "Purchase an Airalo Norway eSIM before departing if you want instant connectivity on arrival without finding a shop — works on all modern unlocked smartphones"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Norway",
+      "quick_answer": "Norway uses Type C and F (Schuko) plugs at 230V/50Hz — the same as most of continental Europe, so most European devices work without an adapter.",
+      "detail": "Norway uses the standard continental European plug and socket system — Type C (two round pins) and Type F Schuko (two round pins with grounding clips) at 230V and 50Hz. This is identical to Germany, France, Spain, and most of Europe. UK visitors with three-pin plugs and North American visitors with flat two-pin 110V devices will both need adapters. US and Canadian devices also require a voltage converter unless their charger specifies 100–240V input (most modern phone chargers and laptop adapters do). Adapters are available at Norwegian airports and electronics shops (Elkjøp).",
+      "tourist_tips": [
+        "Most modern phone chargers, laptops, and camera chargers are dual-voltage (100–240V) and only need a plug adapter, not a voltage converter — check the label on your charger",
+        "UK visitors need a UK-to-Type-F adapter — pick one up at a Norwegian airport Elkjøp or electronics shop if forgotten",
+        "Type C two-pin European plugs work fine in Norwegian Type F sockets, so standard European travel adapters cover Norway without any special preparation"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Norway",
+      "quick_answer": "Norway has one of the lowest scam rates in the world — it is an exceptionally honest commercial environment with essentially no tourist scams and no haggling culture.",
+      "detail": "Norway consistently ranks among the most honest and transparent commercial environments globally. Price manipulation, fake tour operators, restaurant overcharging, and street scams are virtually absent. Prices are very high throughout Norway — accommodation, food, transport, and activities all cost more than almost anywhere else in Europe — but these are genuine prices, not tourist inflation traps. The one area where occasional issues arise is unauthorized or informal taxi services in Oslo, which can overcharge. Using official metered taxis, Uber, or Bolt eliminates this risk. Pickpocketing in busy Oslo tourist areas (Karl Johans gate, Aker Brygge) is minimal but standard urban awareness is sensible.",
+      "tourist_tips": [
+        "Only use official metered taxis, Uber, or Bolt in Oslo — unmarked or informal vehicles offering rides can overcharge, though this is rare even by European standards",
+        "Norway's high prices are genuine and consistent for tourists and locals alike — there is no tourist premium or price gouging, just an expensive country",
+        "Standard pickpocket awareness in Oslo's busiest areas (Karl Johans gate, the harbour) is sufficient — Norway is extremely safe and scam-free by any global comparison"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Norway",
+      "quick_answer": "Norway is one of the world's safest countries with negligible violent crime against tourists — the main safety concerns are outdoor and wildlife hazards, particularly polar bears on Svalbard.",
+      "detail": "Norway ranks consistently in the top tier of global safety indices. Violent crime affecting tourists is essentially non-existent. Rural Norway is completely safe at all hours. Oslo has minimal urban petty crime — some pickpocketing around the central station (Oslo S) — but it is mild compared to any major European capital. The genuine safety risks in Norway are natural: mountain weather that changes rapidly, cold water temperatures in fjords and coastal areas, and wildlife encounters on Svalbard where polar bears are a real danger outside the settlement of Longyearbyen. Hiking alone in remote mountain areas always carries the risk of injury with no mobile signal, making PLB (personal locator beacon) devices advisable.",
+      "tourist_tips": [
+        "Do not leave the settlement of Longyearbyen on Svalbard without a licensed guide, a rifle, and proper training — polar bears are an active danger and this is a strict local rule, not a suggestion",
+        "Carry a whistle, emergency bivvy bag, and fully charged phone with offline maps on any mountain hike — Norwegian weather can deteriorate to life-threatening conditions quickly",
+        "Oslo's central station area (Oslo S) deserves standard big-city awareness, but the risk level is low by European standards — normal vigilance is entirely sufficient"
+      ],
+      "warning": "On Svalbard, polar bears are a genuine lethal danger outside the settlement of Longyearbyen — never venture beyond town without a qualified armed guide. This is enforced by local law and not negotiable.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Norway",
+      "quick_answer": "Norwegians are reserved but direct — the concept of Janteloven (humility and equality) shapes social behaviour, outdoor life (friluftsliv) is sacred, and punctuality is respected.",
+      "detail": "Norwegian culture is shaped by Janteloven — an unwritten social code discouraging boastfulness or thinking yourself better than others, which creates a culture of understated equality and mutual respect. Norwegians are reserved with strangers but warm and direct once comfortable — do not mistake initial quietness for unfriendliness. Silence in conversation is comfortable and not awkward in Norwegian culture; do not feel compelled to fill every pause with chatter. Friluftsliv (outdoor life) is central to Norwegian identity — respecting nature, leaving no trace, and taking outdoor activities seriously earns genuine respect. The hytte (cabin) culture is deeply personal and sacred. Punctuality for appointments and social arrangements is important.",
+      "tourist_tips": [
+        "Do not interpret Norwegian reserve and quiet as coldness — once a conversation starts, Norwegians are genuinely warm, direct, and often have excellent senses of humour",
+        "Respect the Leave No Trace principle everywhere in nature — Friluftsloven gives you access to the land but Norwegians take environmental stewardship extremely seriously",
+        "If invited to a Norwegian home, arrive on time, remove your shoes at the door, and bring a small gift (wine from Vinmonopolet, chocolates, or flowers) — hospitality is taken seriously"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Norway",
+      "quick_answer": "English is spoken fluently by virtually the entire Norwegian population — there is essentially no language barrier for English speakers anywhere in Norway.",
+      "detail": "Norway has two official written forms of Norwegian — Bokmål (used by roughly 85–90% of the population) and Nynorsk — alongside strong regional spoken dialects that vary significantly across the country. Despite this internal linguistic complexity, English proficiency in Norway is among the highest in the world, consistently ranking in the top three globally in EF English Proficiency Index surveys. English is taught from early primary school, and media, subtitled rather than dubbed, reinforces it further. In practice, every Norwegian under 70 speaks confident English and service staff in cities are fluent. A few words of Norwegian are appreciated but absolutely not necessary.",
+      "tourist_tips": [
+        "A simple 'takk' (thank you, pronounced 'tack') and 'hei' (hello) will delight any Norwegian — even a small effort with the language is warmly received",
+        "Do not worry about Bokmål versus Nynorsk as a tourist — you will encounter Bokmål in most signage and printed material, and any Norwegian word you learn will serve you fine",
+        "English menus, signs, and staff are universal in tourist areas and common even in rural Norway — language is never a practical barrier for English-speaking visitors"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Norway",
+      "quick_answer": "Norwegian fjords and coastline are spectacular but cold — sea temperatures reach 15–18°C at best in summer, with Norway's warmest beaches found along the Sørlandet south coast near Kristiansand.",
+      "detail": "Norway's coastline and fjords are among Europe's most dramatic, but the water is cold by most standards — the North Sea and Norwegian coast rarely exceed 18°C even in the warmest August, and fjord water (fed by snowmelt) can be significantly colder. The Sørlandet region (south coast from Mandal to Kristiansand) offers Norway's most beach-holiday-friendly conditions with warmer shallow bays and white sandy beaches. Swimming in northern Norway carries the unique experience of the midnight sun — swimming at 1am in full daylight is genuinely extraordinary. Urban beaches near Oslo along the Oslofjord (Huk, Paradisbukta, Hvaler islands) are popular and easily accessible by Ruter ferries.",
+      "tourist_tips": [
+        "Head to the Sørlandet south coast (Kristiansand area, Mandal, Lista) for Norway's warmest and most beach-holiday-like swimming conditions in July and August",
+        "Take the Ruter ferry from Oslo to Huk or Paradisbukta on Bygdøy peninsula for a surprisingly pleasant urban beach day within 20 minutes of the city centre",
+        "Swimming at midnight under the midnight sun above the Arctic Circle (Tromsø, Lofoten, North Cape area) in June and July is a genuinely unique experience worth seeking out"
+      ],
+      "warning": "Fjord water fed by glacial snowmelt can be dangerously cold even in summer — hypothermia risk is real in extended immersion. Test the water before long swims and never swim alone in remote fjord locations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Norway",
+      "quick_answer": "Drive on the right; toll roads are widespread with the AutoPASS system; winter tyres are mandatory in snow conditions; and mountain roads rank among the world's most spectacular and technically demanding.",
+      "detail": "Norway drives on the right with standard European road signs. Toll roads are extensive — most major routes and city approaches use automatic electronic tolling via the AutoPASS system; rental cars are typically pre-equipped, but confirm with your rental company. Many scenic routes require ferry crossings (included in most GPS routing), adding time and small costs to journeys. Mountain roads including Trollstigen, the Atlantic Road, and many fjord routes are spectacular but technically demanding — single-lane sections, steep gradients, and hairpin bends require confident driving. Winter tyres (studded or friction) are legally required when roads are snow or ice-covered. Reindeer and elk on roads are a genuine hazard, particularly at dawn and dusk in northern Norway. Speed cameras are widespread and limits strictly enforced.",
+      "tourist_tips": [
+        "Confirm your rental car has AutoPASS toll transponder coverage included — toll bills are sent to the rental company and added to your invoice if not pre-arranged, sometimes with added administration fees",
+        "Plan fjord road routes with ferry crossings accounted for — norled.no and fjord1.no have current schedules, and some ferries run infrequently, making timing critical",
+        "Drive slowly at dawn and dusk in northern and central Norway — reindeer and elk (elg) move unpredictably onto roads and a collision at speed is life-threatening for both you and the animal"
+      ],
+      "warning": "Mountain roads in Norway (Trollstigen, Geiranger, Hardangervidda) are closed in winter and can be dramatic even in summer — check vegvesen.no for road conditions and closures before driving mountain routes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Norway",
+      "quick_answer": "Norwegian cuisine centres on world-class salmon, seafood, and unique dishes like brunost (brown cheese) and fårikål — restaurants are very expensive, so lunch specials and supermarket food are essential budget tools.",
+      "detail": "Norway produces some of the world's finest salmon — fresh, smoked, gravlax (cured), and as sushi — as well as outstanding cod (bacalao), Arctic char, and shellfish. Fårikål (lamb and cabbage stew) is the official national dish. Brunost (brown whey cheese with a sweet, caramel-like flavour) is uniquely Norwegian and polarizing. Lutefisk (lye-treated dried cod) is a traditional winter dish. Restaurant prices are very high — a main course at dinner typically costs NOK 200–350 (€18–32) and a glass of wine NOK 120–160. The dagenstilbud (today's special) at lunch restaurants offers the best value. Kiwi and Rema 1000 are the budget supermarket chains for self-catering.",
+      "tourist_tips": [
+        "Look for dagenstilbud (today's lunch special) signs at restaurants — a two-course lunch for NOK 130–180 is the best restaurant value in Norway and matches dinner quality",
+        "Buy fresh salmon at a fish market (Bergen's Fisketorget is famous) or supermarket and eat it as a picnic — Norwegian salmon eaten at source is a genuine gastronomic experience at reasonable cost",
+        "Shop at Kiwi or Rema 1000 for the cheapest supermarket prices — these budget chains are significantly cheaper than ICA or Meny for everyday groceries and prepared foods"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Norway",
+      "quick_answer": "Norway is a highly secular society — Lutheran churches are more cultural and historical than actively religious, though modest dress and silence are appreciated when visiting.",
+      "detail": "The Church of Norway (Den norske kirke) is Lutheran and was formally the state church until 2017. Churches are found throughout the country including in tiny fjord villages, and many are architecturally and historically significant. Norway's unique stave churches — medieval wooden constructions found nowhere else in the world — are UNESCO-recognized and among the most visited cultural attractions; Borgund, Urnes, and Heddal are the finest examples. Nidarosdomen in Trondheim is Norway's national cathedral and the traditional coronation church. Norwegian society is among Europe's most secular — churches function largely as cultural and historical sites rather than active religious centres. Modest dress (covered shoulders and knees) out of respect is appreciated but rarely required.",
+      "tourist_tips": [
+        "Visit the stave churches — Borgund Stave Church (Lærdal), Urnes Stave Church (Luster, UNESCO), and Heddal Stave Church (Notodden) are irreplaceable medieval wooden structures unique to Norway",
+        "Nidarosdomen in Trondheim is Norway's most important cathedral and worth a dedicated visit — the west facade's Gothic sculpture and the interior are spectacular",
+        "Dress modestly with covered shoulders and knees for church visits as a sign of respect, even in Norway's secular context — a light layer in your bag easily solves this"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Norway",
+      "quick_answer": "Oslo and fjords are best June–August; Northern Lights season is October–March in Tromsø; midnight sun is active May–July above the Arctic Circle; and Bergen is beautiful but famously rainy year-round.",
+      "detail": "Norway's climate varies dramatically by latitude and geography. Oslo has a continental climate with warm summers (20–25°C in July) and cold winters with reliable snow. Bergen is Norway's wettest city — it rains on average 240 days per year and visitors should always carry waterproofs. The fjord regions (Geirangerfjord, Sognefjord, Hardangerfjord) are most accessible and spectacular May through September. Above the Arctic Circle, the midnight sun (continuous daylight) runs from late May to mid-July, while the Northern Lights are active October through March with January–February offering the darkest skies. Lofoten Islands are accessible year-round but most rewarding June–August for hiking and June and January–February for dramatic light. Ski season runs December through April in resorts like Hemsedal, Geilo, and Trysil.",
+      "tourist_tips": [
+        "Visit Tromsø for Northern Lights between January and mid-March — avoid December and November when cloud cover is highest; clear cold nights away from city light give the best aurora displays",
+        "The fjords in May offer wildflowers, lower accommodation prices, thinner crowds, and snow-capped mountains reflected in the water — one of Norway's most spectacular times without peak-season prices",
+        "Always carry waterproofs in Bergen regardless of the forecast — Bergen's microclimate means you can experience all four seasons in one afternoon"
+      ],
+      "warning": "Norwegian mountain weather is extremely unpredictable year-round — conditions can shift from clear sunshine to dangerous blizzard or thunderstorm within hours even in summer. Always carry full waterproofs and warm layers regardless of the morning forecast.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Norway",
+      "quick_answer": "Norway is one of the world's most expensive countries, but smart use of budget supermarkets, lunch specials, the Oslo Pass, DNT hut hiking, and camping under Friluftsloven dramatically reduces daily costs.",
+      "detail": "Norway consistently ranks as one of the two or three most expensive countries globally for tourists — a daily budget without planning can easily exceed NOK 1500–2000 (€130–180) per person. Key strategies include eating breakfast and lunch from Kiwi or Rema 1000 supermarkets (the cheapest chains), seeking out dagenstilbud (lunch daily specials) for restaurant meals, and buying wine and spirits from Vinmonopolet for pre-dinner drinks rather than paying restaurant prices. The Oslo Pass covers unlimited public transport plus entry to over 30 museums and is excellent value for two or more days in the city. Camping under Friluftsloven (free on uncultivated land) and DNT mountain huts (Norwegian Trekking Association, from around NOK 200–400 per night for members) provide affordable overnight options for hikers.",
+      "tourist_tips": [
+        "Buy a Wise card before travelling and use it for all purchases — eliminating foreign transaction fees saves meaningfully across a Norwegian trip given the high prices",
+        "Get the Oslo Pass (24, 48, or 72 hours) if spending multiple days in the city — it covers all Ruter public transport plus the Vigeland Park, Viking Ship Museum, Fram Museum, and 25+ other attractions",
+        "Join DNT (Norwegian Trekking Association) online before your trip — annual membership costs around NOK 700 and gives access to 500+ staffed and self-service mountain huts at reduced rates, transforming Norway's hiking into genuinely affordable multi-day adventures"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

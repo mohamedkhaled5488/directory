@@ -1,0 +1,460 @@
+{
+  "country": "South Korea",
+  "slug": "south-korea",
+  "emoji": "🇰🇷",
+  "region": "Asia",
+  "currency": "KRW",
+  "language": "Korean",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in South Korea",
+      "quick_answer": "Tipping is not customary in South Korea and can actually confuse or embarrass staff.",
+      "detail": "Unlike many Western countries, South Korea has no tipping culture — staff are paid proper wages and gratuities are not expected. Attempting to tip in restaurants or taxis may cause awkward refusals or genuine confusion. Some upscale international hotels add a service charge automatically to the bill. The best appreciation you can show is returning to the establishment or leaving a positive review.",
+      "tourist_tips": [
+        "Do not leave cash on the table after a meal — staff may chase you down thinking you forgot it.",
+        "Upscale hotels may include a 10% service charge on your bill, so check before adding extra.",
+        "If you feel compelled to show appreciation, a small gift or kind words in Korean (gamsahamnida) are far more appropriate."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in South Korea",
+      "quick_answer": "South Korea has world-class public transport — the T-money card works on all Seoul Metro lines, city buses, and taxis nationwide.",
+      "detail": "The Seoul Metropolitan Subway is one of the most extensive and punctual systems in the world, with English announcements and signage throughout. The T-money rechargeable card can be purchased at any convenience store or subway station and works seamlessly on metro, buses, and taxis across major cities. For intercity travel, the KTX high-speed rail connects Seoul to Busan in approximately 2 hours and 20 minutes. The Kakao T app (available in English) is the go-to platform for hailing taxis.",
+      "tourist_tips": [
+        "Buy a T-money card at the airport or any GS25, CU, or 7-Eleven convenience store the moment you arrive.",
+        "Download Kakao T before your trip for taxis and Naver Maps or Kakao Maps for navigation — Google Maps is less accurate in Korea.",
+        "KTX tickets sell out on public holidays; book in advance through the Korail website or at station ticket machines with an English option."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in South Korea",
+      "quick_answer": "South Korea has world-class hospitals, but national health insurance does not cover tourists, making travel insurance essential.",
+      "detail": "Medical facilities in South Korea are excellent by global standards, with internationally accredited hospitals such as Seoul National University Hospital and Severance Hospital offering English-speaking international clinics. Pharmacies (약국, yakguk) are found on virtually every block and pharmacists can often assist with minor ailments. Treatment costs can be high for uninsured visitors, particularly for specialist care or hospitalization. Always carry travel insurance that includes medical evacuation coverage.",
+      "tourist_tips": [
+        "Look for pharmacies marked 약국 — they are everywhere and a great first stop for minor issues like colds or stomach upsets.",
+        "Seoul National University Hospital and Severance Hospital (Yonsei) have dedicated international clinics with English-speaking staff.",
+        "Keep digital and printed copies of your travel insurance policy and emergency contact numbers accessible at all times."
+      ],
+      "warning": "South Korea's National Health Insurance scheme does not cover foreign tourists; an unexpected hospitalization can cost thousands of dollars without insurance.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in South Korea",
+      "quick_answer": "South Korea enforces strict drug laws and several unique statutes — cannabis is illegal even if it is legal in your home country.",
+      "detail": "Drug offences carry severe penalties in South Korea; tourists have been prosecuted for consuming cannabis abroad before arrival if it is detectable in their system. Photography of military installations is strictly prohibited due to the proximity of North Korea, and this is enforced seriously. Defaming or insulting someone online can be a criminal offence under Korean law, not merely a civil matter. Age of consent and public decency laws are strictly enforced, and ignorance of local law is not accepted as a defence.",
+      "tourist_tips": [
+        "Never photograph military checkpoints, barracks, or installations — penalties include arrest and deportation.",
+        "Avoid any recreational drug use before or during your visit; South Korean customs can conduct drug tests on arrival if there is cause for suspicion.",
+        "DMZ tours have explicit photography rules briefed by your guide — follow them exactly, as violations are treated seriously by both Korean and UN forces."
+      ],
+      "warning": "Cannabis consumption — even in a country where it is legal — can result in criminal prosecution in South Korea if detected upon return or during your stay.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in South Korea",
+      "quick_answer": "Dial 112 for police, 119 for fire and ambulance, and 1330 for the 24/7 English-language Korea Tourism Hotline.",
+      "detail": "The Korea Tourism Organization's 1330 hotline is particularly valuable for tourists — it operates 24 hours a day, 7 days a week, in English, Chinese, and Japanese, and can assist with travel emergencies, translation help, and general inquiries. The 112 police line and 119 fire/ambulance line both have basic English support. In a medical emergency, clearly stating your location using a nearby landmark or the exact address from a map app will speed response times significantly.",
+      "tourist_tips": [
+        "Save 1330 in your phone immediately upon arrival — it is the most useful number for tourists and operates around the clock in English.",
+        "The address system in Korea can be complex; use Kakao Maps or Naver Maps to get a precise address to relay to emergency services.",
+        "Most major tourist areas have tourist police booths staffed by officers with basic English ability — look for the blue-and-white 'Tourist Police' signage."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in South Korea",
+      "quick_answer": "South Korea has no national dress requirements, but modest dress is expected at Buddhist temples, and Koreans themselves tend to dress very stylishly.",
+      "detail": "South Korea is a modern, fashion-forward society and there are no legal or religious dress mandates for the general public. However, when visiting Buddhist temples (사찰), visitors should cover their shoulders and knees out of respect, and some inner sanctuaries require shoes to be removed. Koreans generally take personal appearance very seriously, and dressing neatly will be well-received in most social situations. Beachwear is strictly for the beach or pool — walking city streets in swimwear is considered inappropriate.",
+      "tourist_tips": [
+        "Carry a light scarf or wrap when visiting temples — it doubles as a cover-up and is easy to pack.",
+        "Renting a hanbok (traditional Korean dress) near palaces like Gyeongbokgung grants free entry and makes for memorable photos.",
+        "Smart-casual attire is the norm for evenings out in Seoul's Gangnam or Hongdae districts — overly casual outfits may attract polite but noticeable attention."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in South Korea",
+      "quick_answer": "The legal drinking age is 19 by Korean age reckoning, drinking in public is legal and common, and soju is the beloved national spirit.",
+      "detail": "Public drinking is not only legal but deeply embedded in Korean social culture — pojangmacha (orange-tented street food stalls) serve beer and soju alongside snacks until late at night. The legal age is 19 in the Korean age system, which corresponds to roughly 18 by Western reckoning, though businesses strictly check ID for younger-looking customers. Soju, a clear rice-based spirit, is the world's best-selling liquor and costs as little as 1,500 KRW in convenience stores. The drinking culture emphasizes communal sharing — pour for others and they will pour for you.",
+      "tourist_tips": [
+        "Try a pojangmacha experience for evening street food and soju — it is one of the most authentic and affordable social experiences in Korea.",
+        "Never pour your own drink in a group setting; wait for someone to pour for you and always pour for others first as a sign of respect.",
+        "Convenience stores like GS25 and CU allow you to buy alcohol and drink it at their outdoor seating areas — a uniquely Korean and very cheap social option."
+      ],
+      "warning": "Drink-driving laws are strict with zero tolerance enforced by frequent checkpoints; designated driver services (대리운전) are widely available and inexpensive.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in South Korea",
+      "quick_answer": "Bargaining is not the norm in South Korea — prices in most shops, restaurants, and convenience stores are fixed.",
+      "detail": "South Korea operates largely on fixed pricing, and attempting to haggle in a regular shop or restaurant is unusual and can cause embarrassment. Some flexibility exists at large traditional markets such as Dongdaemun and Namdaemun, particularly when buying in bulk or toward the end of the day. Department stores, convenience stores, and all chain retailers operate strict fixed pricing. Online shopping platforms like Coupang or Naver Shopping often offer better prices than negotiating in person.",
+      "tourist_tips": [
+        "At Namdaemun or Dongdaemun markets, buying multiple items from one vendor or paying cash may open the door to a small informal discount.",
+        "Do not attempt to bargain at convenience stores, chain restaurants, or any establishment with a price tag or menu — it will cause awkwardness.",
+        "Duty-free shopping at Incheon Airport or downtown duty-free stores offers legitimate savings on cosmetics, electronics, and luxury goods without any negotiation needed."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in South Korea",
+      "quick_answer": "Photography is generally unrestricted for tourists, but military installations are strictly off-limits and DMZ tours have specific enforceable rules.",
+      "detail": "South Korea is a highly photogenic and photo-friendly destination, and street photography is widely practiced and accepted. Military installations, bases, and checkpoints must never be photographed — this is strictly enforced and violations can result in arrest, detention, and deportation. DMZ (Demilitarized Zone) tours include detailed photography briefings from your guide, and those rules are jointly enforced by Korean and UN personnel. Some Buddhist temples restrict photography inside main prayer halls as a sign of respect for worshippers.",
+      "tourist_tips": [
+        "On a DMZ tour, listen carefully to the guide's photography briefing — the rules change by zone and any violation is taken very seriously.",
+        "Many Korean people are happy to be photographed, especially in tourist areas and around palaces where hanbok rentals are popular.",
+        "Always ask permission before photographing monks or people engaged in religious ceremonies at temples."
+      ],
+      "warning": "Photographing military installations near the North Korean border is a criminal offence that can result in immediate detention and deportation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in South Korea",
+      "quick_answer": "Most businesses including shops and restaurants operate 7 days a week, and convenience stores are open 24/7 year-round.",
+      "detail": "South Korea's retail and food culture is remarkably convenient — GS25, CU, 7-Eleven, and emart24 convenience stores operate around the clock every day of the year. Major attractions, restaurants, and tourist facilities are generally open on Sundays. Some traditional markets designate one weekday as a rest day rather than Sunday. Public holidays (there are 15 national holidays) can cause closures at government offices, some museums, and smaller family-run businesses.",
+      "tourist_tips": [
+        "Check major holiday dates before your trip — Chuseok (autumn harvest) and Seollal (Lunar New Year) see mass closures and nationwide travel that can disrupt plans.",
+        "Convenience stores are genuinely excellent in Korea — hot food, fresh kimbap, and quality snacks are available 24/7 at very low prices.",
+        "Gyeongbokgung Palace and most major national museums are closed on Tuesdays, not Sundays — a common tourist mistake to be aware of."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in South Korea",
+      "quick_answer": "Taxis in South Korea are metered, generally honest, and the Kakao T app (available in English) makes hailing one straightforward.",
+      "detail": "Regular taxis (orange or silver) are metered and reliable, though communication can be challenging outside major tourist areas. The Kakao T app is the dominant ride-hailing platform and includes an English interface, in-app destination setting, and fare estimates, effectively solving the language barrier. International taxis — identifiable by their silver or black color — specifically offer English-speaking drivers and are bookable through Kakao T. Uber operates in South Korea but with limited availability compared to Kakao T.",
+      "tourist_tips": [
+        "Download Kakao T before arrival and set up payment — it removes any language barrier and allows you to set your destination in English.",
+        "International taxis (silver or black) with English-speaking drivers can be booked via Kakao T for slightly higher fares — worth it for complex journeys.",
+        "Tipping taxi drivers is not expected and may be refused — simply round up if you wish, but it is genuinely not necessary."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in South Korea",
+      "quick_answer": "Tap water in South Korea is safe to drink and is among the cleanest in Asia, though many locals prefer bottled water by habit.",
+      "detail": "South Korean municipal water systems meet strict quality standards and tap water is certified safe to drink in all major cities and tourist areas. Many Koreans choose to drink bottled or filtered water for taste preference rather than safety concerns, and water purifiers are common in homes. Water fountains are available in subway stations and public spaces. When hiking in national parks, stick to marked water sources or carry your own supply.",
+      "tourist_tips": [
+        "You can safely drink tap water from hotel room taps throughout South Korea — no need to buy bottled water unless you prefer the taste.",
+        "Free hot and cold water dispensers are available in many Korean restaurants alongside your meal at no charge.",
+        "When hiking in Korea's excellent national parks, carry sufficient water as sources along trails may not be potable."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in South Korea",
+      "quick_answer": "ATMs at 7-Eleven, GS25 convenience stores, and post offices reliably accept foreign cards 24/7, though cash remains useful for markets and street food.",
+      "detail": "South Korea is increasingly cashless — Kakao Pay, Naver Pay, and card payments are accepted almost everywhere in cities. However, traditional markets, pojangmacha food tents, and smaller local restaurants often remain cash-only. Foreign cards work consistently at convenience store ATMs (GS25, 7-Eleven, emart24) and post office ATMs around the clock. Some standalone bank ATMs may have reduced foreign card acceptance after business hours or on public holidays.",
+      "tourist_tips": [
+        "Withdraw cash from a GS25 or 7-Eleven ATM the moment you land at Incheon Airport — these are the most reliable for foreign cards at any hour.",
+        "Wise or Revolut cards significantly reduce foreign transaction and ATM fees compared to traditional bank cards.",
+        "Keep a supply of 10,000 KRW notes for street food, traditional markets, and pojangmacha visits where cash is often the only option."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in South Korea",
+      "quick_answer": "Buy a tourist SIM card at Incheon Airport arrivals immediately — KT, SKT, and LG Uplus all offer excellent coverage with 4G/5G nationwide.",
+      "detail": "South Korea has some of the fastest and most comprehensive mobile internet infrastructure in the world, with 5G widely available in cities and strong 4G coverage even in rural and mountain areas. Tourist SIM cards are sold at Incheon Airport arrivals hall kiosks for KT, SKT, and LG Uplus — plans typically run 5 to 30 days at very reasonable prices. Airalo and other eSIM providers also work well for South Korea if your device supports eSIM. Pocket Wi-Fi devices can be rented at the airport for those sharing connectivity across multiple devices.",
+      "tourist_tips": [
+        "Head directly to the SIM card kiosks in the Incheon Airport arrivals hall — it is the easiest and fastest way to get connected before you even leave the airport.",
+        "Airalo eSIM is a good option if you want to avoid queuing at the airport and your phone supports eSIM.",
+        "Free Wi-Fi is widely available in cafes, subway stations, and tourist attractions, but a local SIM makes navigation and Kakao T dramatically more convenient."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in South Korea",
+      "quick_answer": "South Korea uses Type C and Type F (European-style round-pin) plugs at 220V/60Hz — American visitors need an adapter.",
+      "detail": "The standard voltage is 220V and the frequency is 60Hz — notably, while the voltage matches Europe, the frequency differs (Europe uses 50Hz), though this is inconsequential for virtually all modern electronics and appliances. Type C (two round pins) and Type F (two round pins with grounding clips) are both used. Travelers from North America (110V, Type A/B) will need a plug adapter and should verify their device's voltage compatibility, though most modern laptops, phones, and cameras are dual-voltage (100-240V). UK visitors (Type G) also need an adapter.",
+      "tourist_tips": [
+        "Check your device's power brick for input voltage — if it says '100-240V' (most modern electronics do), you only need a plug adapter, not a voltage converter.",
+        "Type C to Type F adapters are inexpensive and widely available at convenience stores and electronics shops like Daiso or electronics markets.",
+        "USB-C charging has become near-universal in Korean cafes, hotels, and airport lounges — a USB-C cable covers most modern devices without needing to worry about plug types."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in South Korea",
+      "quick_answer": "South Korea has very low scam rates compared to most tourist destinations, though occasional overcharging can occur in heavily touristed areas like Itaewon.",
+      "detail": "South Korea is widely regarded as one of the most tourist-safe countries in Asia in terms of scams and petty fraud. Taxis are metered and drivers are generally honest. The main risks are mild overcharging at some shops in Itaewon, Myeongdong, or popular tourist markets where 'foreigner pricing' occasionally appears. Being quoted prices verbally rather than from a clearly displayed menu is the main red flag. Using Kakao T for taxis eliminates almost all risk of overcharging.",
+      "tourist_tips": [
+        "Always confirm the price before sitting down at unlicensed street food stalls in heavily tourist-focused areas without posted prices.",
+        "Use Kakao T for all taxi rides to avoid any ambiguity about fare — metered taxis are honest but the app gives you an upfront estimate.",
+        "Myeongdong cosmetics shops sometimes aggressively promote products; it is perfectly acceptable to decline and walk away without pressure."
+      ],
+      "warning": "A small number of bars in Itaewon have historically used distraction tactics to overcharge tourists — always check your bill itemized before paying.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in South Korea",
+      "quick_answer": "South Korea is one of the world's safest countries for tourists — violent crime is extremely rare and women regularly walk alone at night without concern.",
+      "detail": "South Korea consistently ranks among the top five safest countries globally, with very low rates of violent crime, theft, and tourist-targeted fraud. It is common and generally safe for solo female travelers to walk alone late at night in major cities. Petty theft is uncommon by international standards, though basic precautions in crowded areas remain sensible. The only significant safety considerations relate to geopolitical tensions with North Korea, which do not typically affect day-to-day tourist experience.",
+      "tourist_tips": [
+        "Apply the same basic common sense you would anywhere — safeguard your phone in very crowded subway cars during peak hours.",
+        "Emergency call boxes and CCTV cameras are extremely dense throughout Korean cities, contributing to the very high public safety levels.",
+        "Follow news regarding any escalation in North-South tensions if visiting border regions, though these rarely impact central Seoul or popular tourist destinations."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in South Korea",
+      "quick_answer": "Use two hands when giving or receiving items, pour drinks for others before yourself, and remove shoes when entering traditional restaurants or homes.",
+      "detail": "Korean etiquette is rooted in Confucian values that emphasize respect for elders, hierarchy, and communal harmony. Two-handed giving and receiving — whether of a business card, gift, or glass — signals respect and is deeply appreciated. In group dining situations, the eldest person present typically begins eating first. Pouring your own drink without first topping up the glasses of those around you is considered rude; instead, pour for others and they will reciprocate. Loud or confrontational behaviour in public is generally frowned upon.",
+      "tourist_tips": [
+        "When sharing a meal, offer to pour drinks for everyone else at the table before filling your own glass — it signals warmth and awareness of others.",
+        "Bow slightly when greeting someone older or in a position of service — a 15-degree nod is sufficient and will be warmly appreciated.",
+        "Remove your shoes when you see a step up at the entrance of a traditional restaurant (hanshik) or someone's home — look for other shoes at the doorway as your guide."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in South Korea",
+      "quick_answer": "Korean (Hangul) is the dominant language, but English signage is widespread in tourist areas and the Papago app is better than Google Translate for Korean.",
+      "detail": "Hangul, the Korean alphabet, is logical and learnable in a few hours — even recognizing a handful of characters helps enormously with reading menus and signs. English fluency is variable: high in major tourist areas, airport staff, and younger Koreans, but limited among older residents and outside main cities. Subway stations, airport signage, and many menus increasingly include English translations. Naver's Papago translation app was specifically optimized for Korean and consistently outperforms Google Translate for nuance and accuracy.",
+      "tourist_tips": [
+        "Download Papago (by Naver) before your trip — it handles Korean menus, signs, and conversation far better than Google Translate.",
+        "Learn just a few words: annyeonghaseyo (hello), gamsahamnida (thank you), and juseyo (please give me) — Koreans respond very warmly to any attempt at their language.",
+        "Hangul takes only a few hours to learn phonetically — even partial knowledge helps you sound out restaurant menus, station signs, and street names."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in South Korea",
+      "quick_answer": "Haeundae Beach in Busan is South Korea's most famous, but summer crowds are intense and jellyfish are a seasonal hazard.",
+      "detail": "South Korea's most popular beaches are along the East Sea (Sea of Japan) and in Busan — Haeundae and Gwangalli being the most famous. The peak swimming season runs from July to August, during which Haeundae can attract hundreds of thousands of visitors on a single day. Lifeguards are present at all major designated swimming beaches and a flag system (green/yellow/red) indicates swimming conditions. Jellyfish, particularly the large Nomura's jellyfish, appear seasonally in late summer and some beaches may temporarily close swimming zones as a result.",
+      "tourist_tips": [
+        "Visit Haeundae Beach early morning or in the shoulder season (June or September) to avoid the extraordinary July-August crowds.",
+        "Observe the flag system strictly — red flags mean no swimming and are raised for genuine reasons including jellyfish, rip currents, or weather.",
+        "The East Sea coast has some beautiful, less-crowded beaches accessible by KTX or intercity bus — Gyeongpo and Sokcho are excellent alternatives to Busan."
+      ],
+      "warning": "Nomura's jellyfish and other species appear in Korean coastal waters each summer; heed beach authority warnings and do not enter the water if a jellyfish advisory is posted.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in South Korea",
+      "quick_answer": "South Korea drives on the right side, an International Driving Permit is required, and Kakao Maps is far more accurate than Google Maps for navigation.",
+      "detail": "An International Driving Permit (IDP) alongside your home licence is required to legally drive in South Korea. Traffic drives on the right, and the road infrastructure is modern and well-maintained. Toll roads are extensive and cashless payment is handled by the Hi-Pass system — rental cars may include a Hi-Pass transponder. GPS navigation in English is limited in quality; Kakao Maps or Naver Maps in Korean (or with romanized input) dramatically outperform Google Maps for Korean roads. Driving in central Seoul is not recommended for tourists due to congestion and complex one-way systems.",
+      "tourist_tips": [
+        "Use Kakao Maps for all navigation in South Korea — it has real-time traffic, accurate Korean road data, and an English interface.",
+        "Confirm your rental car includes a Hi-Pass transponder for toll roads, or carry cash as a backup for toll booths.",
+        "Consider renting a car only for rural areas or national park access — cities are far better navigated by subway and KTX."
+      ],
+      "warning": "Speed cameras are pervasive across Korean highways and urban roads; strictly observe posted speed limits as fines are issued automatically and can be charged to your rental car company.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in South Korea",
+      "quick_answer": "Korean BBQ is a must-do dining experience, banchan side dishes come with free unlimited refills, and 24/7 convenience store food is genuinely excellent.",
+      "detail": "Korean cuisine is diverse, flavourful, and ranges from affordable street food to elaborate multi-course meals. Gogigui (Korean BBQ) involves grilling marinated meats at your table and is best enjoyed with a group; banchan — the small side dishes served with every meal — are complimentary and can be refilled as many times as you like. Street food staples including tteokbokki (spicy rice cakes), hotteok (sweet pancakes), and kimbap (rice rolls) are cheap and widely available. GS25, CU, and emart24 convenience stores serve freshly prepared hot food, triangle kimbap, and noodles at remarkably good quality for very low prices.",
+      "tourist_tips": [
+        "Always ask for banchan refills freely — this is expected and appreciated, not considered rude.",
+        "Set menus (정식, jeongsik) at local Korean restaurants offer rice, soup, and multiple side dishes for 8,000–12,000 KRW and represent exceptional value.",
+        "Convenience store meals from GS25 or CU cost 2,000–5,000 KRW and are a perfectly acceptable budget meal that Koreans themselves eat regularly."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in South Korea",
+      "quick_answer": "Buddhist temples are the most common religious sites — remove shoes, dress modestly, and bow respectfully when entering main halls.",
+      "detail": "Buddhism is the predominant traditional religion in South Korea, and Buddhist temples (사찰, sachal) are found across the country, including many that are UNESCO-listed or set in stunning mountain landscapes. Visitors should dress modestly covering shoulders and knees, remove footwear before entering main prayer halls, and avoid interrupting active worship. Confucian shrines (hyanggyo and seowon) are widespread and similarly merit quiet, respectful conduct. The Seoul Central Mosque in Itaewon is the main mosque in the country; women should cover their hair when entering. Christian churches are very numerous in Korea and generally welcome visitors.",
+      "tourist_tips": [
+        "The Templestay program allows visitors to spend one or more nights at a working Buddhist monastery — a deeply memorable cultural experience bookable in English at templestay.com.",
+        "Many mountain temples offer free entry; major tourist temples like Bulguksa (Gyeongju) charge a small admission fee.",
+        "Look for shoe racks at the entrance of a prayer hall as your signal to remove footwear before stepping inside."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in South Korea",
+      "quick_answer": "Spring (April–May) for cherry blossoms and autumn (September–October) for foliage are the best times to visit South Korea.",
+      "detail": "South Korea experiences four distinct seasons with considerable variation. Spring brings mild temperatures and iconic cherry blossom season (late March to mid-April), while autumn delivers vivid foliage and comfortable hiking weather. Summer (June–August) is hot and humid, with July and early August bringing the jangma monsoon — prolonged rain and typhoon risk. Winter (December–February) is cold and dry, especially in the north and inland, with good skiing available at resorts like Yongpyong and High1. The shoulder months of May and October offer arguably the best balance of weather, crowd levels, and pricing.",
+      "tourist_tips": [
+        "Book accommodation several months in advance for cherry blossom season (late March to early April) and autumn colour season (mid-October) — these are peak domestic and international tourism periods.",
+        "Pack a compact umbrella for summer travel — the jangma monsoon can bring sudden, heavy downpours with little warning.",
+        "Ski resorts in Gangwon Province (including the 2018 Winter Olympics venue at Pyeongchang) are excellent in December–February and easily reachable from Seoul by KTX."
+      ],
+      "warning": "Typhoons (called taepung in Korean) occasionally affect the Korean Peninsula from July to September; monitor Korea Meteorological Administration advisories if travelling during this period.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in South Korea",
+      "quick_answer": "Eat convenience store meals and set-menu lunches, rent a hanbok for free palace entry, and use the subway for intercity travel to stretch your budget significantly.",
+      "detail": "South Korea can be visited very affordably with the right strategies. Convenience store food from GS25 or CU is cheap, fresh, and genuinely good — triangle kimbap and ramyeon cost under 2,000 KRW. Renting a hanbok (traditional Korean dress) near Gyeongbokgung or Changdeokgung palaces costs around 10,000–20,000 KRW and grants free palace admission. Local jeongsik set meals at non-tourist restaurants offer incredible value at 8,000–12,000 KRW. The intercity bus network (Express Bus Terminal in Seoul) is significantly cheaper than KTX for less time-sensitive travel.",
+      "tourist_tips": [
+        "Wear a rented hanbok to Gyeongbokgung, Changdeokgung, and Deoksugung palaces — all grant free entry to hanbok wearers, effectively making the rental pay for itself.",
+        "Use a T-money card diligently — it offers discounted fares versus single-use tickets and gives seamless transfer discounts when switching between subway and bus within 30 minutes.",
+        "Look for free cultural performances at spaces like Namsangol Hanok Village, the National Folk Museum, and Insadong on weekends — high-quality traditional music and dance at no cost."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    }
+  }
+}

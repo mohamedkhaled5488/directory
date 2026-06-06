@@ -1,0 +1,360 @@
+{
+  "country": "Jordan",
+  "slug": "jordan",
+  "emoji": "🇯🇴",
+  "region": "Middle East",
+  "currency": "JOD",
+  "language": "Arabic",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Jordan",
+      "quick_answer": "Tipping is expected in Jordan — 10% at restaurants, 1–2 JOD for hotel staff, and 5–10 JOD per day for guides.",
+      "detail": "Jordan has a baksheesh culture, though it is less aggressive than in neighbouring Egypt. Restaurant staff genuinely appreciate a 10% tip, as service charges are not always distributed to workers. Tour guides should be tipped well — 5–10 JOD per day is standard for a good guide, since tourism is their primary income. Hotel porters, housekeeping, and airport helpers all expect 1–2 JOD. In taxis and shared transport, rounding up the fare is the norm rather than leaving a precise tip.",
+      "tourist_tips": [
+        "Carry a supply of 1 JOD and 500 fils coins for quick tipping at hotels, petrol stations, and small services",
+        "Tip Wadi Rum Bedouin guides and camp hosts generously — they rely heavily on tourist income and provide outstanding hospitality",
+        "At restaurants, leave cash directly with your server rather than adding it to a card payment, as tips on cards may not reach the staff"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Jordan",
+      "quick_answer": "There is no reliable public transport network for tourists — taxis, Uber in Amman, and JETT buses are the practical options.",
+      "detail": "Jordan has no tourist-friendly rail network and local bus routes are confusing for visitors. JETT buses connect Amman with Aqaba, Petra (Wadi Musa), and the King Hussein Bridge to Israel — these are comfortable and air-conditioned. Uber operates in Amman and is the easiest way to get around the capital at fair prices. Yellow taxis are available everywhere but must be negotiated or put on the meter before departure. Shared service taxis (called 'service') run fixed routes between cities cheaply. Hiring a car is strongly recommended for independent travellers wishing to explore Jerash, the Dead Sea, Madaba, and Wadi Rum at their own pace.",
+      "tourist_tips": [
+        "Book JETT bus tickets for the Amman–Aqaba and Amman–Petra routes in advance, especially in high season (March–May, October–November)",
+        "Use Uber in Amman for all city travel — it eliminates fare disputes and drivers know exact locations via GPS",
+        "For Wadi Rum, either book a guided 4WD tour through your accommodation or join an organised camp — independent driving in the desert without a local guide is genuinely hazardous"
+      ],
+      "warning": "Taxis outside Amman rarely use meters — always agree a firm price before getting in or you risk a significant dispute at your destination.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Jordan",
+      "quick_answer": "Amman has excellent private hospitals, but medical facilities outside the capital are limited — travel insurance with evacuation cover is essential.",
+      "detail": "Jordan Hospital and Al-Khalidi Medical Center in Amman are internationally accredited private hospitals with English-speaking staff and high standards of care. Outside Amman — including at Petra, Wadi Rum, and the Dead Sea — medical facilities are significantly more limited, making evacuation insurance critical. Pharmacies are widespread throughout Jordan and many medications available only on prescription elsewhere can be purchased over the counter. The Dead Sea environment requires extra vigilance: the extreme salinity and heat cause rapid dehydration, and Dead Sea water in the eyes causes intense pain — have clean water on hand at all times.",
+      "tourist_tips": [
+        "Purchase comprehensive travel insurance that explicitly covers medical evacuation before arrival — a helicopter medevac from Wadi Rum or southern Jordan to Amman is costly",
+        "At the Dead Sea, apply a thick layer of protective cream before entering the water and keep your face away from the surface to protect eyes",
+        "Jordan Hospital in Amman (tel: +962 6 560 8080) is the most recommended private facility for serious medical issues and has 24/7 emergency services"
+      ],
+      "warning": "Dead Sea activities carry real dehydration and sun-exposure risks — heat, physical exertion floating in hypersaline water, and minimal shade combine dangerously; drink water constantly.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Jordan",
+      "quick_answer": "Drugs are strictly illegal, LGBTQ+ relationships carry legal risk, and photographing military or government sites is prohibited.",
+      "detail": "Drug possession and trafficking are very seriously prosecuted in Jordan, with severe prison sentences. LGBTQ+ relationships are technically illegal under Jordanian law — enforcement against tourists has historically been limited, but the legal risk is real and travellers should exercise significant caution. Photography of military installations, checkpoints, police officers, government buildings, and border crossings is prohibited; Jordan has numerous military checkpoints on main roads, and these must never be photographed. Public behaviour is expected to be respectful and conservative. Alcohol is available but subject to restrictions, particularly during Ramadan.",
+      "tourist_tips": [
+        "At the many military checkpoints on Jordanian highways, slow down well in advance, be polite, and have your passport ready — never reach for a camera",
+        "LGBTQ+ travellers should exercise significant discretion, avoid public displays of affection, and research current conditions via Stonewall or ILGA before travel",
+        "During Ramadan, avoid eating, drinking, or smoking in public during daylight hours — this applies to non-Muslim tourists and carries legal consequences"
+      ],
+      "warning": "LGBTQ+ relationships are technically illegal in Jordan. Although enforcement against tourists has been limited historically, the legal framework exists and the risk should not be dismissed.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Jordan",
+      "quick_answer": "Call 911 for police, ambulance, or fire in Jordan; the dedicated tourism police line is +962 6 560 0700.",
+      "detail": "Jordan uses 911 as its universal emergency number covering police, ambulance, and fire services. The ambulance service can also be reached directly on 110. The Jordan Tourism Board operates a dedicated tourism police line (+962 6 560 0700) specifically for incidents involving foreign visitors, with English-speaking staff. Response times in Amman are generally reasonable; in remote areas such as Wadi Rum or southern desert regions, response can be very slow, reinforcing the importance of travel insurance with emergency evacuation. Save your embassy's emergency contact before departure.",
+      "tourist_tips": [
+        "Save the tourism police number (+962 6 560 0700) before you arrive — they handle tourist-specific incidents and have English-speaking operators",
+        "In Wadi Rum and remote desert areas, satellite communication or a personal locator beacon is worth considering for independent travellers",
+        "Know your accommodation's address and phone number in both English and Arabic — emergency dispatchers may struggle with English transliterations"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Jordan",
+      "quick_answer": "Modest dress covering shoulders and knees is required throughout Jordan, though Aqaba resort areas are more relaxed.",
+      "detail": "Jordan is a conservative Muslim-majority country and modest dress is both legally and culturally expected outside tourist resort zones. Both men and women should cover shoulders and knees when visiting cities, souqs, ancient sites, religious buildings, and rural communities. Women are strongly advised to carry a scarf at all times for mosques and conservative areas. Aqaba's beach hotels and resort pools permit standard swimwear, but covering up immediately upon leaving the beach area is appropriate. At Petra, practical hiking clothes are necessary — shorts are acceptable in the heat but longer options are preferable out of respect. Wadi Rum camps are relaxed but modest.",
+      "tourist_tips": [
+        "Pack at least one long-sleeved top and one pair of long trousers or a long skirt as your standard city outfit — it avoids unwanted attention and respects local norms",
+        "Carry a lightweight scarf whenever sightseeing — it is needed for mosque entry, can shield from sun, and doubles as an evening layer in Wadi Rum's cold nights",
+        "At Petra in summer, loose linen trousers and a breathable long-sleeved shirt strike the right balance between modesty and comfort in the heat"
+      ],
+      "warning": "Ignoring dress norms in conservative areas outside Amman and resort zones will attract persistent unwanted attention and marks you as disrespectful to local communities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Jordan",
+      "quick_answer": "Alcohol is available at licensed restaurants, hotels, and some off-licences, but is not sold everywhere — check before assuming.",
+      "detail": "Jordan is relatively liberal by Middle Eastern standards regarding alcohol. Licensed hotels, tourist-oriented restaurants, and some supermarkets and off-licences stock beer and spirits. Local beers include Amstel (brewed locally), Petra Beer, and the craft Carakale brand — all are worth trying. Alcohol is not available at most local neighbourhood restaurants or traditional eateries. The legal drinking age is 18. During Ramadan, many licensed venues restrict or suspend alcohol sales, particularly during daylight hours. Some venues reduce service on Fridays. Public drinking on streets is not acceptable.",
+      "tourist_tips": [
+        "Ask your hotel concierge to confirm which restaurants serve alcohol in your area — availability is less predictable than in Western countries",
+        "Carakale is Jordan's first craft brewery and produces excellent ales — look for it at Amman's better bars and restaurants",
+        "Stock up at a licensed off-licence in Amman or Aqaba if travelling to Petra or Wadi Rum where alcohol availability is very limited"
+      ],
+      "warning": "During Ramadan, alcohol availability drops sharply at many licensed venues. Plan accordingly and be respectful of the significance of the month to local communities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Jordan",
+      "quick_answer": "Bargaining is expected at souqs, craft shops, and for tours and taxis — but Petra entrance fees are fixed.",
+      "detail": "Haggling is a normal and expected part of shopping and service transactions at Jordanian souqs, craft markets, and souvenir shops. Starting at 40–50% of the initial asking price is a reasonable opening position. For Wadi Rum tour prices, Dead Sea resort day passes, and private taxi journeys, negotiation is entirely appropriate and expected. The Jordan Pass (which covers Petra entry) fixes the Petra admission price, which cannot be negotiated — do not waste social capital trying. A polite, friendly, and unhurried manner is the key to successful bargaining; treating it as confrontation or being aggressive will work against you.",
+      "tourist_tips": [
+        "Open at about 40–50% of the asking price, smile, and be genuinely prepared to walk away — this is the most effective bargaining technique",
+        "For Wadi Rum camp and tour packages, compare prices between two or three operators before committing — rates can vary by 30–50% for identical experiences",
+        "The Petra crafts and souvenir stalls inside the site (especially near the Treasury) have high initial prices for jewellery, scarves, and Bedouin items — all are negotiable"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Jordan",
+      "quick_answer": "Never photograph military checkpoints or government buildings — but Petra and Wadi Rum are among the world's most photogenic and freely photographable sites.",
+      "detail": "Jordan is a photographer's paradise at its ancient sites and natural landscapes: Petra, Wadi Rum, Jerash, and the Dead Sea can all be photographed freely and extensively. The firm restrictions apply to military installations, border crossings, checkpoints (which are very common on Jordan's main roads), police stations, government buildings, and anything flagged as restricted. Jordan has a significant military presence and checkpoints are a regular feature of driving — slowing down and keeping cameras completely away is essential. When photographing people, especially Bedouin communities in Wadi Rum, always ask permission first.",
+      "tourist_tips": [
+        "The Treasury at Petra is best photographed in the morning when sunlight enters the Siq and illuminates the facade — plan to arrive at opening time",
+        "Always ask Bedouin guides and camp hosts before photographing them — most are happy to be photographed and appreciate being asked rather than captured without consent",
+        "Drone flying requires a permit from Jordan's Civil Aviation Regulatory Commission — obtain this well in advance if you plan aerial photography at Wadi Rum or Petra"
+      ],
+      "warning": "Military checkpoints are located throughout Jordan on major roads. Never point a camera — or even a phone — at a checkpoint, soldiers, or military vehicles, as this can result in detention.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday and Holiday Hours in Jordan",
+      "quick_answer": "Friday is Jordan's holy day — government offices close Friday morning and many businesses operate a Saturday–Thursday week.",
+      "detail": "Jordan's official government and business week runs Saturday to Thursday, with Friday as the weekly day of prayer and rest. Friday morning is largely given over to Jumu'ah (Friday prayers) and many local businesses, banks, and government offices are closed or run reduced hours. Major tourist attractions — Petra, Jerash, Wadi Rum, the Dead Sea — are generally open seven days a week. Ramadan significantly shifts all operating hours: restaurants open after sunset for iftar, businesses run reduced daytime service, and alcohol restrictions increase. Islamic public holidays (Eid al-Fitr, Eid al-Adha, Islamic New Year) cause widespread closures for several days.",
+      "tourist_tips": [
+        "Visit Petra and Jerash on weekdays (Saturday–Thursday) to avoid Jordanian weekend (Friday–Saturday) crowds from Amman",
+        "During Ramadan, plan sightseeing for the morning and enjoy the vibrant iftar atmosphere at local restaurants after sunset — the atmosphere is special",
+        "Check Islamic holiday dates before booking travel — Eid al-Adha in particular causes multi-day closures across the country"
+      ],
+      "warning": "During Ramadan, eating, drinking, or smoking visibly in public during daylight hours is disrespectful and illegal — this applies to non-Muslim tourists and can attract police attention.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis and Rideshare in Jordan",
+      "quick_answer": "Use Uber in Amman for metered, fair-priced travel — outside the capital, always agree a price with taxi drivers before you get in.",
+      "detail": "Uber operates in Amman and is by far the most straightforward option for city travel, offering fixed in-app pricing without the need for negotiation. Yellow taxis are available everywhere but drivers routinely quote inflated rates to tourists — insist on the meter or firmly agree a price before entering. Queen Alia International Airport has official fixed-rate taxis; use the official taxi desk rather than drivers who approach arrivals. Shared service taxis connect cities on fixed routes at very low fares — the cheapest intercity option available. Outside Amman, all private taxis require price negotiation before departure.",
+      "tourist_tips": [
+        "Download Uber before arriving and set it up with a payment method — it works throughout Amman and saves constant negotiation",
+        "For airport travel, use the official airport taxi desk or pre-book a transfer through your hotel — drivers who approach you inside the terminal charge significantly more",
+        "For Petra and Aqaba trips from Amman, the JETT bus is often more comfortable and better value than negotiating a private taxi for the long journey"
+      ],
+      "warning": "Taxi drivers outside Amman will frequently quote prices three to five times above the fair rate to tourists — always confirm the price clearly before getting in and confirm it is in JOD.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "pocket-wifi"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Jordan",
+      "quick_answer": "Do not drink tap water in Jordan — bottled water is essential everywhere, and staying hydrated is critical given the desert climate.",
+      "detail": "Tap water in Jordan is not safe to drink and will commonly cause gastrointestinal illness in tourists. Bottled water is widely available and inexpensive at supermarkets and shops. Jordan is one of the most water-scarce countries in the world — be mindful of unnecessary water usage during your visit. The Dead Sea region, Petra, and Wadi Rum require aggressive hydration due to extreme heat and dry desert air. Good hotels provide complimentary bottled water but budget accommodation and camps may not. Always carry more water than you think you need when hiking at Petra or exploring Wadi Rum.",
+      "tourist_tips": [
+        "At Petra, carry at least 2–3 litres of water per person — the site is vast, largely exposed to sun, and water sellers inside the site charge a premium",
+        "Buy large 6-litre bottles from supermarkets in Aqaba or Wadi Musa rather than individual 500ml bottles to reduce cost and plastic waste",
+        "At the Dead Sea, the high salinity and heat cause extreme dehydration — drink water before, during, and after your time in the water"
+      ],
+      "warning": "Dehydration at Petra, Wadi Rum, and the Dead Sea is a genuine medical risk. Heat exhaustion and heat stroke occur regularly among tourists who underestimate Jordan's desert conditions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Jordan",
+      "quick_answer": "The Jordanian Dinar is one of the world's most stable currencies — use Arab Bank or Cairo Amman Bank ATMs and carry cash for small vendors.",
+      "detail": "The Jordanian Dinar (JOD) is pegged to the US Dollar and is among the most stable currencies in the world. Arab Bank, Cairo Amman Bank, and Housing Bank reliably accept foreign debit and credit cards at their ATMs. USD is widely accepted in tourist areas as a backup, and exchange at bank branches offers significantly better rates than hotel desks. Cash is essential for smaller souq vendors, local restaurants, tipping, and purchases inside Petra and Wadi Rum. Informing your bank before travel prevents your card being blocked. The Jordan Pass (covering visa and Petra entry) can be purchased online with a card before arrival, saving significant cash.",
+      "tourist_tips": [
+        "Exchange cash at Arab Bank or Cairo Amman Bank branches rather than hotel desks — hotel rates are typically 8–12% worse",
+        "Carry small denomination JOD notes (1 JOD, 5 JOD) for tipping, local eateries, and Bedouin vendors at Wadi Rum and Petra",
+        "Use a Wise or Revolut card for ATM withdrawals to avoid foreign transaction fees on what is already a high-value currency"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards and Internet in Jordan",
+      "quick_answer": "Buy a Zain Jordan SIM at Queen Alia Airport for the best coverage — passport required, and Airalo eSIMs also work well.",
+      "detail": "Jordan has three main mobile operators: Zain Jordan (widest coverage), Orange Jordan, and Umniah. Tourist SIM cards with data bundles are available at Queen Alia International Airport in Amman — presenting your passport is mandatory for registration. Zain is consistently rated as having the strongest coverage across tourist areas. Airalo and other eSIM providers work in Jordan and are a convenient option if your phone supports eSIM. Coverage is reasonable in Amman, Petra, Aqaba, Jerash, and the Dead Sea area, but becomes patchy in the open desert of Wadi Rum — some camp hosts provide Wi-Fi via satellite.",
+      "tourist_tips": [
+        "Buy your SIM at the Zain or Orange kiosks in the arrivals hall at Queen Alia Airport before leaving the terminal — tourist data packages there offer good value",
+        "Download offline maps of Petra, Wadi Rum, and the King's Highway before departing Amman, as mobile data in remote areas is unreliable",
+        "Wadi Rum camps typically have limited or no mobile signal — inform family or friends that contact may be intermittent during your camp stay"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Jordan",
+      "quick_answer": "Jordan uses multiple plug types — Type B, C, F, and G — at 230V/50Hz; bring a universal adapter to be safe.",
+      "detail": "Jordan's electrical situation is one of the more complex for travellers, as the country uses several socket types depending on the age and style of the building. Type B (American two and three-pin flat), Type C and F (European round-pin), and Type G (British three-rectangular-pin) sockets are all found. Newer buildings and hotels tend to use Type B or Type G. The voltage is 230V at 50Hz throughout the country — American visitors with 110V devices need both an adapter and a voltage converter unless their device is dual-voltage. All modern phone chargers, laptops, and camera chargers are typically dual-voltage (check for '100–240V' on the label).",
+      "tourist_tips": [
+        "A universal travel adapter with multiple socket types and built-in USB ports is the simplest solution — buy one before departing to avoid overpriced airport shops",
+        "Check your devices for '100–240V' on the label — if listed, only an adapter is needed, not a voltage converter",
+        "Wadi Rum camps often have limited electricity available only at certain hours — charge all devices fully before leaving your Aqaba or Petra hotel"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Jordan",
+      "quick_answer": "Watch for overcharging on horse and carriage rides at Petra, fake guide fees, and taxi fare inflation — Jordan is relatively safe but these scams are consistent.",
+      "detail": "The most consistent tourist scams in Jordan cluster around Petra. Horse rides from the main gate to the Siq entrance are included with Petra tickets — some handlers will insist a carriage ride to the Treasury is also included, then demand large payment at the end. Always confirm exactly what is and is not included before accepting any ride. 'Helpful' strangers who approach at Petra or Wadi Rum and offer to guide you to a viewpoint or shortcut often end at a family craft shop with high-pressure sales tactics. Taxi overcharging is ubiquitous outside Amman. Unauthorised 'tour guides' at major sites may charge surprise fees.",
+      "tourist_tips": [
+        "Read the official Jordan Tourism Board guidance on what is included with your Petra ticket before arrival — the horse ride to the Siq entrance is included, but carriage rides to the Treasury are not and must be agreed in advance",
+        "Book Wadi Rum tours through your hotel or a well-reviewed operator on TripAdvisor rather than accepting offers from men at the Wadi Rum Visitor Centre gate",
+        "If a stranger offers unsolicited help or directions at any major site, a polite but firm decline saves time, money, and hassle"
+      ],
+      "warning": "The horse and carriage pricing scheme at Petra is the most common source of tourist complaints in Jordan — always confirm total cost in JOD before accepting a ride and pay only at the end.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Jordan",
+      "quick_answer": "Jordan is one of the safest countries in the Middle East for tourists — violent crime is rare and Amman is generally very safe.",
+      "detail": "Jordan consistently ranks as one of the most stable and tourist-safe countries in the Middle East. Violent crime against tourists is extremely rare, and petty theft such as pickpocketing is uncommon by regional standards. Solo female travellers report that Jordan is relatively respectful compared to some neighbouring countries, though dressing conservatively and being alert to occasional verbal harassment in less-touristed areas is advisable. The borders and northern regions near Syria and Iraq require checking current government travel advisories — western Jordan (Amman, Petra, Aqaba, Wadi Rum) is entirely separate from any conflict zones and very safe.",
+      "tourist_tips": [
+        "Check your government's travel advisory specifically for the northern Jordan border areas before planning any itinerary near the Syrian or Iraqi borders",
+        "Amman, Petra, Aqaba, Wadi Rum, Jerash, and the Dead Sea are all considered very safe by Middle Eastern and global standards",
+        "Solo female travellers should dress conservatively outside resort areas and be comfortable with a direct but polite 'la shukran' (no thank you) for unwanted attention"
+      ],
+      "warning": "Northern Jordan near the Syrian border has historically seen spillover instability — check current travel advisories from your government before visiting any sites in that region.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Jordan",
+      "quick_answer": "Jordanian hospitality is exceptional — always accept offered tea or coffee, use your right hand, and be respectful during Ramadan and Friday prayers.",
+      "detail": "Jordan is renowned for the warmth and generosity of its people. When tea or coffee is offered — in a shop, a home, or a Bedouin camp — accepting is a social grace and refusing can cause mild offence. Always use the right hand for eating, giving money, and receiving gifts, as the left hand is considered unclean. During Ramadan, avoid eating, drinking, or smoking in public during daylight. At traditional restaurants, men and women may be seated in separate sections — follow the lead of your host. 'Ahlan wa sahlan' (welcome) is the standard Jordanian greeting and saying it back will delight locals enormously.",
+      "tourist_tips": [
+        "Accept all offers of tea or coffee — even a brief sit-down with a shopkeeper for a small cup of Bedouin tea is a genuine cultural exchange and not an obligation to buy",
+        "Avoid pointing the soles of your feet at people when seated, and sit cross-legged or with feet tucked away in Bedouin tents and traditional settings",
+        "During Ramadan evenings, the atmosphere in Amman and at iftaar gatherings is wonderful — joining locals at outdoor restaurants after sunset is warmly welcomed and culturally enriching"
+      ],
+      "warning": "Public displays of affection between couples are inappropriate in conservative areas and will attract uncomfortable attention — keep affection entirely private outside resort zones.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Jordan",
+      "quick_answer": "English is widely spoken in Amman, Petra, and at tourist sites — but a few words of Arabic will be warmly received everywhere.",
+      "detail": "Arabic is the official language of Jordan, and English is widely spoken in Amman, at hotels, major tourist attractions, and among younger Jordanians. Outside tourist centres, Jerash, and the main sites, English comprehension drops significantly — in rural communities and smaller towns, Arabic is often the only option. Jordanian Arabic is generally considered one of the clearer spoken dialects. Learning a handful of phrases — 'Shukran' (thank you), 'Marhaba' (hello), 'La shukran' (no thank you) — will be met with genuine delight. Menus at tourist restaurants are commonly bilingual.",
+      "tourist_tips": [
+        "Use 'Shukran' (شكرًا) for thank you and 'Marhaba' (مرحبا) for hello — both are universally understood and will earn warm smiles from Jordanians",
+        "Download Google Translate with the Arabic offline pack before arriving — the camera translation feature is invaluable for menus and signs in local areas",
+        "Useful phrases beyond basics: 'Bikam?' (how much?), 'Ghali' (expensive), 'Wayn il-hammam?' (where is the toilet?), 'Ahlan' (welcome/hello informally)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches and Swimming in Jordan",
+      "quick_answer": "Aqaba offers excellent Red Sea snorkelling and diving, while the Dead Sea offers a unique floating experience — but not swimming.",
+      "detail": "Jordan has two very different aquatic experiences. Aqaba on the Red Sea has excellent coral reefs and warm clear water ideal for snorkelling and diving year-round — the reefs are more intact than in some overrun Red Sea destinations and marine life is diverse. The Dead Sea, at 430 metres below sea level, is the lowest point on Earth: its extreme salinity (ten times saltier than the ocean) makes swimming impossible but floating effortless and memorable. Dead Sea minerals can sting cuts or any broken skin acutely, and getting the water in your eyes causes intense burning — have fresh water on hand at all times. Swim-friendly public beaches in Aqaba are limited but improving.",
+      "tourist_tips": [
+        "At the Dead Sea, cover any cuts or skin abrasions before entering — the salt concentration will cause significant pain on any broken skin",
+        "Book a dive trip through one of Aqaba's reputable dive centres for guided reef access — the Japanese Garden reef is considered one of the Red Sea's best accessible dive sites",
+        "Never put your face in Dead Sea water and keep your hands away from your eyes — have a bottle of fresh water in hand before you enter the water"
+      ],
+      "warning": "Getting Dead Sea water in your eyes is extremely painful and requires immediate rinsing with large amounts of fresh water — always have clean water within arm's reach before entering.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Jordan",
+      "quick_answer": "Jordan drives on the right; an international licence is required, and military checkpoints are frequent — slow down and be polite.",
+      "detail": "Jordan drives on the right side of the road. An International Driving Permit (IDP) alongside your home country licence is required for self-drive car hire. The Desert Highway between Amman and Aqaba is a fast, well-maintained dual carriageway and is comfortable for tourists. The King's Highway is a spectacular scenic alternative, winding through Petra, Wadi Musa, and Madaba — it is slower and narrower but highly rewarding. Military checkpoints are common throughout Jordan and on all main routes — slow down well in advance, be courteous, and have your passport ready. Driving in Amman is chaotic with aggressive local driving culture. Wadi Rum desert terrain requires a 4WD vehicle.",
+      "tourist_tips": [
+        "At military checkpoints, slow down smoothly and early, turn off your music, roll down the window, and have your passport and car rental documents ready — checkpoints are routine and quick if you cooperate",
+        "The King's Highway from Amman to Petra is one of the world's great scenic drives — allow a full day and stop at Madaba, Mount Nebo, and Wadi Mujib",
+        "Book a car with 4WD if you plan to visit any areas beyond the main paved roads — Wadi Rum and some Dead Sea approach roads benefit from higher clearance"
+      ],
+      "warning": "Never photograph military checkpoints or soldiers under any circumstances — cameras must remain completely stowed when approaching and passing through any checkpoint.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Jordan",
+      "quick_answer": "Jordanian food is outstanding — mansaf (the national dish), falafel, and hummus are must-tries, and local restaurants offer exceptional value.",
+      "detail": "Jordanian cuisine is a highlight of any visit. Mansaf — slow-cooked lamb in fermented dried yogurt (jameed) sauce served on a bed of rice — is the national dish and a genuine culinary experience. Hummus and falafel are of exceptional quality and eaten at breakfast, lunch, and dinner. Maqluba ('upside down' — a layered rice, vegetable, and meat dish revealed by inverting the pot) and musakhan (chicken with caramelised onions on flatbread) are equally worth seeking out. Knafeh, the warm cheese and pastry dessert soaked in sugar syrup, is one of the great street food experiences. Breakfast at local bakeries costs a fraction of hotel buffets and is far more authentic.",
+      "tourist_tips": [
+        "Eat mansaf at a traditional Jordanian restaurant rather than a tourist-oriented venue — ask your hotel for a local recommendation and embrace eating with your right hand from a communal platter",
+        "Seek out knafeh fresh from the bakery in Amman's Sweifieh district or Nablus-style in the old souq — it should be warm, slightly salty-sweet, and served immediately",
+        "Local falafel and hummus breakfasts at small neighbourhood spots cost 2–4 JOD — a fraction of what tourist restaurants charge for inferior versions"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple, and Church Etiquette in Jordan",
+      "quick_answer": "Remove shoes at mosques, dress modestly at all religious sites, and ask permission before entering any working mosque.",
+      "detail": "Jordan contains an extraordinary concentration of religious and ancient sites across multiple faiths. Mosques require shoes to be removed at the entrance, women to cover their hair with a scarf, and all visitors to wear clothing covering shoulders and legs — non-Muslims can generally visit outside prayer times but should ask first. Mount Nebo (where Moses is believed to have viewed the Promised Land) and Madaba's Byzantine mosaic church are active Christian pilgrimage sites requiring modest dress. Petra's ancient Nabataean temples are archaeological sites where respectful behaviour is expected. The ancient Byzantine and Umayyad ruins at Jerash are open access but should be treated with care.",
+      "tourist_tips": [
+        "Carry a small scarf and ensure knees are covered whenever approaching any mosque or religious building — refusal of entry is embarrassing and easily avoided",
+        "The King Abdullah I Mosque in Amman explicitly welcomes non-Muslim visitors and offers a genuine insight into Islamic practice — tours are organised through the mosque",
+        "Mount Nebo offers one of the most moving views in Jordan — visit in the afternoon when light is golden over the Dead Sea and Israeli hills beyond"
+      ],
+      "warning": "Entering a mosque during active prayer (five times daily) without express permission is not appropriate — wait outside and enter after the prayer concludes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Jordan",
+      "quick_answer": "March–May and October–November are the ideal months — summers are extremely hot at Petra and Wadi Rum, and desert nights are cold year-round.",
+      "detail": "Jordan's best travel seasons are spring (March to May) and autumn (October to November), when temperatures are pleasant for outdoor sightseeing at Petra and Wadi Rum (20–28°C) and hiking conditions are ideal. Summer (June to September) brings extreme heat — Petra and Wadi Rum regularly exceed 38–40°C, making midday sightseeing dangerous. Aqaba is warm year-round and good for diving in all seasons. The Dead Sea in winter (December to February) is surprisingly pleasant at around 20°C and much less crowded. Wadi Rum nights are cold year-round — temperatures drop sharply after sunset even in summer. Petra can also see brief winter cold snaps and occasional snow in January.",
+      "tourist_tips": [
+        "For Petra in summer, arrive at site opening (6am) and leave by 11am — midday in the open desert gorges is dangerously hot and will exhaust you within an hour",
+        "October is arguably Jordan's single best travel month — crowds thin out after summer, temperatures are ideal, and the landscape is still dry and golden",
+        "Pack warm layers for Wadi Rum camp nights regardless of the season — desert temperatures drop dramatically after sunset and sleeping bags in camps are not always sufficient for cold nights"
+      ],
+      "warning": "Heat stroke and severe dehydration are real medical risks at Petra and Wadi Rum in summer — carry significantly more water than you think you need and take midday shade breaks.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Jordan",
+      "quick_answer": "The Jordan Pass is the single biggest money-saver — it covers your visa fee and Petra entry, saving around 50–70 JOD depending on your Petra stay.",
+      "detail": "Jordan is not the cheapest destination in the Middle East, but smart choices make a significant difference. The Jordan Pass (purchased online before arrival) combines the visa on arrival fee (40 JOD) with multi-day Petra entry (50–55 JOD for 2–3 days) — making it essentially free if you visit Petra for two or more days. Falafel and hummus breakfasts from local bakeries cost under 3 JOD. Shared service taxis between cities are a fraction of private taxi prices. Jerash is one of the best-preserved Roman cities in the world, far less visited than Petra, and costs a fraction of the entry price — an outstanding value alternative or addition.",
+      "tourist_tips": [
+        "Buy the Jordan Pass online at jordanpass.jo before flying — it pays for itself on day one and removes the need to queue and pay separately for the visa and Petra tickets",
+        "Eat at local falafel shops, hummus restaurants, and bakeries for breakfast and lunch — the food is superior to tourist restaurants and costs 1–4 JOD per person",
+        "Visit Jerash on the way between Amman and northern Jordan — the Roman ruins rival anything in Europe, entry is inexpensive, and crowds are a fraction of Petra's"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

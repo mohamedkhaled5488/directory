@@ -1,0 +1,360 @@
+{
+  "country": "Hong Kong",
+  "slug": "hong-kong",
+  "emoji": "🇭🇰",
+  "region": "Asia",
+  "currency": "HKD",
+  "language": "Cantonese/English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Hong Kong",
+      "quick_answer": "Tipping is optional in Hong Kong as most restaurants add a 10% service charge automatically.",
+      "detail": "Most mid-range and upscale restaurants in Hong Kong automatically add a 10% service charge to the bill, so an additional tip is not expected. At cha chaan tengs (local Hong Kong cafés) and dai pai dongs (open-air food stalls), no tipping is customary. Hotel staff appreciate HKD 10–20 per service. Taxi drivers are typically rounded up to the nearest dollar, or a few extra dollars for good service.",
+      "tourist_tips": [
+        "Check your restaurant bill for the '10% service charge' line before adding any extra tip",
+        "For hotel porters and housekeeping, HKD 10–20 per bag or per night is a generous and appreciated gesture",
+        "Taxi drivers do not expect tips — simply round up to the nearest dollar or leave small change"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Hong Kong",
+      "quick_answer": "Hong Kong has world-class public transport — get an Octopus Card for the MTR, buses, ferries, trams, and even convenience store payments.",
+      "detail": "The Octopus Card is a rechargeable stored-value card that works across virtually all of Hong Kong's transport: the MTR metro, buses, minibuses, ferries, and the iconic double-decker trams on Hong Kong Island. The Airport Express connects Hong Kong International Airport to the city centre in just 24 minutes. The Star Ferry crossing Victoria Harbour for HKD 3.4 is one of the world's great commuter rides. MTR trains are fast, clean, punctual, and air-conditioned, running from approximately 6am to 1am daily. Uber also operates in Hong Kong.",
+      "tourist_tips": [
+        "Buy an Octopus Card at the airport on arrival — it works on every form of transport and at 7-Eleven stores",
+        "The Airport Express is the fastest and easiest way to reach the city from HKG, taking only 24 minutes",
+        "Take the Star Ferry across Victoria Harbour at least once — at HKD 3.4 it is the best value view in Asia"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Hong Kong",
+      "quick_answer": "Hong Kong has excellent hospitals and healthcare, but medical costs are very high for tourists without insurance.",
+      "detail": "Hong Kong's private hospitals — including Hong Kong Sanatorium, Matilda Hospital, and Adventist Hospital — are internationally accredited and operate to world-class standards with English-speaking staff. Public hospitals provide excellent care but accident and emergency departments can have very long wait times. Medical costs without insurance are extremely high: a single A&E visit can exceed HKD 1,000 and hospitalization costs much more. Pharmacies from Watson's and Manning's chains are found on virtually every shopping street. Travel insurance with medical coverage is essential.",
+      "tourist_tips": [
+        "Watsons and Manning's pharmacies are everywhere and stock familiar international brands for minor ailments",
+        "For non-urgent issues, private GP clinics are faster than public hospital A&E and cost around HKD 300–600",
+        "Always carry your travel insurance documents and emergency hotline number when in Hong Kong"
+      ],
+      "warning": "Medical treatment costs in Hong Kong are among the highest in Asia. Without comprehensive travel insurance, even a short hospital stay can result in bills exceeding HKD 10,000.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Hong Kong",
+      "quick_answer": "Hong Kong's National Security Law (NSL) since 2020 means criticism of the Chinese or Hong Kong government can result in prosecution, including for foreigners.",
+      "detail": "The National Security Law enacted in 2020 fundamentally changed Hong Kong's legal landscape. Acts including protests, publishing content deemed subversive, and even social media posts criticising the Chinese or Hong Kong SAR government can now be prosecuted — and foreign nationals are not exempt. Drug offences carry extremely severe penalties equivalent to mainland China standards. Photography of police operations, protests, or political demonstrations is highly sensitive and should be avoided. LGBTQ+ relationships are decriminalized but legal protections are limited. VPNs are technically legal but their use is increasingly sensitive given the political climate.",
+      "tourist_tips": [
+        "Avoid any political discussions, protest-related content, or criticism of the Chinese government in public or on social media while in Hong Kong",
+        "Do not photograph police officers, government security operations, or any demonstrations you may encounter",
+        "Drug possession or trafficking carries extremely strict penalties — zero tolerance applies to all substances"
+      ],
+      "warning": "Hong Kong's National Security Law applies to foreigners. Actions that would be lawful in your home country — including social media posts critical of China's government — can lead to arrest and prosecution. Exercise caution.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["vpn", "travel-insurance", "sim"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Hong Kong",
+      "quick_answer": "Call 999 for police, fire, and ambulance — it is the single emergency number for all services in Hong Kong.",
+      "detail": "Hong Kong uses 999 as the unified emergency number for police, fire brigade, and ambulance services. Operators are English-speaking and response times are generally fast. Hong Kong's emergency services are well-equipped and operate to high standards. For non-emergency police matters, you can visit any police station. The main public hospital for trauma and emergencies is Queen Mary Hospital (Hong Kong Island) and Queen Elizabeth Hospital (Kowloon).",
+      "tourist_tips": [
+        "999 covers police, fire, and ambulance — it is the only emergency number you need to remember in Hong Kong",
+        "English-speaking operators are available 24/7 on the 999 line",
+        "For non-emergency situations such as filing a theft report for insurance, visit any local police station"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Hong Kong",
+      "quick_answer": "Hong Kong is very casual — light breathable clothing suits the subtropical climate, with smart casual required only at upscale restaurants and hotel bars.",
+      "detail": "Hong Kong has no mandatory dress codes for tourists at most attractions, temples, or public spaces. The subtropical climate makes light, breathable clothing the practical choice year-round, especially in the hot and humid summer months. Smart casual attire is expected at upscale hotel bars, fine dining restaurants, and some rooftop venues in areas like Central and Tsim Sha Tsui. Business and office culture in Hong Kong tends toward formal attire, though tourist areas are completely relaxed. There are no religious dress requirements at most temples, though modest and respectful clothing is appreciated.",
+      "tourist_tips": [
+        "Pack light, moisture-wicking clothing for summer visits — humidity in July and August is extreme",
+        "Carry a light jacket or cardigan as shopping malls and restaurants are heavily air-conditioned",
+        "Smart casual (collared shirt, clean shoes) is sufficient for upscale restaurants — ties are rarely required"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Hong Kong",
+      "quick_answer": "The legal drinking age is 18, alcohol is widely and freely available, and there are no restrictions on public drinking in Hong Kong.",
+      "detail": "Hong Kong has a very liberal alcohol culture with no government monopoly and no restrictions on when or where alcohol can be consumed in public. Bars, restaurants, and convenience stores sell alcohol at all hours with no time restrictions. The vibrant nightlife districts of Lan Kwai Fong (Central), SoHo, and Wan Chai are globally known for their bar scenes. Local beers include Blue Girl and San Miguel; international spirits are widely available. The legal drinking age is 18 and is occasionally checked at venues.",
+      "tourist_tips": [
+        "Lan Kwai Fong in Central is Hong Kong's most famous bar district — it spills onto the streets and is lively every night",
+        "Convenience stores like 7-Eleven sell cold beer cheaply — buying a can and walking the harbourfront is perfectly legal",
+        "Happy hour deals at bars in SoHo and Wan Chai typically run from 5pm–8pm with significant discounts"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Hong Kong",
+      "quick_answer": "Bargaining is expected at markets like Ladies' Market and Temple Street Night Market, but all malls, chain stores, and restaurants have fixed prices.",
+      "detail": "Hong Kong has a dual retail culture. Traditional street markets — including Ladies' Market in Mong Kok, Temple Street Night Market in Jordan, and the electronics area of Sham Shui Po — expect and welcome bargaining. Starting at 30–40% of the asking price is standard practice at these venues. However, in shopping malls, chain stores, supermarkets, and all formal retail environments, prices are completely fixed and bargaining is inappropriate. Restaurants have fixed menu prices with no negotiation. Vendors at tourist markets routinely inflate initial prices for tourists, so confident bargaining is essential.",
+      "tourist_tips": [
+        "At Ladies' Market and Temple Street, always counter-offer at around 40–50% of the first price quoted to you",
+        "Sham Shui Po is the best area for electronics bargaining — compare prices between multiple stalls before committing",
+        "Never bargain in malls, supermarkets, chain stores like Sa Sa, or restaurants — it will cause embarrassment"
+      ],
+      "warning": "Electronics shops in Tsim Sha Tsui targeting tourists are notorious for bait-and-switch tactics and fake products. Only buy from reputable authorised dealers or large established shops.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Hong Kong",
+      "quick_answer": "Photography is freely permitted at tourist sites, but since 2019 you must avoid photographing police operations, protests, and demonstrations.",
+      "detail": "Hong Kong is highly photogenic and photography is freely permitted at tourist attractions, Victoria Harbour, the skyline, temples, markets, and public spaces. The harbour and skyline are iconic photography subjects. However, since the political unrest of 2019 and the National Security Law of 2020, photographing police officers on duty, security operations, protests, or political demonstrations carries real legal risk. Photography is also restricted at government buildings, courts, and military installations. In temples, photography is generally permitted but quiet, respectful behavior is expected.",
+      "tourist_tips": [
+        "The Tsim Sha Tsui harbourfront and Victoria Peak offer the best classic Hong Kong skyline shots — both are freely accessible",
+        "Man Mo Temple and Wong Tai Sin Temple allow photography — be discreet and respectful during worshippers' prayers",
+        "The Symphony of Lights show over Victoria Harbour starts at 8pm nightly and is a spectacular free photography opportunity"
+      ],
+      "warning": "Photographing police operations, protests, or political demonstrations in Hong Kong is highly sensitive under the National Security Law and can attract police attention or legal consequences.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "sim"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Hong Kong",
+      "quick_answer": "Hong Kong operates 7 days a week — malls, restaurants, and shops are all open on Sundays and most public holidays.",
+      "detail": "Hong Kong is a city that rarely stops. Shopping malls, restaurants, and most retailers operate seven days a week including public holidays. The MTR runs daily from early morning until after midnight. Public holidays may cause some small independent businesses to close, but all major commercial areas remain fully operational. A notable cultural phenomenon occurs every Sunday when Hong Kong's large Filipino and Indonesian domestic worker community gathers in public spaces such as Statue Square, Chater Garden, and the HSBC headquarters atrium — a fascinating and entirely peaceful cultural event worth witnessing respectfully.",
+      "tourist_tips": [
+        "Sunday is a prime shopping day in Hong Kong — malls are open and often busier than weekdays",
+        "On Sundays, Statue Square and Chater Garden in Central are transformed by thousands of Filipino and Indonesian domestic workers socialising on their day off — a unique cultural experience",
+        "Public holidays such as Chinese New Year may see some street food stalls and local shops close — stock up on snacks beforehand"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "travel-insurance"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Hong Kong",
+      "quick_answer": "Hong Kong taxis are metered and honest, but accept cash or Octopus Card only — bring your destination written in Chinese characters.",
+      "detail": "Hong Kong has a colour-coded taxi system: red taxis cover urban Hong Kong Island and Kowloon, green taxis serve the New Territories, and blue taxis operate on Lantau Island. All taxis are metered and drivers are generally honest. However, credit cards are typically not accepted — pay with cash or Octopus Card. Many taxi drivers have limited English, so showing your destination written in Chinese characters on your phone greatly helps. Uber also operates in Hong Kong and is popular for its ease of use and English-language app. Taxis are safe at all hours.",
+      "tourist_tips": [
+        "Save your hotel address and key destinations in Chinese characters on your phone to show taxi drivers",
+        "Octopus Card is accepted in most red urban taxis — confirm with the driver before departure",
+        "Uber is a reliable alternative with full English support and card payment — download it before arrival"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "pocket-wifi"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Hong Kong",
+      "quick_answer": "Tap water in Hong Kong is safe to drink as it is treated and regularly tested, though many locals prefer filtered water due to older building pipes.",
+      "detail": "Hong Kong's municipal water supply meets international standards and is technically safe to drink straight from the tap. The Water Supplies Department conducts regular quality testing. However, many local residents use filtered or bottled water out of concern that older building pipes (common in pre-1980s buildings) can affect water quality after it leaves the mains supply. For tourists staying in modern hotels, tap water is generally fine to drink. Bottled water is cheap and widely available at 7-Eleven and convenience stores throughout the city.",
+      "tourist_tips": [
+        "In modern hotels, tap water is safe to drink — if in doubt, use the in-room kettle to boil it first",
+        "Bottled water is available at every 7-Eleven and convenience store for HKD 5–10 if you prefer it",
+        "Hong Kong's famous milk tea and restaurants use local water in cooking — this is standard and safe"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Hong Kong",
+      "quick_answer": "ATMs are everywhere in Hong Kong and foreign cards are widely accepted — HSBC, Hang Seng, and Standard Chartered all support international cards.",
+      "detail": "Hong Kong has excellent ATM coverage throughout the city, at the airport, MTR stations, malls, and 7-Eleven stores. Major banks including HSBC, Hang Seng, and Standard Chartered reliably accept international Visa and Mastercard. Foreign transaction fees from your home bank may apply, so check before travelling. Contactless payments (Visa, Mastercard) are widely accepted in shops and restaurants. The Octopus Card serves as both a transport pass and a stored-value payment card accepted at thousands of retailers. Cash remains important for taxis, markets, and small local eateries.",
+      "tourist_tips": [
+        "HSBC and Hang Seng ATMs are the most reliable for international cards and are found at every MTR station",
+        "Load your Octopus Card with HKD 200–300 on arrival — it covers transport and small purchases without needing cash",
+        "Notify your home bank before travelling to avoid foreign transaction blocks on your card"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Hong Kong",
+      "quick_answer": "Tourist SIM cards are easy to buy at the airport or 7-Eleven, and Hong Kong has its own free internet separate from mainland China's restrictions.",
+      "detail": "Major Hong Kong carriers include SmarTone, CSL/HKT, 3HK, and China Mobile HK. Tourist SIM cards with data plans are available at the airport arrivals hall, 7-Eleven stores, and carrier shops throughout the city. Airalo eSIMs also work well for Hong Kong. Importantly, Hong Kong maintains its own separate internet infrastructure — Google, WhatsApp, Facebook, Instagram, and all major Western services work without restrictions (there is no Great Firewall in Hong Kong, though this may change over time). If you are arriving from mainland China, your mainland SIM will not provide normal unrestricted internet access in Hong Kong.",
+      "tourist_tips": [
+        "Buy a tourist SIM at Hong Kong Airport on arrival — 7-Eleven inside arrivals sells affordable data SIMs for around HKD 50–100",
+        "All major Western apps and websites work normally in Hong Kong — no VPN needed for Google, Instagram, or WhatsApp",
+        "An Airalo eSIM for Hong Kong can be purchased and activated before you land — convenient and competitively priced"
+      ],
+      "warning": "If you are arriving from mainland China, your Chinese SIM card will not provide access to Google, WhatsApp, or other blocked services once you are in Hong Kong — you will need a Hong Kong SIM or a working VPN.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Hong Kong",
+      "quick_answer": "Hong Kong uses Type G plugs (British 3-pin square) at 220V/50Hz — the same as the UK — so US and European visitors need an adapter.",
+      "detail": "Hong Kong uses the British-style Type G three-pin square plug socket at 220 volts and 50Hz, a legacy of British colonial rule. Visitors from the United States, Canada, Japan, and most of continental Europe will need a plug adapter. Most modern electronic devices (laptops, phone chargers, camera chargers) are dual-voltage (100–240V) and only require an adapter, not a voltage converter. Hong Kong has a very reliable power supply with extremely rare outages. Adapters are available at the airport, electronics stores in Sham Shui Po, and most hotel gift shops.",
+      "tourist_tips": [
+        "Buy a Type G adapter at Hong Kong Airport's arrivals hall before heading to your hotel",
+        "Check your device chargers — most modern electronics state '100–240V' and only need an adapter, not a converter",
+        "Hotel rooms often have a mix of socket types at the desk — ask reception if you need a local adapter"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Hong Kong",
+      "quick_answer": "Tourist market vendors and electronics shops in Tsim Sha Tsui are notorious for overcharging and bait-and-switch scams — always verify before paying.",
+      "detail": "Hong Kong's tourist markets (Ladies' Market, Temple Street) routinely quote inflated prices to tourists. Always bargain hard and walk away if the price is not right. Electronics shops along Nathan Road and in Tsim Sha Tsui targeting tourists are well-documented for bait-and-switch tactics — showing a quality product at a low price then substituting inferior goods or adding hidden costs after purchase. Some jewellery and souvenir shops also dramatically overcharge. Counterfeit goods (watches, bags) are sold openly at some markets, but purchasing fake branded goods is illegal in Hong Kong. Stick to reputable malls and authorised dealers for any significant electronics purchase.",
+      "tourist_tips": [
+        "For electronics, buy from authorised retailers in Fortress or Broadway chain stores rather than independent shops on Nathan Road",
+        "If a price for an electronic item seems too good to be true in a small tourist-area shop, it almost certainly is",
+        "Buying counterfeit branded goods (fake watches, bags) is illegal in Hong Kong — customs can confiscate them on departure"
+      ],
+      "warning": "Electronics shops in Tsim Sha Tsui targeting tourists are notorious for bait-and-switch fraud and selling counterfeit or inferior goods. Only buy electronics from established chain retailers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Hong Kong",
+      "quick_answer": "Hong Kong is one of the world's safest cities with extremely low violent crime — tourists are physically safe at all hours.",
+      "detail": "Hong Kong consistently ranks among the safest major cities in the world for violent crime, and tourists face minimal physical risk anywhere in the city at any hour. Petty theft is rare and the transport system, taxis, and nightlife districts are safe for solo travellers. The political situation following 2019 protests and the 2020 National Security Law has changed the social atmosphere, but this does not affect general physical tourist safety. Standard precautions — keeping valuables secure in crowded markets and being cautious of the scams noted above — are the main concerns for most visitors.",
+      "tourist_tips": [
+        "Hong Kong is extremely safe for solo travellers and women travelling alone — the MTR and streets are safe at all hours",
+        "Keep your wallet and phone secure in busy tourist markets such as Mong Kok and Temple Street where pickpocketing, while rare, is most likely",
+        "Avoid engaging with or photographing any political demonstrations if you encounter them — this is the main legal risk for tourists"
+      ],
+      "warning": "The National Security Law creates legal risks around political expression and photography of sensitive situations. Physical tourist safety is excellent, but political speech and conduct carry real legal consequences.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Hong Kong",
+      "quick_answer": "Hong Kong is cosmopolitan and internationally minded, but local Cantonese culture values efficiency, queuing, and communal dining etiquette.",
+      "detail": "Hong Kong is one of the world's most international cities and is generally very relaxed about cultural etiquette for tourists. However, a few local norms are worth knowing. Cantonese (not Mandarin) is the local language — Hong Kong residents are proud of their distinct identity and appreciate the difference. Orderly queuing is strictly observed at bus stops, MTR stations, and restaurants — always join the queue. Business cards should be presented and received with both hands as a sign of respect. Dining is typically communal with shared dishes — wait for all dishes to arrive before eating in traditional restaurants. Tipping is less ritualized than in mainland Chinese cities.",
+      "tourist_tips": [
+        "Always queue at MTR platform doors — the orderly system is strictly observed and jumping the queue is very poorly received",
+        "Greet locals in Cantonese with 'nei hou' (你好) rather than Mandarin 'ni hao' — the languages and cultures are distinct",
+        "When dining at traditional restaurants, shared dishes are the norm — wait for the host to begin and offer dishes to others before serving yourself"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Hong Kong",
+      "quick_answer": "English is an official language in Hong Kong and is very widely spoken — language is rarely a barrier for English-speaking tourists.",
+      "detail": "Cantonese is the native language of Hong Kong and is completely distinct from Mandarin Chinese. English is the second official language and is used in all government services, road signs, public transport announcements, menus, and commercial signage throughout the city. Most younger Hong Kong residents are English-fluent and English is the common business language. Unlike mainland China, tourists who speak only English will have very little difficulty navigating Hong Kong. Learning a few Cantonese words is appreciated by locals but entirely optional.",
+      "tourist_tips": [
+        "All MTR station signs, exit maps, and announcements are in both Cantonese/Chinese and English — navigation is easy",
+        "Saying 'nei hou' (你好, hello) and 'mgoi' (唔該, thank you/excuse me) in Cantonese will earn genuine smiles from locals",
+        "In taxis, showing your destination in Chinese characters is helpful as some older drivers have limited English — use Google Translate to copy the Chinese text"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Hong Kong",
+      "quick_answer": "Hong Kong has excellent beaches including Repulse Bay and Shek O, with lifeguards and shark nets at all gazetted beaches.",
+      "detail": "Hong Kong has over 40 gazetted (officially managed) beaches, many of which are easily accessible by public transport. Repulse Bay on Hong Kong Island is the most popular and best-known beach. Shek O, Clear Water Bay, and Cheung Sha on Lantau Island offer beautiful scenery with fewer crowds. All gazetted beaches have lifeguards on duty during the swimming season, and shark prevention nets are installed. Water quality has improved significantly in recent decades. The best swimming season runs from May to October when waters are warm. Typhoon season from July to September means beaches may close when typhoon signals are raised.",
+      "tourist_tips": [
+        "Repulse Bay is the most accessible beach from central Hong Kong — take the No. 6 or 6X bus from Exchange Square",
+        "Cheung Sha Beach on Lantau Island is the longest and least crowded — take the MTR to Tung Chung then a taxi",
+        "When Typhoon Signal 8 or above is raised, all beaches close and you should shelter indoors — check the Hong Kong Observatory app"
+      ],
+      "warning": "During the typhoon season (July–September), beaches close when typhoon signals are raised. Monitor the Hong Kong Observatory website or app for signal updates as conditions can change quickly.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Hong Kong",
+      "quick_answer": "Hong Kong drives on the left (British legacy) but renting a car is completely impractical — public transport is far superior for tourists.",
+      "detail": "Hong Kong inherited left-hand drive traffic from British rule. An international driving permit is valid for up to 12 months. However, driving in Hong Kong is genuinely impractical for tourists: traffic is extremely dense, parking is extraordinarily expensive, and road space is limited on the hilly terrain. The MTR, buses, taxis, and ferries cover every destination a tourist would want to reach far more efficiently and cheaply. Taxis are abundant, metered, and honest. For visiting outlying islands, ferries are the transport mode of choice.",
+      "tourist_tips": [
+        "Do not rent a car in Hong Kong — the MTR, buses, and taxis cover everything faster and at a fraction of the cost",
+        "For Lantau Island (home to the Giant Buddha and Disneyland), take the MTR to Tung Chung — no car needed",
+        "If you do drive, be aware that many roads on Hong Kong Island are narrow, steep, and one-way — navigation apps are essential"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Food & Restaurants in Hong Kong",
+      "quick_answer": "Hong Kong is a world-class food city — from Michelin-starred dim sum to cheap wonton noodles — with a must-try local café culture.",
+      "detail": "Hong Kong's food scene is extraordinary in both depth and range. Dim sum (yum cha) is the quintessential Hong Kong experience — sharing bamboo steamer baskets of har gow, siu mai, and char siu bao in a busy restaurant. Must-try local foods include wonton noodle soup, congee, char siu (BBQ pork), Hong Kong-style milk tea (rich, creamy, and brewed strong), pineapple buns (bo lo bao), and egg tarts. The cha chaan teng (Hong Kong café) offers cheap, fast local meals beloved by residents. Hong Kong has more Michelin-starred restaurants per capita than almost any city in the world, and both sides of the spectrum — street food and fine dining — thrive side by side. Dinner typically starts late, between 7pm and 10pm.",
+      "tourist_tips": [
+        "Visit a cha chaan teng (茶餐廳) for breakfast or lunch — a complete meal of toast, egg, and Hong Kong milk tea costs under HKD 50",
+        "For dim sum, go to a busy local restaurant (not a tourist-facing one) between 9am and 2pm when the carts are freshest — Tim Ho Wan has Michelin stars at street food prices",
+        "Mong Kok and Sham Shui Po have the best street food at night — fish balls, egg waffles (gai daan jai), and curry fish balls are iconic Hong Kong snacks"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Temple & Religious Site Etiquette in Hong Kong",
+      "quick_answer": "Hong Kong's temples are welcoming to tourists — no strict dress codes apply, but quiet, respectful behaviour is expected.",
+      "detail": "Hong Kong's most visited religious sites include Man Mo Temple in Sheung Wan, Wong Tai Sin Temple in Kowloon, and the Ten Thousand Buddhas Monastery in Sha Tin. Tin Hau (goddess of the sea) temples are found throughout the city. Unlike temples in South or Southeast Asia, shoes are generally kept on at Chinese Buddhist and Taoist temples in Hong Kong. There are no strict dress code requirements at most temples, though modest and respectful clothing is appreciated. Photography is generally permitted but should be done quietly and without disrupting worshippers. Incense smoke at temples like Man Mo is extremely thick — be prepared if you are sensitive.",
+      "tourist_tips": [
+        "Man Mo Temple in Sheung Wan is the most atmospheric and accessible temple — easily combined with an antique shopping stroll along Hollywood Road",
+        "Wong Tai Sin Temple is vast and very active with worshippers — visit in the morning for the most atmospheric experience",
+        "The Ten Thousand Buddhas Monastery requires a steep 400-step climb but rewards with extraordinary golden Buddha statues — wear comfortable shoes"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Hong Kong",
+      "quick_answer": "The best time to visit Hong Kong is October to December — clear skies, mild temperatures of 20–25°C, and low humidity.",
+      "detail": "Hong Kong has a subtropical climate with four distinct seasons. October to December is the prime tourist season: clear blue skies, comfortable temperatures between 20–25°C, low humidity, and excellent visibility for the harbour views. January to March is cooler (occasionally below 10°C at night) and can be misty or overcast. April to June brings rising heat, humidity, and occasional rain. July to September is typhoon season — hot (33°C+), extremely humid, and at risk of severe typhoons that can disrupt travel significantly. The government's Typhoon Signal system (Signal 8 closes everything) is the main weather risk for tourists.",
+      "tourist_tips": [
+        "Plan your visit for October or November for the best combination of weather, visibility, and manageable crowd levels",
+        "Download the Hong Kong Observatory app before arrival — it provides real-time typhoon signal warnings that affect transport and businesses",
+        "If visiting in summer (July–August), build indoor activities (museums, malls, temples) into each day to escape the extreme heat and humidity"
+      ],
+      "warning": "Typhoon season runs July–September. A Typhoon Signal 8 causes complete shutdown of transport, businesses, and outdoor activities. Have a flexible itinerary and monitor the Hong Kong Observatory during this period.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Hong Kong",
+      "quick_answer": "Eat at cha chaan tengs and food courts, use the MTR instead of taxis, and explore Hong Kong's free hiking trails and harbourfront promenades.",
+      "detail": "Hong Kong can be expensive, but budget travel is very achievable. The cha chaan teng (Hong Kong local café) is the best-value meal in the city — full breakfasts and lunch sets for under HKD 60. Food courts inside shopping malls serve quality local meals at reasonable prices. Using the MTR and Octopus Card for all transport instead of taxis saves significant money. Temple Street Night Market offers cheap street food in the evening. Hong Kong's extensive free hiking trail network — including Dragon's Back, Lion Rock, and the MacLehose Trail — is world-class and costs nothing. The harbourfront promenade in Tsim Sha Tsui and the nightly Symphony of Lights show are free.",
+      "tourist_tips": [
+        "Eat like a local at cha chaan tengs (茶餐廳) — a full set meal with Hong Kong milk tea costs HKD 40–60, a fraction of tourist restaurant prices",
+        "Hike Dragon's Back trail on Hong Kong Island for free — it consistently ranks as one of Asia's best urban hikes and offers stunning sea views",
+        "The Tsim Sha Tsui harbourfront promenade is free, always open, and offers the best views of the Hong Kong Island skyline — go at dusk for magic hour photos"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

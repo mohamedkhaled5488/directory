@@ -1,0 +1,460 @@
+{
+  "country": "United States",
+  "slug": "us",
+  "emoji": "🇺🇸",
+  "region": "Americas",
+  "currency": "USD",
+  "language": "English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in the United States",
+      "quick_answer": "Tipping is mandatory in practice — 18-22% at sit-down restaurants is the current norm, as servers can legally be paid as little as $2.13/hr in base wages.",
+      "detail": "Tip screens at restaurants and coffee shops typically present 18%, 20%, and 22% options; selecting below 18% or leaving nothing at a sit-down restaurant is considered insulting and leaves servers unable to cover their costs. Tip bartenders $1-2 per drink, hotel housekeeping $2-5 per night, and taxi/Uber/Lyft drivers 15-20%. Hair, beauty, and spa services warrant 15-20% as well. Counter-service and fast-food tips are optional but increasingly prompted by tablet payment systems.",
+      "tourist_tips": [
+        "At sit-down restaurants, always tip at least 18% — 20% is easy to calculate (move the decimal, double it) and is considered the standard baseline for good service.",
+        "Tip in cash when possible for housekeeping, as it ensures the money goes directly to the person who cleaned your room rather than being pooled.",
+        "Be prepared for tip prompts even at coffee shops and fast-food counters — pressing 'No Tip' is socially acceptable there, unlike at table-service restaurants."
+      ],
+      "warning": "Failing to tip at a sit-down restaurant is a serious social transgression in the US — servers rely on tips as their primary income, not as a bonus.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in the United States",
+      "quick_answer": "The US has no national public transport network — outside of a handful of major cities, a rental car is essential for getting around.",
+      "detail": "New York City has an excellent subway system running 24/7; Washington DC, Chicago, Boston, and San Francisco also have functional metro networks. Beyond these cities, public transport is sparse and a car is the only practical option. Amtrak operates intercity trains but services are slow, infrequent, and often more expensive than flying. Budget airlines such as Southwest, Spirit, and Frontier make domestic flights cheap and are the fastest option for intercity travel over 200 miles.",
+      "tourist_tips": [
+        "Book domestic flights on Tuesdays or Wednesdays for the lowest fares — Southwest Airlines has no baggage fees and a generous cancellation policy.",
+        "In NYC, buy an OMNY card or use contactless payment on your phone or card directly on the subway and buses — no need to buy a separate MetroCard.",
+        "For intercity bus travel, FlixBus and Greyhound connect major cities at very low prices, though journey times are long — book in advance online for the cheapest tickets."
+      ],
+      "warning": "Renting a car is almost always required outside of major cities — attempting to explore national parks or suburban areas without one will severely limit your trip.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in the United States",
+      "quick_answer": "US healthcare is the most expensive in the world — a single emergency room visit can cost USD 3,000-10,000 or more without insurance, making comprehensive travel insurance absolutely mandatory.",
+      "detail": "Hospitals are obligated to treat emergency patients regardless of ability to pay, but the bills that follow can be financially devastating without insurance. For non-emergency issues, urgent care clinics are significantly cheaper than hospital ERs and do not require appointments. CVS MinuteClinic, Walgreens Health, and similar walk-in clinic chains handle minor illnesses, infections, and vaccinations at reasonable rates. Pharmacies (CVS, Walgreens, Rite Aid) are ubiquitous and pharmacists can advise on over-the-counter treatments.",
+      "tourist_tips": [
+        "Purchase travel insurance with a minimum USD 100,000 medical coverage limit before your trip — even a brief ambulance ride can cost USD 1,000-3,000.",
+        "Search 'urgent care near me' for non-emergency issues rather than going to a hospital ER — wait times and costs are far lower, and most accept walk-ins.",
+        "Bring adequate supply of any prescription medications in their original labeled containers, as US pharmacies cannot fill foreign prescriptions and drug prices without insurance are very high."
+      ],
+      "warning": "Do not rely on being treated and sorting out payment later — US hospitals will pursue medical debt aggressively, including through collection agencies and legal action.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in the United States",
+      "quick_answer": "Laws vary significantly from state to state — cannabis, gun ownership, and alcohol rules that are legal in one state can be criminal offences in another.",
+      "detail": "Cannabis is legal for recreational use in states including California, Colorado, New York, and Illinois, but remains a federal crime and is illegal in many other states — never carry it across state lines. The drinking age is strictly 21 in every state without exception, and ID is checked at any age. Gun laws range from highly permissive (Texas, Florida) to heavily regulated (California, New York). Prescription medications must be carried in their original pharmacy containers to avoid issues at state lines and airport security. Most international visitors require a valid ESTA (Visa Waiver Program) or visa prior to arrival.",
+      "tourist_tips": [
+        "Research the specific laws of each state you plan to visit, particularly regarding cannabis — being in a legal state does not protect you if you cross into a state where it is illegal.",
+        "Always carry a valid photo ID as proof of age — US bars and liquor stores routinely check ID even for people who appear well over 21.",
+        "Keep prescription medications in their original pharmacy bottles with your name on the label to avoid complications at security checkpoints and border crossings."
+      ],
+      "warning": "Cannabis is illegal under federal law regardless of state legality — do not carry it through airports, across state lines, or onto any federal land including national parks.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in the United States",
+      "quick_answer": "Dial 911 from any phone for police, ambulance, or fire services — it works nationwide on any carrier, even without a SIM card.",
+      "detail": "911 is the single universal emergency number covering all 50 states and territories. Calls are routed to the nearest dispatch center, which will direct police, fire, or medical services as needed. Non-emergency police matters should be directed to the local police department's non-emergency line rather than 911. The national suicide and crisis lifeline is 988. The Poison Control Center is 1-800-222-1222.",
+      "tourist_tips": [
+        "911 works from any mobile phone even with no SIM card inserted or no active service plan — you will always be able to reach emergency services.",
+        "Use 911 only for genuine emergencies — misuse of the emergency line is a criminal offence and ties up resources needed for life-threatening situations.",
+        "Save the local non-emergency police number for your area for situations like reporting a minor theft or noise complaint — 311 works as a non-emergency city services line in many major cities."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in the United States",
+      "quick_answer": "The US is extremely casual — there are virtually no enforced dress codes in public, and Americans dress far more informally than European standards.",
+      "detail": "Jeans, t-shirts, and sneakers are acceptable almost everywhere including mid-range restaurants and tourist attractions. Upscale restaurants may request 'smart casual' (no athletic wear or flip-flops), and Broadway shows or opera performances warrant slightly dressier attire, though these are social norms rather than rules. Theme parks, national parks, and outdoor attractions have no dress requirements beyond practicality. Las Vegas casinos are surprisingly casual despite their grandeur.",
+      "tourist_tips": [
+        "Pack comfortable, casual clothing — you will fit in perfectly well in shorts and a t-shirt at the vast majority of American restaurants, attractions, and entertainment venues.",
+        "Bring layers even in summer, especially in the South and Southwest, as air conditioning in restaurants, shops, and cinemas is often set extremely cold.",
+        "For upscale dining experiences, 'business casual' (collared shirt, trousers or a dress) is sufficient — very few US restaurants maintain a strict jacket requirement."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in the United States",
+      "quick_answer": "The drinking age is 21 nationwide with no exceptions, and ID is checked rigorously — even visitors who are clearly middle-aged are routinely asked for ID.",
+      "detail": "Alcohol is widely available at supermarkets, convenience stores, and restaurants in most states, but Pennsylvania, Utah, and a few others require purchases from state-controlled liquor stores. Some states and counties maintain 'blue laws' restricting or prohibiting Sunday alcohol sales. Drinking in public (on streets, parks, beaches) is illegal in most US cities, though New Orleans' French Quarter is a famous exception. Bars typically close between 2am-4am depending on local ordinances.",
+      "tourist_tips": [
+        "Always carry your passport or driver's licence when planning to drink — US bars and stores card anyone who looks under 40, and an expired ID will be rejected.",
+        "Check local 'blue laws' before planning a Sunday morning visit to a liquor store — in some states and counties, no alcohol is sold before noon or at all on Sundays.",
+        "Drinking open containers on public streets is illegal in nearly all US cities and can result in a fine — keep alcohol within licensed premises or private property."
+      ],
+      "warning": "Purchasing alcohol for anyone under 21 ('contributing to the delinquency of a minor') is a criminal offence — do not buy alcohol for younger members of your travel group regardless of the legal drinking age in your home country.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in the United States",
+      "quick_answer": "Bargaining is not part of American retail culture — prices in shops are fixed, though negotiation is expected when buying cars, and is possible at garage sales and antique shops.",
+      "detail": "Attempting to haggle at standard retail stores, restaurants, or supermarkets will be met with confusion or embarrassment. However, car dealerships expect negotiation and sticker prices are rarely the final price. Hotels sometimes offer a lower rate if you call the front desk directly rather than booking through a website. Garage sales, flea markets, antique dealers, and private sellers are all open to offers. Some electronics retailers will price-match a competitor's advertised price.",
+      "tourist_tips": [
+        "When booking hotels, call the hotel directly after checking prices online and ask if they can beat the rate — many will offer a slightly lower price to avoid paying commission to booking platforms.",
+        "At garage sales and flea markets, making a polite offer 20-30% below the asking price is completely normal and expected.",
+        "Car rental companies at the counter sometimes offer upgrades or rate reductions if you ask directly, especially if the lot has excess inventory of a particular vehicle class."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in the United States",
+      "quick_answer": "Photography in public spaces is broadly protected under the First Amendment — you have the legal right to photograph anything visible from a public area, including police officers on duty.",
+      "detail": "The US has some of the strongest photography rights in the world for public spaces — streets, parks, government buildings, police activity, and protests may all be photographed legally from public ground. Military bases, secure government facilities, and the interior of private businesses (shops, museums, venues) may have their own restrictions. National Parks are freely photographable. Some theme parks restrict professional equipment or commercial photography without a permit.",
+      "tourist_tips": [
+        "You are legally allowed to photograph police officers in public — if asked to stop, you do not have to comply as long as you are on public ground and not interfering with police activity.",
+        "Always ask permission before photographing individuals in close-up, especially in indigenous cultural areas or at religious gatherings, as a matter of respect even when not legally required.",
+        "National Parks offer spectacular photography but be aware that commercial/professional shoots (tripods, large format gear for paid work) may require a permit from the park service."
+      ],
+      "warning": "Photographing or filming inside military bases, classified government facilities, or nuclear power plants is illegal and can result in immediate detention — respect all posted signage.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in the United States",
+      "quick_answer": "Most US retail operates 7 days a week, but Thanksgiving and Christmas cause widespread closures, and some states restrict Sunday alcohol sales under blue laws.",
+      "detail": "Unlike much of Europe, US shops, malls, restaurants, and supermarkets are typically open on Sundays with normal or slightly reduced hours. Notable exceptions: Chick-fil-A restaurants are closed every Sunday nationwide as a company policy. Some states retain 'blue laws' limiting Sunday alcohol sales, particularly in the South. Thanksgiving Day and Christmas Day see the most widespread closures — plan grocery shopping in advance. CVS and Walgreens pharmacies are open on most holidays. Black Friday (the day after Thanksgiving) is a major retail shopping day with long lines.",
+      "tourist_tips": [
+        "Stock up on groceries the day before Thanksgiving or Christmas — even 24-hour supermarkets often close or reduce hours on these two holidays.",
+        "Check Sunday alcohol sale restrictions for your destination state before planning a brunch with drinks — some states do not permit sales before noon on Sundays.",
+        "Most major tourist attractions and museums are open on Sundays and public holidays, often with higher visitor numbers — book tickets in advance online to avoid queues."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in the United States",
+      "quick_answer": "Uber and Lyft operate in virtually every US city and are the default way to get around without a car — traditional taxis still operate mainly at airports and in NYC.",
+      "detail": "Rideshare apps are the standard choice for most visitors: Uber and Lyft both operate nationwide with transparent upfront pricing. In NYC, the yellow taxi meter system remains competitive and metered fares are regulated. Waymo fully autonomous robotaxis operate in San Francisco and Phoenix with no driver. Surge pricing applies during rush hours, major events, and bad weather — check both Uber and Lyft to compare prices before booking. Airport taxi queues are an alternative if rideshare surge pricing is high.",
+      "tourist_tips": [
+        "Download both the Uber and Lyft apps before your trip — prices vary and checking both takes seconds, often saving 20-30% during surge periods.",
+        "At major airports, follow signs to the designated rideshare pickup zone rather than the taxi rank — rideshares are typically cheaper and easier to manage with luggage.",
+        "In New York City, hailing a yellow cab on the street is perfectly normal and sometimes faster than waiting for an Uber in busy areas like Midtown Manhattan."
+      ],
+      "warning": "Surge pricing during large events (concerts, sports games, New Year's Eve) can multiply fares by 3-5x — consider public transport, pre-arranged taxis, or walking short distances to avoid the worst surges.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in the United States",
+      "quick_answer": "Tap water is safe to drink throughout the US — it is one of the most tightly regulated drinking water systems in the world and bottled water is largely unnecessary.",
+      "detail": "US municipal tap water meets strict EPA standards and is safe to drink directly from the tap in virtually all cities and towns. The notable exception is Flint, Michigan, which experienced a serious lead contamination crisis from 2014-2019 — infrastructure improvements have been made but some residents still use filters. Rural well water quality can vary. Free tap water is served at all sit-down restaurants and is expected — asking for it is standard and free of charge.",
+      "tourist_tips": [
+        "Carry a refillable water bottle — tap water is free and safe everywhere, and most airports, parks, and public buildings have water fountains or bottle refill stations.",
+        "At restaurants, simply ask for 'water' and you will receive a large glass of free tap water — this is standard American hospitality and does not require any further specification.",
+        "If you are in a rural area with well water, a basic filter bottle (such as a LifeStraw or Brita bottle) provides extra peace of mind, though it is rarely necessary."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in the United States",
+      "quick_answer": "Card payments are accepted almost everywhere in the US, but cash is still useful for tips, small vendors, and street food — ATM fees of USD 2-5 per withdrawal are common.",
+      "detail": "The US is a highly card-friendly country and contactless and chip-and-PIN payments are widely accepted. However, some small restaurants, food trucks, and local businesses are cash-only, and tipping in cash is generally preferred. ATMs charge a 'convenience fee' of USD 2-5 per transaction on top of any fees your home bank adds — use your bank's own network ATMs to minimise charges. The Wise card and Revolut card offer no or very low foreign transaction fees and are the best options for international travellers. US cards predominantly use chip + magnetic stripe.",
+      "tourist_tips": [
+        "Get a Wise or Revolut card before your trip — they convert currency at the real mid-market rate with minimal fees, saving significantly over withdrawing cash at airport ATMs.",
+        "Withdraw larger amounts less frequently to minimize ATM fees — withdrawing USD 200-300 at a time is better than making multiple small withdrawals.",
+        "Keep USD 20-40 in small bills (ones and fives) in your wallet at all times for tipping, tolls, and the occasional cash-only food stall."
+      ],
+      "warning": "Airport ATMs and hotel ATMs charge the highest fees — use a major bank's ATM (Chase, Bank of America, Wells Fargo) or a zero-fee international card instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in the United States",
+      "quick_answer": "T-Mobile tourist SIM plans from USD 15-35/month offer the best value for visitors, while an Airalo eSIM is the most convenient option if your phone supports it.",
+      "detail": "The three main US carriers are T-Mobile (best overall coverage in cities and internationally roaming), Verizon (best rural and highway coverage), and AT&T (strong urban coverage). Tourist-focused prepaid SIM plans are available at airports and T-Mobile stores. Airalo and similar eSIM providers allow instant activation without a physical SIM swap. Coverage is excellent in cities and along major highways but can be very limited in national parks and remote areas. Free Wi-Fi is widely available at hotels, coffee shops (Starbucks), and many public spaces.",
+      "tourist_tips": [
+        "Purchase an Airalo eSIM before departure if your phone supports it — you can activate US data immediately on landing without hunting for a SIM card shop.",
+        "If visiting national parks, download offline maps on Google Maps or Maps.me before you go — cellular coverage in parks like Yellowstone, Zion, and the Grand Canyon is very limited.",
+        "T-Mobile's Magenta prepaid tourist plans include international calling and are renewable monthly — useful if you need to stay connected for an extended visit."
+      ],
+      "warning": "Do not rely on cellular coverage in national parks or remote wilderness areas — download offline maps and emergency contact numbers before entering areas with limited signal.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in the United States",
+      "quick_answer": "The US uses Type A and Type B flat-pin plugs at 120V/60Hz — visitors from Europe, Asia, Australia, and Africa need both a plug adapter and possibly a voltage converter.",
+      "detail": "Type A (two flat parallel pins) and Type B (two flat pins plus a round grounding pin) are the standard outlets. The voltage is 120V at 60Hz, compared to 220-240V used in Europe, Asia, and Australia. Most modern electronics (laptops, phone chargers, cameras) are dual-voltage (100-240V) and only require a plug adapter — check the label on your charger for the input voltage range. High-wattage appliances like hair dryers and curling irons from 220V countries need a step-down voltage converter.",
+      "tourist_tips": [
+        "Check the small print on your phone charger and laptop power brick — if it reads '100-240V', you only need a cheap plug adapter, not an expensive voltage converter.",
+        "Bring a multi-port USB adapter from home rather than buying one in the US — you can charge multiple devices from a single outlet, which is useful in hotels with limited sockets.",
+        "US hotels sometimes have universal outlets in the bathroom for shavers — look for a small secondary socket labelled '120V/240V' which accepts international plugs directly."
+      ],
+      "warning": "Plugging a 220V hair dryer or appliance into a 120V US outlet without a voltage converter will damage the device — always check the voltage rating before plugging in.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in the United States",
+      "quick_answer": "Tourist scams in the US are moderate risk — timeshare presentations, fake ticket sellers, and overpriced 'official' souvenirs near major attractions are the most common pitfalls.",
+      "detail": "Timeshare sales pitches offering 'free vacations' or gifts in exchange for attending a presentation are aggressive and widespread in tourist destinations like Orlando and Las Vegas — the presentations are high-pressure and can last several hours. Street vendors near major tourist sites (especially in NYC and tourist-heavy cities) may sell counterfeit goods or event tickets that turn out to be invalid. Phone and internet scams impersonating the IRS, immigration authorities, or US Customs target tourists particularly. Overpriced 'official' merchandise and food directly outside theme park gates is a routine tourist trap.",
+      "tourist_tips": [
+        "Never attend a timeshare presentation for a 'free gift' unless you are genuinely interested in buying — the free item is rarely worth the hours of aggressive sales tactics you will endure.",
+        "Buy event and attraction tickets only from official websites or box office windows — third-party street sellers and some unofficial resale sites sell fraudulent or heavily marked-up tickets.",
+        "Real US government agencies (IRS, immigration, police) do not call or text demanding immediate payment — any such contact claiming you owe money and must pay immediately is a scam."
+      ],
+      "warning": "Online vacation rental scams are increasingly common — always book through established platforms (Airbnb, VRBO) and be suspicious of deals requiring direct bank transfer or payment outside the platform.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "wise"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in the United States",
+      "quick_answer": "Tourist areas in major US cities are generally safe, but gun violence rates are higher than comparable developed countries and specific neighborhoods in some cities carry significant risk.",
+      "detail": "New York City, Washington DC, Chicago, Los Angeles, and San Francisco are all relatively safe for tourists who stick to well-traveled areas and exercise normal urban precautions. However, specific neighborhoods in Baltimore, Detroit, Memphis, St. Louis, and parts of Chicago have very high violent crime rates — research your specific destination beforehand. The US has a statistically higher rate of gun violence than other high-income countries. Mass shooting incidents, while statistically rare for any individual, do occur — active shooter awareness has become part of US public life. Petty theft, pickpocketing, and car break-ins are the most likely crimes affecting tourists.",
+      "tourist_tips": [
+        "Research the specific neighborhoods of your destination rather than treating an entire city as safe or unsafe — most US cities have very safe tourist cores next to high-crime residential areas.",
+        "Never leave valuables visible inside a parked car — smash-and-grab car break-ins are common in cities like San Francisco and Portland, and rental cars are frequently targeted.",
+        "Be aware of your surroundings when using your phone in public, especially in busy urban areas — phone snatching is one of the most common crimes affecting tourists in US cities."
+      ],
+      "warning": "Gun violence in the US is statistically more prevalent than in other comparable countries — while the risk to tourists is low, being aware of your environment and knowing the location of exits in public venues is a reasonable precaution.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in the United States",
+      "quick_answer": "Americans are informal, friendly, and quick to use first names — small talk with strangers is normal, 'How are you?' is a greeting not a real question, and enthusiasm in service is expected.",
+      "detail": "US culture is direct and informal by global standards: first names are used immediately in almost all settings, and a handshake or friendly 'Hey!' is a standard greeting. 'How are you?' or 'How's it going?' is a phatic greeting — the expected response is 'Good, thanks!' not a genuine account of your wellbeing. Service workers are expected to be upbeat and friendly, and serious or reserved behaviour from servers or shopkeepers can seem unusual to Americans. Restaurant portions are enormous by international standards — doggy bags are completely normal and expected. Free water and free refills on soft drinks are standard at almost all sit-down restaurants.",
+      "tourist_tips": [
+        "Respond to 'How are you?' with 'Good, thanks, how are you?' — treat it as a greeting, not an invitation to discuss how you actually are, especially with strangers and service staff.",
+        "Accept the doggy bag when offered at a restaurant — portions are genuinely huge by most standards and taking leftovers home or back to your hotel is completely normal and expected.",
+        "Personal space norms in the US are slightly larger than in many cultures — maintain roughly an arm's length in conversation and avoid standing very close when queuing, especially with strangers."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in the United States",
+      "quick_answer": "English is the sole working language of the US, and proficiency in English is assumed for all services — though Spanish is widely spoken in Florida, the Southwest, and parts of major cities.",
+      "detail": "The US has no official national language but English is the de facto language of government, business, and everyday life. Spanish is the second most widely spoken language, with large communities in Texas, California, Arizona, New Mexico, Florida, and parts of NYC. Some cities have significant communities speaking Chinese, Korean, Vietnamese, Polish, or other languages. American English differs from British English in vocabulary: 'restroom' (toilet), 'elevator' (lift), 'sidewalk' (pavement), 'check' (bill at a restaurant), 'gas' (petrol), 'freeway/highway' (motorway).",
+      "tourist_tips": [
+        "Ask for the 'restroom' or 'bathroom' rather than the 'toilet' or 'loo' — while Americans understand what you mean, using local terminology avoids a moment of confusion.",
+        "Ask for the 'check' at the end of a meal (not the 'bill') — and in most US restaurants the server brings it to you when they think you are ready, or you need to signal for it.",
+        "In cities like Miami, San Antonio, and Los Angeles, Spanish is widely spoken in service industries — basic Spanish phrases will be genuinely useful and appreciated."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in the United States",
+      "quick_answer": "The US has world-class beaches but rip currents are the leading danger at ocean beaches — always swim between the flags and never ignore beach closure signs.",
+      "detail": "Hawaii offers warm, world-class tropical beaches; Florida has warm water on both the Gulf (calmer, warmer) and Atlantic coasts; California beaches are beautiful but the Pacific water is cold year-round. East Coast beaches (New Jersey, the Carolinas) are seasonal. Rip currents cause the majority of beach drownings — if caught in one, swim parallel to shore rather than fighting against it. Shark attacks are rare but documented most often in Florida and the Carolinas. Some California beaches are technically public under state law but may be physically blocked by private property — use public access points.",
+      "tourist_tips": [
+        "If caught in a rip current, do not swim directly toward shore — swim parallel to the beach until you are out of the current, then angle back toward land.",
+        "Check the flag system at every beach before entering the water: green means calm, yellow means caution, red means dangerous conditions, purple means dangerous marine life (jellyfish or sharks).",
+        "Gulf Coast beaches in Florida (Clearwater, Siesta Key, Destin) offer the warmest, clearest water in the continental US and are excellent for swimming from April through October."
+      ],
+      "warning": "Rip currents are responsible for the majority of ocean beach drownings in the US — they are invisible from shore, can occur on calm-looking days, and should be taken seriously even by strong swimmers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in the United States",
+      "quick_answer": "Drive on the right side of the road; an international driving permit plus your home licence is valid in most states; a rental car is essential for exploring beyond major cities.",
+      "detail": "The US drives on the right and has an extensive interstate highway system. Speed limits are enforced, ranging from 25mph in residential zones to 85mph on some Texas highways, and photo radar enforcement is used in some states (Arizona, Colorado). The legal BAC limit for DUI is 0.08% nationally (0.05% in Utah) — DUI convictions carry severe penalties and can affect future visa applications. Right turns on a red light are permitted in most states after a complete stop, unless a sign prohibits it. Fuel is sold by the gallon and is generally cheap by international standards.",
+      "tourist_tips": [
+        "Book rental cars well in advance, especially for summer travel to national parks — last-minute rentals are significantly more expensive and availability can be very limited.",
+        "Download Google Maps or Waze offline for your destinations before driving in areas with limited cellular coverage — navigation apps are far more useful than in-car GPS systems.",
+        "Never drink and drive under any circumstances — DUI enforcement is aggressive, penalties are severe, and rideshare alternatives are available almost everywhere."
+      ],
+      "warning": "Distracted driving laws (no hand-held phone use while driving) are enforced in most states and fines are substantial — use hands-free Bluetooth or pull over to use your phone while driving.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in the United States",
+      "quick_answer": "American regional food culture is extraordinarily diverse — from NYC pizza and Texas BBQ to New Orleans Creole and California cuisine — with portions that are universally enormous.",
+      "detail": "The US has one of the world's most varied food cultures by region: NYC for pizza, bagels, and international cuisine; Chicago for deep-dish pizza and Italian beef; Texas and the South for barbecue; New Orleans for Creole and Cajun cooking; New England for clam chowder and lobster rolls; California for fresh farm-to-table and fusion cuisine. Free bread, chips, or other starters are common before the meal. Free water and free refills on soft drinks are standard at sit-down restaurants. Breakfast culture is strong — classic American diners (IHOP, Denny's) serve enormous breakfasts 24 hours a day.",
+      "tourist_tips": [
+        "Order one entree per person maximum — US portions are designed to be very filling, and many restaurants actively encourage taking leftovers home in a to-go box.",
+        "Visit during lunch when many upscale restaurants offer the same menu at significantly reduced prices — a USD 40 dinner dish often appears on the lunch menu for USD 18-22.",
+        "Explore food trucks in major cities for excellent quality, locally-specific food at a fraction of sit-down restaurant prices — cities like Austin, Portland, and LA have thriving food truck cultures."
+      ],
+      "warning": "Tipping 18-20% is expected at all sit-down restaurants — the listed menu prices do not include the tip, so factor this into your budget when planning dining costs.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in the United States",
+      "quick_answer": "The US has a rich diversity of religious sites that are generally very welcoming to visitors — dress modestly, be quiet, and follow the lead of worshippers.",
+      "detail": "Freedom of religion is a constitutional cornerstone of the US, and the country has an enormous diversity of active religious communities. Major tourist religious sites include Washington National Cathedral (DC), St. Patrick's Cathedral (NYC), the Salt Lake City Temple (Utah), and numerous historic mission churches in California. Most religious sites welcome respectful visitors. Mosques generally ask visitors to remove shoes and women may be asked to cover their hair — it is courteous to bring a scarf. Megachurches in the South often actively welcome visitors to public services.",
+      "tourist_tips": [
+        "Dress conservatively when visiting any house of worship — covered shoulders and knees are a respectful standard regardless of denomination or religion.",
+        "At mosques, remove your shoes before entering the prayer hall and silence your phone — a head covering for women is appreciated and often available to borrow at the entrance.",
+        "Many famous US churches and cathedrals hold free public services and are open to non-worshippers during visiting hours — attending a service is a respectful way to experience them rather than treating them purely as tourist sites."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in the United States",
+      "quick_answer": "The best time to visit most of the continental US is May-June or September-October, avoiding the extremes of summer heat and winter cold — though the ideal timing varies enormously by region.",
+      "detail": "The US spans an enormous range of climates: Hawaii is tropical year-round; Florida is best October-April (hot and humid in summer, hurricane season June-November); California is mild year-round with Mediterranean climate; the Southwest (Arizona, Nevada) has extreme heat from June-September with temperatures exceeding 110°F/43°C; the Northeast and Midwest have hot summers and cold winters with potential blizzards; the Pacific Northwest is cool and rainy most of the year. Tornado season peaks in April-June across the Great Plains. Hurricane season affects Gulf Coast and East Coast from June through November, with peak risk in August-October.",
+      "tourist_tips": [
+        "Visit the Grand Canyon, Zion, and other Southwest parks in March-May or October-November — summer temperatures are dangerously high and trails can be life-threatening without extreme preparation.",
+        "If visiting New Orleans or Miami in summer, prepare for extreme heat and humidity — plan outdoor activities in the early morning and stay air-conditioned during the midday hours.",
+        "Shoulder season (May and September) offers excellent conditions across most of the US with lower prices, fewer crowds, and more comfortable temperatures than peak summer."
+      ],
+      "warning": "The Southwest desert heat from June to September is genuinely dangerous — heat stroke and dehydration kill hikers every year in places like Death Valley and the Grand Canyon; always carry several litres of water and plan hikes for early morning.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in the United States",
+      "quick_answer": "The US can be expensive, but happy hour specials, national park annual passes, eating at food trucks, and booking domestic flights on Tuesdays can significantly cut costs.",
+      "detail": "Happy hour (typically 4-7pm) at bars and restaurants offers significantly discounted drinks and sometimes food — a useful strategy in expensive cities. The America the Beautiful annual pass (USD 80) grants access to all US national parks and federal recreational areas for one year and pays for itself in two or three park visits. Lunch menus at upscale restaurants offer the same quality food for 40-50% less than dinner prices. Domestic flights are cheapest when booked on Tuesdays and Wednesdays. City tourist cards in New York (New York Pass) and other cities can save money if you plan to visit multiple paid attractions.",
+      "tourist_tips": [
+        "Buy the America the Beautiful annual pass for USD 80 if visiting more than two national parks — it covers all 400+ federal recreational sites and saves significant entrance fees (Yellowstone alone is USD 35/vehicle).",
+        "Look for the lunch menu at any restaurant where you want to try the food — virtually all mid-range and upscale US restaurants serve a cheaper lunch version of their dinner menu.",
+        "Use the GasBuddy app to find the cheapest nearby petrol (gas) station when driving — prices vary significantly within the same city and using this app consistently can save meaningful amounts on a long road trip."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "country": "UAE",
+  "slug": "uae",
+  "emoji": "🇦🇪",
+  "region": "Middle East",
+  "currency": "AED",
+  "language": "Arabic",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in the UAE",
+      "quick_answer": "Tipping is appreciated but not mandatory. 10–15% at restaurants is standard. Round up for taxis.",
+      "detail": "The UAE has a tipping culture influenced by its large expat and tourist population. Most restaurants add a 10% service charge automatically — check your bill before adding more. For additional good service, 10–15% extra is appreciated. Taxi drivers appreciate rounding up the fare. Hotel staff such as bellboys and housekeeping staff expect small tips (AED 5–20). Spa and salon staff typically receive 10–15%. Tipping is not mandatory and refusing to tip will not cause offense, but it is a meaningful gesture for low-wage service workers.",
+      "tourist_tips": [
+        "Check your restaurant bill for a service charge before adding an additional tip",
+        "For taxis, rounding up to the nearest 5 or 10 AED is the norm",
+        "Bellboys at hotels expect AED 5–10 per bag",
+        "Tour guides typically receive AED 20–50 depending on the tour length",
+        "Cash tips are preferred as they go directly to the staff"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in the UAE",
+      "quick_answer": "Dubai has an excellent metro and buses. Buy a Nol Card for all public transport in Dubai. Abu Dhabi has buses but no metro yet.",
+      "detail": "Dubai has a modern, clean metro system with two lines (Red and Green) covering major tourist and business areas. The Nol Card is a rechargeable smart card used on the Dubai Metro, buses, water buses, and Palm Monorail. Purchase and top-up at any metro station. Taxis are metered, abundant, and relatively affordable by global standards. Uber and Careem (local equivalent) operate widely. Abu Dhabi relies primarily on taxis and buses. Between cities, intercity buses operate but most visitors use taxis or rental cars.",
+      "tourist_tips": [
+        "Buy a Nol Card at any Dubai Metro station on arrival — you'll use it throughout your stay",
+        "Women and children have dedicated carriages at the front of Dubai Metro trains — use the correct one",
+        "Uber and Careem apps work well and often have shorter wait times than hailing taxis",
+        "Dubai Tram connects Dubai Marina and JBR waterfront areas",
+        "The metro does not cover every tourist area — plan which stations are closest to your destinations"
+      ],
+      "warning": "Public displays of affection on public transport can result in fines or arrest. Maintain respectful behavior on all public transit.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in the UAE",
+      "quick_answer": "Healthcare quality is excellent but expensive. Travel insurance is strongly recommended. Many hospitals have English-speaking staff.",
+      "detail": "The UAE has world-class private hospitals and clinics, particularly in Dubai and Abu Dhabi. English is widely spoken at medical facilities given the large expat population. However, costs are very high — an emergency room visit can cost AED 500–2,000+ and hospitalization runs AED 2,000–5,000+ per day. Travel insurance is essential. The Dubai Health Authority and Abu Dhabi Health Services Company (SEHA) operate government hospitals where tourists can also receive treatment. Pharmacies are widely available and many medications available only on prescription elsewhere can be bought over the counter.",
+      "tourist_tips": [
+        "Carry comprehensive travel insurance — costs are very high without it",
+        "Dubai hospital for tourists: American Hospital Dubai (+971 4 336 7777)",
+        "Pharmacies are on almost every street in cities and open late",
+        "Prescription medications brought into the UAE must be accompanied by a doctor's letter",
+        "The Dubai Health Authority app (DHCC) can help find nearby clinics"
+      ],
+      "warning": "Many medications that are legal elsewhere are controlled or banned in the UAE. Check the UAE Ministry of Health list before bringing any prescription medication.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in the UAE",
+      "quick_answer": "The UAE has strict laws around alcohol, public behavior, drugs, and dress. What is legal in your home country may be a criminal offense here.",
+      "detail": "The UAE operates under a combination of civil law and Islamic Sharia principles. Key things tourists must understand: alcohol is only legal at licensed venues (hotels, specific restaurants, bars) — drinking in public or being visibly drunk in public is illegal. Drugs carry extremely severe penalties including life imprisonment. Cohabitation by unmarried couples was decriminalized in 2021 but conservative behavior in public is still expected. Criticizing the government, royal family, or Islam on social media or in person is illegal. Homosexual acts are illegal. Swearing in public or making offensive gestures can result in arrest.",
+      "tourist_tips": [
+        "Only drink alcohol at licensed hotels, bars, and restaurants — never in public or on the street",
+        "Even a single cannabis product found in your luggage can result in a 4-year prison sentence",
+        "Public displays of affection (kissing, embracing) can result in arrest — keep it minimal",
+        "Photographing government buildings, military sites, and some mosques is prohibited",
+        "Posting anything critical of the UAE government, rulers, or religion on social media is a criminal offense"
+      ],
+      "warning": "Drug laws in the UAE are among the strictest in the world. Traces of drugs in your system (from use before arriving) have led to tourist arrests. Carry no controlled substances whatsoever.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in the UAE",
+      "quick_answer": "Police: 999. Ambulance: 998. Fire: 997. Tourist Police (Dubai): 800-4438.",
+      "detail": "The UAE has well-funded and responsive emergency services. All operators speak English. Dubai has a dedicated Tourist Police hotline specifically for visitors. Response times in cities are fast. The Dubai Police app allows tourists to report non-emergency incidents digitally. For medical emergencies, private hospitals often have faster specialist response than government hospitals, but both provide emergency care.",
+      "tourist_tips": [
+        "Save 999 (police), 998 (ambulance), and 997 (fire) in your phone",
+        "Dubai Tourist Police: 800-4438 (toll-free) — English-speaking and specifically for visitor assistance",
+        "The Dubai Police app lets you report incidents, get help, and track tourist safety advisories",
+        "For non-emergency matters, police stations are located throughout cities",
+        "Your hotel concierge is also a good first point of contact for minor incidents"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in the UAE",
+      "quick_answer": "Dress modestly in public. Shoulders and knees should be covered in malls, markets, and public areas. Swimwear is only for beaches and pools.",
+      "detail": "The UAE enforces a dress code that applies to all visitors regardless of religion. In public areas — malls, streets, markets, and government buildings — clothing should cover shoulders and knees for both men and women. At beaches, swimwear is acceptable. In hotels and licensed restaurants, dress codes are more relaxed. At mosques (if visiting), women must cover their hair, arms, and legs; men must also cover their legs. During Ramadan, dress codes are enforced more strictly. Revealing or excessively tight clothing in public can result in a warning or fine.",
+      "tourist_tips": [
+        "Carry a light scarf or shawl for covering up when entering malls or public buildings",
+        "Abu Dhabi's Sheikh Zayed Grand Mosque provides abayas and robes for visitors who are not dressed appropriately",
+        "On beaches and at hotel pools, normal swimwear is completely fine",
+        "During Ramadan, dress more conservatively throughout the day out of respect",
+        "Men in shorts and t-shirts are generally fine in tourist areas, but very short shorts can draw attention"
+      ],
+      "warning": "Wearing bikinis or swimwear off the beach or pool (e.g., walking through a hotel lobby in a bikini) can result in a fine in the UAE.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in the UAE",
+      "quick_answer": "Alcohol is only legal at licensed hotels, restaurants, and bars. Drinking in public is illegal. Legal age is 21. Ramadan has extra restrictions.",
+      "detail": "Alcohol is legal in the UAE but strictly regulated. It can only be consumed at licensed venues — typically hotels, specific restaurants attached to hotels, and licensed bars. Convenience stores and supermarkets do not sell alcohol (except for a small number of licensed outlets like MMI and African & Eastern stores requiring membership). Drinking on the street, in cars, in public parks, or at the beach is illegal. The minimum drinking age is 21. During Ramadan, alcohol is typically not served during daytime hours and some venues reduce their serving times significantly.",
+      "tourist_tips": [
+        "Your hotel bar and restaurant are always safe places to drink legally",
+        "Dubai has an active nightlife scene — JBR, DIFC, and Downtown Dubai have many licensed bars",
+        "Abu Dhabi residents can get a liquor license to buy from licensed shops, but tourists cannot purchase from stores",
+        "Dubai Duty Free at the airport is a good place to buy alcohol on arrival for in-room consumption",
+        "Never drink and drive — zero tolerance, with fines of AED 10,000–20,000 and possible jail time"
+      ],
+      "warning": "Being drunk in public (even without a bottle in hand) can result in arrest and detention in the UAE. Drink only at licensed venues.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in the UAE",
+      "quick_answer": "Bargaining is expected in traditional souks and markets. Fixed prices apply in malls and modern shops. Always negotiate at gold and textile souks.",
+      "detail": "The UAE has a split retail culture: modern malls and chain stores have fixed prices, while traditional souks (markets) operate with negotiation as part of the culture. The Gold Souk, Spice Souk, and textile markets in Dubai all expect bargaining. Start by offering 40–60% of the asking price and work up from there. The vendor expects a negotiation. In modern retail outlets like Mall of the Emirates or Dubai Mall, prices are fixed and asking for a discount would be unusual, though salespeople may offer loyalty discounts on electronics.",
+      "tourist_tips": [
+        "At the Gold Souk, negotiate on making charges (labor fee) not the gold price, which is fixed by market rates",
+        "Start at half the asking price in traditional markets and work toward a price you both accept",
+        "Walking away often results in the vendor calling you back with a lower price",
+        "Compare prices across multiple stalls before committing in any souk",
+        "Electronics bargaining is possible in Deira electronics area but not in major malls"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in the UAE",
+      "quick_answer": "Photographing government buildings, military sites, and people without consent is illegal. Tourists have been arrested for innocent-seeming photos.",
+      "detail": "The UAE has strict photography laws that have resulted in tourist arrests. It is illegal to photograph government buildings, royal palaces, military or police facilities, airports (beyond general areas), and certain infrastructure. Photographing women (especially local Emirati women) without their permission is illegal and can result in criminal charges. Sharing photos online that could embarrass individuals or show them in an undignified way is also a legal risk. Drone photography requires advance permits and is banned in many urban areas.",
+      "tourist_tips": [
+        "Always ask permission before photographing Emirati women or any local person",
+        "The Burj Khalifa, Dubai Marina, and major tourist attractions are all fine to photograph",
+        "Do not photograph inside government offices, courts, or police stations under any circumstances",
+        "Drone photography: register your drone with the UAE GCAA and get permits for each location",
+        "Street photography of crowds is generally fine, but close-up portraits require consent"
+      ],
+      "warning": "Tourists have been arrested and deported for photographing police stations, checkpoints, or Emirati women without permission. When in doubt, put the camera away.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in the UAE",
+      "quick_answer": "The UAE weekend is Saturday–Sunday. Businesses close on Friday for prayers. Malls are open 7 days a week. Ramadan significantly changes all hours.",
+      "detail": "The UAE moved its weekend to Saturday–Sunday in 2022 (previously it was Friday–Saturday). Most government offices and many businesses are closed on weekends. However, malls, shops, and restaurants operate 7 days a week, often with extended hours on weekends. Friday is a holy day — many businesses open late (after Friday prayers, around 1–2pm). During Ramadan (dates vary annually), restaurants may be closed during daylight hours, alcohol service hours are reduced, and overall business hours shift to evenings and late night. Eid holidays see widespread closures.",
+      "tourist_tips": [
+        "Dubai Mall and major malls are open every day, typically 10am–midnight",
+        "Friday prayers run roughly 12:30–2pm — expect many small shops to be closed during this window",
+        "During Ramadan, eating and drinking in public during daylight hours is illegal — use hotel restaurants",
+        "Ramadan hours: most restaurants open from Iftar (sunset) — check local prayer times for the date",
+        "UAE public holidays: check the official UAE government calendar as some dates change annually"
+      ],
+      "warning": "During Ramadan, eating, drinking, or smoking in public during daylight hours (including in your car) is illegal for everyone, including non-Muslim tourists.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in the UAE",
+      "quick_answer": "Uber and Careem both operate in the UAE, and official metered taxis are widely available, honest, and affordable.",
+      "detail": "Dubai is served by RTA (Roads and Transport Authority) metered taxis that are reliable and honest — overcharging is rare. Abu Dhabi has its own Abu Dhabi Taxi service. Uber and Careem (the regional rideshare leader) both operate across the Emirates and are popular alternatives with upfront pricing. Airport taxis are official and metered only — there are no unlicensed touts at UAE airports. Dubai also offers pink women-only taxis driven by female drivers for those who prefer them. Fares are reasonable by global standards, and all official taxis have meters that drivers are required to use.",
+      "tourist_tips": [
+        "Download both Uber and Careem before you arrive — surge pricing varies between the two apps",
+        "At Dubai and Abu Dhabi airports, only use the official taxi ranks — ignore anyone approaching you inside the terminal",
+        "Women-only pink taxis in Dubai can be booked via the RTA app or hailed at designated spots"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in the UAE",
+      "quick_answer": "Tap water is desalinated and technically safe to drink, but most residents and tourists use bottled water due to the heavy chlorination and taste.",
+      "detail": "The UAE's tap water comes from desalination plants and meets WHO safety standards, but the chlorine levels used to treat it make the taste unpleasant for most people. Bottled water is universally available and inexpensive — popular brands include Masafi and Al Ain. Staying very well hydrated is critical, especially in summer when temperatures exceed 45°C, as dehydration can become dangerous quickly. Most hotels provide complimentary bottled water and restaurants serve it as standard.",
+      "tourist_tips": [
+        "Buy large 1.5L or 5L water bottles from supermarkets like Carrefour or Lulu — far cheaper than convenience stores",
+        "Carry water with you at all times outdoors, especially between April and October",
+        "Al Ain and Masafi are the most widely available local brands and are reliably clean and affordable"
+      ],
+      "warning": "Dehydration is a genuine health risk in UAE summers. Drink at least 3–4 litres of water per day when outside in hot weather.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in the UAE",
+      "quick_answer": "ATMs are widely available and the UAE is largely cashless, but carry AED 200–500 for souqs and small traditional vendors.",
+      "detail": "The UAE is one of the most cashless societies in the world — Apple Pay and Google Pay are accepted almost everywhere, including taxis and small shops. Major banks with widespread ATMs include Emirates NBD, ADIB (Abu Dhabi Islamic Bank), FAB (First Abu Dhabi Bank), and HSBC UAE. ATM fees vary by bank and home card provider. Cash remains useful at traditional souqs, smaller street food vendors, and markets where card machines may not be available. Currency exchange offices (exchanges) are common and often offer better rates than airport desks.",
+      "tourist_tips": [
+        "Use Wise or a multi-currency card to avoid international ATM fees, which can add up quickly",
+        "Carry AED 200–500 in cash for souqs, street food stalls, and small vendors who may not take cards",
+        "Airport currency exchange rates are poor — change only a small amount on arrival and exchange more in the city"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in the UAE",
+      "quick_answer": "du and Etisalat (e&) are the two UAE carriers — both sell tourist SIMs at the airport with excellent 5G coverage, but VoIP calls are blocked.",
+      "detail": "The UAE has two telecoms providers: du and Etisalat (rebranded as e&). Both sell tourist SIM packages at Dubai and Abu Dhabi airports immediately after immigration, making connectivity easy from the moment of arrival. Coverage is excellent with 5G available across most urban areas. Airalo eSIMs also work for data. A critical restriction: VoIP calls via WhatsApp voice, Skype, FaceTime audio, and similar apps are blocked by both carriers. To make calls, use your SIM's standard calling minutes or the officially approved C'Me app.",
+      "tourist_tips": [
+        "Buy a tourist SIM at the airport arrivals hall from du or e& — packages start around AED 50–100 for several GB of data",
+        "Do not rely on WhatsApp calls or Skype — they are blocked; use normal calls or the C'Me VoIP app instead",
+        "Airalo eSIM is a convenient option if your phone supports eSIM and you want to set up data before landing"
+      ],
+      "warning": "VoIP services including WhatsApp voice calls, FaceTime audio, and Skype are blocked in the UAE. A VPN may circumvent this but using a VPN to bypass blocked services is a legal grey area.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "vpn", "pocket-wifi"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in the UAE",
+      "quick_answer": "The UAE uses Type G plugs (British 3-pin square) at 230V/50Hz — the same as the UK.",
+      "detail": "The UAE uses the British-style Type G three-pin square plug and 230V/50Hz electricity, identical to the UK standard. Visitors from the US, Canada, Japan, and most of continental Europe will need a plug adapter. The power supply is very reliable with virtually no outages in urban areas. Most modern hotels provide universal sockets or USB charging ports alongside Type G outlets. Adapters are available at airport shops, supermarkets, and electronics stores throughout the UAE.",
+      "tourist_tips": [
+        "US visitors need a Type A/B to Type G adapter — pick one up at the airport or any Carrefour supermarket",
+        "Most hotel rooms include at least one or two USB charging ports beside the bed even without a universal socket",
+        "European two-pin plug adapters are cheap and widely available at any UAE supermarket or electronics shop"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in the UAE",
+      "quick_answer": "Haggling is expected at traditional souqs but scams are rare — the UAE has a very low scam culture overall.",
+      "detail": "The UAE has very little of the aggressive tourist scam culture found in many other travel destinations. Haggling is a normal and expected part of shopping at the Gold Souk, Spice Souk, and textile markets in Dubai, but modern malls have completely fixed prices. Counterfeit goods (fake designer handbags, watches) are available at some souqs and while buyers are rarely prosecuted, purchasing counterfeits is technically illegal. Some tourist-area restaurants may overcharge, so check the menu prices before ordering. The overall risk of being scammed is low by regional and global standards.",
+      "tourist_tips": [
+        "Always check menu prices before ordering at tourist-area restaurants, especially near major attractions",
+        "At the Gold Souk, the gold price per gram is fixed by market rate — only the craftsmanship fee is negotiable",
+        "Buying counterfeit goods is illegal in the UAE even as a tourist — be aware of the risk even if enforcement is rare"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in the UAE",
+      "quick_answer": "The UAE is one of the safest countries in the world with extremely low crime rates — road accidents are a greater real risk than crime.",
+      "detail": "The UAE consistently ranks among the top countries globally for personal safety. Strict law enforcement, severe penalties, and a culture of respect for the law make petty theft, mugging, and violent crime essentially nonexistent by global standards. Women consistently report feeling very safe travelling alone. Pickpocketing, while not unheard of in busy areas like the Dubai Metro, is far rarer than in European tourist cities. The most genuine safety risk for visitors is road traffic accidents — the UAE has a high road fatality rate driven by aggressive driving and speeding.",
+      "tourist_tips": [
+        "Leave valuables in your hotel safe — not because theft is likely, but as a universal best practice",
+        "Women can walk alone at night in tourist and residential areas without significant concern",
+        "Exercise particular caution as a pedestrian or driver — road accidents are the real safety risk in the UAE"
+      ],
+      "warning": "Road traffic accidents are a genuine risk. Drive defensively, always wear a seatbelt, and never exceed speed limits — cameras are everywhere.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in the UAE",
+      "quick_answer": "Ramadan etiquette is critical, public displays of affection are inappropriate, and small gestures like accepting offered coffee show respect.",
+      "detail": "During Ramadan, eating, drinking, or smoking in public during daylight hours is illegal for everyone including tourists — use hotel restaurants or designated areas. The left hand is traditionally considered unclean, so use your right hand when passing items, eating, or greeting. Pointing feet at people or sitting in a way that shows the soles of your feet is considered disrespectful. When offered Arabic coffee (qahwa) and dates by a host, accepting graciously is good manners. Friday prayers briefly affect business hours — many small shops close for around 30 minutes around midday. Public displays of affection, while laws have been somewhat relaxed, remain inappropriate in public.",
+      "tourist_tips": [
+        "During Ramadan, keep food, drinks, and gum out of sight in all public spaces during daylight hours",
+        "Accept Arabic coffee and dates if offered by a host — refusing can cause minor offence",
+        "Use your right hand for greetings, passing objects, and eating whenever possible"
+      ],
+      "warning": "Eating or drinking in public during Ramadan daylight hours is a fineable offense. This applies to all visitors regardless of religion.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in the UAE",
+      "quick_answer": "Arabic is the official language, but English is so widely spoken in tourism and business that there is effectively no language barrier for visitors.",
+      "detail": "Arabic is the UAE's official language, but with expatriates making up around 88% of the population, English functions as the everyday working language across tourism, business, retail, and hospitality. Virtually all signs, menus, and official communications are in both Arabic and English. Taxi drivers, hotel staff, and shop workers almost universally speak English. Emirati Arabic has its own distinct dialect that differs from Egyptian or Levantine Arabic. Learning a few basic Arabic greetings (\"As-salamu alaykum\" for hello, \"Shukran\" for thank you) is appreciated and warmly received by locals.",
+      "tourist_tips": [
+        "Say \"As-salamu alaykum\" (peace be upon you) as a greeting — locals genuinely appreciate the effort",
+        "\"Shukran\" (thank you) and \"Inshallah\" (God willing, used to mean hopefully/maybe) are the two most useful Arabic words",
+        "English is sufficient for every tourist situation in the UAE — translation apps are unnecessary for most visitors"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in the UAE",
+      "quick_answer": "The UAE has excellent public beaches with warm water year-round, but appropriate swimwear and flag safety systems apply.",
+      "detail": "Dubai's top public beaches include JBR Beach (Jumeirah Beach Residence), Kite Beach, and Mamzar Beach Park, all well-maintained and free or low-cost. Abu Dhabi's Corniche Beach is a popular family-friendly stretch. Water temperatures in the Arabian Gulf are warm year-round (around 22–32°C depending on season). A beach flag safety system operates at most public beaches — follow it carefully. Jellyfish appear occasionally, particularly in summer. Rip currents are rare in the sheltered Gulf but do occur. Women should wear conventional bikinis or one-piece swimwear — thong bikinis and overly revealing swimwear are inappropriate on public beaches.",
+      "tourist_tips": [
+        "JBR Beach and Kite Beach are Dubai's most popular free public beaches — arrive early on weekends to secure a spot",
+        "Always check the beach flag system: green is safe, yellow means caution, red means no swimming",
+        "Swimwear is for the beach and pool only — cover up when walking through beach promenades or nearby areas"
+      ],
+      "warning": "Wearing a thong bikini or extremely revealing swimwear on public UAE beaches can result in a fine. Stick to conventional swimwear on public beaches.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in the UAE",
+      "quick_answer": "Drive on the right, roads are excellent, but speed cameras are everywhere and the UAE has one of the world's highest road accident rates.",
+      "detail": "The UAE drives on the right-hand side and international driving licences are valid for tourists. Roads are modern and well-maintained. However, the UAE has a significantly elevated road fatality rate driven by speeding and aggressive driving — tailgating and lane-cutting are common. Speed cameras (operating under the Salik system in Dubai and Darb in Abu Dhabi) are ubiquitous, so stick strictly to posted limits. Parking: grey-marked spaces require paid tickets, green-marked spaces are free. In sandstorms, pull off the road completely and wait — do not attempt to drive through. The blood alcohol limit is 0.00% — any alcohol in your system while driving is illegal.",
+      "tourist_tips": [
+        "Set your sat-nav speed alerts — cameras are unmarked and fines are issued automatically to your rental company",
+        "In a sandstorm, pull completely off the road, turn off your lights, and wait for visibility to improve",
+        "Rental cars come with Salik/Darb toll tags — check how your rental company charges for toll usage before signing"
+      ],
+      "warning": "The UAE has a very high road accident and fatality rate. Drive defensively, maintain safe following distances, and strictly observe speed limits.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in the UAE",
+      "quick_answer": "The UAE is a global food destination — all cuisine is halal, pork is restricted to licensed venues, and Friday brunch is a beloved local institution.",
+      "detail": "All food served publicly in the UAE is halal — pork and pork products are only available at licensed non-Muslim restaurants, typically in hotels. The UAE's expat-majority population has made it one of the world's most culinarily diverse destinations, with every global cuisine represented. Cheap local options include shawarma and falafel from street-level shops for AED 10–20. Friday brunch is a beloved UAE tradition where hotels offer unlimited food (and often drinks) from mid-morning through afternoon. During Ramadan, eating is only permitted after Iftar at sunset. A service charge is often included in restaurant bills, making additional tipping optional.",
+      "tourist_tips": [
+        "Friday brunch at a hotel is a quintessential UAE experience — book in advance as popular ones sell out weeks ahead",
+        "Look for shawarma and manakish spots away from tourist zones for authentic cheap meals at AED 10–20",
+        "Always check your bill for a service charge before adding an extra tip — double-tipping is common among tourists"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in the UAE",
+      "quick_answer": "Sheikh Zayed Grand Mosque welcomes non-Muslims with free abayas provided; remove shoes, dress modestly, and visit outside prayer times.",
+      "detail": "The Sheikh Zayed Grand Mosque in Abu Dhabi is one of the world's most magnificent mosques and actively welcomes non-Muslim visitors outside of prayer times — free abayas and robes are provided at the entrance for anyone not appropriately dressed. Shoes must be removed before entering. Men should cover their shoulders and legs. Dubai's Jumeirah Mosque runs dedicated non-Muslim guided tours on most mornings and is considered one of the most visitor-friendly mosques in the Gulf. Hindu temples and Christian churches exist in the UAE in designated community areas and welcome respectful visitors.",
+      "tourist_tips": [
+        "Sheikh Zayed Grand Mosque is free to enter — arrive in the morning on weekdays to avoid coach tour crowds",
+        "Jumeirah Mosque in Dubai offers guided non-Muslim tours most mornings — check the schedule and book ahead",
+        "Remove shoes before entering any mosque and carry them in a bag rather than leaving them outside"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit the UAE",
+      "quick_answer": "Visit October to April for comfortable outdoor weather — May to September is extremely hot and humid with temperatures above 45°C.",
+      "detail": "The UAE has two distinct seasons: a warm, pleasant winter (October–April, 25–35°C) ideal for outdoor activities, beaches, and sightseeing; and a brutally hot, humid summer (May–September, regularly 40–50°C+) when outdoor activities become impractical or dangerous. The most popular tourist season runs November through March, overlapping with the Dubai Shopping Festival (December–January) and major events. Summer visitors are largely confined to air-conditioned malls, indoor attractions, and hotel pools. Sandstorms can occur at any time of year but are more common in spring and summer.",
+      "tourist_tips": [
+        "Book November to February travel well in advance — this is peak season and prices for flights and hotels rise sharply",
+        "If visiting in summer, plan your day around air-conditioned activities with early morning or late evening outdoor time only",
+        "Dubai Shopping Festival (December–January) offers deals across the city but also means larger crowds"
+      ],
+      "warning": "Summer heat in the UAE (May–September) is a genuine health hazard. Prolonged outdoor exposure above 45°C can cause heat stroke rapidly — limit time outside and stay hydrated.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in the UAE",
+      "quick_answer": "The UAE is expensive but cheap eats, free beaches, the Dubai Metro, and hotel happy hours can significantly reduce your costs.",
+      "detail": "The UAE has a reputation as an expensive destination, but budget-conscious visitors can keep costs manageable with the right approach. Local shawarma and manakish shops charge AED 10–20 for a filling meal, while tourist-area restaurants charge 5–10 times as much. The Dubai Metro is a fraction of the cost of taxis for the same journey. Public beaches (JBR, Kite Beach, Corniche) are free. Many hotel bars run happy hour deals with two-for-one drinks. For sightseeing, the Dubai Frame offers a fraction of the cost of the Burj Khalifa observation deck while providing a similarly impressive vantage point.",
+      "tourist_tips": [
+        "Use the Dubai Metro instead of taxis wherever possible — it is clean, fast, and a fraction of the price",
+        "Eat lunch or dinner at local shawarma and falafel shops away from tourist zones for AED 10–20 per meal",
+        "The Dubai Frame (AED 50) offers spectacular views of old and new Dubai at a fraction of the Burj Khalifa price (AED 149+)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

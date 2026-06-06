@@ -1,0 +1,360 @@
+{
+  "country": "Switzerland",
+  "slug": "switzerland",
+  "emoji": "🇨🇭",
+  "region": "Europe",
+  "currency": "CHF",
+  "language": "German/French/Italian",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Switzerland",
+      "quick_answer": "Service is included by law in all Swiss bills, so tipping is never expected — rounding up or leaving 5–10% for exceptional service is appreciated but purely optional.",
+      "detail": "Swiss restaurant prices already include a full service charge by law, meaning staff wages are not dependent on tips. There is no social pressure whatsoever to leave extra money. For genuinely outstanding service, rounding up to the nearest franc or leaving 5–10% is a gracious gesture that will be warmly received. The same applies to taxis, hotel staff, and tour guides — rounding up is polite, but leaving nothing causes no offence.",
+      "tourist_tips": [
+        "Round up the bill or say a higher total when paying cash if service was excellent — saying 'stimmt so' means 'keep the change'",
+        "For card payments, simply decline or skip the tip prompt — no awkwardness expected",
+        "Hotel porters and spa staff appreciate CHF 2–5 per service, but it is entirely discretionary"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Switzerland",
+      "quick_answer": "Switzerland has one of the world's best integrated transport networks — trains, buses, boats, and cable cars all connect seamlessly, and the Swiss Travel Pass gives tourists unlimited travel.",
+      "detail": "The Swiss Travel System integrates trains (SBB/CFF/FFS), PostBus, lake steamers, and most mountain railways under a single ticketing umbrella. The Swiss Travel Pass offers unlimited travel on the full network for 3, 4, 6, 8, or 15 days and is exceptional value for tourists doing extensive travel. The Half-Fare Card (Halbtax) gives 50% off all tickets and pays for itself quickly. Swiss trains are famously punctual — departures are accurate to the minute and connections as short as two minutes routinely work. The free SBB app is essential for real-time timetables, ticket purchase, and platform information.",
+      "tourist_tips": [
+        "Buy the Swiss Travel Pass before arriving — it is cheaper through official overseas distributors than in Switzerland",
+        "Download the SBB app for live timetables and mobile tickets — it works seamlessly across all transport modes",
+        "PostBus routes through Alpine villages are included in the Travel Pass and offer some of Switzerland's most scenic journeys"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Switzerland",
+      "quick_answer": "Swiss healthcare is world-class but among the most expensive on the planet — comprehensive travel insurance is absolutely essential as EU EHIC cards do not cover Switzerland.",
+      "detail": "Switzerland is not an EU or EEA member, meaning the European Health Insurance Card (EHIC) provides no coverage here. A hospital visit, emergency treatment, or mountain rescue can cost thousands of Swiss francs and must be paid in full by uninsured tourists. Pharmacies (Apotheke in German, pharmacie in French, farmacia in Italian) are excellent and pharmacists are highly trained — they can handle many minor ailments without a doctor's visit. Medical staff in Switzerland typically speak English, especially in cities and tourist areas.",
+      "tourist_tips": [
+        "Purchase travel insurance with at minimum CHF 500,000 medical coverage and helicopter rescue before travelling — mountain accidents are common",
+        "Pharmacies display a green cross and are the best first stop for minor illness, common medications, and health advice",
+        "Save the REGA air rescue number (1414) in your phone before any hiking or skiing — Swiss alpine rescue is world-class but not free"
+      ],
+      "warning": "EU EHIC cards are completely invalid in Switzerland. Without travel insurance, a single emergency hospital stay or helicopter rescue can easily cost CHF 10,000–50,000 billed directly to you.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Switzerland",
+      "quick_answer": "Quiet hours from 10pm to 7am and all day Sunday are strictly enforced — even running a washing machine or flushing a toilet repeatedly at night can draw complaints.",
+      "detail": "Switzerland's quiet hour (Nachtruhe) rules are among the strictest in Europe and are enforced by neighbours and building management. Sundays are treated as a day of complete rest — no noisy activities, no lawn mowing, no drilling, and in many apartment buildings no laundry either. Littering carries heavy fines and recycling rules are mandatory and complex, varying by canton. Cannabis possession of up to 10g has been decriminalized and recreational legalization is being introduced gradually. Jaywalking is technically illegal and while rarely fined in cities, it is genuinely frowned upon.",
+      "tourist_tips": [
+        "Keep noise to an absolute minimum after 10pm and on Sundays — Swiss neighbours take this extremely seriously and will not hesitate to complain",
+        "Sort your rubbish correctly: Switzerland has mandatory recycling for glass, paper, PET, and aluminium, and uses a pay-per-bag system for general waste in most cantons",
+        "Use designated pedestrian crossings — jaywalking is technically illegal and Swiss pedestrians reliably wait for the green light"
+      ],
+      "warning": "Violating Sunday quiet rules or creating excessive noise during Nachtruhe (10pm–7am) can result in police complaints from neighbours and fines — this is taken seriously even in tourist accommodation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Switzerland",
+      "quick_answer": "Police: 117. Ambulance: 144. Fire: 118. REGA mountain air rescue: 1414. Universal EU emergency number 112 also works in Switzerland.",
+      "detail": "Switzerland uses its own national emergency numbers alongside the universal EU 112 number. For mountain and Alpine emergencies, REGA (Swiss Air-Rescue) on 1414 is the critical number — they coordinate helicopter rescue across the Alps and respond to hiking, skiing, and mountaineering accidents. The 112 number connects to the relevant service and works from mobile phones even without a SIM card or signal on many networks. English-speaking operators are available on all emergency lines, particularly in tourist regions.",
+      "tourist_tips": [
+        "Save 1414 (REGA air rescue) in your phone before any hiking, skiing, or mountain activity — it operates 24/7 and can locate you by mobile signal",
+        "112 is the universal fallback that works even without a local SIM and will route to the correct Swiss emergency service",
+        "The Swiss emergency app 'Rega' allows GPS location sharing with air rescue and is worth downloading before Alpine activities"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Switzerland",
+      "quick_answer": "Switzerland has no strict dress requirements — smart casual works in cities, functional outdoor gear is the norm in Alpine areas, and swimwear is fine at lake beaches in summer.",
+      "detail": "Swiss cities like Zürich and Geneva trend toward neat, conservative dressing — the population generally dresses well and understated. There are no religious or legal clothing requirements for tourists anywhere in the country. Upscale restaurants in Zürich and Geneva may expect smart casual attire for dinner. In Alpine villages and mountain resorts, high-quality outdoor and hiking clothing is the cultural norm and flip-flops on mountain trails are genuinely dangerous. Lake beaches (Strandbad) in summer are popular and standard swimwear is entirely appropriate.",
+      "tourist_tips": [
+        "Pack layers regardless of season — Alpine weather changes rapidly and temperatures drop significantly with altitude even in summer",
+        "Proper hiking boots are strongly recommended on mountain trails, not just for comfort but for safety on rocky terrain",
+        "Smart casual is sufficient for most Zürich and Geneva restaurants — a collared shirt and clean trousers will get you into almost anywhere"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Switzerland",
+      "quick_answer": "The legal drinking age is 16 for beer and wine, 18 for spirits; alcohol is widely available with no restrictions on public consumption or hours in most areas.",
+      "detail": "Switzerland has a relaxed and culturally embedded relationship with alcohol. Swiss wine is outstanding — Valais produces excellent reds (Pinot Noir, Cornalin) and Lavaux on Lake Geneva is a UNESCO-listed wine region producing superb Chasselas whites. Absinthe, originally banned and reintroduced after decades, has been legal since 2005 and originates from the Val-de-Travers region in Neuchâtel. Drinking alcohol in public spaces is legal nationwide. Restaurant and bar hours are generally liberal, particularly in cities. Drink-driving limits are strict at 0.05% BAC.",
+      "tourist_tips": [
+        "Visit the Lavaux vineyard terraces above Lake Geneva for world-class Swiss Chasselas white wine and stunning scenery — many cellars offer tastings",
+        "Try absinthe in its region of origin (Val-de-Travers, Neuchâtel canton) where local distilleries welcome visitors",
+        "Supermarkets Migros and Coop stock good Swiss wines and beers at far lower prices than restaurants — ideal for picnics"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Switzerland",
+      "quick_answer": "There is essentially no bargaining culture in Switzerland — prices are fixed everywhere and attempting to haggle would be considered rude or strange.",
+      "detail": "Switzerland operates on a strict fixed-price culture across all retail, hospitality, and market settings. Prices are set, clearly displayed, and universally respected. Unlike many tourist destinations, Swiss vendors do not inflate prices expecting negotiation — the displayed price is what everyone pays. Prices are genuinely high, but they are honest. Attempting to bargain at a shop, restaurant, market stall, or hotel reception would cause confusion and mild offence. Private sales between individuals (cars, electronics on platforms like Ricardo.ch) are the one context where negotiation is normal.",
+      "tourist_tips": [
+        "Accept displayed prices everywhere — Swiss vendors are not waiting to negotiate and the price shown is the real price",
+        "Use comparison sites and book transport and accommodation in advance to get genuinely lower prices without any awkward negotiation",
+        "Weekly market stalls (Wochenmarkt) in Swiss cities sell local produce at fixed prices — do not attempt to haggle even here"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Switzerland",
+      "quick_answer": "Switzerland is very photography-friendly with spectacular scenery and no restrictions in public spaces, though the Swiss are privacy-conscious and street photography of individuals can make locals uncomfortable.",
+      "detail": "Public spaces, mountain landscapes, villages, and city streets are all freely photographable in Switzerland. There are no restrictions on photographing bridges, transport infrastructure, or government buildings beyond standard rules at military installations. Switzerland's strong privacy culture means that photographing individuals closely without their awareness or consent — particularly for commercial or publication use — can create legal and social friction. Most Swiss will politely decline being photographed if asked. Inside museums and churches, check posted rules as policies vary.",
+      "tourist_tips": [
+        "Mountain and lake scenery is absolutely spectacular and completely unrestricted — the Bernese Oberland, Engadin, and Lavaux are among the world's most photogenic landscapes",
+        "Always ask permission before photographing individuals at close range — Swiss people value privacy and a direct, polite request is appreciated",
+        "Drone flying requires registration with FOCA (Federal Office of Civil Aviation) and has strict restrictions near airports, urban areas, and national parks"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Switzerland",
+      "quick_answer": "Most shops are completely closed on Sundays — stricter than most of Europe — though restaurants, cafés, and shops inside major train stations remain open.",
+      "detail": "Swiss Sunday closing laws are among the strictest in Europe and are deeply embedded in cultural life. Virtually all supermarkets, shops, and retail businesses close on Sundays. Major train station shops (particularly Zürich HB, Geneva, and Bern) are an important exception and stock groceries, essentials, and convenience items seven days a week. Restaurants, cafés, and tourist attractions are generally open on Sundays. Public holidays follow similar patterns of closures. Sunday quiet rules additionally prohibit loud activity throughout the day — not just in the evening.",
+      "tourist_tips": [
+        "Stock up on groceries at Migros or Coop on Saturday — both will be closed Sunday and you will not find alternatives easily outside train stations",
+        "Zürich Hauptbahnhof and Geneva Cornavin station shops including a full supermarket stay open on Sundays — useful emergency fallback",
+        "Plan museum and attraction visits for Sundays as these are typically open and public transport runs a full Sunday timetable"
+      ],
+      "warning": "Swiss Sunday closing is genuinely comprehensive — do not rely on finding an open supermarket on Sunday in residential areas or smaller towns. Train station shops are your only reliable option.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Switzerland",
+      "quick_answer": "Taxis in Switzerland are among the world's most expensive — use public transport whenever possible; Uber operates in major cities and is somewhat cheaper.",
+      "detail": "Swiss taxis are metered, honest, and reliable but extraordinarily expensive by global standards. A taxi from Zürich Airport to the city centre runs approximately CHF 55–70 for a journey that costs under CHF 4 by train. Uber operates in Zürich, Geneva, Basel, and Bern and is generally 20–30% cheaper than traditional taxis, though still expensive by international standards. Swiss public transport is so comprehensive and reliable that taxis are rarely the logical choice. Late-night situations after public transport stops or heavy luggage transfers are the main use cases.",
+      "tourist_tips": [
+        "Take the train from Zürich Airport into the city (12 minutes, under CHF 4 with a day pass) rather than a taxi — the connection is direct and immediate",
+        "Uber is available in Zürich, Geneva, Basel, and Bern and can be pre-booked via the app at lower rates than street taxis",
+        "Night buses (Nachtbus) run in major cities on Friday and Saturday nights until early morning, eliminating most late-night taxi needs"
+      ],
+      "warning": "Zürich taxis are consistently ranked among the world's most expensive — a short city journey can easily cost CHF 30–40. Always check the meter is running and consider public transport alternatives before hailing a cab.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Switzerland",
+      "quick_answer": "Swiss tap water is exceptional quality and among the world's safest — drink freely from taps everywhere and skip bottled water entirely.",
+      "detail": "Switzerland is internationally recognized for having some of the purest tap water in the world, sourced from Alpine springs and rigorously monitored. Tap water is safe to drink in every Swiss building, hotel, and public facility. Public drinking fountains throughout Swiss cities and villages also run continuously with potable water. Mountain streams and springs are generally clean but local signage should always be checked before drinking. Bottled water is an unnecessary expense — buying it is considered mildly unusual by locals.",
+      "tourist_tips": [
+        "Bring a refillable water bottle and use the hundreds of free public drinking fountains found in every Swiss city and village — this is the local habit",
+        "Mountain spring water is generally safe but always check for posted signs indicating non-potable (nicht trinkbar / eau non potable) sources",
+        "Switzerland's lakes are also very clean and lake swimming is popular — water quality is regularly monitored and results posted at beaches"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Switzerland",
+      "quick_answer": "Switzerland uses CHF (Swiss francs), not euros — cards are widely accepted and contactless is standard, but carry some CHF cash for smaller vendors and rural areas.",
+      "detail": "Switzerland is firmly a Swiss franc country and euros are not accepted except at some tourist shops near borders that may take them at unfavourable rates. Credit and debit cards are accepted almost universally in cities, hotels, and restaurants — Visa and Mastercard are standard, and contactless payments are the norm. PostFinance, UBS, and Raiffeisen ATMs are widely distributed and reliably accept foreign cards. International card fees apply at ATMs — using a low-fee card like Wise or Revolut saves significant money given Switzerland's high prices. Some smaller village shops, mountain huts (Berghütten), and market stalls remain cash-only.",
+      "tourist_tips": [
+        "Use a Wise or Revolut card to avoid foreign transaction fees and get the real exchange rate — this saves meaningfully given Switzerland's high costs",
+        "Withdraw CHF from ATMs rather than exchanging currency at airport bureaux de change, which offer very poor rates",
+        "Mountain huts and Alpine refuges often only accept cash — withdraw CHF before heading into the mountains for multi-day hikes"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Switzerland",
+      "quick_answer": "Switzerland is not in the EU, so EU roaming rules do not apply — buy a local SIM or eSIM for data; Swisscom has the best coverage including in mountain areas.",
+      "detail": "Switzerland's exclusion from the EU means that EU mobile roaming agreements do not apply — tourists with EU SIM cards will likely incur roaming charges or data cutoffs depending on their plan. Local operators are Swisscom (premium coverage including remote Alpine areas), Sunrise, and Salt. Tourist SIM cards are available at airports, post offices, and phone shops. Airalo and other eSIM providers offer convenient Switzerland data plans. Mobile coverage across Switzerland is excellent by global standards — even many mountain cable car stations and hiking trails have 4G coverage thanks to infrastructure investment.",
+      "tourist_tips": [
+        "Buy an Airalo Switzerland eSIM before departing home for instant connectivity on arrival without queuing at a phone shop",
+        "Swisscom is worth the premium cost if you plan mountain activities — its coverage on Alpine trails and in tunnels is significantly better than competitors",
+        "Free Wi-Fi is available at all major train stations (SBB Free WiFi) and most hotels, cafés, and restaurants throughout Switzerland"
+      ],
+      "warning": "EU SIM cards are typically not covered by EU roaming rules in Switzerland — check with your carrier before travel or face potentially large roaming bills.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Switzerland",
+      "quick_answer": "Switzerland uses the unique Type J three-pin recessed plug — bring a universal adapter as Swiss sockets accept Type C but not UK or US plugs.",
+      "detail": "Switzerland uses Type J plugs (SEV 1011 standard) — a distinctive three-pin recessed socket unique to Switzerland and Liechtenstein. The voltage is 230V at 50Hz, identical to the rest of Europe. Standard European two-pin Type C plugs physically fit into Swiss Type J sockets and work fine for most devices. UK three-pin plugs and US/North American two-pin flat plugs do not fit and require an adapter. A universal travel adapter covers all scenarios and is available at Swiss airports and electronics shops if forgotten.",
+      "tourist_tips": [
+        "Most European two-pin chargers (phone chargers, laptop brick adapters) fit Swiss Type J sockets without an adapter",
+        "UK visitors need a UK-to-Swiss or universal adapter — do not assume European adapters work as the Swiss socket has a unique recessed design",
+        "Pick up a universal adapter at any Swiss electronics retailer (Interdiscount, MediaMarkt) or airport shop if you forgot to pack one"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Switzerland",
+      "quick_answer": "Switzerland has an extremely low scam rate and no haggling culture — it is one of the world's most honest countries, though tourist areas carry premium prices.",
+      "detail": "Switzerland consistently ranks among the world's lowest-scam tourist destinations. Price manipulation, fake tour operators, overcharging taxis with broken meters, and street hustles are essentially absent from the Swiss experience. Prices are high throughout — restaurants, accommodation, transport, and activities all cost significantly more than in neighbouring European countries — but these are genuine prices, not tourist inflation traps. Pickpocketing on Zürich's busy Bahnhofstrasse and in crowded tram carriages is the primary petty crime risk, though even this is rare by international standards.",
+      "tourist_tips": [
+        "Watch your belongings on Zürich's Bahnhofstrasse and on busy trams — standard urban pickpocket awareness is sufficient, nothing beyond normal vigilance required",
+        "Accommodation pricing in Switzerland is genuinely expensive rather than price-gouging tourists — booking in advance and staying in hostels or Airbnb reduces costs legitimately",
+        "Currency exchange at airport or city centre bureaux de change offers poor rates — use ATMs or a Wise card instead"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Switzerland",
+      "quick_answer": "Switzerland is one of the world's safest countries with very low crime — the primary safety concern for tourists is mountain and outdoor activity hazards, not crime.",
+      "detail": "Switzerland consistently ranks in the top five safest countries globally. Violent crime affecting tourists is extremely rare. Women can walk alone safely at night in Swiss cities. Petty theft in tourist areas is minimal and the country has an extremely high trust culture. The genuine safety risks for tourists relate to the natural environment: mountain weather changes rapidly, hiking trails can be technically demanding, and skiing and mountaineering carry real dangers. Always check weather forecasts, inform someone of hiking plans, wear appropriate gear, and take mountain conditions seriously.",
+      "tourist_tips": [
+        "Always check the MeteoSwiss app or local weather boards before hiking — Alpine weather can turn from clear to dangerous storms within an hour",
+        "Respect trail difficulty ratings on Swiss hiking maps (white-red-white markings indicate alpine routes requiring sure-footedness and experience)",
+        "Register your hiking plans with REGA or leave details with your accommodation for multi-day mountain routes"
+      ],
+      "warning": "Mountain weather and terrain are the primary danger for tourists in Switzerland — underestimating Alpine conditions is a serious risk. Never hike alone in remote areas without proper equipment, weather checking, and informing someone of your route.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Switzerland",
+      "quick_answer": "Punctuality is paramount in Switzerland — being five minutes late is considered genuinely rude — and Sunday quiet rules, recycling compliance, and greeting shopkeepers are all important cultural norms.",
+      "detail": "Swiss culture places extraordinary value on punctuality, orderliness, and respect for shared rules. Arriving late to any appointment, meeting, or social engagement — even by five minutes — is considered disrespectful and must be avoided. The cultural character varies significantly by region: German Swiss are reserved, precise, and formal; French Swiss are warmer and more expressive; Italian Swiss in Ticino are the most relaxed and Mediterranean in style. Greet people when entering small shops, lifts, and waiting rooms — a simple 'Grüezi' (German), 'Bonjour' (French), or 'Buongiorno' (Italian) is expected and its absence is noticed. Strict recycling compliance is a civic duty that neighbours genuinely monitor.",
+      "tourist_tips": [
+        "Always greet staff when entering a shop and say goodbye when leaving — silent entry and exit is considered rude in Switzerland",
+        "If invited to a Swiss home, bring a small gift (wine, chocolates, or flowers), arrive exactly on time, and remove your shoes at the door unless told otherwise",
+        "Adjust your expectations by region: German-speaking Switzerland is formal and reserved; French-speaking Romandy is more relaxed; Italian-speaking Ticino feels almost Mediterranean"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Switzerland",
+      "quick_answer": "Switzerland has four official languages — German (63%), French (23%), Italian (8%), and Romansh — with English widely spoken in tourism and business across all regions.",
+      "detail": "The linguistic geography of Switzerland is divided into distinct regions: German-speaking (Deutschschweiz) in the north, centre, and east; French-speaking (Romandy) in the west; Italian-speaking (Ticino) in the south; and Romansh-speaking areas in Graubünden. Swiss German (Schweizerdeutsch) is a collection of very distinct dialects that even standard German speakers find difficult — written communication uses High German but spoken Swiss German sounds completely different. English is spoken to a high standard across Switzerland, particularly in cities, hotels, restaurants, and tourist areas. A few words in the local language are always warmly appreciated.",
+      "tourist_tips": [
+        "Use 'Grüezi' in German-speaking areas, 'Bonjour' in French-speaking regions, and 'Buongiorno' in Ticino — matching the local language is a gesture that Swiss people genuinely appreciate",
+        "Do not be surprised if Swiss German sounds nothing like the German you learned — Schweizerdeutsch is a separate dialect and even Swiss people write in High German for formal communication",
+        "English menus, signs, and staff are readily available in all tourist areas — language is rarely a practical barrier for English-speaking visitors"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Switzerland",
+      "quick_answer": "Switzerland's lake beaches (Strandbäder) on Zürichsee, Lake Geneva, Lake Lucerne, and Lake Constance are a major summer attraction — water is clean and safe, though mountain lakes can be glacially cold.",
+      "detail": "Despite being landlocked, Switzerland has a vibrant lake swimming culture that defines summer leisure. Strandbäder (lake lido facilities) are found on every major lake and offer clean swimming areas, changing facilities, lawns, and often cafés for a small entry fee of around CHF 5–8. The water quality in Swiss lakes is among the best in Europe and is regularly tested and publicly reported. Lake Geneva (Lac Léman), Zürichsee, Lake Lucerne, and Lake Constance are the most popular. Higher-altitude mountain lakes fed by glaciers remain very cold even in August — refreshing but requiring acclimatisation.",
+      "tourist_tips": [
+        "Entry to Strandbad (lido) facilities typically costs CHF 5–8 — many Swiss city tourist cards or Swiss Travel Pass holders get free or discounted entry",
+        "Wild swimming at lake shores outside designated Strandbad areas is generally permitted and free — locals do it regularly throughout summer",
+        "Mountain lakes at altitude above 1500m are glacially cold even in July and August — check local temperature readings before a long swim"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Switzerland",
+      "quick_answer": "You must purchase a motorway vignette sticker (CHF 40) to drive on Swiss highways — driving without one risks a heavy fine, and mountain roads require snow chains in winter.",
+      "detail": "Switzerland drives on the right and uses standard European road signs. The motorway vignette (Autobahnvignette) is an annual sticker costing CHF 40 that must be displayed on your windscreen to legally use Swiss motorways (Autobahn/autoroute) — available at borders, petrol stations, and post offices. Speed limits are strictly enforced: 50 km/h in towns, 80 km/h on rural roads, 120 km/h on motorways. Speed cameras are widespread. Mountain passes have spectacular but technical roads — mandatory snow chains are signposted in winter and must be carried or fitted. The Gotthard Tunnel frequently has multi-hour queues in peak season.",
+      "tourist_tips": [
+        "Buy the CHF 40 motorway vignette at the border crossing, first petrol station, or a post office — driving on the motorway without it risks a CHF 200 fine",
+        "Check pass opening dates on viasuisse.ch before planning mountain road routes — many high Alpine passes are closed from November to May",
+        "The Gotthard road tunnel can have 2–3 hour queues in summer — consider the parallel rail car-transport service (autoverlad) or plan travel outside peak hours"
+      ],
+      "warning": "Driving on Swiss motorways without the valid annual vignette (CHF 40) is illegal and results in an immediate fine. The vignette must be stuck to the inside of the windscreen — hanging it from the mirror is not valid.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Switzerland",
+      "quick_answer": "Swiss cuisine is outstanding — fondue, raclette, rösti, and world-class chocolate are must-tries — but restaurant prices are very high, so use lunch set menus and supermarket picnics to manage costs.",
+      "detail": "Switzerland's food culture reflects its multilingual character: German-influenced hearty dishes in the centre and north, French-influenced refined cuisine in the west, and Italian flavours in Ticino. Cheese fondue and raclette are the iconic Swiss dishes, particularly in winter. Rösti (crispy grated potato cake) is the definitive German-Swiss comfort food. Swiss chocolate (Lindt, Toblerone, and countless artisan makers) and Birchermüesli (originated in Zürich) are world-famous exports. Restaurant main courses typically run CHF 25–45 at dinner. The Mittagsmenü (set lunch menu) offers the same quality for CHF 15–22 and is used by locals daily. Migros and Coop supermarkets are excellent for affordable, high-quality self-catering.",
+      "tourist_tips": [
+        "Order the Mittagsmenü/menu du jour at lunch — a two-course set menu for CHF 15–22 that is typically the same kitchen and quality as the dinner menu at double the price",
+        "Migros and Coop supermarkets have excellent prepared food counters, bread, cheese, and charcuterie for CHF 10–15 picnic lunches — the quality is genuinely high",
+        "Try fondue and raclette at least once — look for restaurants displaying fondue bourguignonne or raclette on the menu and go in a group for the best experience"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Switzerland",
+      "quick_answer": "Switzerland's historic Protestant and Catholic churches welcome visitors — modest dress is appreciated and silence is expected inside, though enforcement is gentle.",
+      "detail": "Switzerland's religious architecture reflects its Reformation history — many churches, particularly in German-speaking areas, are very plain inside due to Protestant iconoclasm. Basel Minster, Bern Cathedral, and Geneva's Saint-Pierre Cathedral where Calvin preached are major historic sites. Catholic churches in Central Switzerland and Ticino retain rich interiors. Dress modestly (covered shoulders and knees) out of respect when visiting churches. Small mosques exist in Swiss cities for the Muslim community; respectful visits with appropriate dress are generally welcomed with advance notice. Photography is usually permitted but silence and switched-off phones are expected.",
+      "tourist_tips": [
+        "Geneva's Saint-Pierre Cathedral offers free entry and tower access with views over the city — it is the centre of Calvinist Reformation history and worth a visit",
+        "Dress with covered shoulders and knees for church visits — a scarf or light jacket in your bag solves this without requiring special preparation",
+        "Visit Einsiedeln Abbey in Schwyz canton for one of Central Europe's most impressive baroque Catholic interiors and an active pilgrimage site"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Switzerland",
+      "quick_answer": "Switzerland has four distinct seasons — ski season peaks December to March, hiking season peaks June to September, and Alpine weather changes rapidly so always carry layers.",
+      "detail": "Switzerland's climate varies dramatically by altitude and region. Lowland cities (Zürich, Geneva, Basel) experience temperate Central European seasons — warm summers up to 30°C and cold winters with some snow. The Alps have their own climate: world-class ski conditions from December to March, brief but glorious spring from April–May with wildflowers, peak hiking and lake-swimming season June–August, and spectacular autumn foliage in September–October. Mountain weather is notoriously changeable — clear mornings can become afternoon thunderstorms rapidly. Summer temperatures are 10–15°C cooler at altitude than in the lowlands. The shoulder seasons of May and October offer lower prices and fewer crowds.",
+      "tourist_tips": [
+        "Always check MeteoSwiss (meteoswiss.ch) for mountain weather before hiking — forecasts are very accurate and the app gives altitude-specific conditions",
+        "Visit in May or October for lower accommodation prices, fewer crowds, and still-excellent conditions — May has wildflowers and open passes, October has foliage and uncrowded trails",
+        "Pack layers and a waterproof jacket regardless of the season — Alpine weather is unpredictable and conditions change within hours even in summer"
+      ],
+      "warning": "Mountain weather in Switzerland changes extremely rapidly — sunny morning conditions can become dangerous afternoon electrical storms with little warning. Always carry a rain layer and check forecasts before starting any hike above 1500m.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Switzerland",
+      "quick_answer": "Switzerland is extremely expensive but manageable with smart planning — use lunch set menus, supermarket picnics, the Swiss Travel Pass, free lake swimming, and free hiking trails to dramatically cut costs.",
+      "detail": "Switzerland consistently ranks as one of the world's most expensive countries for tourists. A daily budget without careful management can easily exceed CHF 200–300 per person. The key strategies are: eating at supermarkets (Migros/Coop) for breakfast and lunch while treating yourself to one restaurant dinner; using the Mittagsmenü set lunch (CHF 15–22) for restaurant meals; buying the Swiss Travel Pass which makes transport genuinely affordable given per-journey prices; taking advantage of free hiking on the 65,000km maintained trail network; and swimming at free lake shores rather than expensive tourist activities. Many museums offer free entry on specific days or with tourist cards.",
+      "tourist_tips": [
+        "Buy the Swiss Travel Pass for your transport — a single Zürich–Interlaken–Lucerne triangle journey by train costs more than a multi-day pass, making it excellent value from day one",
+        "The Migros and Coop supermarket deli counters sell ready meals, salads, and sandwiches for CHF 5–12 — combine with a free lake shore picnic for a CHF 15 lunch in a spectacular setting",
+        "Hiking on Switzerland's maintained trail network is completely free — the Bernese Oberland, Engadin Valley, and Appenzell trails deliver world-class scenery at zero cost"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

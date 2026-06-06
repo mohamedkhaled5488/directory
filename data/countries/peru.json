@@ -1,0 +1,460 @@
+{
+  "country": "Peru",
+  "slug": "peru",
+  "emoji": "🇵🇪",
+  "region": "Americas",
+  "currency": "PEN",
+  "language": "Spanish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Peru",
+      "quick_answer": "Tip around 10% at tourist restaurants and tip guides generously (50–100 PEN per day), but always check whether service is already included on your bill.",
+      "detail": "Service charge (servicio) is sometimes added to restaurant bills in Lima and tourist areas, so inspect the bill before tipping. At upscale and tourist-oriented restaurants, 10% is standard when not included. Guides and porters on treks such as the Inca Trail depend heavily on tips — 50–100 PEN per day for guides and 30–50 PEN for porters is appropriate. Hotel porters, housekeeping, and taxi drivers appreciate small tips but they are not obligatory.",
+      "tourist_tips": [
+        "Check the bill for 'servicio incluido' before adding a tip — double-tipping is easy to do accidentally in tourist restaurants.",
+        "Carry small PEN notes specifically for tipping guides and porters; they rarely have change and the gesture means a great deal.",
+        "On multi-day treks like the Inca Trail, pool tips among your group and hand them directly to the crew at the end for fairness."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Peru",
+      "quick_answer": "Lima has the Metropolitano BRT and Uber/InDriver for safer city travel, while intercity travel relies on reputable bus companies and pre-booked trains to Machu Picchu.",
+      "detail": "In Lima, the Metropolitano BRT and Metro Line 1 are the safest and cheapest options for getting around; Uber, InDriver, and Cabify are strongly preferred over street taxis. For intercity travel, Cruz del Sur and Oltursa operate reliable, comfortable overnight buses between major cities. Trains to Machu Picchu (Peru Rail and Inca Rail) are the only motorised access to the site and must be booked weeks or months in advance, especially for high season. Domestic flights with LATAM, Sky Airline, and Viva Air cover long distances quickly but book early for best fares.",
+      "tourist_tips": [
+        "Book Machu Picchu train tickets on Peru Rail or Inca Rail as far in advance as possible — they sell out months ahead in peak season (June–August).",
+        "Use the Metropolitano BRT in Lima with a prepaid card (tarjeta) for cheap, fast travel avoiding traffic; buy the card at any terminal.",
+        "For overnight intercity buses, pay for the 'cama' (full flat bed) class on Cruz del Sur — the price difference is small and the safety and comfort improvement is significant."
+      ],
+      "warning": "Never board unofficial minibuses (combis) in Lima as a tourist — pickpocketing and robbery are common on these routes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Peru",
+      "quick_answer": "Lima has good private clinics, but outside the capital medical facilities are limited and altitude sickness is a serious risk at Cusco (3,400 m) and Lake Titicaca (3,800 m).",
+      "detail": "Clínica Anglo Americana and Clínica San Borja in Lima provide international-standard private care and have English-speaking staff. Outside Lima, facilities drop off sharply, and emergency evacuation from highland or jungle areas can be extremely expensive without insurance. Altitude sickness (soroche) affects many visitors in Cusco, Lake Titicaca, and on highland treks — rest for 24–48 hours upon arrival, stay hydrated, and drink coca tea to ease symptoms. Travel insurance that explicitly covers altitude-related illness and medical evacuation is essential for any trip beyond Lima.",
+      "tourist_tips": [
+        "Arrive in Cusco at least one full day before any trekking or strenuous activity to acclimatize — even fit travellers can be hit hard by the altitude.",
+        "Coca tea ('mate de coca') is freely available, legal, and genuinely helps mild altitude sickness; accept it when offered at your hotel.",
+        "Carry a basic medical kit including rehydration sachets, altitude medication (acetazolamide/Diamox, prescribed before travel), and antidiarrheals."
+      ],
+      "warning": "Altitude sickness can rapidly become life-threatening (HACE or HAPE); descend immediately if symptoms include severe headache, confusion, or difficulty breathing and seek medical help.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Peru",
+      "quick_answer": "Drug laws are extremely strict — cocaine possession carries severe penalties — and Machu Picchu has rigorous rules including no drones and mandatory time-slot entry.",
+      "detail": "Peru is a major cocaine-producing country and authorities treat any drug possession with great seriousness, including for tourists; sentences can mean years in Peruvian prisons. Coca leaves in their natural form are entirely legal — they are a traditional Andean product used for tea and chewing — but processed derivatives are illegal. Machu Picchu enforces strict rules: drones are prohibited, visitors must stay on marked paths, and entry is by timed slot only (morning or afternoon). Respecting archaeological sites nationwide is legally required; removing artefacts carries criminal penalties.",
+      "tourist_tips": [
+        "Purchase your Machu Picchu entry tickets only from the official government website (machupicchu.gob.pe) — specific time slots sell out quickly and counterfeit tickets circulate.",
+        "Coca leaf products (tea, leaves) are fine to buy and consume in Peru but note that some countries prohibit importing them — discard before flying home.",
+        "At all archaeological sites, stay strictly on marked paths; touching or climbing on Inca stonework is prohibited and strictly enforced at major sites."
+      ],
+      "warning": "Drug possession — even small amounts — can result in lengthy pre-trial detention in Peruvian jails; do not accept packages from strangers under any circumstances.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Peru",
+      "quick_answer": "Call 105 for police, 117 for ambulance, 116 for fire, and the free iPeru tourist helpline on 0800-11-0000 for tourist-specific assistance.",
+      "detail": "The National Police (PNP) emergency line is 105 and they have a tourist police unit (Policía de Turismo) in major cities including Lima, Cusco, and Arequipa. The ambulance service (SAMU) is reached on 117, though response times outside Lima can be slow. iPeru (0800-11-0000, toll-free) is specifically for tourists and has English-speaking operators who can assist with emergencies, complaints, and information 24 hours a day. In serious medical situations in remote areas, your travel insurance emergency line will often be faster than the national ambulance service.",
+      "tourist_tips": [
+        "Save the iPeru number (0800-11-0000) in your phone before you travel — they speak English and are specifically trained to help tourists in distress.",
+        "In Cusco and Lima, Tourist Police offices are located in the historic centres and can take crime reports in English for insurance purposes.",
+        "Your country's embassy in Lima is another emergency contact — save their after-hours number; most maintain 24-hour emergency lines for nationals."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Peru",
+      "quick_answer": "Dress modestly at churches, pack warm layers for the highlands where temperatures swing dramatically, and bring rain gear for jungle and wet-season travel.",
+      "detail": "Peru's diverse geography means packing for multiple climates: Lima and the coast are mild and casual, the highlands (Cusco, Lake Titicaca) are cold at night year-round, and the Amazon is hot and humid with heavy rain. Churches and religious sites require covered shoulders and knees — a light scarf or shawl is handy. In Andean indigenous communities, dress respectfully and conservatively as a mark of cultural sensitivity. Temperatures in Cusco can drop below freezing at night even in the dry season, so layering is essential regardless of when you visit.",
+      "tourist_tips": [
+        "Pack a good-quality lightweight down jacket for highland nights — even in July (dry season high summer) temperatures in Cusco drop to near zero after dark.",
+        "A compact rain poncho is essential between November and April anywhere in Peru; in the Amazon, it is useful year-round.",
+        "Carry a light scarf or sarong that can cover your shoulders and knees instantly for impromptu church or community visits."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Peru",
+      "quick_answer": "The legal drinking age is 18, pisco is the beloved national spirit, and traditional drinks like chicha de jora and chicha morada are an important part of Andean culture.",
+      "detail": "The minimum legal drinking age is 18 and ID may be checked at bars and clubs in Lima. Pisco, a grape brandy, is Peru's national drink and the Pisco Sour its signature cocktail — trying a well-made one is a rite of passage. Local beers Cusqueña and Cristal are widely available and inexpensive. Chicha de jora (a fermented corn beer, mildly alcoholic) is a traditional highland drink offered in homes and local eateries, often served in communal cups; chicha morada is a delicious non-alcoholic purple corn drink safe for everyone.",
+      "tourist_tips": [
+        "Order a Pisco Sour at a reputable bar in Lima or Cusco — it is made with pisco, lime juice, egg white, and bitters and is genuinely world-class.",
+        "In highland communities, being offered chicha de jora is a gesture of hospitality; taking a small sip is polite even if you are not drinking.",
+        "Alcohol at altitude hits much harder — pace yourself in Cusco and on treks, as dehydration and thin air intensify its effects significantly."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Peru",
+      "quick_answer": "Bargaining is expected and enjoyable at artisan and street markets but is not appropriate in restaurants, formal shops, or with transport apps.",
+      "detail": "Peru's markets — including San Pedro Market in Cusco, Pisac Market in the Sacred Valley, and craft markets in Lima's Miraflores district — are the prime places to negotiate prices. Start at roughly half the asking price and settle somewhere in between; the process should be friendly and good-natured. Vendors in tourist areas are persistent but generally not aggressive. Fixed-price restaurants, supermarkets, and established shops do not negotiate, and attempting to bargain there is awkward.",
+      "tourist_tips": [
+        "Learn a few Spanish numbers and phrases — even basic negotiation in Spanish shows respect and vendors will often give better prices than to those who only speak English.",
+        "Compare prices at a few stalls before committing — similar items are sold everywhere and you will quickly learn the fair price range.",
+        "Buying multiple items from one vendor is the easiest way to get a legitimate discount; ask 'cuánto por los dos?' (how much for both?)."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Peru",
+      "quick_answer": "Photography is generally free but drones are banned at Machu Picchu, and you should always ask permission before photographing people in traditional dress.",
+      "detail": "Most of Peru's landscapes, ruins, and public spaces are freely photographable. Machu Picchu has specific rules: drones are strictly prohibited (they will be confiscated), and you must stay on marked paths — do not climb on structures for a shot. In highland and Andean communities, photographing people — especially those wearing traditional clothing — without asking is considered disrespectful; many will agree to a photo and may politely ask for a small payment (1–2 PEN), which is fair. Some sacred ceremonies and Catholic church interiors prohibit photography; look for signs or ask.",
+      "tourist_tips": [
+        "Leave the drone at home or in your accommodation if visiting Machu Picchu — the prohibition is enforced and confiscation on the spot is common.",
+        "Carry a handful of 1–2 PEN coins so you can graciously compensate locals in traditional dress who allow you to photograph them.",
+        "The best photography light at Machu Picchu is at opening time (6 am) or late afternoon — book the first-entry time slot and arrive early."
+      ],
+      "warning": "Flying a drone at Machu Picchu or other protected archaeological sites can result in the drone being confiscated and a fine.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Peru",
+      "quick_answer": "Markets are often at their liveliest on Sundays, tourist sites stay open, but government offices close and some rural areas observe traditional market days midweek.",
+      "detail": "Most major tourist attractions, museums, and restaurants in Lima and Cusco operate normally on Sundays and public holidays. Government offices, banks, and many businesses close on Sundays and national holidays. Local markets in Andean communities can be busiest on specific days — Pisac market is best on Sunday morning and Chinchero on Sunday as well. Peru has numerous national holidays (Fiestas Patrias on 28–29 July being the biggest) when transport books up and accommodation prices surge.",
+      "tourist_tips": [
+        "Plan around Fiestas Patrias (July 28–29, Peruvian Independence Day) — it is a wonderful cultural time to visit but accommodation in tourist areas fills up months in advance.",
+        "Check local market schedules before arriving in the Sacred Valley — each village has its own traditional market day and Sunday Pisac is one of the best.",
+        "Banks are closed on Sundays; stock up on PEN cash from ATMs on Saturday if you are heading somewhere rural over the weekend."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Peru",
+      "quick_answer": "Always use Uber, InDriver, or Cabify in Lima — never hail a street taxi — as express kidnapping by unofficial taxis is a documented, serious risk.",
+      "detail": "Lima has a well-documented problem with pirate taxis and express kidnapping (secuestro al paso), where victims are robbed and sometimes harmed after entering unofficial vehicles. Uber, InDriver, Cabify, and the Beat app are safe, tracked alternatives and are widely available across Lima. In Cusco, Arequipa, and other cities, apps are less common but official yellow and orange taxis are generally safe if you negotiate the fare before entering. At airports, only use official pre-paid taxi counters inside the terminal building — never accept offers from people approaching you in arrivals.",
+      "tourist_tips": [
+        "Install Uber and InDriver before arriving in Lima — use them exclusively for all taxi trips in the city, day and night, no exceptions.",
+        "At Lima's Jorge Chávez International Airport, use only the official taxi booths inside the arrivals hall where prices are fixed and drivers registered.",
+        "In Cusco, hotels can call a trusted radio taxi for you at any hour — always ask the front desk rather than hailing on the street late at night."
+      ],
+      "warning": "Hailing unofficial taxis off the street in Lima is a genuine express kidnapping risk — this is not theoretical; it happens regularly to tourists. Use apps only.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Peru",
+      "quick_answer": "Never drink tap water anywhere in Peru — bottled or purified water is essential throughout the country, and altitude significantly increases your dehydration risk.",
+      "detail": "Tap water across all of Peru is unsafe for drinking and even brushing teeth with tap water can cause illness for travellers without local immunity. Always buy sealed bottled water or purify water using tablets, a UV pen, or a reliable filter. At high altitude, your body dehydrates faster than at sea level — aim to drink at least 3–4 litres per day in Cusco and on treks. Trekkers on the Inca Trail should carry water purification tablets as the only reliable source of safe water in remote sections.",
+      "tourist_tips": [
+        "Carry a reusable water bottle with a built-in filter (such as a LifeStraw bottle) to reduce plastic waste and save money on constant bottled water purchases.",
+        "In restaurants, specifically ask for bottled water ('agua sin gas, botella' or 'agua con gas') and confirm it is sealed before drinking.",
+        "Ice in drinks at tourist restaurants in Lima and Cusco is generally made from purified water, but avoid ice at very cheap local eateries."
+      ],
+      "warning": "Traveller's diarrhea from contaminated water is one of the most common illnesses in Peru; it can quickly become serious at altitude where dehydration is accelerated.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Peru",
+      "quick_answer": "BCP, BBVA, and Interbank ATMs are most reliable for foreign cards; cash is essential as many places outside tourist hubs are cash-only and counterfeit soles circulate.",
+      "detail": "Peru remains heavily cash-dependent outside Lima's upscale districts — markets, local restaurants, taxis, and small guesthouses almost always require cash. BCP, BBVA, and Interbank ATMs accept most international cards with the lowest failure rates; fees per withdrawal apply. Counterfeit soles (especially 50 PEN notes) circulate; inspect notes carefully and reject any that feel unusual. Carrying some US dollars as a backup is wise as they are widely accepted in tourist areas and some businesses quote prices in USD.",
+      "tourist_tips": [
+        "Withdraw cash during daylight hours from ATMs inside bank branches or secure shopping centres in Lima's Miraflores or San Isidro — avoid isolated ATMs, especially at night.",
+        "Use Wise or a zero-fee travel card for withdrawals to minimise ATM fees, but always have a backup card stored separately from your wallet.",
+        "Check PEN banknotes carefully when receiving change — hold them to the light to check watermarks, especially 50 PEN and 100 PEN notes."
+      ],
+      "warning": "Counterfeit 50 PEN notes are common in tourist areas; if a shop or taxi gives you a note that feels wrong, you are entitled to refuse it.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Peru",
+      "quick_answer": "Claro offers the best nationwide coverage; buy a SIM at the airport or any phone shop with your passport, or use an Airalo eSIM before you arrive.",
+      "detail": "Claro has the strongest signal coverage across Peru including highland and some jungle areas, making it the recommended choice for travellers going beyond Lima. Movistar and Entel are solid alternatives in cities. SIMs are sold at airports, phone shops, and supermarkets; you need your passport to register. Airalo eSIM is a convenient option to activate before departure. Coverage in the remote Amazon and very high-altitude trekking areas remains patchy regardless of carrier — download offline maps before heading off-grid.",
+      "tourist_tips": [
+        "Buy a Claro SIM at Lima's Jorge Chávez Airport arrivals hall — the booths are in the terminal and set-up takes about 10 minutes with your passport.",
+        "Download offline Google Maps or Maps.me for Cusco, the Sacred Valley, and Machu Picchu before leaving a city — signal is unreliable in mountain areas.",
+        "Data plans are very affordable in Peru (5–10 GB for around 30–50 PEN); top up at any Claro or Movistar shop or via the carrier's app."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Peru",
+      "quick_answer": "Peru uses 220V/60Hz with Type A and Type C sockets, so North American visitors need a voltage adapter and European visitors need a plug adapter.",
+      "detail": "Peru operates on 220 volts at 60 Hz, which is a somewhat unusual combination — the voltage matches Europe and most of South America but the frequency matches North America. Type A (two flat parallel pins) and Type C (two round pins) sockets are both common. North American visitors with 110V devices need a voltage converter in addition to a plug adapter unless their device is dual-voltage (check the label). Most modern electronics (laptops, phone chargers, cameras) are dual-voltage 100–240V and need only a physical plug adapter.",
+      "tourist_tips": [
+        "Check your device chargers for '100–240V' on the label — most modern electronics are dual-voltage and need only a plug adapter, not an expensive voltage converter.",
+        "Pack a universal travel adapter with both flat and round pin options to cover Type A and Type C sockets found across different regions of Peru.",
+        "Power cuts (apagones) occur occasionally in smaller towns and jungle lodges; a small portable power bank is very useful for keeping your phone charged during day trips."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "pocket-wifi",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Peru",
+      "quick_answer": "Fake taxi kidnappings in Lima are a top threat, while counterfeit Machu Picchu tickets, overcharging, and short-changing are frequent tourist scams.",
+      "detail": "Lima's most dangerous scam is pirate taxi express kidnapping — victims are forced to withdraw cash from ATMs at gunpoint; always use ride-hailing apps. Counterfeit Machu Picchu tickets are sold through unofficial channels online and at touts; purchase only through the official government site. The dropped wallet or distraction trick is common in crowded markets — one person distracts you while another picks your pocket. Short-changing is widespread; always count your change and know the current price of common items.",
+      "tourist_tips": [
+        "Buy Machu Picchu tickets exclusively from machupicchu.gob.pe — third-party sellers and touts in Cusco frequently sell fakes or heavily marked-up legitimate tickets.",
+        "If someone on the street drops something, creates a distraction, or is overly friendly, hold your bag tight and move away — it is almost certainly a setup for theft.",
+        "Book tours only through established agencies or your hotel; unofficial 'tour guides' approaching you on the street near major sites frequently overcharge or provide no service at all."
+      ],
+      "warning": "Express kidnapping via fake taxis in Lima is a serious, ongoing risk — a single wrong taxi choice can result in robbery at ATM point; use Uber or InDriver exclusively.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Peru",
+      "quick_answer": "Miraflores and San Isidro in Lima are relatively safe for tourists, but express kidnapping via street taxis, petty theft, and some neighbourhood-specific crime require consistent vigilance.",
+      "detail": "Lima's safer tourist zones are Miraflores and San Isidro; El Callao (port area) and parts of central Lima at night are higher-risk and best avoided. In Cusco, the main tourist areas are generally safe during the day but late-night risks increase; stay alert in and around the Plaza de Armas. Express kidnapping (secuestro al paso) remains Lima's most serious tourist threat and is directly linked to unofficial taxis. Petty theft (bag-snatching, pickpocketing) occurs at Machu Picchu and in crowded markets; use a money belt and keep valuables out of sight.",
+      "tourist_tips": [
+        "Use a slim money belt under your clothing for passports and large amounts of cash, and carry only what you need for the day in a front pocket.",
+        "Photograph your passport, travel insurance card, and key documents and store copies in a cloud service — replacing them from a safe digital copy is far faster if stolen.",
+        "In Lima, walk with purpose and keep your phone put away when not in use; phone-snatching by motorbike riders is common in busy streets."
+      ],
+      "warning": "Express kidnapping via unofficial street taxis in Lima is a genuine and well-documented danger — never hail a cab off the street and always use a tracked app-based ride.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Peru",
+      "quick_answer": "Peruvians are warm and hospitable; show deep respect for Andean indigenous culture, the sacred significance of Pachamama (Mother Earth), and always ask before photographing people in traditional dress.",
+      "detail": "Peruvian culture blends Spanish colonial heritage with rich Andean and Amazonian indigenous traditions; the Andean worldview — including Pachamama and spiritual ceremonies — is living culture, not a tourist attraction. When visiting indigenous communities, follow the lead of locals, ask before photographing, and accept offers of hospitality graciously. Coca leaf offerings at ceremonies are sacred acts; participate respectfully if invited. Meal times are flexible and social, greetings are warm (cheek kiss in social settings), and people appreciate any attempt to speak Spanish.",
+      "tourist_tips": [
+        "Learn even a few words of Quechua ('Allianchu?' for 'How are you?', 'Sulpayki' for 'Thank you') — in highland communities this is received with delight and genuine warmth.",
+        "Dress conservatively and remove hats when entering churches or attending community ceremonies — it is a simple sign of respect that locals notice and appreciate.",
+        "Avoid calling locals 'Indians' or treating ceremonies as photo opportunities; Andean spiritual practices are actively observed, not folkloric performances."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Peru",
+      "quick_answer": "Spanish is the primary language, Quechua is co-official and widely spoken in the highlands, and English is available in tourist zones in Lima, Cusco, and Machu Picchu.",
+      "detail": "Spanish is spoken throughout Peru and is the main language for all practical travel needs. Quechua, the language of the Inca empire, is co-official and spoken daily by millions of Peruvians in highland regions from Cusco to Lake Titicaca; basic Quechua words earn enormous goodwill. Aymara is spoken around Lake Titicaca. In tourist-focused areas — Miraflores in Lima, Cusco city centre, and Machu Picchu — English is widely understood by tour operators, hotels, and many restaurants. iPeru tourist offices in all major cities have English-speaking staff.",
+      "tourist_tips": [
+        "Download Google Translate with Spanish offline before you travel — it covers most practical situations and works without internet once downloaded.",
+        "Basic Spanish phrases go a very long way: 'Por favor' (please), 'Gracias' (thank you), 'Cuánto cuesta?' (how much does it cost?), and 'Dónde está el baño?' (where is the bathroom?).",
+        "iPeru tourist offices (in Lima airport, Cusco airport, and city centres) offer free English-language advice, maps, and emergency assistance — use them freely."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Peru",
+      "quick_answer": "Lima's beaches are cold due to the Humboldt Current; head to Máncora in northern Peru for warm water, or Paracas for dramatic desert coastline.",
+      "detail": "The cold Humboldt Current running along Peru's Pacific coast keeps Lima's beaches (Miraflores, Barranco, Chorrillos) cool year-round — water temperatures hover around 15–19°C, making them more for strolling than swimming. Máncora, in northern Peru near the Ecuadorian border, is the exception with warm tropical water and a true beach resort atmosphere, best visited from December to March. Paracas offers stunning desert-meets-ocean scenery and boat trips to the Ballestas Islands (penguins, sea lions, birds) but is not a swimming beach. Peru's beaches are less developed than Ecuador, Colombia, or Brazil.",
+      "tourist_tips": [
+        "If beach swimming is a priority, book Máncora for at least 3–4 days as part of a northern Peru itinerary — it is the only proper warm-water beach destination in the country.",
+        "The Ballestas Islands tour from Paracas is a fantastic budget alternative to the Galápagos — book through any Paracas hostel and go on a morning departure for calm seas.",
+        "Lima's Miraflores clifftop walkway (Malecón) above the beach is a wonderful free activity regardless of season — the views, paragliders, and sunsets are spectacular."
+      ],
+      "warning": "Rip currents are present at some Peruvian beaches including Máncora; swim between flags where marked and ask locals about conditions before entering the water.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Peru",
+      "quick_answer": "Drive on the right, an international driving licence is valid, but roads in the Andes can be extremely dangerous and driving in Lima is chaotic and not recommended for tourists.",
+      "detail": "Traffic drives on the right in Peru and an international driving permit alongside your national licence is accepted. Lima's traffic is notoriously chaotic with aggressive driving, minimal lane discipline, and heavy congestion — renting a car in Lima is inadvisable for most tourists. Andean mountain roads can be spectacular but genuinely dangerous: narrow with sheer drops, no guardrails on many sections, and deteriorating significantly in the rainy season (November–April). Four-wheel drive is essential for jungle and some highland routes. Drivers should acclimatize to altitude before attempting mountain driving as it affects concentration and reaction time.",
+      "tourist_tips": [
+        "If self-driving in the Andes, drive only in daylight — roads in the highlands are unsafe at night and the risk of altitude-related fatigue is significant.",
+        "Check road conditions before travelling during the rainy season (November–April) as landslides can close routes for hours or days with no warning.",
+        "For the Inca Trail and Machu Picchu, hiring a local driver or using buses is far safer and more practical than self-driving the mountain roads around Cusco."
+      ],
+      "warning": "Andean mountain roads regularly see fatal accidents — they are narrow, frequently lack guardrails, and conditions deteriorate sharply in rain; exercise extreme caution or hire a local driver.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Peru",
+      "quick_answer": "Peruvian cuisine is widely considered one of the world's best — from street ceviche to Lima's world-famous fine dining — and eating well here is affordable and extraordinary.",
+      "detail": "Lima has established itself as the culinary capital of South America, home to world-ranked restaurants including Central, Maido, and Astrid y Gastón. Ceviche (raw fish cured in lime with ají amarillo chilli) is the national dish and unmissable. Lomo saltado (Peruvian-Chinese stir-fry with beef), causa (chilled potato terrine), and anticuchos (grilled beef heart skewers) are essential dishes. Cuy (guinea pig) is a traditional highland delicacy — roasted whole and served at celebrations in Cusco and the Andes. The menú del día (set lunch: soup, main, drink) is served everywhere for 12–20 PEN and is often excellent.",
+      "tourist_tips": [
+        "Order the menú del día at a local restaurant for lunch — it is how Peruvians eat on weekdays and it offers a three-course meal for under USD 5, often including dishes you would not otherwise try.",
+        "Book a table at Central, Maido, or another top Lima restaurant weeks or months in advance — they are among the best restaurants on Earth and fully booked far ahead.",
+        "Try ceviche only at lunch (when fish is freshest) at a dedicated cevichería — the best ones are often modest-looking local spots, not tourist restaurants."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Peru",
+      "quick_answer": "Catholic churches are present in every town and require modest dress; Cusco's Baroque churches are built on Inca temple foundations and carry deep spiritual significance.",
+      "detail": "Peru is predominantly Catholic and its colonial churches — especially in Cusco, Lima, and Arequipa — are active places of worship as well as extraordinary architectural monuments. Dress modestly (covered shoulders and knees), remove hats, speak quietly, and be respectful of ongoing services. Cusco's Qorikancha (Coricancha), the most sacred Inca temple, was partly dismantled by Spanish colonisers and the Santo Domingo Church built over it — visiting is a profound historical and spiritual experience. Andean communities blend Catholic observance with indigenous Pachamama practices; at festivals and ceremonies, observe quietly and only participate if invited.",
+      "tourist_tips": [
+        "Visit the Qorikancha (Coricancha) complex in Cusco — seeing the precisely fitted Inca stonework beneath and alongside the colonial church is one of the most moving sights in South America.",
+        "Many of Cusco's churches charge a small entry fee for tourists (included in the Boleto Turístico pass) — buy the regional tourist pass if you are visiting multiple sites.",
+        "During religious festivals (Corpus Christi, Inti Raymi, Semana Santa), churches are the centre of extraordinary celebrations — watching respectfully from outside is perfectly appropriate."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Peru",
+      "quick_answer": "May to October is the dry season and the best time for Machu Picchu and trekking; Lima is grey and foggy June–November but the coast and highlands are clear.",
+      "detail": "Peru has two main seasons: dry (May–October) and wet (November–April). For trekking the Inca Trail and visiting Machu Picchu with the best weather and visibility, May–October is ideal, but June–August is also the most crowded and expensive period. The Inca Trail closes entirely in February for maintenance. Lima paradoxically experiences its greiest, most overcast weather during the highland dry season due to the coastal garúa (sea fog) from June to November. Máncora beach is best December–March. The Amazon sees heaviest rainfall December–May. Cusco dry season nights can be extremely cold.",
+      "tourist_tips": [
+        "April and May (just before peak season) offer an excellent balance — Inca Trail is open, crowds are lighter than June–August, and you catch the end of the green season for lush landscapes.",
+        "If visiting Lima for food and culture only, the 'grey season' (June–November) is fine — the city's restaurant scene and museums are excellent regardless of coastal fog.",
+        "Cusco's Inti Raymi (Festival of the Sun) on June 24th is spectacular but the city is extremely crowded and accommodation must be booked many months ahead."
+      ],
+      "warning": "The Inca Trail closes throughout the entire month of February for maintenance — if trekking is your priority, plan around this closure.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Peru",
+      "quick_answer": "Eat the menú del día at local comedores, book Machu Picchu tickets online in advance, and take overnight buses instead of flights to cut costs significantly.",
+      "detail": "Peru can be very affordable if you eat and travel like locals. The menú del día (set lunch) costs 12–20 PEN (roughly USD 3–5) and is served everywhere from market stalls to town cafés, usually including soup, a main course, and a drink. Local market comedores (food stalls) are even cheaper. For intercity travel, overnight buses on Cruz del Sur or Oltursa save a night's accommodation as well as the fare. Machu Picchu tickets purchased directly through the official government website are cheaper than through agents and guaranteed authentic.",
+      "tourist_tips": [
+        "Buy the Cusco Boleto Turístico (tourist pass) if visiting multiple archaeological sites — it covers 16 sites including Sacsayhuamán and is far cheaper than paying individually.",
+        "Explore Lima's free highlights — Miraflores Parque Kennedy, the clifftop Malecón walkway, the free Larco Museum gardens, and the Barranco neighbourhood murals cost nothing.",
+        "Fly into Lima and out of Cusco (or vice versa) on a one-way open-jaw ticket rather than backtracking — it saves both time and often money on domestic transport."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

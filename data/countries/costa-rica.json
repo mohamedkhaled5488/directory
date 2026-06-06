@@ -1,0 +1,460 @@
+{
+  "country": "Costa Rica",
+  "slug": "costa-rica",
+  "emoji": "🇨🇷",
+  "region": "Americas",
+  "currency": "CRC",
+  "language": "Spanish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Costa Rica",
+      "quick_answer": "A 10% service charge (ley de propina) is legally included in all restaurant bills, so no additional tip is required.",
+      "detail": "Costa Rican law mandates a 10% propina (service charge) on all restaurant bills, so you are already tipping every time you dine out. You may leave an extra tip for truly exceptional service, but it is never expected. Tipping is more customary for tour guides and drivers, where 10–15 USD per day per guide is appreciated. Hotel housekeeping, airport porters, and taxi drivers are not generally tipped, though rounding up a fare is welcome.",
+      "tourist_tips": [
+        "Check your restaurant bill before adding extra — the 10% is already included by law.",
+        "Nature and wildlife tour guides rely heavily on tips; 10–15 USD per day per person is a kind gesture.",
+        "Tip in colones or USD — both are equally accepted by service workers."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Costa Rica",
+      "quick_answer": "Costa Rica has no national rail system; intercity buses are the cheapest option, while shared tourist shuttles and domestic flights connect remote destinations.",
+      "detail": "Long-distance buses (Tica Bus, TRALAPA, and regional companies) are the backbone of intercity travel and are very affordable. Shared tourist shuttles — operated by companies like Interbus and Grayline — are a popular middle-ground between cheap buses and expensive private taxis, connecting all major tourist hubs door-to-door. Uber operates in San José and most tourist towns and is generally cheaper and more reliable than street taxis. For remote destinations like Tortuguero or Corcovado, domestic flights with SANSA are the practical choice, saving hours of rough-road travel.",
+      "tourist_tips": [
+        "Book shared shuttles in advance during dry season (December–April) as they fill up quickly.",
+        "Uber works well in San José and tourist areas — download the app before you arrive.",
+        "Rent a 4WD vehicle if you plan to explore rural areas or off-the-beaten-path national parks."
+      ],
+      "warning": "Many rural roads are unpaved, flooded in rainy season, or require river crossings — a standard sedan can leave you stranded.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Costa Rica",
+      "quick_answer": "Costa Rica has good private hospitals in San José, but travel insurance is essential as private care is expensive and public hospitals are slow for non-emergencies.",
+      "detail": "Private hospitals like CIMA Hospital and Clínica Bíblica in San José offer high-quality care comparable to North American standards and have English-speaking staff. The public CCSS (Caja) system is technically accessible to visitors but wait times are extremely long for non-life-threatening conditions. Pharmacies (farmacias) are widespread throughout the country and pharmacists can advise on common ailments and sell many medications over the counter. Snake bites are a genuine risk in jungle and rural areas — if bitten, seek emergency treatment immediately and try to photograph the snake for identification.",
+      "tourist_tips": [
+        "Carry your travel insurance documents and insurer's emergency phone number at all times.",
+        "Farmacias are plentiful and knowledgeable — good first stop for minor illnesses.",
+        "If heading into remote jungle areas, ask your guide about the nearest hospital with antivenom stock."
+      ],
+      "warning": "Venomous snakes (fer-de-lance, bushmaster) are present in jungle and rural areas — wear closed shoes on trails and never reach into vegetation blindly.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Costa Rica",
+      "quick_answer": "Costa Rica is generally law-relaxed with a 'pura vida' attitude, but wildlife protection, environmental laws, and anti-drug laws are strictly enforced.",
+      "detail": "Cannabis possession for personal use has been effectively decriminalized, though public consumption and trafficking remain illegal. Wildlife protection laws are among the strongest in the world — touching, feeding, or harassing wildlife can result in heavy fines, and buying wildlife products or souvenirs made from protected species is illegal. Driving on beaches is prohibited at many coastal areas and enforced with fines. Costa Rica abolished its military in 1948 and has a very relaxed attitude toward photography of security forces, but drug trafficking and possession of hard narcotics carry serious prison sentences.",
+      "tourist_tips": [
+        "Never purchase souvenirs made from turtle shells, coral, or exotic animal products — customs seizure and fines apply.",
+        "Respect wildlife distance rules in national parks — rangers enforce them seriously.",
+        "Check beach driving rules locally; many popular beaches prohibit it entirely."
+      ],
+      "warning": "Hard drug possession and trafficking carries severe penalties including lengthy prison sentences with no special leniency for tourists.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Costa Rica",
+      "quick_answer": "Dial 911 for all emergencies; tourists can also call 1800-TURISMO (1800-887476) for dedicated tourist assistance.",
+      "detail": "Costa Rica uses 911 as its single unified emergency number for police, fire, and ambulance — the same as the United States and Canada, making it easy for North American visitors to remember. The dedicated tourist assistance line 1800-TURISMO (1800-887476) connects callers with Spanish and English-speaking operators who can assist with crime reporting, lost documents, and tourist-specific situations. The Red Cross (Cruz Roja) operates ambulance services at 128. Coast guard and maritime emergencies are handled through 1800-800-8000.",
+      "tourist_tips": [
+        "Save 911 and 1800-887476 in your phone before you leave for the day.",
+        "The 1800-TURISMO line has English-speaking staff and is specifically trained for tourist problems.",
+        "For non-emergency police matters, look for the OIJ (judicial police) or local Fuerza Pública station."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Costa Rica",
+      "quick_answer": "Costa Rica is extremely casual with no strict dress requirements — light clothing is ideal for the coast and layers are needed for cooler highland areas.",
+      "detail": "The dominant 'pura vida' culture embraces a relaxed, casual approach to everything including dress. On the Pacific and Caribbean coasts, shorts, t-shirts, and sandals are standard for almost every occasion. Highland destinations like Monteverde and the Arenal area can be surprisingly cool and misty, so a light jacket or rain layer is essential. Churches and religious sites appreciate modest dress (covered shoulders and knees), though enforcement is extremely light by regional standards. Upscale restaurants in San José may prefer smart casual, but few enforce it.",
+      "tourist_tips": [
+        "Always pack a light rain jacket — even in dry season, afternoon showers can occur in mountain areas.",
+        "Reef-safe sunscreen is strongly encouraged (and sometimes required) in national marine parks.",
+        "Bring a warm layer for Monteverde, Chirripo, and other highlands — temperatures can drop to 10°C at night."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Costa Rica",
+      "quick_answer": "The legal drinking age is 18, alcohol is widely available, and drinking on most beaches is legal, but drunk driving is strictly enforced.",
+      "detail": "Imperial lager is the beloved national beer and a cultural institution — you will find it everywhere from beach shacks to San José bars. Guaro, a sugarcane-based spirit sold under the Cacique brand, is the traditional national liquor and very inexpensive. Alcohol is available in supermarkets, liquor stores (licorerías), restaurants, and most tourist venues seven days a week. Drinking on beaches is generally legal and common at resort areas, though some national park beaches prohibit it. DUI checkpoints (alcohometría) are operated by the Transit Police and penalties include arrest and license suspension.",
+      "tourist_tips": [
+        "Try a 'guaro sour' — the local cocktail made with Cacique guaro, lime, and sugar — for an authentic Costa Rican experience.",
+        "Imperial beer is available almost everywhere and is the cheapest and most culturally appropriate beer choice.",
+        "Never drink and drive — Transit Police operate breathalyser checkpoints especially on weekend nights and holiday weekends."
+      ],
+      "warning": "DUI enforcement is serious — a blood alcohol level above 0.05% is illegal and can result in arrest, vehicle impoundment, and deportation proceedings for foreigners.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Costa Rica",
+      "quick_answer": "Bargaining is not generally expected in Costa Rica — prices at restaurants, shops, and malls are fixed, though some flexibility exists at craft markets.",
+      "detail": "Unlike many Latin American countries, Costa Rica does not have a strong bargaining culture and attempting to haggle at standard shops, restaurants, or supermarkets would be considered rude. At artisan craft markets (mercados de artesanías) and with street vendors in tourist areas like La Fortuna or Jacó, polite negotiation for buying multiple items is sometimes possible and not offensive. Tour operators may offer small discounts for direct booking versus booking through hotel concierges, which is worth asking about. The pura vida mentality means ticos generally quote fair prices and are not in the business of dramatically overcharging tourists.",
+      "tourist_tips": [
+        "Ask tour operators about direct-booking discounts — you may save 10–15% versus concierge-arranged tours.",
+        "In craft markets, buying multiple items from the same vendor often yields a small 'package' discount.",
+        "Never try to bargain at sodas (local restaurants) or supermarkets — prices are fixed and attempts will cause embarrassment."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Costa Rica",
+      "quick_answer": "Costa Rica is very photography-friendly with outstanding wildlife photography opportunities, though national park rules require you not to disturb animals for a shot.",
+      "detail": "Photography is welcomed almost everywhere in Costa Rica — the country abolished its military in 1948 and there are no sensitive military installations to avoid photographing. National parks and wildlife reserves are paradise for nature photographers, but rangers enforce rules against approaching, touching, or disturbing wildlife for photographs. Always ask permission before photographing indigenous communities (particularly Boruca and Bribri territories) and local people in general as a matter of courtesy. Religious sites are typically fine to photograph inside and out, though quiet discretion during services is appreciated.",
+      "tourist_tips": [
+        "Use a 400mm+ telephoto lens for wildlife — national park rules prohibit approaching animals closely, but distant shots are stunning.",
+        "Ask permission before photographing people in villages and indigenous territories — most ticos are happy to oblige.",
+        "Drone photography in national parks requires advance permits from SINAC (National System of Conservation Areas)."
+      ],
+      "warning": "Drone use without a SINAC permit in national parks or near airports is illegal and drones can be confiscated.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Costa Rica",
+      "quick_answer": "Most tourist businesses operate seven days a week, but banks close on weekends and Semana Santa (Holy Week) causes widespread closures across the country.",
+      "detail": "Tourist-oriented restaurants, tour operators, and attractions generally stay open seven days a week year-round. Banks and many government offices are closed on Saturdays and Sundays; ATMs remain accessible 24 hours. Semana Santa (Holy Week, the week before Easter) is the most important national holiday period — many businesses close, beaches fill with domestic tourists, and alcohol sales are prohibited on Maundy Thursday and Good Friday. Local farmers' markets (ferias del agricultor) are liveliest on Saturday mornings and are an excellent cultural experience.",
+      "tourist_tips": [
+        "Book accommodation well in advance for Semana Santa — beaches fill with Costa Rican families and prices spike.",
+        "Visit ferias del agricultor on Saturday mornings for fresh local produce and authentic food at local prices.",
+        "Plan banking and official paperwork for weekdays — no banking services are available on weekends."
+      ],
+      "warning": "During Semana Santa, alcohol sales are legally prohibited on Holy Thursday and Good Friday — stock up beforehand if needed.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Costa Rica",
+      "quick_answer": "Uber is widely available and generally reliable in tourist areas; official red taxis must use the taxímetro meter, and orange taxis serve San José's airport.",
+      "detail": "Uber operates throughout San José and in most tourist destinations including La Fortuna, Jacó, Manuel Antonio, and Tamarindo, offering a convenient and price-transparent alternative to haggling with street taxis. Official licensed taxis are red with a yellow triangular logo on the door and are legally required to use the taxímetro meter — always insist on it or agree on a fixed price before getting in. Airport taxis serving Juan Santamaría International Airport are orange (operated by SJTACI) and use fixed zone-based rates displayed on charts inside the vehicle. Shared tourist shuttles (Interbus, Grayline, Caribe Shuttle) are a very popular and economical option for backpackers moving between destinations.",
+      "tourist_tips": [
+        "Always insist on 'por taxímetro' (by the meter) in red taxis — drivers who refuse are planning to overcharge you.",
+        "Uber in San José is typically 30–50% cheaper than street taxis and shows the price upfront.",
+        "Pre-book shared shuttles online a day ahead — they fill up fast on popular routes like San José to La Fortuna."
+      ],
+      "warning": "Unlicensed 'pirate taxis' (piratas) operate near airports and bus stations — only use red taxis with the yellow triangle logo or book Uber from the app.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Costa Rica",
+      "quick_answer": "Tap water is safe to drink in San José and most developed areas, making Costa Rica one of the few Central American countries where this is reliable.",
+      "detail": "San José and most urban and developed tourist areas have treated municipal water that meets WHO drinking standards — you can drink from the tap at hotels and restaurants without concern. In rural areas, remote villages, and some beach towns, water quality can vary and locally sourced water may not be treated; check with accommodation staff before drinking. The Caribbean coast and some isolated Pacific communities are more likely to have water quality concerns than the Central Valley and Pacific resort areas. Bottled water is inexpensive and widely available everywhere if you prefer certainty.",
+      "tourist_tips": [
+        "Ask your hotel or guesthouse host about local tap water quality — they will give you honest advice.",
+        "In national parks and on multi-day hikes, carry a water filter or purification tablets as river water is not safe to drink.",
+        "Bottled water at supermarkets is very cheap — buying a large 5-litre bottle at a supermarket is far more economical than buying small bottles daily."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Costa Rica",
+      "quick_answer": "ATMs from BAC, Banco Nacional, and Scotiabank reliably accept foreign cards; USD is widely accepted in tourist areas but colones are needed for rural destinations.",
+      "detail": "Costa Rica's currency is the colón (CRC) but US dollars are accepted at nearly all tourist businesses, hotels, tour operators, and many restaurants at posted exchange rates. BAC Credomatic ATMs are the most foreigner-friendly and can dispense both colones and USD. Banco Nacional and Scotiabank are also reliable for international card withdrawals. SINPE Móvil is a growing digital payment system used by locals but not yet practical for tourists. Always carry some cash in colones for rural areas, national park entrance fees (which must be paid in CRC or by card at the park), sodas, and local markets.",
+      "tourist_tips": [
+        "Withdraw from BAC ATMs inside their banking halls for the best reliability and safety versus street-facing ATMs.",
+        "Keep a mix of USD and colones — USD for big tourist purchases, colones for buses, sodas, and local markets.",
+        "Notify your bank before travel to avoid card blocks; foreign transaction fees can be high — consider a Wise or similar fee-free card."
+      ],
+      "warning": "ATM skimming occurs in tourist areas — cover your PIN, use ATMs inside bank lobbies, and check your statement regularly.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Costa Rica",
+      "quick_answer": "Kölbi offers the best coverage especially in rural areas and national parks; SIMs are available at airports and require passport registration.",
+      "detail": "Kölbi (state-owned ICE network) is the recommended carrier for visitors because it has the widest coverage including many remote national park areas where Claro and Movistar struggle. Claro and Movistar are cheaper and fine for main tourist areas but drop off quickly outside urban zones. SIM cards are sold at the Juan Santamaría Airport arrivals hall and at phone shops throughout the country; registration requires your passport. eSIMs from providers like Airalo work in Costa Rica and are convenient for travelers who don't want to swap physical SIMs. Coverage is generally good in all major tourist destinations, but deep jungle, remote Caribbean coast, and high mountain areas have spotty or no signal.",
+      "tourist_tips": [
+        "Buy a Kölbi SIM at the airport arrivals hall immediately — it saves time and hassle later.",
+        "A Kölbi prepaid plan with 10–15 GB of data is sufficient for a two-week stay and costs around 5,000–8,000 CRC.",
+        "Download offline maps (Maps.me or Google Maps offline) for national parks and rural areas where data is unreliable."
+      ],
+      "warning": "Cell coverage in remote national parks like Corcovado, Tortuguero, and Chirripo is very limited to non-existent — plan accordingly.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Costa Rica",
+      "quick_answer": "Costa Rica uses Type A and B plugs at 120V/60Hz — identical to the United States and Canada, so North American visitors need no adapter.",
+      "detail": "The electrical system in Costa Rica is the same as the United States and Canada: Type A (two flat parallel pins) and Type B (two flat pins plus a round grounding pin) sockets at 120 volts and 60Hz. European, Australian, and most international visitors will need a Type A/B adapter, available cheaply at airport shops and hardware stores. Power outages (apagones) are infrequent in urban areas but more common in rural and remote zones, particularly during heavy rainy season storms. Surge protectors are a sensible addition for protecting electronic devices especially in rural lodges.",
+      "tourist_tips": [
+        "North American travelers need zero adapters — your US or Canadian plugs work everywhere in Costa Rica.",
+        "European and UK visitors: pick up a cheap Type A/B adapter at the airport on arrival.",
+        "Rural eco-lodges sometimes use solar or generator power — charge devices whenever you have stable grid access."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Costa Rica",
+      "quick_answer": "Costa Rica has relatively low scam rates, but taxi overcharging, vendor overpricing in tourist areas, and beach car break-ins are the most common risks.",
+      "detail": "The most common tourist scam is taxi drivers refusing to use the meter and quoting inflated flat rates — always insist on 'por taxímetro' or use Uber. A well-known trick near popular tourist businesses is a stranger telling you the place is 'closed today' and offering to take you to an 'equally good' alternative that pays them a commission — ignore these redirects and verify closures yourself. Vendors in very touristy areas like La Fortuna and Jacó may inflate prices for souvenirs; compare prices at multiple stalls. Beach car break-ins are extremely common — this is not a scam but a serious and organized crime that targets rental cars, which are identifiable by their plates.",
+      "tourist_tips": [
+        "Never leave anything in a rental car — not even items hidden in the trunk — as organized thieves target rental car plates.",
+        "If someone tells you a restaurant or attraction is 'closed today,' walk to it yourself and check before believing them.",
+        "Use Uber instead of street taxis to avoid the taxímetro haggling entirely."
+      ],
+      "warning": "Rental car break-ins at beaches and trailheads are extremely common and organized — treat your rental car as if it contains nothing, because it should contain nothing.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Costa Rica",
+      "quick_answer": "Costa Rica is much safer than its Central American neighbors, but petty theft, beach bag snatching, and rental car break-ins are genuine and very common risks.",
+      "detail": "Costa Rica consistently ranks as one of the safest countries in Central America and is generally safe for tourists in popular areas. San José has higher-crime neighborhoods — La Merced, La Coca-Cola bus terminal area, and parts of downtown are best avoided at night. Tourist areas including Manuel Antonio, Tamarindo, La Fortuna, Monteverde, and Puerto Viejo are generally safe for daytime activities but standard urban awareness applies after dark. Violent crime targeting tourists is rare; opportunistic theft from unattended bags and rental car break-ins are the dominant risks. Express kidnappings are extremely rare but have been reported in isolated instances near San José.",
+      "tourist_tips": [
+        "Walk with purpose and awareness in San José — avoid displaying expensive cameras, phones, and jewelry openly.",
+        "Use hotel safes for passports, extra cash, and valuables rather than carrying everything with you.",
+        "Book tours through reputable licensed operators — unlicensed operators on the street can occasionally be fronts for robbery."
+      ],
+      "warning": "Beach and trailhead parking lot break-ins targeting rental cars are extremely prevalent nationwide — never leave any items visible or hidden in parked rental vehicles.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Costa Rica",
+      "quick_answer": "'Pura vida' is Costa Rica's national motto, greeting, and philosophy — embracing it and being warm and respectful will earn you instant goodwill from ticos.",
+      "detail": "Costa Ricans (ticos and ticas) are known throughout Latin America for their friendliness, warmth, and relaxed attitudes — the 'pura vida' (pure life) ethos permeates everyday interactions. Greetings are important: a handshake for first meetings and a light cheek kiss for women who are acquainted is standard. Punctuality is relaxed — arriving 15–30 minutes late to social events is normal and not considered rude, though tourist services like tours and shuttles operate on schedule. Environmental consciousness and respect for nature are deeply valued national identity points — expressing appreciation for the country's biodiversity will always resonate positively. Tipping nature and wildlife guides well is culturally important as it validates their expertise.",
+      "tourist_tips": [
+        "Learn and use 'pura vida' freely — as a greeting, a farewell, 'no problem,' and 'life is good' — ticos love hearing visitors use it.",
+        "Express genuine interest in Costa Rica's wildlife and conservation efforts — ticos are proud of their environmental heritage.",
+        "Patience is a virtue: 'tico time' is real — lines, service, and social events move at a relaxed pace."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Costa Rica",
+      "quick_answer": "Spanish is the official language and English is widely spoken in tourist areas, hotels, and national parks, though rural areas have limited English coverage.",
+      "detail": "Costa Rican Spanish (español costarricense) is considered one of the clearest and most neutral accents in Latin America, making it a popular destination for Spanish learners. English is extensively spoken in all major tourist destinations, national parks, and international hotels, and most tour operators communicate comfortably in English. Outside tourist corridors — in rural towns, local sodas, and public buses — English is less common, and basic Spanish phrases will be greatly appreciated and practically useful. Ticos use 'mae' (like 'dude') in casual speech and 'pura vida' constantly — using them will always get a smile.",
+      "tourist_tips": [
+        "Learn these key phrases: 'pura vida' (pure life/great), 'mae' (dude/friend), '¿Cuánto cuesta?' (how much?), and 'la cuenta, por favor' (the bill, please).",
+        "Costa Rican Spanish uses 'usted' (formal you) even between friends — more formally polite than most other Latin American countries.",
+        "Translation apps work well as backup in rural areas where English is limited — download an offline Spanish pack."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Costa Rica",
+      "quick_answer": "Costa Rica's beaches are stunning but carry serious hazards including rip currents, crocodiles at some river mouths, and stingrays — read local warning signs carefully.",
+      "detail": "Costa Rica offers two completely different coastlines: the Pacific (Guanacaste's dry golden beaches, Manuel Antonio's lush cove beaches, Tamarindo's surf scene) and the Caribbean (Puerto Viejo's laid-back reef beaches, Tortuguero's wild turtle nesting shores). Rip currents are a serious and sometimes fatal hazard at many Pacific beaches — look for flags, ask locally, and never swim alone. The Tárcoles River mouth on the central Pacific coast is famous for large American crocodiles that enter the surf zone — do not swim near river mouths. Stingrays rest in shallow sandy areas; the 'stingray shuffle' (dragging feet rather than stepping) causes them to move away before you step on them.",
+      "tourist_tips": [
+        "Always ask locals or hotel staff about current rip conditions before entering the water at unfamiliar beaches.",
+        "Do the 'stingray shuffle' in all shallow sandy Pacific beach water — drag your feet rather than stepping to avoid stepping on resting stingrays.",
+        "Tortuguero's turtle nesting tours (July–October) must be booked through licensed guides — independent beach walking at night is prohibited during nesting season."
+      ],
+      "warning": "Most Costa Rican beaches have no lifeguards — rip currents cause multiple tourist drownings every year; swim between any marked safe-zone flags and never swim alone.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Costa Rica",
+      "quick_answer": "Drive on the right side; a 4WD vehicle is strongly recommended as many rural roads are unpaved, unsigned, and may require river crossings.",
+      "detail": "Costa Rica drives on the right side of the road and road signs follow international conventions, though signage is notoriously sparse outside main highways — GPS is essential. Many roads to popular destinations including Monteverde, Corcovado, and rural Nicoya Peninsula are unpaved, potholed, and become significantly worse during rainy season (May–November). River crossings (vados) are common on some rural routes and should only be attempted in a 4WD when the water level is clearly safe — never attempt a flooded crossing. Drunk driving checkpoints are operated regularly, speed limits are enforced with radar, and seatbelts are mandatory for all occupants.",
+      "tourist_tips": [
+        "Rent a 4WD (preferably high-clearance) if your itinerary includes Monteverde, Corcovado, Nicoya Peninsula, or any mountain roads.",
+        "Download Google Maps or Waze offline before driving — signal drops in many areas and signage is minimal on rural roads.",
+        "Fill your tank whenever you see a gas station in rural areas — stations can be very far apart on remote routes."
+      ],
+      "warning": "Never attempt a river crossing (vado) if you cannot see the bottom or if water is moving fast — vehicles are swept away every rainy season.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Costa Rica",
+      "quick_answer": "Costa Rican cuisine centers on the casado (rice, beans, meat, salad) and gallo pinto (breakfast rice and beans) — eating at sodas (local family restaurants) is cheap, authentic, and delicious.",
+      "detail": "The national dish is the casado — a complete plate of rice, black beans, a protein (chicken, beef, fish, or pork), salad, and plantains — available at sodas for 3,000–5,000 CRC and representing some of the best food value in the country. Gallo pinto (rice and black beans cooked together with Salsa Lizano sauce) is the beloved national breakfast, served with eggs, cheese, and sour cream (natilla). Fresh ceviche (raw fish marinated in lime juice and chili) is outstanding on both coasts. Chifrijo — a bowl of rice, beans, crispy pork skin (chicharrones), pico de gallo, and avocado — is the quintessential Costa Rican bar snack. Fresh tropical fruit (mango, papaya, pineapple, maracuyá) is abundant and cheap throughout the country.",
+      "tourist_tips": [
+        "Eat at sodas for the most authentic and affordable food — look for busy ones with handwritten menus and local clientele.",
+        "Order the 'casado del día' (plate of the day) at sodas — it includes everything and costs a fraction of tourist restaurant prices.",
+        "Ask for Salsa Lizano on the side — the national condiment used in gallo pinto — it's like Costa Rica's answer to Worcestershire sauce."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Costa Rica",
+      "quick_answer": "Costa Rica is a predominantly Catholic country with a church in every town; modest dress and quiet behavior are appreciated but strictly enforced at very few sites.",
+      "detail": "Catholicism is the official state religion and the Catholic church plays a central role in Costa Rican culture and daily life. The Basílica de Nuestra Señora de los Ángeles in Cartago is the most important religious site — a major national pilgrimage destination on August 2nd (La Romería) where hundreds of thousands walk from San José. Semana Santa (Holy Week before Easter) is the most significant religious period, with masses, processions, and closures across the country. Churches throughout Costa Rica are generally open to visitors, welcome photography, and require only the common courtesies of modest clothing (covered shoulders and knees), silence during services, and removal of hats.",
+      "tourist_tips": [
+        "Visit the Basílica in Cartago — the black stone statue of La Negrita is a deeply moving cultural and religious landmark.",
+        "If visiting during La Romería (August 2nd), be aware the road from San José to Cartago is closed to vehicles as pilgrims walk the route.",
+        "Most churches have a small donation box near the entrance — a 500–1,000 CRC contribution is a respectful gesture for visitors."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Costa Rica",
+      "quick_answer": "The dry season (December–April) is the most popular time with sunny Pacific beaches, while the green season (May–November) offers lush landscapes, fewer crowds, and lower prices.",
+      "detail": "Costa Rica has two main seasons: the dry season (verano, December–April) brings reliable sunshine to the Pacific coast and is peak tourist season with the highest prices; and the green/rainy season (invierno, May–November) brings afternoon and evening rains that make the jungle lush and waterfalls dramatic. The Caribbean coast operates on an opposite pattern — its dryish periods are around February–March and September–October, while the rest of the country is dry. Monteverde is cool and misty year-round due to cloud forest conditions. The rainy season is not a reason to avoid Costa Rica — rains are often predictable afternoon showers, wildlife is active, and travel costs drop significantly.",
+      "tourist_tips": [
+        "Visit Guanacaste and the northern Pacific in December–April for guaranteed beach sunshine and the best surf conditions.",
+        "Consider September–October for the best value travel — it's the quietest period, prices are lowest, and many areas are surprisingly dry.",
+        "Pack a quality rain jacket regardless of when you visit — even dry season mornings in the highlands can be cool and misty."
+      ],
+      "warning": "Hurricane season (June–November) can bring intense rain and occasional tropical storms particularly on the Caribbean coast, sometimes causing road closures and flooding.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Costa Rica",
+      "quick_answer": "Eat at sodas, use public buses, and plan national park visits carefully to manage costs — Costa Rica is one of the more expensive Central American destinations but budget travel is very achievable.",
+      "detail": "Costa Rica has a reputation as the most expensive country in Central America, but strategic choices make budget travel very manageable. Eating at sodas (local family restaurants) instead of tourist restaurants can cut food costs by 60–70% — a casado at a soda costs 3,000–5,000 CRC versus 12,000–20,000 CRC at a tourist restaurant. Public intercity buses are extremely cheap (a San José to La Fortuna bus is under 2,500 CRC) but slower than shuttles. National park entrance fees are unavoidable at $18–25 USD per person per park but represent outstanding value for the wildlife and scenery delivered. Free wildlife experiences are plentiful — roadside sloths and monkeys, the Tárcoles River bridge crocodile viewing, and many wildlife sightings require no park entry.",
+      "tourist_tips": [
+        "Self-cater breakfasts and lunches using supermarkets (Más x Menos, Super Mas) — fresh fruit and local produce is inexpensive and delicious.",
+        "Travel during the green season (May–November) for accommodation discounts of 20–40% versus peak season rates.",
+        "The Tárcoles River bridge crocodile viewing is completely free and reliably produces 20+ large crocodile sightings — one of the best free wildlife experiences in the country."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

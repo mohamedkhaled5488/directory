@@ -1,0 +1,380 @@
+{
+  "country": "Singapore",
+  "slug": "singapore",
+  "emoji": "🇸🇬",
+  "region": "Asia",
+  "currency": "SGD",
+  "language": "English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Singapore",
+      "quick_answer": "Do not tip in Singapore. A 10% service charge is automatically added to all restaurant bills. Tipping is not part of the culture.",
+      "detail": "Singapore has a no-tipping culture reinforced by the standard '++' pricing model at restaurants and hotels. The '++' means 10% service charge plus 9% GST (Goods and Services Tax) is added to the listed price. This service charge is collected by the establishment, not necessarily passed directly to individual servers. Attempting to tip on top of this is unusual and may even cause confusion. At hawker centres (open-air food courts) where the service charge doesn't apply, leaving change is done occasionally but not expected. Taxi drivers do not expect tips.",
+      "tourist_tips": [
+        "When you see prices listed as '$10++', the final price is approximately $12.10 after GST and service charge",
+        "Hawker centre food stalls have no service charge — leaving change is kind but not expected",
+        "Hotel porters and housekeeping do not expect tips — the service charge covers this",
+        "Grab (rideshare) drivers are not tipped — it's not part of the app culture in Singapore",
+        "The service charge on your restaurant bill goes to the business, not always to the individual server"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Singapore",
+      "quick_answer": "Singapore has an excellent, clean MRT and bus network. Use an EZ-Link card or tap with your contactless bank card. Public transport is cheap and air-conditioned.",
+      "detail": "Singapore has one of the world's best public transport systems. The MRT (Mass Rapid Transit) covers almost every tourist and business destination with clean, air-conditioned trains that run frequently. EZ-Link is the stored-value card for all MRT and buses. Alternatively, you can now tap directly with a contactless Visa or Mastercard at all MRT stations and buses. The SimplyGo system means foreign bank cards work seamlessly. Buses are comprehensive and also use EZ-Link/contactless. Grab (like Uber) is widely used and affordable for non-transit trips. Taxis are metered and honest.",
+      "tourist_tips": [
+        "Use your contactless bank card directly on Singapore MRT and buses — no EZ-Link card needed",
+        "If buying an EZ-Link card, get it at any MRT station for $10 (includes $5 credit, $5 card fee)",
+        "The Circle, North-South, East-West, and Downtown Lines cover all major tourist areas",
+        "Changi Airport has direct MRT connections to the city — extremely convenient and cheap (~$2)",
+        "Buses in Singapore are clean and reliable — use the MyTransport.SG app for route planning"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Singapore",
+      "quick_answer": "Singapore has world-class healthcare but at very high prices. Travel insurance is essential. English is spoken everywhere. Polyclinics are cheaper than private GPs.",
+      "detail": "Singapore's healthcare system is internationally acclaimed. English is the official language so communication is never a barrier. However, Singapore is one of the most expensive places in Asia for medical care. A GP visit at a private clinic costs SGD 50–100+. Emergency room visits start at SGD 100–150 and escalate rapidly. Hospitalization in a public hospital can run SGD 1,000–5,000+ per day. Public Polyclinics are the cheapest option for non-emergencies (SGD 20–30 per visit) but are busy. Travel insurance is non-negotiable. Singapore also excels in specialist care — dental tourism is common from neighboring countries.",
+      "tourist_tips": [
+        "Polyclinics are government-run and very affordable (SGD 20–30) but have long waits — for non-urgent issues",
+        "Raffles Medical and Mount Elizabeth are top private hospitals with excellent English service",
+        "Singapore is a regional medical hub — complex procedures that would be cheaper than Australia or Europe",
+        "24-hour clinics are widely available and relatively affordable for minor issues",
+        "Pharmacies like Guardian and Watsons are everywhere and sell quality OTC medications"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Singapore",
+      "quick_answer": "Singapore enforces laws very strictly. Chewing gum is banned for sale. Drugs carry the death penalty. Littering and jaywalking are heavily fined.",
+      "detail": "Singapore is famous for its strict law enforcement — the city-state maintains order through significant fines and penalties. Sale and import of chewing gum is banned (you can bring a small personal supply for personal use, but not to sell). Littering fines start at SGD 300 for a first offense and escalate to SGD 2,000+. Jaywalking carries fines of up to SGD 1,000. Eating and drinking in MRT stations or trains is banned and fined (SGD 500). Drug trafficking carries mandatory death penalty for amounts above specified thresholds — even being an unknowing carrier is no defense in court. Vandalism penalties are severe including caning.",
+      "tourist_tips": [
+        "Do not litter — even dropping a cigarette butt is a significant offense",
+        "No eating or drinking on the MRT or in stations — fines of SGD 500",
+        "Chewing gum: bring a personal supply if you must have it, but do not buy or sell it here",
+        "Never carry anything for someone else through customs — drug trafficking penalties include death",
+        "Jaywalking is enforced — use pedestrian crossings and obey signals"
+      ],
+      "warning": "Singapore imposes the mandatory death penalty for drug trafficking above certain quantities. This applies regardless of nationality, prior criminal record, or ignorance. Never carry packages for others.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Singapore",
+      "quick_answer": "Police: 999. Ambulance & Fire: 995. Non-emergency police: 1800-255-0000. Singapore has extremely fast emergency response.",
+      "detail": "Singapore has excellent, highly responsive emergency services. The police (999) and ambulance/fire brigade (995) respond extremely fast — average police response time in Singapore is among the fastest in the world. All operators speak English. For non-emergency police matters (e.g. theft reports for insurance), call 1800-255-0000. Tourists can also report incidents at any neighbourhood police centre. The Singapore Civil Defence Force (995) handles medical emergencies, fires, and rescues. Singapore General Hospital (SGH) is the main trauma centre.",
+      "tourist_tips": [
+        "999 for police, 995 for ambulance and fire — response times are among the world's fastest",
+        "Non-emergency police reports: 1800-255-0000 or visit any Neighbourhood Police Centre",
+        "Tourists can file a police report online via the Singapore Police Force website for minor offenses",
+        "Singapore's hospitals and ambulance service are very well equipped — you are in good hands",
+        "Your embassy's emergency contact is important if you face legal issues"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Singapore",
+      "quick_answer": "Singapore is hot and humid — dress light. Modest dress required at temples and mosques. Upscale clubs and restaurants have smart casual dress codes.",
+      "detail": "Singapore's tropical climate (30°C+ year-round with high humidity) means most people dress very casually in light, breathable clothing. Shorts, t-shirts, and sandals are completely normal for day-to-day activities. At Hindu temples, mosques, and Buddhist temples, modest dress is required — no bare shoulders or short shorts. Many places provide wraps or scarves at the entrance. Singapore's upscale nightlife venues (Clarke Quay, Marina Bay Sands clubs) have smart casual or dress-to-impress codes enforced at the door. Shopping malls are heavily air-conditioned — a light layer is useful.",
+      "tourist_tips": [
+        "Carry a lightweight cardigan or layer — Singapore's indoor air-conditioning is extremely aggressive",
+        "Light, breathable fabrics (linen, cotton) are ideal for Singapore's humidity",
+        "At temples and mosques (Masjid Sultan, Sri Mariamman Temple), cover shoulders and knees",
+        "Marina Bay Sands rooftop club and upscale venues require smart casual — no slippers or singlets",
+        "Little India and Chinatown temples are tourist-friendly but respect the dress code at religious sites"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Singapore",
+      "quick_answer": "Drinking age is 18. No outdoor drinking after 10:30pm in most public areas. Retail alcohol sales end at 10:30pm. Licensed restaurants serve until later.",
+      "detail": "Singapore regulates alcohol to reduce public disorder. Retail sales of alcohol (supermarkets, convenience stores) stop at 10:30pm. After this time, you can only drink in licensed premises (bars, restaurants, clubs). Drinking in public spaces — parks, streets, void decks, MRT stations — is banned after 10:30pm. There are designated 'Liquor Control Zones' in Little India and Geylang with stricter restrictions. The legal drinking age is 18. Drink-driving is punishable by fines and imprisonment (limit is 35 micrograms per 100mL of breath or 80mg/100mL blood).",
+      "tourist_tips": [
+        "Buy your evening beverages before 10:30pm if you want to drink at your accommodation",
+        "Licensed bars and restaurants can serve past 10:30pm — head indoors after the curfew",
+        "Hawker centres and most outdoor food areas become alcohol-free after 10:30pm",
+        "Tiger Beer is Singapore's local brew — widely available and the traditional choice",
+        "Duty-free alcohol: bring 1L into Singapore duty-free (must be away for 48+ hours for full allowance)"
+      ],
+      "warning": "Drinking in public places (streets, parks, void decks) is banned after 10:30pm in Singapore. Violation results in fines. Licensed indoor venues are the only option for late-night drinking.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Singapore",
+      "quick_answer": "Singapore is largely a fixed-price culture. Some bargaining is possible at electronics and computers in Lucky Plaza, Sim Lim Square, and Mustafa Centre.",
+      "detail": "Singapore is predominantly a fixed-price retail environment — malls, supermarkets, chain stores, and most modern shops have non-negotiable prices. However, some traditional markets and specific shopping areas have a history of negotiation. Sim Lim Square (electronics) and Lucky Plaza (electronics, secondhand goods) still have some negotiation culture, though buyers must be vigilant about scams. Mustafa Centre in Little India is open 24 hours and has some flexibility on electronics pricing. Wet markets (pasar) for fresh produce sometimes allow gentle negotiation on volume purchases.",
+      "tourist_tips": [
+        "Do not bargain at malls, chain stores, or hawker centres — prices are fixed",
+        "Sim Lim Square: research prices online first, then ask for best price — and be wary of scams",
+        "Mustafa Centre in Little India: some price flexibility especially on electronics and gold",
+        "Little India textile shops may negotiate on quantity purchases",
+        "Asking 'any discount?' at electronics shops is low-risk and occasionally rewarded with a small reduction"
+      ],
+      "warning": "Sim Lim Square has a history of tourist scams involving electronics — confirm all terms in writing before paying and never accept a 'deal' that involves additional hidden fees after payment.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Singapore",
+      "quick_answer": "Photography is generally free in public. Avoid photographing military installations, Changi Airport security zones, and government buildings. Drone rules are very strict.",
+      "detail": "Singapore is generally photography-friendly for tourists. Major tourist attractions, the Marina Bay skyline, Gardens by the Bay, hawker centres, and street scenes can all be freely photographed. However, the Official Secrets Act restricts photography of military installations, government buildings, and some secure infrastructure. Photography inside Changi Airport security areas is restricted. Religious sites are generally photographic-friendly but check for signs and be respectful. Drone photography is extremely restricted — Singapore has one of the strictest drone regulations in the world, with most of the island in restricted airspace.",
+      "tourist_tips": [
+        "Gardens by the Bay: photography freely allowed in all outdoor and most indoor areas",
+        "Marina Bay Sands observation deck and infinity pool: photography is encouraged and iconic",
+        "Mosques and temples: usually allow photography but ask first and avoid during prayer times",
+        "Drone flying in Singapore requires CAAS permits and is banned in most urban areas",
+        "Inside Changi Airport: general photography is fine in terminals; avoid security/immigration zones"
+      ],
+      "warning": "Drone photography is heavily restricted in Singapore. Most of the island is designated restricted airspace. Flying without CAAS authorization is a serious offense with heavy fines.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Singapore",
+      "quick_answer": "Singapore is open 7 days a week. Malls are open daily. Sunday is a normal shopping day. Public holidays see some closures but major malls stay open.",
+      "detail": "Singapore operates as a commercial hub 7 days a week. Shopping malls (Orchard Road, Marina Bay Sands, VivoCity) are open every day including public holidays, typically 10am–10pm. Hawker centres and food courts operate 7 days with many open 24 hours. Government offices and banks close on weekends and public holidays. Singapore has 11 public holidays representing its multi-cultural identity: Chinese New Year (2 days), Hari Raya, Deepavali, Christmas, and more. During Chinese New Year, some restaurants and shops may close for 1–2 days but malls remain open.",
+      "tourist_tips": [
+        "Singapore never truly shuts down — 24-hour convenience stores and hawker stalls are always available",
+        "Chinese New Year is the biggest festive period — Chinatown decorations are spectacular but some small shops close",
+        "Public holidays: both Christian and non-Christian holidays are observed — check the calendar",
+        "Banks close on weekends; use ATMs or visit a Changi Airport branch which runs extended hours",
+        "Sunday brunch is a big social institution in Singapore — many restaurants have special Sunday brunch menus"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Singapore",
+      "quick_answer": "Grab is the dominant rideshare app in Singapore, with official metered taxis and Gojek also widely available.",
+      "detail": "Grab dominates the rideshare market in Singapore and is the most convenient way to book a private car. Official taxi companies such as ComfortDelGro and TransCab operate metered taxis that can be booked via app or picked up at designated taxi stands — hailing from the street is rarely done and often not permitted. Gojek is a competing app that is also popular. TADA, a no-commission rideshare app, can sometimes offer lower fares than Grab. Fares for all services increase during peak hours and rainy weather due to surge pricing.",
+      "tourist_tips": [
+        "Download Grab before you land — it works at Changi Airport immediately and is the easiest way to get around",
+        "Use designated taxi stands rather than trying to hail from the street, which rarely works in Singapore",
+        "Check TADA as an alternative to Grab during surge pricing — it operates without driver commissions and can be cheaper"
+      ],
+      "warning": "Surge pricing on Grab and taxis can be significant during peak hours and heavy rain. Check the fare estimate before confirming a booking.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Singapore",
+      "quick_answer": "Singapore tap water is completely safe to drink and is among the best quality in Asia — no bottled water needed.",
+      "detail": "Singapore's tap water meets World Health Organization standards and is safe to drink directly from any tap without filtering or boiling. Singapore supplements its reservoir supply with NEWater (highly treated reclaimed water) and desalinated water, making it one of the most water-secure countries in the world. There is no need to buy bottled water, and doing so is an unnecessary expense. Water quality is consistently tested and publicly reported by PUB, Singapore's national water agency.",
+      "tourist_tips": [
+        "Drink freely from hotel room taps and public water coolers — the water is excellent quality",
+        "Skip buying bottled water at convenience stores; refill a reusable bottle instead and save money",
+        "Singapore's water infrastructure is so reliable that boiling water before drinking is completely unnecessary"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Singapore",
+      "quick_answer": "ATMs from DBS, OCBC, UOB, and POSB are widespread, but contactless payments and e-wallets are accepted almost everywhere in Singapore.",
+      "detail": "Singapore is a highly cashless society with PayWave contactless card acceptance near-universal at shops, restaurants, and transport. Digital payment apps such as GrabPay, PayNow, and DBS PayLah are widely used by locals. However, hawker centres and some traditional local food stalls still prefer or require cash, and NETS (local debit network) is sometimes the only card option at hawker centre payment kiosks. ATMs from Singapore's major banks — DBS, POSB, OCBC, and UOB — are found in all MRT stations, malls, and convenience stores.",
+      "tourist_tips": [
+        "Keep SGD 20–50 in cash for hawker centres and small local stalls that may not accept cards",
+        "Use a Wise or Revolut card to withdraw cash at Singapore ATMs and avoid foreign exchange fees",
+        "POSB and DBS ATMs are the most common — look for them in every MRT station and 7-Eleven"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Singapore",
+      "quick_answer": "Singapore has outstanding 5G coverage throughout the entire country, and tourist SIM cards are easy to buy at Changi Airport on arrival.",
+      "detail": "Singapore is served by three main mobile carriers — Singtel, StarHub, and M1 — all offering excellent coverage with 5G available across virtually the entire island. Tourist SIM packs are sold at Changi Airport arrivals hall and are quick and easy to set up. Airalo and other eSIM providers also work well in Singapore. Free Wi-Fi is available in most hotels, shopping malls, hawker centres, and many public spaces via Wireless@SG. The combination of excellent mobile coverage and pervasive Wi-Fi makes staying connected in Singapore effortless.",
+      "tourist_tips": [
+        "Pick up a tourist SIM at Changi Airport arrivals — Singtel, StarHub, and M1 all have counters open late",
+        "Airalo eSIM works reliably in Singapore and can be activated before you board your flight",
+        "Wireless@SG provides free public Wi-Fi at thousands of hotspots — register once with your email to use it"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Singapore",
+      "quick_answer": "Singapore uses Type G British 3-pin square plugs at 230V/50Hz — US and European visitors will need a plug adapter.",
+      "detail": "Singapore uses the Type G plug standard (three rectangular pins in a triangular layout), the same system used in the UK, Hong Kong, Malaysia, and parts of the Middle East. The voltage is 230V at 50Hz. Visitors from the United States, Canada, Japan, and most of continental Europe will need a plug adapter, and those from 110V countries should check that their devices support dual voltage (most modern laptops, phones, and camera chargers do). Singapore's electricity supply is extremely reliable with essentially no power cuts.",
+      "tourist_tips": [
+        "Buy a Type G adapter before you travel or pick one up cheaply at Mustafa Centre or any electronics shop in Singapore",
+        "Check your device chargers for '100–240V' on the label — if so, you only need an adapter, not a voltage converter",
+        "Singapore's power grid is very stable — no surge protector needed for standard electronics"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Singapore",
+      "quick_answer": "Singapore is one of the world's most scam-resistant destinations, but Sim Lim Square electronics scams targeting tourists are a known and documented risk.",
+      "detail": "Singapore has an extremely honest commercial environment overall — fixed pricing is the norm, and most residents and business owners are straightforward in transactions. However, Sim Lim Square, an electronics mall, has a documented history of scams where tourists were quoted low prices and then pressured into expensive warranties or accessories at the point of payment. Overpriced tourist-oriented restaurants, particularly around Orchard Road and Clarke Quay, charge significantly more than nearby hawker centres for similar food. Visiting hawker centres instead of tourist restaurants saves money and avoids inflated pricing.",
+      "tourist_tips": [
+        "Research prices on Lazada or online before buying electronics at Sim Lim Square, and confirm the full final price in writing",
+        "Eat at hawker centres rather than sit-down restaurants near tourist sites to avoid inflated tourist pricing",
+        "If a deal at an electronics shop seems too good to be true, walk away — Sim Lim Square scams follow predictable patterns"
+      ],
+      "warning": "Sim Lim Square has seen cases where tourists paid deposits and were then pressured into hidden fees totalling hundreds of dollars. Always confirm the complete price before handing over any money.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Singapore",
+      "quick_answer": "Singapore is consistently ranked as one of the safest cities in the world — violent crime against tourists is essentially nonexistent.",
+      "detail": "Singapore's strict law enforcement and severe penalties create a deterrent effect that results in extremely low crime rates across all categories. Petty theft, pickpocketing, and bag snatching are rare to the point of being almost unknown. MRT stations, bus interchanges, and streets are safe at all hours of the day and night. Women travelling solo consistently report feeling very safe in Singapore. The Singapore Police Force has a highly visible presence and response times are among the fastest in the world.",
+      "tourist_tips": [
+        "Leave valuables unattended at hawker centre tables to save seats — this is a common local practice and theft is extremely rare",
+        "The MRT and buses are safe at any hour, including late at night after clubs close",
+        "Singapore is one of the best destinations in Asia for solo female travellers due to its extremely low crime rate"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Singapore",
+      "quick_answer": "Singapore is a multicultural society blending Chinese, Malay, and Indian customs — be respectful, use your right hand, and be aware that public behaviour laws are strictly enforced.",
+      "detail": "Singapore's population is approximately 74% Chinese, 13% Malay, and 9% Indian, and navigating these cultures respectfully enriches the experience. Remove shoes before entering Malay and Indian homes and many places of worship. Declining food offered by a host can be considered impolite — at least accept a small portion. Greetings vary: a handshake is generally safe across cultures in Singapore's cosmopolitan context. Use the right hand for giving and receiving items, especially in Malay and Indian contexts. Public behaviour is governed by laws — littering, spitting, and jaywalking are fineable offenses. The local concept of kiasu (a fear of missing out or competitive urgency) explains behaviours like queuing aggressively for popular food.",
+      "tourist_tips": [
+        "Remove shoes when entering homes and most religious sites — look for a row of shoes at the entrance as a cue",
+        "Accept food or drinks when offered by locals as a gesture of goodwill, even if just a small taste",
+        "Avoid littering even casually — fines start at SGD 300 and enforcement is real"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Singapore",
+      "quick_answer": "English is Singapore's main working language, so there is no language barrier — though locals also speak Singlish, Mandarin, Malay, and Tamil.",
+      "detail": "English is one of Singapore's four official languages and serves as the common language across all ethnicities, making it the easiest country in Southeast Asia for English-speaking travellers. Singlish is the informal creole spoken among locals, mixing English with Hokkien, Malay, and Tamil words and sentence structures. Common Singlish terms include 'lah' and 'lor' (sentence-ending particles for emphasis), 'can' meaning yes or okay, 'shiok' meaning delicious or excellent, and 'sia' for emphasis or surprise. Mandarin, Malay, and Tamil are also official languages and widely spoken in their respective communities, but English will always get you understood.",
+      "tourist_tips": [
+        "No phrasebook needed — every shopkeeper, taxi driver, and hawker stall owner speaks functional English",
+        "Learning a few Singlish words like 'shiok' (delicious) or 'can' (yes/okay) will delight locals and get a warm response",
+        "If a local's Singlish seems fast or hard to follow, just ask them to repeat — they will switch to clearer English without issue"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Singapore",
+      "quick_answer": "Sentosa Island's beaches are Singapore's most popular swimming spots, with East Coast Park and Changi Beach also available and water quality improved in recent years.",
+      "detail": "Singapore is a small island nation and offers managed urban beaches rather than remote tropical shores. Sentosa Island has three main beaches — Palawan, Siloso, and Tanjong — that are clean, equipped with facilities, and easily reached by cable car, monorail, or bus. East Coast Park is popular for cycling, barbecues, and some swimming along a long stretch of coastline. Changi Beach in the east is quieter and less visited by tourists. Water quality across Singapore's beaches has improved significantly due to ongoing coastal management. Jellyfish are occasionally present, particularly after rain.",
+      "tourist_tips": [
+        "Sentosa's Palawan Beach has the most facilities and is the best choice for a classic beach day near the city",
+        "Check NEA's beach water quality advisories before swimming after heavy rainfall, as run-off can temporarily affect water quality",
+        "East Coast Park is excellent for renting bicycles and exploring the coastline even if you do not plan to swim"
+      ],
+      "warning": "Jellyfish are occasionally present at Singapore beaches, particularly after storms. Check the water before entering and exit immediately if you see jellyfish.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Singapore",
+      "quick_answer": "Singapore drives on the left, has strict speed enforcement and ERP toll charges for the CBD, but most visitors are better served by MRT and Grab than by renting a car.",
+      "detail": "Singapore drives on the left side of the road with the steering wheel on the right, the same as the UK and Australia. Car ownership in Singapore is deliberately expensive due to the Certificate of Entitlement (COE) system, so most residents rely on public transport. The Electronic Road Pricing (ERP) system charges tolls for driving into the Central Business District and other congested areas during peak hours. Speed cameras are pervasive and fines are issued quickly. The blood alcohol limit for driving is 0.05% BAC. Roads and signage are excellent. However, given the exceptional quality of the MRT network and the affordability of Grab, renting a car in Singapore is rarely worth the cost or hassle for tourists.",
+      "tourist_tips": [
+        "Use the MRT and Grab instead of renting a car — Singapore's public transport covers everywhere tourists want to go",
+        "If you do drive, be aware that ERP gantries automatically charge tolls deducted from an in-vehicle IU device — rental cars should have this included",
+        "Speed cameras are everywhere and fines are automatically issued — stick strictly to posted speed limits"
+      ],
+      "warning": "The ERP toll system and parking fees in Singapore's CBD can add significant unexpected costs to driving. Ensure any rental car includes a functioning IU unit for ERP charges.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Singapore",
+      "quick_answer": "Hawker centres are Singapore's greatest culinary institution — eat there for SGD 3–8 per dish with no tipping and no service charge.",
+      "detail": "Singapore's food culture is world-renowned, with hawker centres serving as the cornerstone of daily eating for locals and tourists alike. Iconic dishes include Hainanese chicken rice, laksa, char kway teow, nasi padang, and roti prata, all available for SGD 3–8 at hawker centres. Sit-down restaurants add a 10% service charge and 9% GST to all prices (shown as '++'), and tipping is not practised. For a special occasion, chilli crab at a seafood restaurant is a Singapore bucket-list experience. Legendary hawker centres include Maxwell Food Centre in Chinatown, Lau Pa Sat near the CBD, and Old Airport Road Food Centre in Geylang.",
+      "tourist_tips": [
+        "Eat at least one meal per day at a hawker centre — the quality rivals restaurants at a fraction of the price",
+        "Prices at restaurants are listed before the 10% service charge and 9% GST — 'nett' prices include both, '++' means they will be added",
+        "Maxwell Food Centre's Tian Tian Hainanese Chicken Rice regularly has long queues — arrive early or visit on a weekday"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple and Church Etiquette in Singapore",
+      "quick_answer": "All of Singapore's major religious sites welcome respectful visitors — remove shoes at mosques and Hindu and Buddhist temples, dress modestly, and avoid visiting during prayer times.",
+      "detail": "Singapore's multicultural identity means visitors can explore mosques, Hindu temples, Buddhist temples, and churches within walking distance of each other. Masjid Sultan (Sultan Mosque) in Kampong Glam provides robes for visitors not dressed modestly and requires shoes to be removed at the entrance; entry is not permitted during Friday prayers. Sri Mariamman Temple in Chinatown is the oldest Hindu temple in Singapore and welcomes non-Hindu visitors who remove shoes and dress modestly. The Buddha Tooth Relic Temple in Chinatown is a grand five-storey temple where shoes must be removed and photography is generally permitted. Thian Hock Keng Temple is a beautiful Hokkien heritage temple. All sites ask for respectful, quiet behaviour.",
+      "tourist_tips": [
+        "Masjid Sultan provides free robes at the entrance for visitors whose clothing does not meet the modest dress requirement",
+        "Remove shoes before entering all mosques and Hindu and Buddhist temples — look for the shoe rack at the entrance",
+        "Visit religious sites on weekday mornings for the quietest experience and to avoid tour group crowds"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Singapore",
+      "quick_answer": "Singapore is hot and humid year-round with no distinct seasons — February to April is generally the driest and most comfortable period to visit.",
+      "detail": "Singapore sits just 1 degree north of the equator and experiences a tropical climate with temperatures ranging from 26°C to 34°C throughout the year with high humidity. There are two monsoon seasons: the northeast monsoon from November to January brings heavier rainfall, and the southwest monsoon from June to September can bring haze from Indonesian forest fires that occasionally affects air quality. February to April is generally the driest and least humid period and is widely considered the most comfortable time to visit. Singaporeans cope with the heat by spending the majority of time in aggressively air-conditioned malls and buildings. Consider timing a visit around major festivals: Chinese New Year (January–February), Hari Raya (date varies), or Deepavali (October–November).",
+      "tourist_tips": [
+        "Visit February to April for the best weather — least rain and lower humidity than the monsoon months",
+        "Check the NEA air quality index (PSI) during July to October as haze from Sumatra can occasionally affect outdoor activities",
+        "Time your visit around Chinese New Year for spectacular Chinatown decorations and street markets, but book accommodation early"
+      ],
+      "warning": "Haze from Indonesian forest and peat fires can periodically cause poor air quality in Singapore between July and October. Check the NEA PSI index and limit outdoor exertion on high-haze days.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Singapore",
+      "quick_answer": "Eat at hawker centres, use the MRT for all transport, and take advantage of Singapore's impressive range of free world-class attractions.",
+      "detail": "Despite its reputation as an expensive city, Singapore offers exceptional value if you eat and move like a local. Hawker centre meals cost SGD 3–8 and are genuinely excellent — eating this way for most meals dramatically reduces food costs. The MRT and bus network is cheap, reliable, and reaches everywhere, making Grab an unnecessary expense for most journeys. Singapore has a remarkable number of free attractions including the outdoor areas of Gardens by the Bay, Henderson Waves bridge, East Coast Park, and the Singapore Botanic Gardens (a UNESCO World Heritage Site). Mustafa Centre in Little India is open 24 hours and offers competitively priced goods across many categories. FairPrice supermarkets are the most affordable option for snacks, drinks, and self-catering supplies.",
+      "tourist_tips": [
+        "Eat at hawker centres for every casual meal — SGD 3–8 buys an excellent plate of Singapore's most iconic dishes",
+        "Use the MRT for all transport instead of Grab — a typical MRT journey costs SGD 1–2 versus SGD 8–15 for a Grab ride",
+        "Gardens by the Bay outdoor Supertree Grove, Cloud Forest exterior, and the Botanic Gardens are all free and genuinely spectacular"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

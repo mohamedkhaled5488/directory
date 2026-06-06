@@ -1,0 +1,443 @@
+{
+  "country": "Argentina",
+  "slug": "argentina",
+  "emoji": "🇦🇷",
+  "region": "Americas",
+  "currency": "ARS",
+  "language": "Spanish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Argentina",
+      "quick_answer": "A 10% tip at restaurants is standard; tip in pesos and it is not included in the bill.",
+      "detail": "Tipping is customary but not mandatory in Argentina. At restaurants, 10% of the bill is the norm — leave it in cash pesos on the table or hand it directly to your server. Bar staff appreciate rounding up the bill. In taxis, rounding up the fare is common but not required.",
+      "tourist_tips": [
+        "Always tip in Argentine pesos (ARS) rather than foreign currency so staff can actually use it.",
+        "Check your bill for a 'propina sugerida' line — it occasionally appears on receipts but is never compulsory.",
+        "Hotel porters and tour guides appreciate a 500–1,000 ARS tip, which is only a modest amount in USD."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Argentina",
+      "quick_answer": "Buenos Aires has an extensive Subte subway and Metrobus BRT network, both accessed with the rechargeable SUBE card.",
+      "detail": "The Buenos Aires Subte (subway) is fast and affordable, running across six lines; the SUBE card is also valid on city buses and commuter trains. Intercity travel is excellent via Argentina's world-class long-distance bus network, with semi-cama and cama sleeper buses connecting major cities comfortably. Domestic flights with Aerolíneas Argentinas and JetSMART are an option for covering the country's vast distances. Uber operates in Buenos Aires and other cities but remains legally contested by taxi unions, though it functions reliably in practice.",
+      "tourist_tips": [
+        "Buy and load a SUBE card at kiosks or metro stations — cash is not accepted on Buenos Aires buses or the Subte.",
+        "For long distances, overnight cama (full-flat) bus seats rival budget flights in comfort and are far cheaper.",
+        "Book intercity buses in advance on long weekends and in summer (January–February) as they sell out fast."
+      ],
+      "warning": "Uber drivers in Buenos Aires sometimes ask passengers to sit in the front seat and avoid showing the phone screen at pickup to reduce confrontations with taxi drivers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Argentina",
+      "quick_answer": "Private hospitals in Buenos Aires are excellent, but travel insurance with evacuation cover is essential — especially in remote Patagonia.",
+      "detail": "Argentina has a two-tier healthcare system: public hospitals are free but overcrowded, while private clinics offer high-quality care at relatively low cost by international standards. In Buenos Aires, Hospital Alemán and Sanatorio Güemes are well-regarded private facilities with English-speaking staff. Pharmacies (farmacias) are plentiful in all cities and can dispense many medications without a prescription. Patagonia is extremely remote — a medical evacuation can cost tens of thousands of dollars, making comprehensive travel insurance non-negotiable.",
+      "tourist_tips": [
+        "Always carry your travel insurance documents and the emergency contact number — hospital admissions staff will ask immediately.",
+        "Pharmacists are highly trained and can advise on common ailments; look for the green cross sign.",
+        "At altitude in the Andes or after long Patagonia hikes, stay hydrated and descend at the first signs of altitude sickness."
+      ],
+      "warning": "If travelling to remote Patagonia or Tierra del Fuego, confirm your travel insurance explicitly covers medical evacuation — standard policies sometimes exclude it.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Argentina",
+      "quick_answer": "Cannabis is decriminalized for personal use, abortion has been legal since 2020, and Argentina's complex currency regulations affect how tourists handle money.",
+      "detail": "Personal possession of small amounts of cannabis is decriminalized, but sale and trafficking remain illegal. Abortion was legalized up to 14 weeks in 2020. Tourists cannot legally carry firearms. Argentina's currency controls have created a parallel 'blue dollar' exchange market; while exchanging at unofficial but widely used 'casas de cambio' at the blue rate is a legal grey area, it is widely practiced and authorities focus enforcement elsewhere. Always carry a copy of your passport, as police can request ID.",
+      "tourist_tips": [
+        "Carry a photocopy of your passport at all times — Argentine police can legally request identification.",
+        "Do not attempt to bring large amounts of undeclared foreign currency into the country, as customs limits apply.",
+        "Familiarise yourself with the current currency situation before arrival, as rules and rates shift frequently."
+      ],
+      "warning": "Argentina's economic laws around currency exchange are complex and change frequently — exchanging money on the street (not at a reputable casa de cambio) exposes you to theft and counterfeit notes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Argentina",
+      "quick_answer": "Call 101 for police, 107 for ambulance (SAME service), and 100 for fire anywhere in Argentina.",
+      "detail": "The main emergency numbers are 101 (Policía), 107 (SAME ambulance service), and 100 (fire brigade). A dedicated tourist police line — 0800-999-5065 — is available in Buenos Aires and can connect English speakers with assistance. In Buenos Aires, the tourist police (Policía de Turismo) have offices in key areas like the city centre and can help with theft reports needed for insurance claims. Save these numbers in your phone before you travel.",
+      "tourist_tips": [
+        "Save 107 (ambulance) and 101 (police) in your phone as soon as you arrive.",
+        "For insurance claims after theft, you must file a formal denuncia at a local police station — ask for the tourist police if available.",
+        "The 0800-999-5065 tourist hotline has English-speaking operators and is free to call from any phone."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Argentina",
+      "quick_answer": "Argentina has no strict dress codes, but Buenos Aires is a fashion-conscious city where smart-casual is the norm.",
+      "detail": "Argentines, particularly Porteños (Buenos Aires residents), take great pride in their appearance and dress stylishly even for casual outings. There are no religious or governmental dress requirements for tourists, but dressing too casually (e.g., in beachwear away from the beach) can draw attention. In Patagonia and the Andes, technical outdoor gear is not just appropriate but essential for safety. Upscale restaurants and tango shows may expect smart-casual attire.",
+      "tourist_tips": [
+        "Pack at least one smart-casual outfit for Buenos Aires evenings — restaurants and milongas (tango venues) have an elevated atmosphere.",
+        "In Patagonia, layer up: wind, rain, and sun can occur on the same day, and conditions change rapidly.",
+        "Catholic churches appreciate modest dress (covered shoulders and knees), though it is rarely enforced."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Argentina",
+      "quick_answer": "The legal drinking age is 18, and Argentina has a rich wine culture — Malbec from Mendoza is a point of national pride.",
+      "detail": "Alcohol is legal for those 18 and over, and wine is deeply embedded in Argentine culture, with Mendoza's Malbec recognized worldwide. The ritual drink mate (a caffeinated herbal infusion) is ubiquitous and not alcoholic, but sharing it is a significant cultural gesture. Fernet con Coca — a bitter herbal liqueur mixed with Coca-Cola — is the beloved local cocktail. Public drinking is generally tolerated, and bars typically stay open until the early hours of the morning.",
+      "tourist_tips": [
+        "If someone offers you mate from their shared gourd (mate), accept it — refusing without a good reason can cause mild offence.",
+        "Visit Mendoza's wine region during the harvest festival (Vendimia) in March for world-class wine at bargain prices.",
+        "Fernet con Coca is available everywhere cheaply — it is genuinely popular, not just a tourist novelty."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Argentina",
+      "quick_answer": "Prices are generally fixed in shops, but some flexibility exists at artisan markets and flea markets like San Telmo.",
+      "detail": "Argentina does not have a strong bargaining culture in formal retail — prices in shops, supermarkets, and restaurants are fixed and haggling would be considered rude. At artisan markets, craft fairs, and particularly the famous San Telmo Sunday antiques market in Buenos Aires, gentle negotiation is acceptable, especially when buying multiple items. Street vendors and informal stalls also sometimes have room to negotiate. Always be polite and good-humoured when attempting to bargain.",
+      "tourist_tips": [
+        "At San Telmo market, browse first and return to negotiate on items you genuinely want to buy.",
+        "Buying multiple items from the same artisan stall is the easiest way to get a small discount.",
+        "Never haggle in restaurants, supermarkets, or any formal shop — it will cause embarrassment for both parties."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Argentina",
+      "quick_answer": "Photography is generally unrestricted in Argentina; avoid photographing military and police installations.",
+      "detail": "Argentina is a highly photogenic country and photography is freely permitted in virtually all tourist areas, including Iguazú Falls, Patagonia, and Buenos Aires landmarks. Military bases, police facilities, and border infrastructure should not be photographed. When visiting indigenous communities in the northwest (Salta, Jujuy provinces), it is respectful to ask permission before pointing a camera at people. Street photography in Buenos Aires is widely practiced and generally accepted.",
+      "tourist_tips": [
+        "At Iguazú Falls, protect your camera from the heavy spray — a waterproof bag or cover is strongly recommended.",
+        "Always ask before photographing people in indigenous communities in the northwest — a smile and 'puedo sacarte una foto?' goes a long way.",
+        "Drone use requires permits from Argentina's aviation authority (ANAC) — check current regulations before flying."
+      ],
+      "warning": "Photographing military installations, border crossings, or police checkpoints can result in detention and equipment confiscation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Argentina",
+      "quick_answer": "Major cities operate largely normally on Sundays, but national holidays cause widespread closures across Argentina.",
+      "detail": "Buenos Aires functions fairly normally on Sundays, with supermarkets, museums, and many restaurants open. Smaller towns are quieter, with some shops closing or operating reduced hours on Sundays. Argentina has numerous national holidays (feriados nacionales) when banks, government offices, and many businesses close entirely. January and February are summer holidays for Porteños, and Buenos Aires empties noticeably as locals flee to coastal resorts — some smaller restaurants and shops close for the season.",
+      "tourist_tips": [
+        "Check the Argentine national holiday calendar before planning key activities — there are over 15 public holidays per year.",
+        "San Telmo antique market runs every Sunday and is one of the best things to do in Buenos Aires on a Sunday.",
+        "If visiting Buenos Aires in January or February, expect some local favourites to be closed — this is when the city slows down."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Argentina",
+      "quick_answer": "Metered black-and-yellow taxis are reliable in Buenos Aires, and Uber operates well despite ongoing legal tension with taxi unions.",
+      "detail": "Buenos Aires' official taxis are black and yellow, use meters, and are generally honest. The BA Taxi app allows you to book official taxis with a fixed price displayed in advance, which is the safest option. Uber functions reliably in practice across Buenos Aires and other major cities, though it remains in a legal grey zone due to opposition from taxi unions. Cabify is another reputable app-based option. For airport transfers, book in advance through your hotel or use the official taxi rank — never accept unsolicited offers from drivers inside the terminal.",
+      "tourist_tips": [
+        "Use the BA Taxi official app or Uber rather than hailing random cabs to avoid overcharging.",
+        "Always note the taxi number (displayed inside the car) before setting off in case of issues.",
+        "Uber drivers sometimes ask you to sit in the front and keep the phone discreet at pickup to avoid confrontations with taxi drivers — this is normal."
+      ],
+      "warning": "Avoid accepting rides from unlicensed drivers who approach you inside airports or bus terminals — use only official ranks or pre-booked apps.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Argentina",
+      "quick_answer": "Tap water is safe to drink in Buenos Aires and most major cities, and Patagonia's glacier-fed tap water is exceptionally pure.",
+      "detail": "Argentina has generally good tap water quality. In Buenos Aires, the water is treated and considered safe to drink, though some visitors prefer bottled water due to the taste. In Patagonia, tap water is often sourced from glaciers and is some of the cleanest in the world. Bottled water is widely available and inexpensive throughout the country. In remote rural areas, use a filter or purification tablets as a precaution.",
+      "tourist_tips": [
+        "In Patagonia, you can often drink directly from clear mountain streams — but confirm with locals first.",
+        "Buenos Aires tap water is safe but has a slightly chlorinated taste; a reusable bottle with a filter is a practical choice.",
+        "Stay well hydrated in summer in Buenos Aires and Mendoza where heat can be intense."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Argentina",
+      "quick_answer": "Argentina's currency situation is critical — withdrawing from ATMs at the official rate loses significant value, so carry USD or EUR to exchange at legal casas de cambio for the far better blue rate.",
+      "detail": "Argentina has a complex dual-currency reality: the official exchange rate and the unofficial 'blue dollar' (dólar blue) rate can differ by 50–100% or more. ATMs dispense pesos at the official rate, effectively cutting your spending power in half. Wise and Revolut cards sometimes achieve better rates at ATMs, but the most advantageous approach is bringing USD or EUR in cash and exchanging at a reputable casa de cambio (exchange house), which operates legally and gives rates close to the blue rate. Western Union transfers are also used by experienced travellers. Always carry some cash pesos for taxis, markets, and smaller establishments.",
+      "tourist_tips": [
+        "Bring clean, unfolded USD 100 bills (post-2013 series) — they attract the best exchange rates at casas de cambio.",
+        "Use ATMs only as a last resort due to the poor official exchange rate and high ATM fees.",
+        "Keep a mix of small and large denomination pesos — many small vendors struggle to make change for large bills."
+      ],
+      "warning": "Never exchange money with strangers on the street ('cambio, cambio' touts) — counterfeit notes and short-changing are common risks; always use a reputable, fixed-premises casa de cambio.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Argentina",
+      "quick_answer": "Claro, Movistar, and Personal sell prepaid SIMs at airports and phone shops; coverage is good in cities but patchy in Patagonia.",
+      "detail": "The three main carriers — Claro, Movistar, and Personal — all offer prepaid SIM cards with data packages. SIMs can be purchased at airports, carrier stores, or phone shops, and registration requires your passport. Airalo and other eSIM providers offer a convenient alternative for compatible unlocked phones. Mobile data and 4G coverage is strong in Buenos Aires and major cities, along main highways and tourist routes, but can be very limited or absent in remote Patagonia and the Andes. Pocket Wi-Fi rental is available at Buenos Aires Ezeiza airport.",
+      "tourist_tips": [
+        "Buy your SIM at the airport on arrival to have data connectivity from the moment you land.",
+        "Download offline maps (Google Maps or Maps.me) for Patagonia before leaving areas with good coverage.",
+        "If using an eSIM service like Airalo, activate it before you depart — setup requires a stable internet connection."
+      ],
+      "warning": "Connectivity in remote Patagonia and Tierra del Fuego can be essentially non-existent — download everything you need offline and inform someone of your itinerary before heading into the wilderness.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Argentina",
+      "quick_answer": "Argentina uses a unique Type I plug (three flat pins in a triangle shape) at 220V/50Hz — most visitors need a specific adapter.",
+      "detail": "Argentina's Type I plug is unique to Argentina, Uruguay, and a few other South American countries — it features three flat pins arranged in a triangle and is not the same as the Australian Type I or any European plug. The voltage is 220V at 50Hz, so devices designed for 110V (common in North America) will need a voltage converter unless they are dual-voltage (check the device label). Universal travel adapters with Type I compatibility are available at hardware stores (ferreterías) in Argentina and at most international airport shops. Many modern hotels provide universal sockets in bathrooms.",
+      "tourist_tips": [
+        "Buy a universal travel adapter that specifically lists 'Type I Argentina' support before you travel — not all universal adapters include it.",
+        "Check your device chargers for '100–240V' input — most modern phones, laptops, and cameras are dual-voltage and only need the adapter, not a converter.",
+        "If you forget an adapter, ferretería (hardware) stores in any Argentine town stock them cheaply."
+      ],
+      "warning": "Plugging a 110V-only device (some US hairdryers, older appliances) directly into an Argentine socket without a voltage converter will destroy the device and may cause a fire.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Argentina",
+      "quick_answer": "Watch out for the 'mustard' distraction scam, fake police officers, and street money changers offering counterfeit notes.",
+      "detail": "The 'mustard scam' (or similar condiment/liquid distraction) is common in Buenos Aires tourist areas: a stranger 'accidentally' spills something on you, and an accomplice pickpockets you while a third person 'helps' clean you up. Fake police officers in plain clothes may approach tourists and ask to check wallets for 'counterfeit bills' — real police never do this. Street money changers ('cambio' touts) near Florida Street in Buenos Aires often use sleight of hand to shortchange or pass counterfeit notes. The La Boca neighbourhood is a hotspot for pickpockets.",
+      "tourist_tips": [
+        "If someone spills anything on you, immediately grab your belongings and walk away — do not let strangers touch you.",
+        "Never show your wallet or phone to anyone claiming to be an undercover officer; ask to go to the nearest police station together.",
+        "Stick to reputable casas de cambio with a physical shopfront for currency exchange — never exchange on the street."
+      ],
+      "warning": "Express kidnapping (secuestro exprés) — being forced to an ATM to withdraw cash — occurs rarely but does exist; avoid displaying expensive jewellery, cameras, or phones in busy or unfamiliar areas at night.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Argentina",
+      "quick_answer": "Buenos Aires is generally safe in tourist areas, but pickpocketing is common in crowded spots and certain neighbourhoods like La Boca should be treated with caution.",
+      "detail": "Argentina is one of the safer countries in Latin America for tourists. In Buenos Aires, areas like Palermo, Recoleta, San Telmo, and Puerto Madero are generally safe for tourists during the day and evening. La Boca is safe on the Caminito tourist strip but can be risky if you wander off into surrounding streets, especially after dark. Villa (informal settlement) areas should be avoided by tourists unfamiliar with the city. The Retiro bus terminal area has a higher incidence of pickpocketing. Patagonia is extremely safe with virtually no tourist-targeted crime.",
+      "tourist_tips": [
+        "In La Boca, stay on the Caminito strip and return before dark — the neighbourhood changes character quickly a few blocks away.",
+        "Keep your phone in your pocket (not in your hand) in busy areas like the Retiro bus terminal and Florida pedestrian street.",
+        "Use a money belt or inside pocket for your passport and large amounts of cash in crowded tourist areas."
+      ],
+      "warning": "Petty theft and bag-snatching spike in crowded areas like the Retiro bus terminal and along Florida Street — keep bags in front of your body and avoid displaying expensive electronics.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Argentina",
+      "quick_answer": "Greet with a single kiss on the cheek (even between men in casual settings), accept mate if offered, and prepare for very late meal times.",
+      "detail": "The standard Argentine greeting is a single kiss on the right cheek, even between men in social contexts — a handshake is used in formal business settings. Meal times are significantly later than most tourists expect: lunch is from 1–3pm and dinner rarely starts before 9pm, with 10–11pm being common. Sharing mate (a bitter herbal drink) from a communal gourd is a deeply meaningful cultural ritual — accepting the offer is polite and connects you with your hosts. Argentines are warm, animated, and proud of their culture; showing genuine curiosity about food, wine, tango, and football goes a long way.",
+      "tourist_tips": [
+        "Do not rush through a meal — Argentines regard dining as a social event and rushing to pay is considered rude.",
+        "If invited to an asado (barbecue), bring wine or beer, arrive slightly late (punctuality is relaxed), and expect to stay for hours.",
+        "Avoid criticising Argentina's economic or political situation — locals discuss it openly, but it can feel unwelcome from a foreigner."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Argentina",
+      "quick_answer": "Argentine Spanish (Rioplatense) uses 'vos' instead of 'tú' and has a distinctive Italian-influenced accent unlike other Spanish-speaking countries.",
+      "detail": "Argentine Spanish is Rioplatense Spanish, strongly influenced by Italian immigration — the accent and cadence can initially confuse travellers used to other Spanish dialects. The second-person singular is 'vos' (not 'tú'), with different verb conjugations ('vos tenés' not 'tú tienes'). English is spoken in tourist areas of Buenos Aires, at upscale hotels, and in major tourist attractions, but is limited outside the capital. Learning a few basic phrases in Spanish is warmly received and greatly appreciated by locals.",
+      "tourist_tips": [
+        "Use 'vos' and its conjugations if you already speak some Spanish — Argentines will appreciate the effort even if you mix them up.",
+        "The Argentine 'll' and 'y' are pronounced like 'sh' (not 'y') — 'calle' sounds like 'cashe', which can be confusing at first.",
+        "Download Google Translate with Spanish offline data before you arrive — it is invaluable outside Buenos Aires."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "wise"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Argentina",
+      "quick_answer": "Mar del Plata is Argentina's main beach resort, packed in January–February; the Atlantic coast water is cold, and Patagonia's coastline is dramatic but frigid.",
+      "detail": "Argentina's main beach destination is Mar del Plata, around 400km south of Buenos Aires on the Atlantic coast, which becomes extraordinarily crowded during the January–February summer holiday season. The Atlantic Ocean along Argentina's coast is cold year-round (typically 14–20°C in summer), so swimming is invigorating rather than tropical. Peninsula Valdés in Patagonia offers world-class wildlife watching — southern right whales, elephant seals, and penguins — rather than swimming. Lifeguards are present at organised beaches in resort towns; always swim between the flags.",
+      "tourist_tips": [
+        "Avoid Mar del Plata in January if you want a relaxed experience — go in November or March for far smaller crowds.",
+        "At Peninsula Valdés, book whale-watching tours in advance for the July–November season when southern right whales are present.",
+        "Atlantic coast beaches can have strong undertow currents — always obey lifeguard flags and never swim alone."
+      ],
+      "warning": "Rip currents and strong undertow are present on exposed Atlantic beaches; swim only in patrolled areas and heed red or yellow warning flags.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Argentina",
+      "quick_answer": "Drive on the right; an international driving licence is valid; fill up whenever you can in Patagonia where petrol stations are sparse.",
+      "detail": "Argentina drives on the right side of the road, and an international driving permit alongside your national licence is recommended and accepted. Major highways have tolls (peajes) paid in cash pesos. Driving in Buenos Aires is aggressive by international standards — honking and lane changes without signals are common. Ruta 40, the famous highway running through Patagonia, includes long stretches of unpaved gravel road (ripio) requiring a vehicle with good clearance. Fuel stations can be 200+ km apart in Patagonia, so fill up at every opportunity and carry a jerry can on remote routes.",
+      "tourist_tips": [
+        "Carry cash pesos for toll booths (peajes) on major highways — most do not accept cards.",
+        "Rent a 4WD or high-clearance vehicle for Patagonia's gravel roads — standard sedans can damage tyres and undercarriage.",
+        "In Buenos Aires, use Waze or Google Maps with live traffic — the city has complex one-way systems and heavy congestion."
+      ],
+      "warning": "On Patagonian gravel roads, loose stones thrown by passing vehicles can crack windscreens — maintain a large following distance and check whether your rental insurance covers windscreen damage.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Argentina",
+      "quick_answer": "Asado (Argentine BBQ) is the cultural institution, dinner starts at 9–11pm, and dulce de leche appears on almost everything.",
+      "detail": "Argentine cuisine centres on beef — the asado (barbecue) is not just a meal but a social ritual, with cuts like tira de asado (short rib), entraña (skirt steak), and morcilla (blood sausage) cooked slowly over wood or charcoal. Empanadas (stuffed pastries), medialunas (buttery croissants), and dulce de leche (caramel spread) are staples. The country's Italian heritage means excellent pizza and fresh pasta are everywhere. Restaurants typically open for dinner at 8pm but fill from 9–11pm; arriving at 7pm means eating alone while staff set up.",
+      "tourist_tips": [
+        "Order a parrilla (mixed grill) at a parilla restaurant to try multiple beef cuts — it's invariably excellent and represents extraordinary value for USD or EUR holders.",
+        "Empanadas from a bakery or rotisería make a fast, cheap, and delicious lunch — regional fillings vary across the country.",
+        "Ask for the 'cubierto' charge to be explained — a small cover charge for bread and condiments is common in Buenos Aires restaurants."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Argentina",
+      "quick_answer": "Argentina is predominantly Catholic with significant Jewish and small Muslim communities; modest dress is appreciated at all religious sites.",
+      "detail": "Catholic churches are found throughout Argentina and are generally open to visitors; modest dress (covered shoulders and knees) is appreciated, though it is rarely strictly enforced. The Basílica de Luján, 68km from Buenos Aires, is one of South America's most important Catholic pilgrimage sites and attracts millions annually. Buenos Aires has the largest Jewish community in Latin America — the AMIA community centre and several significant synagogues welcome respectful visitors. A small but significant Islamic community maintains mosques in Buenos Aires, where dress codes and removing shoes should be observed.",
+      "tourist_tips": [
+        "At the Luján Basilica, arrive early on weekends to avoid the enormous crowds — pilgrims travel from across the country.",
+        "When visiting any synagogue or mosque, contact the institution in advance as security procedures are often in place.",
+        "Photography inside Catholic churches in Argentina is usually permitted but switch off the flash and be discreet during services."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Argentina",
+      "quick_answer": "Argentina's huge size means dramatically varied climates — Buenos Aires is best in spring (September–November) and autumn (March–May), while Patagonia peaks in December–February.",
+      "detail": "Argentina spans nearly 4,000km from north to south, creating radically different climates. Buenos Aires has a temperate climate; the most pleasant months are spring (September–November) and autumn (March–May), avoiding the hot, humid summer (December–February) and the grey, cool winter. Patagonia and Tierra del Fuego are best December–February, though wind and cold are always present. Mendoza's wine harvest (Vendimia festival) is in March–April. Iguazú Falls is accessible year-round but August–November offers lower humidity and good water flow. Bariloche and the Lake District offer skiing July–September.",
+      "tourist_tips": [
+        "Visit Patagonia in December or January for the longest daylight hours, but book accommodation and park permits months in advance.",
+        "The Mendoza Vendimia harvest festival in early March combines wine tasting, music, and cultural events — excellent value.",
+        "Avoid Buenos Aires in January if heat and humidity bother you — 35°C+ days with high humidity are common."
+      ],
+      "warning": "Patagonian weather is famously unpredictable and can change from sunshine to snow in minutes — always carry waterproofs and extra layers regardless of the forecast.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Argentina",
+      "quick_answer": "Argentina's weak peso makes it extraordinary value for USD or EUR holders — wine, steak, and accommodation are all remarkably affordable if you exchange at the blue rate.",
+      "detail": "For travellers holding dollars or euros, Argentina is one of the best-value destinations in the world when money is exchanged at the blue dollar rate via legitimate casas de cambio. A world-class steak dinner with wine can cost under USD 15, and a bottle of excellent Malbec under USD 5 in a supermarket. Local intercity buses are a fraction of domestic flight prices. Hostels in Buenos Aires offer exceptional quality at low prices. Street food — empanadas from bakeries, medialunas from cafés — is dirt cheap. Avoid tourist-trap restaurants on main boulevards and eat where locals eat.",
+      "tourist_tips": [
+        "Buy supermarket wine (Malbec, Torrontés) for an evening drink — premium Argentine wine costs the equivalent of a few dollars.",
+        "Take overnight sleeper buses between cities instead of flights — it saves on accommodation and is surprisingly comfortable.",
+        "Eat empanadas and medialunas from local panaderías (bakeries) for cheap, filling, and authentic meals throughout the day."
+      ],
+      "warning": "The economic situation in Argentina is volatile and exchange rates can shift significantly — check the current blue dollar rate on a reliable source (like dolarito.ar) in the days before you travel.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

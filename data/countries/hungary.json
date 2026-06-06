@@ -1,0 +1,460 @@
+{
+  "country": "Hungary",
+  "slug": "hungary",
+  "emoji": "🇭🇺",
+  "region": "Europe",
+  "currency": "HUF",
+  "language": "Hungarian",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Hungary",
+      "quick_answer": "Tipping 10-15% is expected in restaurants — you tell the server the total you want to pay, including the tip, when settling the bill.",
+      "detail": "Unlike many countries, you do not leave cash on the table after paying in Hungary. Instead, when the server brings the bill, you state the total amount you wish to pay (e.g., if the bill is 4,500 HUF, say '5,000 köszönöm' meaning '5,000 thank you'). Not tipping at all is considered rude and implies poor service. Service charges are not automatically included in restaurant bills, so the tip is entirely discretionary but socially expected.",
+      "tourist_tips": [
+        "Always state the full amount you wish to pay — including the tip — when handing over cash or paying by card, before the transaction is processed.",
+        "The word 'köszönöm' (thank you) signals you are done paying; saying it while handing over money confirms the tip amount.",
+        "Tipping applies to sit-down restaurants, taxis, and hotel porters; counter-service cafes and fast food do not expect tips."
+      ],
+      "warning": "Do not leave the tip on the table after paying — the server will likely think you forgot it and attempt to return it, which can be awkward.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Hungary",
+      "quick_answer": "Budapest has an extensive BKK network of metro, trams, and buses; validate your ticket before boarding or face on-the-spot fines from plain-clothes inspectors.",
+      "detail": "Budapest's metro has four lines, with the M1 (Millennium Underground) being a UNESCO World Heritage site and one of Europe's oldest. The iconic tram lines 4 and 6 run along the Grand Boulevard and are among the world's busiest tram routes. The BKK app allows ticket purchase and journey planning. For intercity travel, MÁV runs trains throughout Hungary, and RegioJet connects Budapest to Vienna affordably.",
+      "tourist_tips": [
+        "Validate your ticket or activate your pass at the yellow machines before passing through gates or boarding trams and buses — plain-clothes inspectors issue immediate fines.",
+        "For the airport, the 100E bus to Keleti railway station is the cheapest official option; use Bolt app for a taxi rather than accepting offers from unofficial drivers.",
+        "The BKK 24-hour, 72-hour, or weekly passes offer excellent value if you plan to use transport frequently across a stay."
+      ],
+      "warning": "Tram lines 4 and 6 are heavily targeted by pickpockets during peak hours — keep bags in front of your body and be alert in crowded carriages.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Hungary",
+      "quick_answer": "EU EHIC cards are accepted at public hospitals, but private clinics like Medicover or Róbert Károly offer faster service with English-speaking staff.",
+      "detail": "Public hospitals in Hungary can involve long waits and limited English, though care is generally competent. EU citizens with a valid EHIC card receive treatment at public facilities at the same cost as Hungarian residents. Private clinics in Budapest are much faster, English-friendly, and reasonably priced by Western European standards. Pharmacies (gyógyszertár) are widespread and pharmacists often speak some English; they can handle many minor ailments without a doctor visit.",
+      "tourist_tips": [
+        "Carry your EHIC card if you are an EU citizen, but also carry travel insurance as it covers private clinic costs and repatriation that EHIC does not.",
+        "Look for a green cross sign to find a gyógyszertár (pharmacy) — they stock a wide range of medications and some are open 24 hours.",
+        "If visiting thermal baths, wear non-slip footwear around wet pool areas; slip-and-fall injuries are the most common tourist accident in Hungarian spas."
+      ],
+      "warning": "Do not drink the water in thermal baths — the high mineral content is not safe for consumption even though the baths are marketed as therapeutic.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Hungary",
+      "quick_answer": "Hungary enforces zero-tolerance drink-driving (0.00% BAC), cannabis is fully illegal, and LGBTQ+ public expression faces legal restrictions introduced in 2021.",
+      "detail": "Cannabis possession and use is illegal with zero tolerance — there are no decriminalization provisions for tourists. The drink-driving limit is strictly 0.00% BAC, meaning even one drink before driving can result in arrest. Hungary has its own currency (HUF) and is not in the Eurozone, so pricing in euros or expecting euro payments can lead to confusion and scams. A 2021 law restricts the depiction of LGBTQ+ content accessible to minors, which has broader social implications for visible same-sex affection in public.",
+      "tourist_tips": [
+        "Never drink any alcohol if you plan to drive — the 0.00% BAC law is strictly enforced and penalties include immediate licence confiscation.",
+        "Always carry a copy of your passport or ID; police have the right to ask for identification and a photo on your phone may not be accepted.",
+        "LGBTQ+ travellers should be aware that public attitudes vary widely between Budapest (more liberal) and rural Hungary (more conservative)."
+      ],
+      "warning": "Cannabis is completely illegal in Hungary — possession of even small amounts can result in criminal charges, not just a fine.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Hungary",
+      "quick_answer": "The universal EU emergency number 112 works in Hungary, with dedicated lines: 107 for police, 104 for ambulance, and 105 for fire.",
+      "detail": "Hungary uses the standard EU emergency number 112, which connects to dispatch and can route to police, ambulance, or fire services. Operators at 112 can usually find an English speaker, though dedicated line operators may have limited English. The Tourist Police in Budapest also assist visitors with crime-related incidents. Save these numbers locally on your phone before travelling as roaming data may not always be available in an emergency.",
+      "tourist_tips": [
+        "Dial 112 from any mobile phone, even without a SIM card or signal credit — this call is always free and connects to emergency services.",
+        "For non-urgent police matters (e.g., reporting a theft for insurance purposes), visit a local police station (rendőrség) in person.",
+        "Budapest's main tourist areas have a visible police presence; Tourist Police officers in the city centre can often communicate in English or German."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Hungary",
+      "quick_answer": "Dress casually for everyday Hungary, but cover shoulders and knees at churches and synagogues, and men must wear a head covering at the Great Synagogue.",
+      "detail": "Hungary is generally relaxed about dress, and Budapest is a cosmopolitan city where a wide range of styles are acceptable. Religious sites require modest dress — at the Great Synagogue on Dohány Street (the largest in Europe), men must wear a kippah (available at the entrance) and women must dress modestly. St. Stephen's Basilica and Matthias Church also expect covered shoulders and knees. Thermal baths require proper swimwear, and upscale venues like the Budapest Opera House or Liszt Academy call for smart casual attire.",
+      "tourist_tips": [
+        "Carry a light scarf or shawl in your bag when visiting religious sites — it can serve as a shoulder cover or makeshift head covering if needed.",
+        "Thermal baths enforce swimwear rules; speedos or bikinis are required at some traditional baths like Széchenyi, not board shorts.",
+        "For an evening at the Hungarian State Opera or Liszt Academy, smart casual to formal is appropriate and adds to the experience."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Hungary",
+      "quick_answer": "The legal drinking age is 18, alcohol is widely available and socially central to Hungarian culture, with ruin bars, Tokaj wines, and pálinka brandy among the highlights.",
+      "detail": "Hungary has a vibrant drinking culture anchored in its unique traditions: pálinka (fruit brandy, often homemade and very strong), Unicum (a complex herbal liqueur), and the world-famous Tokaj wine region. Budapest's ruin bars (romkocsmák) — built in abandoned courtyards and buildings — are a globally unique nightlife institution. Drinking in public is generally permitted. The legal age to purchase and consume alcohol is 18, though enforcement varies.",
+      "tourist_tips": [
+        "When toasting with Hungarians, always say 'Egészségedre!' (to your health) and make direct eye contact with each person — breaking eye contact is considered bad luck.",
+        "Pálinka shots are often offered as a welcome or goodbye gesture in traditional settings; it is polite to accept at least one, even if you just sip.",
+        "Ruin bar drinks are notably cheaper than most Western European equivalents — Szimpla Kert in the Jewish Quarter is the most famous and worth a visit."
+      ],
+      "warning": "Pálinka can be extremely strong (40-70% ABV) — pace yourself, especially with homemade varieties offered by locals, which are unregulated for alcohol content.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Hungary",
+      "quick_answer": "Bargaining is not customary in Hungary — prices are fixed in almost all shops and restaurants, with limited flexibility at flea markets and souvenir stalls.",
+      "detail": "Unlike markets in many parts of the world, Hungarian shops, restaurants, and services operate on fixed prices. Attempting to negotiate in a standard retail context would be seen as strange or rude. Some flexibility may be found at the Ecseri flea market on the outskirts of Budapest or in the souvenir section of the Central Market Hall (Nagyvásárcsarnok), but even here haggling is not the norm. Larger purchases like antiques may allow polite inquiry about a better price.",
+      "tourist_tips": [
+        "At the Central Market Hall (Nagyvásárcsarnok), compare prices between stalls before buying souvenirs — competition keeps prices honest without needing to negotiate.",
+        "The Ecseri flea market on weekends is where genuine bargains and antiques can be found; a polite 'Can you do a better price?' is acceptable here.",
+        "Online platforms and guesthouses may have more flexibility — asking about discounts for longer stays or paying cash is reasonable."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Hungary",
+      "quick_answer": "Photography is generally unrestricted in public spaces in Hungary, but thermal baths, some religious interiors, and ticketed sites have their own rules.",
+      "detail": "Budapest's famous landmarks — the Parliament Building exterior, Chain Bridge, Buda Castle district, and Fisherman's Bastion — can be photographed freely. Inside the Parliament, photography is permitted on guided tours in designated areas. Thermal baths vary: some allow photos in public areas but prohibit them in changing rooms and private areas, while others restrict cameras entirely. Churches generally allow photography without flash. Military installations, active police operations, and border infrastructure should not be photographed.",
+      "tourist_tips": [
+        "Check the rules at each thermal bath individually — Széchenyi allows photography in the outdoor pools, while others are more restrictive near private areas.",
+        "The Parliament Building interior tour tickets include photography rights in designated rooms; confirm this when booking.",
+        "Sunrise and sunset from Fisherman's Bastion or Gellért Hill offer some of Budapest's most iconic photography opportunities without any restrictions."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Hungary",
+      "quick_answer": "Most small shops are closed on Sundays in Hungary, though larger malls and tourist-area businesses stay open; national holidays see widespread closures.",
+      "detail": "Hungary's Sunday shopping laws have been revised multiple times, and the current situation is that most small independent shops and many stores close on Sundays, while shopping malls and larger retailers generally remain open. Restaurants, cafes, and tourist attractions typically operate on Sundays. Markets like the Central Market Hall may have reduced Sunday hours. During national public holidays (e.g., August 20th, March 15th, October 23rd), widespread closures occur and public transport runs on a holiday schedule.",
+      "tourist_tips": [
+        "Plan grocery shopping and pharmacy runs for weekdays or Saturday mornings — smaller shops often close early on Saturday and all day on Sunday.",
+        "Restaurants and tourist attractions in Budapest are reliable on Sundays, but call ahead for smaller or family-run spots to confirm opening hours.",
+        "August 20th (St. Stephen's Day / national holiday) features spectacular fireworks over the Danube — arrive early to secure a viewing spot as crowds are enormous."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Hungary",
+      "quick_answer": "Use the Bolt app for all taxi needs in Hungary — Uber does not operate here, and unmetered street taxis have a long history of overcharging tourists.",
+      "detail": "Uber ceased operations in Hungary, and the rideshare market is dominated by Bolt, which is safe, metered, and significantly cheaper than hailing a street taxi. Traditional taxis in Budapest — particularly those near tourist hotspots, the airport, and major attractions — have an infamous history of extreme overcharging on unlicensed or informal meters. Official licensed taxis with regulated meters exist, but Bolt removes the guesswork entirely. At the airport, use the official taxi rank or pre-book a Bolt rather than accepting offers from drivers approaching you in the terminal.",
+      "tourist_tips": [
+        "Download and set up the Bolt app before arriving — you will need a local or EU phone number and a payment method registered.",
+        "At Budapest Liszt Ferenc Airport, exit past the arrivals hall to the official taxi stand for licensed cabs, or walk outside and request a Bolt — ignore all drivers who approach you inside the terminal.",
+        "Tram 2 along the Danube embankment is a free scenic alternative to a taxi for sightseeing between the Parliament and the Great Market Hall."
+      ],
+      "warning": "Never accept a taxi from a driver who approaches you in the airport terminal, at train stations, or near major tourist sites — these unofficial drivers routinely charge 5-10x the legitimate fare.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Hungary",
+      "quick_answer": "Tap water is safe to drink throughout Hungary and Budapest's tap water quality is excellent.",
+      "detail": "Hungary has high-quality tap water that meets EU drinking standards across the country. Budapest's municipal water is clean, well-treated, and perfectly safe to drink straight from the tap, making bottled water an unnecessary expense. Lake Balaton is safe for swimming — it is shallow, warm, and free from dangerous currents or marine hazards. One important distinction: the mineral-rich water in thermal baths is NOT safe to drink, despite the health associations of the spa culture.",
+      "tourist_tips": [
+        "Bring a refillable water bottle — Budapest's tap water is excellent and you can refill for free throughout the city.",
+        "Lake Balaton water is safe for swimming and is monitored for water quality throughout the summer season; posted signs will warn if any section is temporarily unsafe.",
+        "At thermal baths, do not swallow the pool water — it contains high concentrations of minerals and sulphur that are not suitable for drinking."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Hungary",
+      "quick_answer": "Always withdraw and pay in Hungarian Forints (HUF) — never accept 'pay in your home currency' offers, and avoid Euronet ATMs due to very high fees.",
+      "detail": "Hungary uses the Hungarian Forint (HUF) and is not in the Eurozone, so all prices and transactions should be in HUF. The Dynamic Currency Conversion (DCC) trap is very common — ATMs and card terminals will often offer to show you the amount in euros or your home currency with a 'favourable rate' that is actually 5-8% worse than the real rate. Always select 'pay in HUF' and 'without conversion.' OTP Bank, K&H, and Raiffeisen ATMs are reliable and have lower fees. Euronet ATMs (found in tourist areas and convenience stores) charge very high fees and should be avoided. Cash remains important for smaller restaurants, markets, and rural areas.",
+      "tourist_tips": [
+        "At any ATM or payment terminal, always decline the option to 'pay in your home currency' or 'convert for you' — always choose HUF to avoid the DCC fee.",
+        "Use a Wise or Revolut card for ATM withdrawals to minimise foreign transaction fees; these cards use the real mid-market rate for HUF.",
+        "Carry some cash at all times — smaller lángos stalls, market vendors, and rural guesthouses may be cash-only."
+      ],
+      "warning": "Euronet ATMs are aggressively placed in high-tourist areas and airports — their fees and exchange rates are extremely poor; always use a bank-branded ATM instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Hungary",
+      "quick_answer": "Telekom Hungary offers the best coverage nationwide; SIMs are sold at airports and phone shops, and EU roaming means EU-registered SIMs work without extra charge.",
+      "detail": "Hungary has solid 4G/LTE coverage in Budapest and major towns, with rural and Lake Balaton areas having thinner coverage. Telekom Hungary (T-Mobile) has the widest network coverage, followed by Vodafone Hungary and Yettel (formerly Telenor). Tourist SIM cards can be purchased at Budapest airport, phone shops, and some convenience stores with a passport. EU citizens can use their home-country SIM under EU roaming rules at no extra cost. Airalo and similar eSIM providers work well for short stays.",
+      "tourist_tips": [
+        "EU roaming means you can use your existing EU SIM in Hungary without extra charges — check your plan includes data roaming before travel.",
+        "For non-EU visitors, buy a prepaid SIM from Telekom Hungary at the airport arrivals hall — bring your passport as registration is required.",
+        "Airalo eSIM is a convenient option for short stays if your phone is unlocked and eSIM-compatible, as it can be set up before you land."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Hungary",
+      "quick_answer": "Hungary uses Type C and Type F (Schuko) plugs at 230V/50Hz — the same standard as most of continental Europe.",
+      "detail": "Hungarian wall sockets use the round two-pin Type C and the grounded Type F (Schuko) format, operating at 230 volts and 50Hz. This is the standard across most of the EU and continental Europe, so visitors from France, Germany, Italy, and most EU countries will not need an adapter. UK visitors need a Type G to Type C/F adapter. US, Canadian, and Japanese visitors need both a plug adapter and a voltage converter for devices not rated for 230V (most modern electronics and phone chargers are dual-voltage — check the label).",
+      "tourist_tips": [
+        "Check your device charger label — if it says '100-240V', it is dual-voltage and you only need a plug adapter, not a converter.",
+        "Universal travel adapters covering Type C/F are inexpensive and available at Budapest airport and electronics shops in the city centre.",
+        "Hotels in Budapest commonly provide European-standard sockets; UK-style adaptors are less often provided, so bring your own."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Hungary",
+      "quick_answer": "The most common scams in Hungary involve Dynamic Currency Conversion at ATMs and payment terminals, overcharging at tourist-area restaurants, and strip club credit card fraud near Váci utca.",
+      "detail": "Budapest has a well-documented set of tourist scams. DCC (Dynamic Currency Conversion) scams at ATMs and card terminals appear as 'helpful' offers to show the price in your home currency — always decline and pay in HUF. Some restaurants on main tourist streets present inflated bills or add uncommunicated charges; always check the menu for prices before ordering. Near Váci utca and the nightlife district, strangers (sometimes attractive people) invite tourists to bars or clubs where astronomical bills arrive and card machines 'malfunction' into large charges. Unofficial taxi drivers at the airport and stations are also a persistent risk.",
+      "tourist_tips": [
+        "Always review the full itemised bill at tourist-area restaurants before paying, and confirm whether service charges or cover charges have been added without notice.",
+        "Avoid following strangers to 'great local bars' they recommend near the nightlife district — this is a classic lead-in to the strip club credit card scam.",
+        "Use the Bolt app instead of hailing taxis, and always decline ATM currency conversion offers to avoid the DCC trap."
+      ],
+      "warning": "The strip club credit card scam near Váci utca and Vörösmarty tér is well documented and can result in fraudulent charges of hundreds to thousands of euros — never follow strangers to bars or clubs.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Hungary",
+      "quick_answer": "Hungary is generally safe for tourists, with the main risks being pickpocketing on crowded trams and in tourist areas rather than violent crime.",
+      "detail": "Budapest ranks as one of Central Europe's safer capitals for tourists. Violent crime targeting tourists is rare. The primary risk is petty theft — particularly pickpocketing on the 4/6 tram line, in the Central Market Hall, on the M1 metro line, and around Váci utca and Vörösmarty tér. The VIII district (Józsefváros) has rougher areas, particularly at night. Scams (as noted separately) represent a greater practical risk than physical crime for most visitors.",
+      "tourist_tips": [
+        "On trams 4 and 6 during rush hour, wear your backpack on your front or use a crossbody bag with the clasp facing inward.",
+        "The Jewish Quarter ruin bars area is generally safe, but stay aware of your surroundings in the late-night hours and keep valuables secured.",
+        "Keep a photocopy of your passport separate from the original, and store your travel insurance details and emergency contacts in your phone."
+      ],
+      "warning": "Pickpocketing is common on the 4/6 tram and in crowded tourist markets — remain alert in these environments and avoid displaying expensive items conspicuously.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Hungary",
+      "quick_answer": "Hungarians may appear reserved at first but are genuinely warm to respectful guests — greet with a handshake, make eye contact when toasting, and never call Hungarian a Slavic language.",
+      "detail": "Hungarian (Magyar) culture carries deep pride in a complex, unique history — Hungary is not Slavic, not Germanic, and not Russian; it is Finno-Ugric and stands apart from all its neighbours linguistically and culturally. Bringing this up respectfully is welcomed. Greetings are typically a firm handshake. At meals, say 'Jó étvágyat!' (bon appétit) and 'Egészségedre!' when toasting, maintaining eye contact with each person. Dinner is typically eaten late (7-9pm). Hungarians appreciate any attempt to speak a few words of Hungarian.",
+      "tourist_tips": [
+        "When toasting, make individual eye contact with each person in the group as you clink glasses — failing to do so is considered impolite and, according to legend, brings bad luck.",
+        "Complimenting Hungarian food, wine, or history genuinely opens doors — Hungarians are proud of their culinary and cultural heritage.",
+        "Avoid comparing Hungary to its neighbours or assuming shared Slavic heritage — Hungary is culturally and linguistically distinct and Hungarians are keenly aware of this."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Hungary",
+      "quick_answer": "Hungarian (Magyar) is a completely unique language unrelated to any neighbouring language, but English is widely spoken in Budapest's tourist areas.",
+      "detail": "Hungarian belongs to the Finno-Ugric language family and is not related to German, Czech, Slovak, Romanian, or any Slavic language — it is one of the most linguistically isolated languages in Europe. This makes it genuinely difficult for most visitors, but Hungarians are delighted when tourists make even small efforts. English is spoken widely in Budapest hotels, restaurants, and tourist sites. German is sometimes understood by older residents. Outside Budapest, particularly in rural towns and Lake Balaton villages, English proficiency drops significantly.",
+      "tourist_tips": [
+        "Learn a few key phrases: 'Köszönöm' (thank you, pronounced 'KOH-soh-nohm'), 'Kérem' (please), 'Szia' (informal hello/goodbye), 'Igen/Nem' (yes/no).",
+        "Google Translate's camera function works well for menus and signs in Hungarian — download the Hungarian language pack offline before arrival.",
+        "Outside Budapest, having a translation app ready is genuinely useful as English fluency is much less common in rural areas and smaller towns."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Hungary",
+      "quick_answer": "Hungary is landlocked, but Lake Balaton — the 'Hungarian Sea' — is the country's beloved beach destination with warm, shallow, safe water and a full summer resort scene.",
+      "detail": "Lake Balaton is the largest freshwater lake in Central Europe and Hungary's primary summer holiday destination. The water is warm (reaching 24-26°C in peak summer), shallow, and completely free from dangerous currents, tides, or hazardous wildlife, making it excellent for families and non-swimmers. Siófok on the southern shore is the party resort town; the northern shore towns (Tihany, Balatonfüred) are more scenic and family-oriented. The lake season runs from June through August, and it gets very crowded with Hungarian holidaymakers in July and August.",
+      "tourist_tips": [
+        "The northern shore of Lake Balaton (Tihany peninsula, Balatonfüred) is more picturesque and less crowded than the southern party shore around Siófok.",
+        "Arrive early in July and August to secure a spot at free public beaches (strand) — paid resort beaches fill up quickly.",
+        "The shallow northern shore means you can wade out 50-100m and still only be waist deep — very safe for children and nervous swimmers."
+      ],
+      "warning": "Lake Balaton can develop blue-green algae blooms in hot, still August weather — check local authority warnings before swimming when temperatures are extreme.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Hungary",
+      "quick_answer": "Drive on the right, purchase a HU-GO motorway vignette before using motorways, and observe the strictly enforced 0.00% BAC drink-drive limit.",
+      "detail": "Hungary drives on the right side of the road. A motorway vignette (HU-GO matrica) is mandatory for driving on motorways and can be purchased online at the HU-GO website, at petrol stations, or at border crossings — electronic cameras check compliance automatically. Speed cameras are widespread and fines are issued promptly. The drink-drive limit is 0.00% BAC — even one drink means you should not drive. Budapest's inner city has limited and expensive paid parking; the Balaton region becomes severely congested on summer weekends.",
+      "tourist_tips": [
+        "Buy your HU-GO motorway vignette online before crossing into Hungary — the e-vignette is linked to your licence plate and does not need to be displayed in the car.",
+        "Speed cameras on Hungarian motorways and main roads are fixed and well-known to locals — always check speed limits on entering new road types.",
+        "For Lake Balaton trips, travel early Friday morning or late Sunday evening to avoid the worst of the summer weekend traffic on the M7 motorway."
+      ],
+      "warning": "Hungary's 0.00% BAC drink-drive law is absolute — even a single beer can put you over the legal limit for driving, and penalties include on-the-spot licence confiscation and criminal charges.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Hungary",
+      "quick_answer": "Hungarian cuisine centres on paprika, hearty stews, and unique street foods; dinner is typically served from 7-9pm and set lunch menus (ebéd menü) offer excellent value.",
+      "detail": "Hungarian food is deeply satisfying — gulyás (goulash, actually a rich paprika soup rather than a stew as served abroad), chicken paprikash, and halászlé (fisherman's soup) are national staples. Street food highlights include lángos (hot deep-fried dough topped with sour cream and cheese) and kürtőskalács (chimney cake, a spit-roasted sweet roll). Hungarians eat dinner late, typically 7-9pm. Budapest's Jewish Quarter (VII district) has an exceptional restaurant scene blending traditional and modern cuisine. The set lunch menu (ebéd menü) — two or three courses for 1,500-2,500 HUF — is one of the best budget options in the city.",
+      "tourist_tips": [
+        "Order the ebéd menü (set lunch menu) at traditional Hungarian restaurants — it is typically a two or three course meal for a fraction of à la carte prices.",
+        "Try lángos from a street market stall rather than a tourist-area snack bar — the Central Market Hall's upper floor has authentic versions at fair prices.",
+        "Budapest's ruin bars (romkocsmák) in the Jewish Quarter serve food alongside drinks and provide some of the most atmospheric and affordable dining in the city."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Hungary",
+      "quick_answer": "Cover shoulders and knees at all religious sites; men must wear a kippah at the Great Synagogue, and most major sites charge an entrance fee.",
+      "detail": "Hungary's most significant religious sites include the Great Synagogue on Dohány Street (the largest in Europe and a centre of the Jewish community), St. Stephen's Basilica, and Matthias Church at Buda Castle. At the Great Synagogue, men must wear a head covering (kippahs are provided at the entrance) and women must dress modestly with covered shoulders. At Christian churches, covered shoulders and knees are required. Most major religious sites charge an entrance fee. Photography rules vary — generally allowed without flash, but check signage at each site.",
+      "tourist_tips": [
+        "The Great Synagogue (Dohány utcai zsinagóga) has a museum and memorial garden attached — book tickets in advance in peak season as queues are long.",
+        "St. Stephen's Basilica offers free entry to the main nave but charges for the dome panorama visit — the views from the dome over Budapest are well worth the fee.",
+        "The VII district around the Great Synagogue has a rich network of smaller synagogues, Jewish heritage sites, and excellent kosher and non-kosher restaurants."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Hungary",
+      "quick_answer": "The best times to visit Budapest are April-June and September-October for pleasant weather and manageable crowds; summer is peak season and Lake Balaton is extremely popular July-August.",
+      "detail": "Hungary has a continental climate with hot summers and cold winters. Budapest is best visited in late spring (April-June) or early autumn (September-October), when temperatures range from 15-25°C, crowds are lighter than peak summer, and outdoor terraces are open. July and August see temperatures reaching 30-35°C in Budapest, with peak crowds and prices. Lake Balaton's beach season runs June-August. December brings beautiful Christmas markets in Budapest and temperatures of -5 to 5°C. Thermal baths are enjoyable year-round, especially atmospheric in winter.",
+      "tourist_tips": [
+        "September is arguably the best month to visit Budapest — summer heat has eased, crowds have thinned, prices drop, and the harvest season brings excellent food and wine events.",
+        "If visiting in July-August, book accommodation well in advance and plan for Lake Balaton crowds; Budapest's thermal baths offer a cool-down that is enjoyable even in summer.",
+        "Budapest's Christmas markets (November-December) in Vörösmarty tér and St. Stephen's Basilica square are genuinely beautiful and less commercialised than Western European equivalents."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Hungary",
+      "quick_answer": "Hungary remains significantly more affordable than Western Europe — maximise savings with set lunch menus, free riverside trams, the Budapest Card, and Margit Island parks.",
+      "detail": "Hungary and Budapest offer excellent value compared to Western European capitals, but tourist-area prices have risen. The ebéd menü (set lunch) at local restaurants costs 1,500-2,500 HUF for two or three courses. Tram 2 runs along the Danube embankment offering river views equal to any paid cruise — free with a BKK transit pass. Margit Island is a large, free park in the middle of the Danube with pools, gardens, and facilities. The Budapest Card bundles unlimited public transport with free or discounted museum entry and is worthwhile for stays of two or more days. Ruin bar drinks are cheap by any European standard.",
+      "tourist_tips": [
+        "The Budapest Card (24, 48, or 72-hour versions) covers all BKK public transport and gives free or discounted entry to many museums — compare the cost against your planned activities.",
+        "Ride tram 2 along the Pest embankment for Danube panorama views — it is entirely free with any BKK transit pass and covers the route between the Parliament and the Great Market Hall.",
+        "Eat lunch at a traditional Hungarian étterem (restaurant) away from the main tourist streets — the ebéd menü offers two to three courses for around €4-7 and is how locals eat at midday."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "country": "Indonesia",
+  "slug": "indonesia",
+  "emoji": "🇮🇩",
+  "region": "Asia",
+  "currency": "IDR",
+  "language": "Indonesian",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Indonesia",
+      "quick_answer": "Tipping is not obligatory but appreciated — 10% at tourist restaurants, 20,000–50,000 IDR for guides and drivers, though service charge is often already included.",
+      "detail": "Indonesia does not have a strong tipping culture, but gratuities are genuinely welcomed in tourist areas where service workers earn modest wages. Upscale hotels and restaurants frequently add a 10% service charge plus 11% tax to bills — always check before adding more. At warungs (local food stalls) and local businesses, tipping is not expected at all. For private tour guides and drivers who spend a full day with you, 20,000–50,000 IDR per person is a reasonable and appreciated tip.",
+      "tourist_tips": [
+        "Check your restaurant bill for a 'service charge' line before leaving extra — it is commonly included at tourist-facing restaurants",
+        "Tip your driver or guide directly in cash at the end of the day — 50,000 IDR is considered generous and much appreciated",
+        "At local warungs and street food stalls, rounding up or leaving small change is kind but never expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Indonesia",
+      "quick_answer": "Gojek and Grab (motorbike or car) are essential apps; Jakarta has TransJakarta BRT and a commuter rail network; Java has excellent intercity trains; Bali has no reliable public transport.",
+      "detail": "Indonesia's public transport varies dramatically by island. Java is the best-served: Jakarta has the TransJakarta BRT bus network, MRT, and commuter rail, while intercity trains connect Jakarta to Yogyakarta, Surabaya, and other cities efficiently. Bali has virtually no functional public transport — tourists rely on scooter rental, hired drivers, or ride-hailing apps. Gojek (Indonesian-founded) and Grab both offer motorbike (ojek) and car options and are the fastest way to navigate traffic in any major city. Blue Bird Group taxis are the most trusted metered taxi company nationwide.",
+      "tourist_tips": [
+        "Download both Gojek and Grab before you arrive — they work in almost every city and prices are clearly shown before you confirm",
+        "For intercity travel on Java, book KAI (Indonesia Rail) trains in advance at kai.id — they are comfortable, punctual, and excellent value",
+        "In Bali, hiring a private driver for a full day (around 400,000–600,000 IDR) is often more practical and cost-effective than individual Gojek rides"
+      ],
+      "warning": "Never use unmarked or unlicensed taxis, especially at airports. In Bali, local taxi cartels have historically conflicted with Gojek/Grab drivers — be discreet when using ride-hailing apps in some areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Indonesia",
+      "quick_answer": "BIMC and SOS Medika serve Bali tourists; Siloam Hospitals are reliable in major cities; medical evacuation insurance is critical, especially for Bali where motorbike and surf injuries are very common.",
+      "detail": "Private hospital quality in Indonesia ranges from excellent in Bali and Jakarta to very basic on remote islands. In Bali, BIMC Hospital (Kuta and Nusa Dua) and SOS Medika are the go-to clinics for tourists, experienced with surf injuries, motorbike accidents, and tropical illnesses. The Siloam Hospitals chain provides consistent quality across major Indonesian cities. Pharmacies (apotek) are widespread and pharmacists dispense many medications without a prescription. Malaria is still present in some eastern islands including Papua and parts of Maluku — consult a travel doctor before visiting these areas.",
+      "tourist_tips": [
+        "Save BIMC Bali's number (+62 361 761263) in your phone before arriving — they have 24-hour emergency services and English-speaking staff",
+        "Visit a travel medicine clinic before your trip if heading to Papua, Maluku, or NTT — malaria prophylaxis may be recommended",
+        "Apotek (pharmacies) are on almost every street in Bali and Java and are excellent for treating minor issues without a doctor visit"
+      ],
+      "warning": "Medical evacuation from Bali or remote Indonesian islands to Singapore or Australia can cost tens of thousands of dollars without insurance. Motorbike accidents are the leading cause of tourist injuries in Bali — comprehensive travel insurance with medical evacuation cover is not optional.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Indonesia",
+      "quick_answer": "Indonesia has some of the world's strictest drug laws including the death penalty for trafficking; Aceh province follows Sharia law; a 2023 criminal code restricts sex outside marriage.",
+      "detail": "Drug offences in Indonesia are treated with extreme severity — trafficking carries the death penalty and possession leads to lengthy imprisonment. Multiple foreigners are on death row in Indonesia for drug-related offences. Indonesia's 2023 Criminal Code introduced new provisions restricting sex outside marriage and cohabitation, though enforcement against tourists remains unclear. Aceh province in northern Sumatra operates under Sharia law with its own rules on dress, alcohol, and public behaviour that differ significantly from the rest of Indonesia. Disrespecting religion or religious figures is a criminal offence under blasphemy laws.",
+      "tourist_tips": [
+        "Never carry any quantity of drugs into or within Indonesia — even trace amounts can result in arrest and prosecution",
+        "If visiting Aceh, research the local Sharia-based regulations before you go — dress codes and alcohol rules are strictly enforced there",
+        "Disrespecting Balinese temples, Islamic mosques, or religious figures — even online — can result in arrest under blasphemy laws"
+      ],
+      "warning": "Indonesia's drug laws are among the harshest in the world. The death penalty has been carried out on foreign nationals. Do not carry, buy, or use any illegal substances under any circumstances.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Indonesia",
+      "quick_answer": "Police: 110; Ambulance: 118 or 119; Fire: 113; Tourist Assistance Hotline: 1500-454.",
+      "detail": "Indonesia has national emergency numbers, but response times can be slow outside major cities. The police line is 110, and the national ambulance line is 118 or 119. The Kemenparekraf tourist assistance hotline (1500-454) is specifically designed to help foreign visitors and has English-speaking operators. In Bali, BIMC Hospital (+62 361 761263) and SOS Medika (+62 361 720100) are faster and more reliable for medical emergencies than calling the national ambulance line. Always ask your hotel or accommodation for the most reliable local emergency contacts.",
+      "tourist_tips": [
+        "Save the tourist assistance hotline 1500-454 in your phone — it is specifically for foreign visitors and has English support",
+        "For medical emergencies in Bali, calling BIMC or SOS Medika directly is faster and more reliable than the national 118 line",
+        "Register with your country's embassy or consulate upon arrival — most have 24-hour emergency lines for citizens abroad"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Indonesia",
+      "quick_answer": "Cover shoulders and knees at all temples and mosques; sarongs are required at Balinese temples and usually provided; bikinis are fine at beaches; dress more conservatively in non-tourist Muslim-majority areas.",
+      "detail": "Indonesia's dress expectations vary widely by location. In Bali, beach attire is perfectly acceptable at beaches and resort areas, but shoulders and knees must be covered when entering any Hindu temple — sarongs and sashes are typically available to borrow at temple entrances. In Java, Lombok, Sumatra, and other predominantly Muslim islands, modest dress (covering shoulders and knees) is expected in towns and villages even outside religious sites. Aceh province enforces strict modest dress requirements. In major tourist areas of Bali such as Seminyak and Kuta, casual Western dress is the norm everywhere except at temples.",
+      "tourist_tips": [
+        "Always carry a light sarong or scarf — you will need it for spontaneous temple visits and it doubles as beach cover-up",
+        "Sarongs and sashes are provided free or for a small fee at Balinese temple entrances, but having your own is more hygienic and convenient",
+        "Outside of Bali beach resort areas, wear shorts that reach at least the knee and a modest top when walking through towns or villages"
+      ],
+      "warning": "Entering a Balinese temple without proper covering is deeply disrespectful and you will be denied entry. Menstruating women are traditionally not permitted inside some inner temple areas — signs are usually posted.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Indonesia",
+      "quick_answer": "Alcohol is freely available in Bali and tourist areas but restricted or absent in many parts of Java; Aceh is completely dry; fake arak and methanol spirits have caused tourist deaths.",
+      "detail": "Indonesia's relationship with alcohol is shaped by its Muslim majority. Bali and major tourist hubs have normal alcohol availability at bars, restaurants, and licensed shops. In Java, many convenience stores (Alfamart, Indomaret) do not stock alcohol, and some areas restrict sales. Aceh province is completely alcohol-free by Sharia law. The minimum drinking age is 21 in some regions. Local drinks include brem (Balinese rice wine) and arak (palm spirit), but cheap or unlicensed arak has caused deaths from methanol poisoning — this is a genuine and recurring danger.",
+      "tourist_tips": [
+        "In Bali, only buy spirits from licensed supermarkets such as Bintang Supermarket or international hotel bars — never from unlicensed street vendors",
+        "During Ramadan, alcohol consumption in public becomes more restricted even in Bali — be respectful and drink inside licensed venues",
+        "Bintang beer is the iconic local lager and widely available throughout Bali and tourist areas at reasonable prices"
+      ],
+      "warning": "Methanol-tainted spirits sold cheaply in Bali and other tourist areas have killed and blinded tourists. Never drink cheap, unlabelled, or locally bottled spirits of unknown origin — the risk is real and documented.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Indonesia",
+      "quick_answer": "Bargaining is expected at markets, tourist shops, street vendors, and with becak and ojek drivers — start at 30–40% of the asking price.",
+      "detail": "Indonesia has a lively bargaining culture at traditional markets (pasar), tourist craft markets, street stalls, and when negotiating with informal transport providers like becak (cycle rickshaw) and non-metered ojek. A useful starting point is offering 30–40% of the initial asking price, then negotiating upward. Fixed prices apply in malls, supermarkets, and chain restaurants. Bargaining should always be friendly and good-humored — walking away slowly after a counter-offer is a classic and often effective move. In Bali's tourist markets, vendors routinely open with prices 5–10 times higher than what they will accept.",
+      "tourist_tips": [
+        "In Bali's Ubud or Kuta markets, open at 30–40% of the asking price and expect to settle around 50–60% of the original",
+        "Walking away slowly is a highly effective tactic — the vendor will often call you back with a better price",
+        "Never bargain in malls, chain stores, or restaurants with printed menus — the price is fixed and attempting to bargain is awkward"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Indonesia",
+      "quick_answer": "Photography is generally permitted but ask permission before photographing people in religious ceremonies; inner temple sanctuaries are often restricted; never photograph military or police installations.",
+      "detail": "Indonesia is generally very welcoming of tourist photography at landscapes, beaches, markets, and public cultural events. However, key restrictions apply: the inner sanctuaries (jeroan) of Balinese temples are usually off-limits to cameras, and photographing religious ceremonies requires asking first and being sensitive about when and how you shoot. Military installations, police stations, and government buildings should not be photographed. Photographing people — especially during Balinese Hindu ceremonies — without asking is considered invasive; a smile and gesture goes a long way toward getting a warm yes.",
+      "tourist_tips": [
+        "At Balinese temple ceremonies, ask a local or priest before raising your camera — many ceremonies welcome respectful observers and photographers",
+        "Look for 'no photography' signs at the inner gates of major temples like Pura Besakih or Tanah Lot and respect them",
+        "Drone photography is heavily regulated around temples, rice terraces, and airports — check CASR regulations and obtain permits before flying"
+      ],
+      "warning": "Photographing or filming military and police facilities is prohibited and can lead to detention. Drone flights near Bali's sacred sites and busy areas require prior permits from the Indonesian Civil Aviation Authority.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Indonesia",
+      "quick_answer": "Indonesia operates 7 days a week commercially, but Eid al-Fitr and Eid al-Adha cause widespread multi-day closures; Friday midday prayer causes brief business interruptions in Muslim areas.",
+      "detail": "Indonesia is a multi-religious country and its holiday schedule reflects this — national holidays include Islamic, Christian, Hindu (Nyepi in Bali), and Buddhist observances. Commercial businesses generally operate 7 days a week. Eid al-Fitr (end of Ramadan) is the most disruptive period: transport is overwhelmed by mass domestic travel (mudik), and many businesses close for 3–7 days. Friday is the Muslim day of prayer and some businesses in Muslim-majority areas close briefly around midday prayer. Bali observes Nyepi (Balinese New Year, usually March) as a 24-hour day of complete silence — the airport closes, streets are empty, and tourists must stay in their hotel.",
+      "tourist_tips": [
+        "Avoid traveling around Eid al-Fitr if possible — trains, buses, and ferries are overbooked weeks in advance and prices spike dramatically",
+        "If you are in Bali during Nyepi, embrace it — it is a unique cultural experience, but plan ahead as you cannot leave your accommodation for 24 hours",
+        "During Ramadan, be respectful when eating or drinking in public in Muslim-majority areas outside Bali, especially during daylight hours"
+      ],
+      "warning": "Eid al-Fitr travel causes the largest annual human migration in the world in Indonesia — book all transport weeks in advance or your itinerary will collapse.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis and Rideshare in Indonesia",
+      "quick_answer": "Gojek and Grab are the dominant and most reliable options; Blue Bird is the trusted metered taxi company; never use unmarked taxis.",
+      "detail": "Gojek — founded in Indonesia — and Grab are both essential apps for getting around Indonesian cities. Both offer motorbike (fastest in traffic) and car options with prices shown upfront. Blue Bird Group is the only metered taxi company widely trusted nationwide — their taxis are light blue with a bird logo and use tamper-proof meters. Fake Blue Bird taxis exist, so check the ID card displayed inside and verify the meter clicks over normally. In Bali, local taxi cartels have historically resisted ride-hailing apps — some areas require passengers to walk a short distance from the pickup point and be discreet.",
+      "tourist_tips": [
+        "Download Gojek before arriving — it is cheaper than Grab in most Indonesian cities and has more drivers in smaller towns",
+        "For airport pickups, use the official taxi counter or pre-book via Gojek/Grab to avoid being overcharged by touts at arrivals",
+        "On short city hops, GoRide (motorbike) on Gojek is 2–3 times faster than a car in Jakarta or Bali traffic and costs less than a dollar"
+      ],
+      "warning": "Unmarked taxis and transport touts at airports and tourist areas will quote prices 5–10 times higher than metered or app-based alternatives. Only use Blue Bird taxis or Gojek/Grab.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Indonesia",
+      "quick_answer": "Never drink tap water anywhere in Indonesia — bottled water is extremely cheap and widely available; Aqua is the most trusted brand.",
+      "detail": "Tap water in Indonesia is not safe to drink anywhere in the country, including Bali, Jakarta, and major cities. Bottled water is inexpensive (2,000–5,000 IDR for 1.5 litres) and available everywhere. Aqua (owned by Danone) is the most trusted and widely counterfeited brand — always check that the seal is fully intact when you buy. Ice at tourist restaurants and hotels is generally produced from treated water and is safe; ice at roadside warungs is more of a risk. Brushing teeth with tap water is not recommended, especially for those with sensitive stomachs.",
+      "tourist_tips": [
+        "Always check the plastic seal on bottled water is fully intact before drinking — counterfeit or refilled Aqua bottles exist in tourist markets",
+        "Bring a SteriPen or water purification tablets as a backup for longer trips to remote islands where bottled water availability is unreliable",
+        "Ice in tourist restaurants and upmarket warungs is almost always made from treated water — use your judgement at very local roadside stalls"
+      ],
+      "warning": "Drinking tap water or eating food washed in tap water is a very common cause of Bali Belly (traveller's diarrhoea). Symptoms can be severe and ruin days of your trip — the precaution of drinking only bottled or purified water is worth taking seriously.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Indonesia",
+      "quick_answer": "BCA, Mandiri, BNI, and BRI ATMs are most reliable for foreign cards; cash is essential as many places are cash-only; only use authorized money changers in Bali.",
+      "detail": "Cash remains king in Indonesia outside of major malls, chain hotels, and some Bali tourist restaurants. ATMs from BCA, Mandiri, BNI, and BRI work reliably with most international cards, though fees of 25,000–50,000 IDR per withdrawal are common. ATMs in popular tourist areas frequently run out of cash on public holidays — withdraw in advance. Currency exchange is widely available in Bali, but unauthorized money changers use trick counting techniques to shortchange tourists; only use authorized exchange counters at banks, airports, or official money changers with a clearly displayed rate board.",
+      "tourist_tips": [
+        "Withdraw larger amounts less frequently to minimize ATM transaction fees — most ATMs allow 2,500,000–3,000,000 IDR per withdrawal",
+        "In Bali, use Central Kuta Money Exchange or BMC authorized changers — they offer competitive rates and honest counting",
+        "Always count your change and exchanged cash carefully in front of the teller before walking away — sleight-of-hand scams are common"
+      ],
+      "warning": "Bali money changer scams are extremely common. Unauthorized changers offer artificially attractive rates and then shortchange you using distraction techniques. Always use a licensed money changer and count every note before leaving the counter.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards and Internet in Indonesia",
+      "quick_answer": "Telkomsel has the best nationwide coverage; Indosat Ooredoo (IM3) offers good value; buy at airports or malls with your passport; Airalo eSIM works well.",
+      "detail": "Indonesia's major carriers are Telkomsel (best coverage including remote areas), Indosat Ooredoo (IM3, good value data packages), XL Axiata, and Smartfren. SIM cards are cheap and data packages are very affordable — expect to pay around 50,000–100,000 IDR for a SIM with generous data. All purchases require passport registration, which is done at the point of sale. Buy at airports (more expensive but convenient), official carrier stores in malls, or convenience stores. eSIMs from providers like Airalo work well in Indonesia and avoid the registration process. Coverage can be patchy on outer islands and in highland areas.",
+      "tourist_tips": [
+        "Buy a Telkomsel SIM at the airport on arrival if you want reliable coverage everywhere — it costs more than in town but saves hassle",
+        "Indosat IM3 offers the best value data packages if you are staying in Bali, Java, or other main islands where coverage is strong",
+        "If you prefer not to deal with SIM registration, purchase an Airalo Indonesia eSIM before you depart — it activates on landing"
+      ],
+      "warning": "SIM card registration requires your passport — the seller will scan it. This is mandatory under Indonesian government regulations. Unregistered SIMs will be blocked.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Indonesia",
+      "quick_answer": "Indonesia uses Type C and Type F plugs (European two-pin round) at 220V/50Hz — the same as most of Europe; American visitors need both an adapter and a voltage converter for older devices.",
+      "detail": "Indonesia runs on 220V/50Hz using Type C (two round pins) and Type F (two round pins with grounding clips) sockets — identical to continental Europe. Travellers from the UK will need a Type G to Type C/F adapter. Visitors from the USA, Canada, and Japan need a plug adapter and should check that their devices support 220V (most modern electronics do). Power outages (PLN blackouts) occur in rural areas, on some outer islands, and occasionally in parts of Bali — a power bank is a useful backup. Some budget accommodations have only a few sockets per room.",
+      "tourist_tips": [
+        "A universal travel adapter covers you throughout Indonesia and all neighbouring Southeast Asian countries on the same trip",
+        "Check your phone charger, laptop, and camera charger labels for '100–240V' input — if it says this, only a plug adapter is needed, not a voltage converter",
+        "Bring a multi-port USB charger and a power bank — power cuts in rural areas and outer islands are not uncommon"
+      ],
+      "warning": "Using a 110V US device on Indonesia's 220V supply without a voltage converter will destroy the device. Always check the voltage label on your device before plugging in.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Indonesia",
+      "quick_answer": "Common scams include transport price inflation, unauthorized money changer tricks, fake temple ceremonies requiring large donations, and fake Blue Bird taxis.",
+      "detail": "Indonesia, particularly Bali, is one of Southeast Asia's more scam-prone tourist environments. The most frequent scams target newly arrived tourists at airports (overpriced unlicensed taxis), at money changers (trick counting with sleight-of-hand), and at temples (strangers informing you of a 'special ceremony today' that requires a large donation). Fake Blue Bird taxis — cars painted to resemble the trusted brand — operate in some areas. Tour operators sometimes double-book or fail to deliver services; always use established operators with reviews. Online rental and accommodation fraud is also increasing.",
+      "tourist_tips": [
+        "If a stranger at a temple tells you there is a 'special ceremony' requiring a large donation or special clothing from their shop, it is almost certainly a scam — walk away",
+        "At money changers, count every note out loud yourself before signing anything — do not let the cashier recount for you after you have checked",
+        "Book tours through your hotel or accommodation's front desk, or use well-reviewed platforms — avoid accepting tour offers from strangers on the street"
+      ],
+      "warning": "The Bali money changer shortchange scam is extremely sophisticated. Changers distract tourists, recount notes at speed, and palm bills before handing over the bundle. Count your cash yourself, in full, before leaving the counter — no exceptions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Indonesia",
+      "quick_answer": "Indonesia is generally safe for tourists; petty theft and scams are the main concern in Bali; bag snatching from motorbikes occurs; do not leave valuables on beaches or in parked cars.",
+      "detail": "Indonesia is considered relatively safe for tourists by Southeast Asian standards. Violent crime against foreigners is rare. The main risks are opportunistic theft: bag snatching by motorbike riders (especially in Kuta, Denpasar, and Jakarta markets), pickpocketing in crowded markets and on public transport, and beach theft while you swim. Leaving valuables visible in a parked car or unattended on a beach is a common way tourists lose belongings. Bali's nightlife areas (Kuta, Legian) have issues with drink spiking and aggressive touts. Terrorism risk is present — Indonesia has a history of attacks, though large-scale incidents have been rare since the 2000s.",
+      "tourist_tips": [
+        "Use your hotel safe for passports, extra cash, and electronics — never leave valuables in your beach bag while swimming",
+        "Carry your bag in front of you or on the interior side when walking on busy streets to reduce motorbike bag-snatch risk",
+        "In Bali nightlife areas, never leave your drink unattended and be cautious of overly friendly strangers offering drinks"
+      ],
+      "warning": "Bag snatching from moving motorbikes is a real risk on Bali's busier streets. Keep bags held firmly with the strap across your body and the bag away from the road side when walking.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Indonesia",
+      "quick_answer": "Always use your right hand for giving and receiving; remove shoes at homes and temples; never touch someone's head; use your thumb to point rather than your index finger.",
+      "detail": "Indonesian culture — across both its Hindu-Balinese and Muslim-majority communities — places significant importance on courtesy and respect. The left hand is considered unclean and should not be used for passing food, money, or gifts. Pointing with the index finger is considered rude; use your thumb or an open hand instead. Touching someone's head — even children's — is deeply disrespectful. Greet elders and people of higher status with a slight bow or nod. Public displays of affection between couples are frowned upon throughout Indonesia, even in Bali. Remove your shoes before entering private homes and places of worship.",
+      "tourist_tips": [
+        "Use your right hand to give money, receive items, eat, and wave — switching to the right hand instinctively shows cultural awareness and is appreciated",
+        "Smile and use a slight nod when greeting locals — warmth and friendliness are the foundation of Indonesian social interaction",
+        "Avoid raising your voice or showing anger in public — losing face (yours and others') is taken seriously and resolving issues calmly always works better"
+      ],
+      "warning": "Public displays of affection, including kissing and intimate touching, are socially unacceptable in most parts of Indonesia and can draw hostile attention or even police intervention under the 2023 criminal code.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Indonesia",
+      "quick_answer": "Bahasa Indonesia is the national language and one of the easier Asian languages to pick up basics in; English is widely spoken in Bali and tourist areas but limited elsewhere.",
+      "detail": "Bahasa Indonesia is the official national language, used across all of the country's 17,000 islands despite hundreds of regional languages (Javanese, Balinese, Sundanese and more) being spoken locally. It is phonetically regular with no tones, making basic phrases relatively easy for English speakers to learn. In Bali, Lombok, and tourist zones of Java, English is widely spoken in hotels, restaurants, and tour operations. Outside tourist areas, English knowledge drops significantly and a few phrases of Bahasa Indonesia are warmly appreciated and practically useful. Indonesian people are generally patient and delighted when visitors attempt their language.",
+      "tourist_tips": [
+        "Learn these basics: 'Terima kasih' (thank you), 'Berapa harga?' (how much?), 'Tolong' (please/help), 'Tidak' (no) — they will serve you well throughout the country",
+        "Google Translate's offline Indonesian language pack is excellent and works without internet — download it before you leave home",
+        "Bahasa Indonesia uses the Latin alphabet and is pronounced exactly as written — reading menus, signs, and maps is very accessible even for beginners"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches and Swimming in Indonesia",
+      "quick_answer": "Indonesia has world-class beaches including Bali, Lombok, Komodo, and Raja Ampat; strong surf and currents at some Bali beaches are dangerous for non-surfers; wear reef shoes on coral beaches.",
+      "detail": "Indonesia's 54,000 km of coastline includes some of the world's most spectacular beaches and marine environments. Bali's south coast (Seminyak, Kuta, Uluwatu) has powerful surf that is dangerous for swimmers without experience — respected breaks that claim lives every year. The Bukit peninsula and Nusa Dua have calmer conditions. Lombok, the Gili Islands, Komodo, and Raja Ampat offer extraordinary snorkelling and diving. Stonefish, sea urchins, and sharp coral present injury risks — reef shoes are recommended for non-sandy beaches. Jellyfish are seasonal, particularly around May and November. Strong currents in the straits between islands can be treacherous.",
+      "tourist_tips": [
+        "On Bali's surf beaches (Kuta, Seminyak, Uluwatu), only swim between the red and yellow flags where lifeguards are on duty — rip currents kill tourists every year",
+        "Wear reef shoes at rocky or coral beaches throughout Indonesia — stonefish injuries are extremely painful and stonefish are well camouflaged",
+        "For world-class snorkelling and diving without crowds, prioritize the Gili Islands, Komodo National Park, or Raja Ampat over Bali's more popular beaches"
+      ],
+      "warning": "Rip currents on Bali's popular surfing beaches (particularly Kuta and Seminyak) are powerful and have killed tourists who ignored flag warnings. Only swim at patrolled beaches between the flags and never enter the ocean alone at unfamiliar beaches.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Indonesia",
+      "quick_answer": "Indonesians drive on the left; scooter and motorbike rental is common in Bali but the tourist accident rate is very high; an international driving licence is required; avoid driving at night.",
+      "detail": "Indonesia drives on the left side of the road, following the British/Australian convention. Scooter rental is extremely popular with tourists in Bali and is often the most practical way to get around, but motorbike accidents are the single leading cause of tourist injuries and deaths in Indonesia. Indonesian traffic is chaotic, roads can be poorly maintained, and driving at night dramatically increases risk due to poor lighting and unmarked hazards. An international driving licence (IDP) is legally required to drive in Indonesia. Police checkpoints target tourists on motorbikes and fines for not having a licence can be issued, though informal payments are common.",
+      "tourist_tips": [
+        "If you are not an experienced motorbike rider at home, do not rent a scooter in Bali — the traffic, road conditions, and other riders are genuinely dangerous for beginners",
+        "Wear a helmet at all times — this is both the law and basic survival sense; rental shops provide them but bring your own liner for hygiene",
+        "Drive slowly, avoid night riding, and never ride after drinking — the combination of unfamiliar roads, traffic, and alcohol causes the majority of tourist fatalities"
+      ],
+      "warning": "Motorbike accidents are the leading cause of tourist deaths and serious injuries in Bali. Many travel insurance policies exclude motorbike accidents if you did not hold a valid motorcycle licence at home — check your policy before renting.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Indonesia",
+      "quick_answer": "Indonesian cuisine is extraordinary — nasi goreng, rendang, satay, gado-gado — with warungs (local stalls) offering excellent food from 15,000–30,000 IDR; halal food dominates except in Bali and Chinese restaurants.",
+      "detail": "Indonesia has one of Southeast Asia's most diverse and celebrated cuisines. Each island and region has its own specialities — Padang food (West Sumatra), Balinese suckling pig (babi guling), Javanese gudeg (jackfruit stew), and Manado's spicy seafood are just a few examples. Warungs are small family-run food stalls that serve fresh, authentic food at very low prices and are generally safe to eat at when busy. Street food at popular stalls is typically fine. Sambal (chili paste) accompanies almost every meal — ask for 'tidak pedas' (not spicy) if needed. Halal food is dominant across most of Indonesia; pork is available in Bali and Chinese restaurants elsewhere.",
+      "tourist_tips": [
+        "Eat where locals eat — a busy warung with visible cooking and fast turnover is a sign of fresh food and good hygiene",
+        "Try nasi campur (mixed rice with various sides) at a Balinese warung for an authentic and filling meal under 30,000 IDR",
+        "If you have a sensitive stomach, ease into street food gradually and avoid raw vegetables washed in tap water at very basic stalls in your first few days"
+      ],
+      "warning": "Bali Belly (traveller's diarrhoea) is common among tourists who eat raw foods washed in tap water. Stick to cooked food, bottled water, and busy stalls with visible high turnover — especially in your first few days.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple, and Church Etiquette in Indonesia",
+      "quick_answer": "Remove shoes and cover up at all religious sites; sarongs are always required at Balinese Hindu temples; Borobudur and Prambanan require modest dress and charge entry fees.",
+      "detail": "Indonesia is home to the world's largest Muslim population alongside significant Hindu (Bali), Christian (East Indonesia, Flores, parts of Sulawesi), and Buddhist communities. At mosques, non-Muslims are generally welcome outside prayer times — remove shoes, cover shoulders and legs, and women should cover their hair. At Balinese Hindu temples (there are over 700 in Bali alone), a sarong and sash are mandatory and are usually provided at the entrance for a small fee. The UNESCO sites of Borobudur (Buddhist) and Prambanan (Hindu) near Yogyakarta charge entry fees and require modest dress. Menstruating women are traditionally asked not to enter the inner sanctuaries of some Balinese temples.",
+      "tourist_tips": [
+        "At Balinese temples, accept and wear the sarong and sash offered at the entrance — it is required and shows respect for one of the world's most living Hindu cultures",
+        "Visit Borobudur at sunrise for the best experience and cooler temperatures — book tickets online in advance as visitor numbers are now managed and capped",
+        "At mosques, visit outside of the five daily prayer times — during prayers, non-worshippers should stand quietly to the side or wait outside"
+      ],
+      "warning": "Inappropriate behaviour at Balinese temples — including entering restricted inner areas, failing to dress modestly, or behaving disrespectfully during ceremonies — is taken extremely seriously and has resulted in tourists being banned from temple grounds and prosecuted under blasphemy laws.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Indonesia",
+      "quick_answer": "Indonesia has two seasons — dry (April–October) and wet (November–March); Bali is best July–August and May–June; Komodo is best April–June; Borobudur is best May–September.",
+      "detail": "Indonesia is tropical with year-round warmth (25–33°C), shaped by a dry season (April–October) and a wet season (November–March). The dry season is generally the best time to visit most destinations. Bali's peak season is July–August (dry, busy, expensive) with May–June offering an excellent balance of good weather and fewer crowds. The wet season brings heavy afternoon downpours but mornings are often clear and prices drop significantly. Different islands have slightly different peak periods: Komodo and Flores are best April–June (calmer seas for diving), while Raja Ampat diving peaks October–April. The highlands of Sumatra and Java are cooler year-round.",
+      "tourist_tips": [
+        "May and June offer Bali's sweet spot — dry season weather, fewer crowds than July–August, and better prices on accommodation",
+        "Even in the wet season, mornings are usually clear and sunny — plan outdoor activities and temple visits for mornings and use rainy afternoons for spa treatments or shopping",
+        "Book accommodation 3–6 months in advance for Bali in July and August — the best properties at reasonable prices fill up very early"
+      ],
+      "warning": "Monsoon rains in the wet season can be extremely heavy and cause flooding, landslides on mountain roads, and rough seas that suspend ferry services between islands — always have flexible plans and travel insurance during November to March.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Indonesia",
+      "quick_answer": "Eat at warungs (15,000–30,000 IDR per meal), use Gojek for cheap transport and food delivery, take local buses (angkot) for very short hops, and negotiate accommodation directly.",
+      "detail": "Indonesia is one of Southeast Asia's best-value destinations when you travel like a local. Warungs serve generous, delicious meals for 15,000–30,000 IDR (under $2 USD). Gojek food delivery (GoFood) brings restaurant meals to your door at local prices with no tourist markup. Angkot (local minibuses) are extremely cheap for short urban hops if you know the routes. Temple entry fees are usually 30,000–75,000 IDR. Free beaches are abundant — you only pay for sunbeds. Booking accommodation directly with smaller guesthouses, especially outside peak season, often yields significant discounts over booking platforms.",
+      "tourist_tips": [
+        "Use GoFood on the Gojek app for cheap, delivered meals — local restaurants use it at local prices, making it one of the best-value ways to eat well without leaving your accommodation",
+        "Hire a local driver for a full day (400,000–600,000 IDR) rather than taking multiple expensive tourist taxis — you get custom stops, local knowledge, and great value",
+        "Stay in locally owned guesthouses (losmen) or family homestays for a fraction of hotel prices — many offer outstanding value and genuine hospitality in Bali and Yogyakarta"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

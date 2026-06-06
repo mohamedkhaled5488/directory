@@ -1,0 +1,360 @@
+{
+  "country": "South Africa",
+  "slug": "south-africa",
+  "emoji": "🇿🇦",
+  "region": "Africa & Oceania",
+  "currency": "ZAR",
+  "language": "English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in South Africa",
+      "quick_answer": "Tip 10–15% at restaurants; tipping is economically vital in South Africa where service wages are very low.",
+      "detail": "Tipping is a genuine economic necessity in South Africa, not just a courtesy — hospitality workers earn very low base wages. At restaurants, 10–15% is standard and expected for good service. Petrol station attendants fill your tank, clean your windscreen, and check oil; tip R5–10. Car guards (informal parking attendants found everywhere) deserve R5–10 when you return to your car. Hotel porters and room service staff appreciate R10–20 per service. Leaving a tip in cash directly to the person is always preferred over adding it to a card payment.",
+      "tourist_tips": [
+        "Always carry small ZAR notes — R5, R10, R20 coins and notes are essential for petrol attendants, car guards, and casual tipping",
+        "At restaurants, if paying by card, ask staff if tips can be added to the card payment or give cash directly so it reaches the waiter",
+        "Car guards are unofficial but widespread — acknowledge them, let them guide you out, and tip R5–10 on return"
+      ],
+      "warning": "Skipping a tip for car guards or petrol attendants can occasionally cause ill feeling — these workers depend heavily on tips as a primary income source.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in South Africa",
+      "quick_answer": "Use Uber or Bolt for safe city travel; the Gautrain is excellent for Johannesburg and Pretoria; avoid minibus taxis entirely as a tourist.",
+      "detail": "South Africa's public transport landscape is sharply divided. Uber and Bolt are widely available in Cape Town, Johannesburg, Durban, and most major cities — they are the recommended option for tourists due to safety and reliability. The Gautrain is a world-class rapid rail system connecting OR Tambo International Airport to Sandton, Johannesburg, Rosebank, and Pretoria — highly recommended. MyCiTi bus operates in Cape Town along key tourist corridors. Minibus taxis are the backbone of local transport for millions of South Africans but are dangerous, confusing, and not recommended for tourists. For game reserves, the Garden Route, and rural areas, a hire car is essential.",
+      "tourist_tips": [
+        "Download Uber before you land — it is the single most important transport app for South Africa and works from airport arrivals",
+        "The Gautrain from OR Tambo Airport to Sandton takes about 15 minutes and is far cheaper and safer than a metered taxi",
+        "Never use minibus taxis as a tourist — they follow informal routes, are overcrowded, and have a poor safety record"
+      ],
+      "warning": "Metered taxis hailed on the street in Johannesburg and Cape Town can overcharge tourists significantly — always use Uber or Bolt with upfront pricing instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in South Africa",
+      "quick_answer": "Private hospitals are excellent but extremely expensive — comprehensive travel insurance including medical evacuation is absolutely essential.",
+      "detail": "South Africa has a two-tier healthcare system. Private hospitals — Netcare, Mediclinic, and Life Healthcare — are modern, well-equipped, and staffed by excellent doctors; they compare well to European and North American standards. However, they are very expensive and will require upfront payment or proof of insurance before treating non-emergency cases. Public hospitals are severely under-resourced, overcrowded, and very slow — avoid them except in a true life-threatening emergency. Malaria prophylaxis is strongly recommended for travel to Kruger National Park, Limpopo, and the northeast of the country. Medical evacuation from remote game reserves is extremely costly.",
+      "tourist_tips": [
+        "Purchase travel insurance that explicitly covers medical evacuation — getting airlifted from a game reserve can cost R100,000+",
+        "If visiting Kruger or northeast South Africa, consult a travel medicine clinic about malaria prophylaxis before departure",
+        "Carry your insurance documents and emergency contact numbers at all times — private hospitals will ask for them on arrival"
+      ],
+      "warning": "Public hospitals in South Africa are severely under-resourced and understaffed. Only use private hospitals (Netcare, Mediclinic, Life Healthcare) and ensure you have comprehensive travel insurance to cover the costs.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in South Africa",
+      "quick_answer": "Never buy ivory, rhino horn, or listed wildlife products; cannabis is decriminalized for private use; comply immediately if carjacked.",
+      "detail": "South Africa has strict wildlife protection laws — purchasing, possessing, or exporting ivory, rhino horn, or any listed wildlife product is a serious criminal offence with heavy prison sentences. Cannabis has been decriminalized for private use by adults in small amounts, but public use and sale remain illegal. Drink-driving is illegal with a 0.05% BAC limit strictly enforced. If you experience a carjacking — which does occur — the universal advice is to comply immediately with all demands and surrender the vehicle without resistance; your life is worth more than a car. Firearms regulations are very strict; tourists cannot generally carry firearms.",
+      "tourist_tips": [
+        "Never purchase curios made from ivory, bone, or shell at markets without checking they are certified legal — many items are illegal wildlife products",
+        "If stopped by someone claiming to be police out of uniform and demanding your wallet, ask to see a badge and go to the nearest police station — fake police scams exist",
+        "Keep vehicle doors locked and windows up when driving in cities, especially when stopped at traffic lights (robots) at night"
+      ],
+      "warning": "Purchasing or exporting ivory, rhino horn, or other listed wildlife products carries severe criminal penalties including imprisonment. This law is strictly enforced and ignorance is not a defence.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "wise"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in South Africa",
+      "quick_answer": "Police: 10111; Ambulance: 10177; All services from mobile: 112; Cape Town tourism safety line: 021 480 7700.",
+      "detail": "South Africa's emergency numbers are: 10111 for police (SAPS — South African Police Service), 10177 for ambulance services, and 112 from any mobile phone which connects to all emergency services even without network coverage or SIM credit. Private ambulance services like Netcare 911 (082 911) often respond faster than government ambulances in major cities and are recommended if you have insurance. Cape Town has a dedicated tourism safety line at 021 480 7700. Save these numbers before you travel as accessing them in a stressful situation without preparation is difficult.",
+      "tourist_tips": [
+        "Save 112 (universal mobile emergency) and Netcare 911 (082 911) in your phone before leaving your accommodation each day",
+        "Private ambulance services (Netcare 911, ER24: 084 124) respond significantly faster than government services in most urban areas",
+        "In a carjacking or robbery, comply first — call 10111 only once you are safe, not during the incident"
+      ],
+      "warning": "Government ambulance response times in South Africa can be very slow outside major urban centres. In areas near game reserves or rural regions, arrange private medical evacuation cover through your travel insurance.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in South Africa",
+      "quick_answer": "Very casual overall; swimwear is fine at beaches and pools only; smart casual for upscale Cape Town restaurants; conservative in rural traditional communities.",
+      "detail": "South Africa is a relaxed, casual culture when it comes to dress. In coastal cities like Cape Town and Durban, beach culture means shorts and summer clothing are the norm. Swimwear is appropriate at beaches, pools, and beachside cafes but not in shops, supermarkets, or city centres. For upscale restaurants in Cape Town's Waterfront or Johannesburg's Sandton, smart casual is expected — neat trousers or a dress rather than beach shorts. In rural and traditional communities, including many township areas, more conservative dress is respectful — covering shoulders and knees shows cultural sensitivity. Safari lodges tend toward casual but practical outdoor clothing.",
+      "tourist_tips": [
+        "Pack a smart casual outfit for Cape Town restaurant evenings — while not strictly enforced, it shows respect and you will fit in better",
+        "For safari, neutral-coloured clothing (khaki, olive, beige) is recommended — avoid bright colours and white which disturb wildlife",
+        "In township communities or traditional rural areas, dress modestly with covered shoulders and knees as a sign of respect"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in South Africa",
+      "quick_answer": "Drinking age is 18; alcohol sold widely including Sundays; drinking in public is prohibited; strict 0.05% BAC drink-driving limit.",
+      "detail": "The legal drinking age in South Africa is 18. Alcohol is sold at supermarkets, bottle stores (liquor stores), bars, and restaurants across the country, including on Sundays. Drinking in public spaces — parks, streets, beaches — is prohibited by law, though enforcement varies. The drink-driving limit is 0.05% BAC and is enforced with roadblocks; penalties include fines and imprisonment. South Africa has a world-renowned wine culture centred on the Cape Winelands (Stellenbosch, Franschhoek, Paarl) where exceptional wines are extraordinarily affordable. Craft beer has also exploded in popularity in recent years.",
+      "tourist_tips": [
+        "A day trip to the Cape Winelands from Cape Town is one of the best value wine experiences in the world — estate wines cost a fraction of European prices",
+        "Bottle stores (liquor stores) and supermarkets sell alcohol — Checkers and Pick n Pay have well-stocked wine and spirits sections",
+        "Never drink and drive in South Africa — roadblocks are common and the road toll is already very high"
+      ],
+      "warning": "Drunk driving is a serious problem in South Africa contributing to very high road fatality rates. The legal BAC limit of 0.05% is strictly enforced at roadblocks — arrange transport if you plan to drink.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in South Africa",
+      "quick_answer": "Fixed prices in formal retail; craft markets and township stalls expect some negotiation; Greenmarket Square in Cape Town is a prime bargaining spot.",
+      "detail": "Formal retail in South Africa operates on fixed prices — supermarkets, chain stores, malls, and restaurants do not negotiate. However, the country has a vibrant craft market culture where gentle bargaining is expected and enjoyed. Greenmarket Square in Cape Town is the most famous craft and curio market and vendors expect tourists to negotiate. Township craft markets, roadside stalls, and informal traders generally have flexible pricing. The key is to be friendly and respectful — aggressive bargaining is frowned upon. Offering around 60–70% of the asking price and settling at 75–80% is a reasonable approach.",
+      "tourist_tips": [
+        "At craft markets like Greenmarket Square, start by admiring the item genuinely before asking the price — building a brief rapport makes negotiation friendlier and more successful",
+        "If you buy multiple items from the same vendor, ask for a deal on the bundle — 'What's the price for both?' usually yields a discount",
+        "Never bargain in supermarkets, chain stores, or restaurants — it is considered inappropriate and will cause embarrassment"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in South Africa",
+      "quick_answer": "Photography is generally free; always ask before photographing people in townships; avoid photographing police, military, and government buildings.",
+      "detail": "South Africa is largely open to photography, and wildlife photography in Kruger and other parks is exceptional. However, there are important cultural and legal considerations. In townships, always ask permission before photographing residents — many township communities have experienced exploitative tourism photography and residents have the right to decline. Photographing police officers, military personnel, government buildings, and certain infrastructure may be prohibited or cause confrontation. At some traditional ceremonies and cultural sites, photography restrictions apply — follow local guidance. Social media photographs showing security vulnerabilities of private residences can also attract legal attention.",
+      "tourist_tips": [
+        "In Kruger or private game reserves, a 400mm+ telephoto lens dramatically improves wildlife shots — consider renting one if you don't own one",
+        "Always approach township residents respectfully and explain you are a tourist who finds their community interesting — most people are welcoming when asked politely",
+        "Street photography in Cape Town's Bo-Kaap neighbourhood is popular but the colourful community has asked visitors to engage respectfully rather than treating residents as tourist props"
+      ],
+      "warning": "Photographing people in townships without asking can cause genuine offence and occasionally confrontation. Always seek permission and accept a refusal gracefully.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in South Africa",
+      "quick_answer": "Most shops and malls open on Sundays; government offices closed; national holidays cause widespread closures; load shedding can disrupt business hours unpredictably.",
+      "detail": "South Africa operates fairly normal commercial hours on Sundays — major supermarkets (Pick n Pay, Checkers, Woolworths Food), shopping malls, and most chain stores are open, typically with slightly reduced hours. Government offices and many banks are closed on Sundays and public holidays. National public holidays (South Africa has 12) cause widespread closures including restaurants, which should be booked in advance around these periods. A uniquely South African disruption is load shedding — Eskom's scheduled rolling power cuts that can occur at any time and cause businesses to close unexpectedly, especially smaller shops without generators.",
+      "tourist_tips": [
+        "Check Eskom's load shedding schedule app (EskomSePush) daily — it shows exactly when your area will lose power so you can plan around it",
+        "Around Heritage Day (24 September), Freedom Day (27 April), and Youth Day (16 June), plan ahead as many businesses close",
+        "Larger shopping malls like V&A Waterfront in Cape Town and Sandton City in Johannesburg maintain near-normal hours even on public holidays"
+      ],
+      "warning": "Load shedding (scheduled rolling power cuts) is a persistent feature of South African life and can affect restaurants, ATMs, petrol stations, and shops with little warning. Always have some cash on hand and keep your phone charged.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in South Africa",
+      "quick_answer": "Use Uber or Bolt — they are safe, metered, and reliable; never use minibus taxis; formal metered taxis available at airports and hotels.",
+      "detail": "Uber is the single most important transport tool for tourists in South Africa and operates in all major cities. Bolt is a direct competitor with similar pricing and reliability. Both apps show upfront pricing, route tracking, and driver details — all critical safety features. Formal metered taxis are available at airports, large hotels, and taxi ranks — they are legitimate but can be expensive; agree on the fare before getting in. The word 'taxi' in South Africa almost universally refers to minibus taxis — an informal, high-volume public transport system used by millions of locals. These vehicles are overcrowded, follow informal routes, and have extremely high accident and crime rates; tourists should not use them under any circumstances.",
+      "tourist_tips": [
+        "Set your Uber destination before getting in the car and keep your phone visible so the driver can confirm — this also protects against detours",
+        "At Cape Town and OR Tambo airports, use the official Uber/Bolt pickup zones rather than accepting rides from touts who approach you in arrivals",
+        "The Gautrain from OR Tambo Airport is the best option into Johannesburg — it's fast, air-conditioned, cheap, and completely safe"
+      ],
+      "warning": "Minibus taxis (locally just called 'taxis') should never be used by tourists. They are involved in a disproportionately high number of road accidents and operate with very little regulation. Always use Uber, Bolt, or the Gautrain.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in South Africa",
+      "quick_answer": "Tap water is safe to drink in Cape Town and most major cities; check locally in townships and rural areas.",
+      "detail": "Tap water in Cape Town, Johannesburg, Durban, and most major South African cities meets international safety standards and is safe to drink. Cape Town weathered a severe drought and 'Day Zero' water crisis in 2018, which has left a conservation-minded culture around water use — short showers are still encouraged. In townships, informal settlements, and many rural areas, water quality can be inconsistent and locally sourced water may carry bacteria or contaminants — stick to bottled water in these areas. Game reserves and lodge accommodations generally provide purified water. Reusable bottles are environmentally preferred given the strong environmental consciousness among tourists and the outdoor community.",
+      "tourist_tips": [
+        "In Cape Town and Johannesburg city hotels, tap water is perfectly safe — no need to buy bottled water for drinking",
+        "If staying in township guesthouses or rural areas, ask your host whether the local tap water is safe before drinking it",
+        "Carry a reusable water bottle and refill at hotels — South Africa's plastic waste problem is significant and single-use plastic bottles contribute to it"
+      ],
+      "warning": "Water quality in informal settlements and remote rural areas can be unsafe. Always confirm locally before drinking tap water outside of main urban centres and established lodges.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in South Africa",
+      "quick_answer": "Standard Bank, ABSA, FNB, and Nedbank ATMs accept foreign cards; only use ATMs inside banks or malls during business hours to avoid robbery.",
+      "detail": "South Africa has a well-developed banking infrastructure. Standard Bank, ABSA, FNB, and Nedbank all reliably process foreign Visa and Mastercard debit and credit cards at their ATMs. However, ATM crime is a genuine risk — ATM robbery and card skimming both occur. Never use standalone ATMs on the street or in isolated locations. Always use ATMs inside bank branches, major shopping malls, or hotel lobbies during daylight or business hours. Carry some cash (R200–R500) for markets, car guards, tips, and rural purchases where card machines may not work. Inform your bank before travelling to prevent your card being blocked.",
+      "tourist_tips": [
+        "Use ATMs inside Pick n Pay, Checkers, or Woolworths supermarkets — they are well-lit, monitored, and in secure retail environments",
+        "Never accept 'help' from a stranger at an ATM — a common scam involves a helpful bystander who swaps your card while assisting you",
+        "Notify your bank at home before travel that you will be using your card in South Africa — many banks flag South African transactions as fraud and block them"
+      ],
+      "warning": "ATM robbery and card skimming are genuine risks in South Africa. Only use ATMs inside bank branches or shopping malls during business hours, and shield your PIN carefully. Never use ATMs after dark in isolated locations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in South Africa",
+      "quick_answer": "Vodacom offers the best coverage; buy a SIM at the airport or any mall with your passport; 4G is good in cities but patchy in game reserves.",
+      "detail": "South Africa has three main mobile networks: Vodacom (best coverage, most reliable), MTN (strong in urban areas), and Cell C (budget option, weaker coverage). All offer prepaid tourist SIMs at airports, shopping malls, and dedicated phone shops — a passport is required for registration, which is legally mandated. 4G LTE coverage is excellent across Cape Town, Johannesburg, Durban, and along major highways. Coverage drops significantly in game reserves and rural areas — Vodacom has the best rural penetration. Airalo eSIM works well for South Africa. Wi-Fi is generally available in hotels, guesthouses, and cafes but can be slow outside Cape Town and Johannesburg.",
+      "tourist_tips": [
+        "Buy a Vodacom prepaid SIM at the airport arrivals hall — it is the most widely available and has the best coverage for Kruger and the Garden Route",
+        "Top up data (recharge) at any supermarket, petrol station, or via the network's app — R100–R200 buys generous data bundles",
+        "In Kruger National Park, don't rely on mobile data — download offline maps via Google Maps or Maps.me for the entire park before entering"
+      ],
+      "warning": "Mobile coverage inside game reserves and across large rural areas of South Africa can be very limited or non-existent. Download offline maps and key information before leaving signal areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in South Africa",
+      "quick_answer": "South Africa uses Type M (large 3-pin round) plugs at 230V/50Hz — unique to South Africa and hard to find elsewhere; buy an adapter at the airport on arrival.",
+      "detail": "South Africa's standard plug type is Type M — a large three-pin round plug unique to South Africa (and a few neighbouring countries) that is not the same as Type C or any European standard. Most countries will need a specific Type M adapter, which can be very difficult to source outside of South Africa. Buy one immediately at the airport on arrival. Voltage is 230V/50Hz. Many hotels, particularly international chains, have Type C (European) sockets in bathrooms for shavers. A critically important factor is load shedding — Eskom's ongoing scheduled rolling power cuts that affect homes and businesses for 2–12 hours per day depending on the 'stage'. Check the EskomSePush app.",
+      "tourist_tips": [
+        "Buy a Type M adapter at OR Tambo, Cape Town International, or King Shaka airport on arrival — do not rely on finding one at your destination",
+        "Download the EskomSePush app immediately on arrival — it gives you a real-time schedule of exactly when your area will lose power each day",
+        "Bring a small USB charging bank for your phone — load shedding is unpredictable and keeping your Uber app and maps charged is a safety matter"
+      ],
+      "warning": "Load shedding (scheduled power cuts) is a major ongoing issue in South Africa and can last 2–12 hours daily. This affects ATMs, petrol stations, restaurants, and phone charging. A portable battery bank is strongly recommended.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Scams to Watch Out for in South Africa",
+      "quick_answer": "ATM card-swapping scams, fake police, 'helpful strangers', and overcharging are the most common tourist scams — stay alert especially in Johannesburg CBD.",
+      "detail": "South Africa has several well-documented tourist scams. The ATM card swap is the most prevalent: a stranger 'helps' you when your card appears stuck and swaps it for a dud while watching your PIN. Fake police present convincing badges and demand to see your wallet for 'drug residue inspection' — real police in South Africa do not do this roadside. 'Helpful strangers' at bus stations or tourist spots who offer to assist and then demand money. Overcharging by informal vendors or unlicensed 'tour guides' at attractions. In Johannesburg's CBD, opportunistic theft and distraction scams are common. Car guard scams where someone damages your car and then 'coincidentally' offers repair.",
+      "tourist_tips": [
+        "At ATMs, if your card does not come out immediately, call your bank's emergency number before accepting help from any bystander — cover your hand on the keypad at all times",
+        "If someone claiming to be a plain-clothes police officer stops you and asks to inspect your cash or wallet, calmly ask to go to the nearest police station — legitimate officers will not object",
+        "Stick to official tour operators and guides booked through your hotel or a reputable platform — avoid accepting tours from strangers who approach you at attractions"
+      ],
+      "warning": "ATM card swapping is a sophisticated and common crime in South Africa. Only use ATMs in secure locations, shield your PIN completely, and never accept help from bystanders even if they seem genuinely concerned.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in South Africa",
+      "quick_answer": "South Africa has high crime rates, but major tourist areas are considerably safer — be vigilant, use common sense, and follow local advice.",
+      "detail": "South Africa has one of the world's highest murder rates and significant levels of violent crime. However, the situation for tourists who stay in established tourist areas is considerably safer than headline statistics suggest. Cape Town's Waterfront, Winelands, and Boulders Beach; Kruger National Park; the Garden Route; and Johannesburg's Sandton and Rosebank areas are actively policed and relatively safe for tourists who take precautions. Carjacking exists — keep doors locked and windows up in cities, especially at traffic lights (called 'robots') at night. Do not display expensive cameras, phones, or jewellery. Staged 'accidents' on roadsides are used to stop cars for robbery — do not stop for strangers on rural roads at night.",
+      "tourist_tips": [
+        "Lock car doors as soon as you get in and keep windows up when stopped at traffic lights in cities — carjackings can happen at intersections, especially at night",
+        "Keep your phone in your pocket in public spaces and at restaurants — phone snatching is common even in tourist areas",
+        "Ask your hotel or lodge staff which areas are safe to walk at night and which to avoid — local knowledge is the most reliable safety resource"
+      ],
+      "warning": "South Africa has high rates of violent crime including carjacking and robbery. Tourists who exercise normal urban vigilance and follow local advice are generally safe in tourist areas, but complacency is dangerous. Always be aware of your surroundings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in South Africa",
+      "quick_answer": "South Africa's Rainbow Nation values Ubuntu — greeting people respectfully, acknowledging service workers, and showing cultural sensitivity across diverse communities is essential.",
+      "detail": "South Africa is one of the world's most diverse nations, home to 11 official language groups and numerous cultures. The Ubuntu philosophy — 'I am because we are' — underpins much of the social culture; community, shared respect, and mutual acknowledgement are deeply valued. Always greet service workers, security guards, and people you interact with — ignoring them is considered rude. A handshake is the standard greeting across most cultures; in many African cultures a two-handed handshake shows extra respect. Braai (barbecue) is a great cultural leveller and an invitation to a braai is a genuine honour. In townships, humility and genuine curiosity are welcomed far more than a transactional tourist mindset.",
+      "tourist_tips": [
+        "Greet people before starting any transaction or request — jumping straight to 'I need...' without a greeting is considered impolite across most South African cultures",
+        "If invited to a braai, offer to bring something — wine, beer, or a contribution to the food — and arrive somewhat close to the stated time",
+        "On township tours, engage genuinely with residents, support local businesses, and follow your guide's lead on what is and is not appropriate"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in South Africa",
+      "quick_answer": "English is the lingua franca for tourism and business; most tourist interactions are in English; Zulu, Xhosa, and Afrikaans are widely spoken first languages.",
+      "detail": "South Africa has 11 official languages, which is unique globally and reflects its extraordinary diversity. English is the primary language of tourism, business, government, and media, and virtually all tourist-facing services operate in English. However, most South Africans' first language is something else — Zulu (most spoken), Xhosa, Afrikaans, and Sesotho are among the most widely used. In Cape Town and the Western Cape, Afrikaans is prominently spoken. Learning even a few words in Zulu (sawubona — hello, ngiyabonga — thank you) or Afrikaans (dankie — thank you) is warmly received and shows genuine respect. Township communities often blend languages in code-switching known as 'tsotsitaal'.",
+      "tourist_tips": [
+        "Say 'Sawubona' (sa-woo-BOH-na) as a Zulu greeting in KwaZulu-Natal and Johannesburg — it literally means 'I see you' and the gesture is deeply appreciated",
+        "In the Western Cape, 'Dankie' (DAHN-kee) means thank you in Afrikaans — widely used and always welcomed",
+        "The word 'now' in South Africa is notoriously flexible: 'now' means eventually, 'just now' means soon, 'now now' actually means very soon — adjust expectations accordingly"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in South Africa",
+      "quick_answer": "Cape Town's beaches are world-class but the Atlantic Ocean is very cold; Durban's Indian Ocean is warm year-round; shark nets protect some beaches.",
+      "detail": "South Africa offers dramatically different beach experiences. Cape Town's Atlantic beaches (Camps Bay, Clifton's Four Beaches, Llandudno) are strikingly beautiful but the Benguela Current makes the Atlantic Ocean very cold — typically 12–16°C even in summer. Boulders Beach near Simon's Town is home to a colony of African penguins. KwaZulu-Natal's coast including Durban's beaches has warm Indian Ocean water (22–26°C) and shark nets maintained by KwaZulu-Natal Sharks Board. Great white sharks are present off the Western Cape — cage diving near Gansbaai is a world-famous tourist activity. Rip currents are a significant hazard at exposed beaches; always swim between the flags at lifeguarded beaches.",
+      "tourist_tips": [
+        "Camps Bay and Clifton beaches in Cape Town look tropical but the water is genuinely cold — bring a wetsuit if you want to swim rather than sunbathe",
+        "Boulders Beach penguin colony near Simon's Town requires an entry fee but is one of the world's great wildlife encounters — book online in advance",
+        "Always swim between the red-and-yellow flags at lifeguarded beaches — rip currents on South Africa's exposed coasts are powerful and dangerous"
+      ],
+      "warning": "Great white sharks are present in Western Cape waters. While attacks are rare, be aware of shark spotter flag systems at Cape Town beaches — a black flag means sharks have been spotted and swimming is prohibited. Always obey spotter warnings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in South Africa",
+      "quick_answer": "Drive on the LEFT; highways are generally good quality; keep doors locked in cities; do not stop on roadsides at night.",
+      "detail": "South Africa drives on the left-hand side of the road, the same as the UK and Australia. National highways (N1, N2, N3) are of good quality and well-signposted. A hire car is strongly recommended for self-drive safaris, the Garden Route, and exploring wine country. Urban driving requires vigilance: keep doors locked and windows up when stopped at traffic lights (called 'robots' in South Africa). Never stop on the side of the road at night — staged accidents and 'Good Samaritan' scenarios are used to rob motorists. Rural roads and those within game reserves can be rough dirt tracks. GPS is essential but note that some South African addresses can be difficult for GPS to locate accurately.",
+      "tourist_tips": [
+        "At '4-way stops' (common in South African suburbs), the rule is first-to-arrive, first-to-go — if two cars arrive simultaneously, the car on the right goes first; follow this system carefully as locals take it seriously",
+        "Download offline Google Maps for your entire route before setting off from your accommodation each morning",
+        "Petrol stations in South Africa are full-service — an attendant fills your tank for you; always have R5–10 to tip them"
+      ],
+      "warning": "South Africa has one of the world's highest road fatality rates. Do not drive at night outside cities if possible, especially on unfamiliar rural roads. Cattle and wildlife on roads, combined with potholes and erratic driving, make night driving genuinely dangerous.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in South Africa",
+      "quick_answer": "South African food is meat-centric and braai-focused; try biltong, bobotie, boerewors, and bunny chow; Cape Town has a world-class restaurant scene.",
+      "detail": "South African cuisine reflects the country's diversity. The braai (barbecue) is the national institution — an invitation to a braai is a cultural honour. Biltong (air-dried spiced meat) is the national snack available everywhere. Boerewors is a distinctive spiral farmer's sausage essential at any braai. Bobotie is a Cape Malay spiced mince dish topped with egg custard and is considered a national dish. In Durban, bunny chow — curry served in a hollowed-out loaf of bread — is a must-eat. Game meat (kudu, springbok, ostrich, crocodile) is available at specialist restaurants and lodges. Cape Town's restaurant scene consistently ranks among the world's best, driven by outstanding local produce, wines, and culinary diversity.",
+      "tourist_tips": [
+        "Buy biltong from a dedicated butcher or biltong shop rather than pre-packaged supermarket versions — the quality difference is enormous and it makes a great snack for long game drives",
+        "In Durban, order a quarter bunny chow (curry in a bread loaf) from any of the original Indian restaurants on Grey Street — it is one of South Africa's greatest food experiences",
+        "Cape Town's Old Biscuit Mill Saturday market in Woodstock is outstanding for sampling local food from artisan producers — arrive early as it gets very busy"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in South Africa",
+      "quick_answer": "Dress modestly and remove shoes at mosques and Hindu temples; South Africa's Bo-Kaap mosque community is welcoming but deserves respectful behaviour.",
+      "detail": "South Africa's religious landscape is extraordinarily diverse — Christian churches of many denominations (including vibrant township gospel churches), Cape Malay mosques in Bo-Kaap, Hindu temples in KwaZulu-Natal, Jewish synagogues in Cape Town and Johannesburg, and various traditional African religious practices. At mosques, dress modestly (covered heads for women, no shorts for men), remove shoes at the entrance, and do not enter during prayer times unless invited. Hindu temples similarly require covered heads, removed shoes, and modest dress. Township churches often hold joyful gospel services that welcome respectful visitors — ask your guide or host before attending. Many Christian churches are informal and welcoming to visitors of all backgrounds.",
+      "tourist_tips": [
+        "Bo-Kaap's mosques in Cape Town are active Muslim places of worship, not tourist attractions — photograph the colourful buildings from outside respectfully but do not expect to enter as a tourist",
+        "Hindu temples in Durban's Indian community are often welcoming to respectful visitors during non-prayer times — small temples may have a donation box near the entrance",
+        "If attending a township gospel church service, dress smartly — Sunday best is the norm for congregants and turning up in casual tourist clothes stands out"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit South Africa",
+      "quick_answer": "South Africa's weather varies enormously by region — Cape Town is best October to April; Kruger is best May to September; Durban is subtropical year-round.",
+      "detail": "South Africa's climate varies dramatically across its regions. Cape Town has a Mediterranean climate with dry, warm summers (October–April) and wet, cool winters (May–September) — the Cape Winelands are at their best from November to March. Johannesburg sits at high altitude (1,750m) with hot summer afternoons and dramatic thunderstorms from October to April; winters are cold but dry and sunny. Kruger National Park and the north are best visited in the dry winter months (May–September) when animals concentrate around water sources making wildlife viewing exceptional. Durban and the KwaZulu-Natal coast is subtropical and warm year-round, though the summer months (December–February) are hot and humid.",
+      "tourist_tips": [
+        "For the best Kruger safari experience, visit between June and August — the dry season means sparse vegetation, animals congregate at water holes, and malaria risk is lower",
+        "Cape Town's shoulder seasons (October–November and March–April) offer excellent weather with fewer crowds and slightly lower accommodation prices than peak December–January",
+        "Pack layers for Johannesburg winter nights (June–August) — daytime is sunny and mild but temperatures can drop to near freezing after dark"
+      ],
+      "warning": "Malaria is present in Kruger National Park and the northeast Limpopo region, particularly during the wet summer months (October–April). Consult a travel medicine doctor about prophylaxis before visiting these areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for South Africa",
+      "quick_answer": "The weak ZAR makes South Africa exceptional value for money — self-catering, supermarket braai supplies, Winelands wines, and SANParks national parks offer outstanding value.",
+      "detail": "South Africa offers extraordinary value for money for visitors from strong-currency countries due to the weakness of the South African Rand. Accommodation ranges from backpacker hostels to world-class safari lodges, with mid-range guesthouses offering excellent value. Self-catering accommodation is widely available and affordable — buying supplies at Pick n Pay or Checkers and doing your own braai is a quintessential and very cheap South African experience. Cape Winelands wines are sold at estate cellars for a fraction of export prices. SANParks (national parks including Kruger) charges affordable conservation fees for foreign visitors. Township tours through reputable operators are reasonably priced and directly support local communities. Free hiking in the Cape Peninsula and Table Mountain National Park is exceptional.",
+      "tourist_tips": [
+        "Buy wine directly from Stellenbosch or Franschhoek estates — excellent bottles cost R80–R200 (roughly £4–10) compared to R400+ in UK restaurants for the same wine",
+        "Book SANParks rest camp accommodation (Kruger's Skukuza, Berg-en-Dal, etc.) directly at sanparks.org well in advance — self-catering chalets are very affordable and offer authentic bush experiences",
+        "A supermarket braai — buying meat, boerewors, and salads from Woolworths Food or Pick n Pay and grilling at your accommodation — costs a fraction of any restaurant meal and is the most authentic South African food experience"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

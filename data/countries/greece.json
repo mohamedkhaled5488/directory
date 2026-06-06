@@ -1,0 +1,441 @@
+{
+  "country": "Greece",
+  "slug": "greece",
+  "emoji": "🇬🇷",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Greek",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Greece",
+      "quick_answer": "Tipping is appreciated but not obligatory — 5–10% for good service is the norm.",
+      "detail": "Greece does not have a strong tipping culture, but leaving something for good service is warmly received. In restaurants, simply round up the bill or leave small coins on the table rather than adding a formal percentage. Taxi drivers appreciate rounding up to the nearest euro. Service charges are rarely included on the bill, so what you leave is entirely at your discretion.",
+      "tourist_tips": [
+        "Leave coins on the table rather than handing them to the server — it is the local custom.",
+        "Round up taxi fares to the nearest euro as a simple tip without expectation.",
+        "Hotel housekeeping and tour guides appreciate €1–2 per day/tour, though it is never compulsory."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Greece",
+      "quick_answer": "Athens has an excellent metro, and ferries are the main way to travel between the islands.",
+      "detail": "Athens Metro is modern, reliable, and connects the airport directly to the city centre. KTEL intercity buses reach most mainland towns and are very affordable. For island travel, ferries operated by Blue Star Ferries, SeaJets, and Hellenic Seaways are the backbone of inter-island travel, with frequency varying by season. Aegean Airlines and Olympic Air cover domestic flights for longer distances or remote islands.",
+      "tourist_tips": [
+        "Buy a reloadable Athens Metro card if staying more than a day — it saves queuing for single tickets.",
+        "Book ferry tickets in advance in July and August, especially overnight cabin berths, as they sell out fast.",
+        "KTEL buses are the cheapest way to travel between mainland cities and many depart from regional stations, not a central hub."
+      ],
+      "warning": "Ferry schedules on smaller islands can be disrupted by the meltemi wind in August — always allow a buffer day before an important flight.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Greece",
+      "quick_answer": "EU residents can use their EHIC card for public healthcare; all visitors should carry travel insurance, especially on the islands.",
+      "detail": "Athens and Thessaloniki have well-equipped private hospitals that meet Western standards. EU EHIC cards are valid at public hospitals and clinics, though waiting times can be long. On smaller or more remote islands, medical facilities are very limited and serious cases may require expensive air or sea evacuation to the mainland. Pharmacies (φαρμακείο — green cross sign) are widespread and pharmacists can advise on minor ailments and dispense some medications without a prescription.",
+      "tourist_tips": [
+        "Always carry your EHIC card (EU residents) or proof of travel insurance — island medical emergencies can be very costly.",
+        "Pharmacies are an excellent first stop for minor illnesses; many pharmacists speak basic English.",
+        "Private clinics in Athens (e.g., Hygeia, Metropolitan) offer fast, high-quality care and are used to dealing with international patients."
+      ],
+      "warning": "Medical facilities on small islands like Folegandros or Ikaria are extremely limited — travel insurance with evacuation cover is essential.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Greece",
+      "quick_answer": "Drug laws are strict, removing archaeological artifacts is a serious criminal offense, and nudity is illegal on non-designated beaches.",
+      "detail": "Greece enforces drug laws rigorously and even small quantities of illegal substances can result in arrest and imprisonment. It is illegal to remove any object — even an apparently insignificant stone or pottery shard — from an archaeological site, and this offense carries serious criminal penalties. Nudity is only legal on officially designated nudist beaches; on other beaches, topless sunbathing is widely tolerated for women but full nudity is technically illegal and can result in fines. Drones are prohibited over all archaeological sites and many tourist zones without a permit.",
+      "tourist_tips": [
+        "Never pocket even a small stone or fragment at an archaeological site — customs officers do check, and penalties are severe.",
+        "Check beach signage or ask locally before going nude — designated nudist beaches are marked.",
+        "Register your drone with the Hellenic Civil Aviation Authority before flying, and check local no-fly zones around ancient sites."
+      ],
+      "warning": "Removing archaeological artifacts — even fragments that appear to be litter — is a criminal offense that can result in immediate arrest and prosecution.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Greece",
+      "quick_answer": "Dial 112 for all emergencies (EU standard), 100 for police, 166 for ambulance, and 1572 for coast guard sea emergencies.",
+      "detail": "The pan-European 112 connects to all emergency services and works from any phone, including without a SIM. The dedicated numbers are: 100 (police/Hellenic Police), 166 (EKAV ambulance service), 199 (fire brigade), and 1572 (Hellenic Coast Guard for sea and maritime emergencies). Operators at 112 can assist in English. When on an island, note that response times may be longer than on the mainland.",
+      "tourist_tips": [
+        "Save 1572 in your phone if you plan to do water sports, sailing, or boat trips — coast guard response is fast and professional.",
+        "112 works even without a SIM card or mobile signal on some networks — always try it first in an emergency.",
+        "Athens has tourist police (1571) who can help with non-emergency issues like theft reports needed for insurance claims."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Greece",
+      "quick_answer": "Cover shoulders and knees when visiting Orthodox churches and monasteries; there is no strict national dress code elsewhere.",
+      "detail": "Greece has no national dress code for everyday life, and beach culture is very relaxed. However, Orthodox churches and monasteries require covered shoulders and knees for both men and women; some monasteries (particularly on Mount Athos, which admits only men, and Meteora) enforce this strictly and provide wraps or sarongs at the entrance. Topless sunbathing is widely practiced and socially accepted at most beaches. In resort towns, beachwear is acceptable near the waterfront but dressing up slightly for restaurants and bars is appreciated.",
+      "tourist_tips": [
+        "Keep a light scarf or shawl in your day bag — it doubles as a shoulder cover for impromptu church visits.",
+        "Meteora monasteries enforce their dress codes at the door; men in shorts may be turned away without a wrap.",
+        "Smart-casual is fine for even upscale tavernas; Greeks dress well for evening dining but tourists are rarely turned away."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Greece",
+      "quick_answer": "The legal drinking age is 18 and alcohol is widely available with no strict closing times in tourist areas.",
+      "detail": "Alcohol is legal for those aged 18 and over, and enforcement in tourist areas is relaxed. Ouzo, the anise-flavoured national spirit, is a cultural institution and best enjoyed slowly with meze. Drinking in public is generally accepted and not prohibited by law. Tavernas and bars in tourist zones often stay open until the early hours, and there are no strict national last-orders rules. Drink-driving limits are 0.05% BAC (lower than the UK), so be cautious if renting a car or scooter.",
+      "tourist_tips": [
+        "Order ouzo properly: it comes with a small jug of water to add, which turns it milky — sip slowly alongside food.",
+        "Local wines (especially from Santorini, Nemea, and Macedonia) are excellent and far cheaper than imported options.",
+        "The drink-driving limit (0.05% BAC) is stricter than in the UK — if you plan to drive the next day, moderate your evening drinking."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Greece",
+      "quick_answer": "Bargaining is not standard in shops or restaurants but some flexibility exists at flea markets and souvenir stalls near closing time.",
+      "detail": "Greece is not a bargaining culture in the way that markets in Asia or the Middle East are. Fixed prices are the norm in supermarkets, pharmacies, and most shops. However, at Athens' Monastiraki flea market, souvenir stalls, and street markets, gentle negotiation — especially for multiple items or near closing time — can occasionally yield a small discount. Haggling aggressively or in a formal setting will likely cause offence.",
+      "tourist_tips": [
+        "At Monastiraki flea market, buying two or three items gives you a natural opening to ask 'can you do a better price for all three?'",
+        "Never haggle at restaurants, cafes, or tavernas — it is considered rude and will embarrass the staff.",
+        "Souvenir shop owners near closing time (around 9–10pm in summer) are often willing to round down prices to make a final sale."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Greece",
+      "quick_answer": "Photography is generally permitted at archaeological sites and most attractions, but tripods, military installations, and some church interiors have restrictions.",
+      "detail": "The Acropolis and the vast majority of Greek archaeological sites permit casual photography for personal use, including video. Professional photography or filming with a tripod requires a permit from the Central Archaeological Council. Military bases, naval facilities, and border installations must not be photographed. Inside churches and monasteries, photography policies vary — follow posted signs or ask the attendant, as some forbid flash or any photography during services.",
+      "tourist_tips": [
+        "Leave your tripod at the hotel unless you have arranged a permit — it avoids confrontation with site guards.",
+        "Always look for and respect the no-photography signs inside churches; a polite ask to a priest or verger often gets a yes for a quick shot.",
+        "Drone photography is banned over all archaeological sites and many islands have additional restrictions — check the GeoAwareness app before flying."
+      ],
+      "warning": "Photographing military facilities in Greece is illegal and has resulted in the arrest of foreign tourists — avoid any shots near bases or naval ports.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Greece",
+      "quick_answer": "Many shops close on Sundays, but restaurants, tavernas, and most tourist businesses stay open seven days a week.",
+      "detail": "Greek retail law means that many non-tourist shops are closed on Sundays, though this is changing in larger cities. Supermarkets often operate reduced Sunday hours. Restaurants and tavernas are open seven days a week and often stay open late into the night. Banks are closed on weekends. Orthodox Easter — which falls on a different date from Western Easter — is the most important holiday in Greece, and businesses often close for several days around Good Friday and Easter Monday.",
+      "tourist_tips": [
+        "Stock up on supplies on Saturday if you are staying somewhere rural — local shops may be entirely closed Sunday.",
+        "Orthodox Easter (check the date, as it differs each year) brings spectacular traditions like midnight church processions and lamb on the spit — a wonderful time to visit.",
+        "Archaeological sites and museums are open on Sundays and offer free entry on the first Sunday of the month from October to March."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Greece",
+      "quick_answer": "Taxis are metered and reliable; Uber and the Beat app operate in Athens using licensed taxi drivers.",
+      "detail": "Greek taxis are yellow in Athens and regulated with meters. Uber operates in Athens but uses licensed taxi drivers rather than private drivers (no UberX). Beat is a locally popular ride-hailing app that is widely used by Athenians. Fixed fare zones exist from Athens airport into the city (around €38 daytime). On islands, taxis are often minibuses, and prices should be agreed before departure as meters are not always used. The most common tourist scam is a taxi driver not turning on the meter — always check it is running before departing.",
+      "tourist_tips": [
+        "Always confirm the meter is on when entering an Athens taxi — say 'the meter please' (taximetro parakalo) if it has not been started.",
+        "Download the Beat app before arriving in Athens — it provides upfront pricing and eliminates fare disputes.",
+        "From Athens airport, there is an official fixed-fare taxi zone to the city centre — confirm the price before getting in."
+      ],
+      "warning": "Unlicensed drivers approach tourists at Athens airport offering flat fares that are often two to three times the official rate — only use clearly marked yellow taxis or pre-booked apps.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Greece",
+      "quick_answer": "Tap water is safe to drink in Athens and most of the mainland, but many islands have unpleasant or brackish tap water — check locally.",
+      "detail": "Athens tap water meets EU drinking water standards and is safe to drink. Most of the Greek mainland and larger islands such as Crete and Rhodes also have safe tap water. However, smaller and drier islands — including Mykonos, Santorini, Paros, and many Cyclades — have limited freshwater and the tap water can taste brackish or saline, making bottled water a practical choice. Bottled water is cheap and universally available throughout Greece.",
+      "tourist_tips": [
+        "Ask your hotel or accommodation host about local tap water quality on arrival — they will give you an honest answer.",
+        "Carry a refillable bottle in Athens where tap water is perfectly safe and fountains in the city are drinkable.",
+        "On smaller Cycladic islands, buy a large 1.5L bottle from a supermarket rather than relying on smaller convenience shop bottles, which are significantly more expensive."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Greece",
+      "quick_answer": "Avoid Euronet ATMs due to high fees — stick to bank ATMs such as Alpha Bank, Piraeus, or National Bank of Greece.",
+      "detail": "Greece uses the euro and cards are widely accepted in tourist areas, hotels, and most restaurants in larger towns and cities. However, smaller villages, island mini-markets, and some smaller tavernas are cash-only. Euronet ATMs (branded orange and white) charge very high conversion fees and fixed charges — always use bank-branded ATMs. Capital controls imposed during the 2015 financial crisis have largely been lifted. Wise and Revolut cards with fee-free withdrawals work well at bank ATMs.",
+      "tourist_tips": [
+        "Withdraw cash from Alpha Bank, Piraeus Bank, Eurobank, or National Bank ATMs — they charge lower fees than Euronet machines.",
+        "Always decline the ATM's offer to convert to your home currency (DCC) — choose to be charged in euros for a better rate.",
+        "Carry some cash when island-hopping as smaller island shops, beach bars, and ferry kiosks often do not accept cards."
+      ],
+      "warning": "Euronet ATMs are found at high-traffic tourist locations across Greece and apply extremely high fees — they are best avoided entirely.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Greece",
+      "quick_answer": "Cosmote offers the best island coverage; tourist SIMs are available at airports, phone shops, and kiosks.",
+      "detail": "Greece has three main mobile operators: Cosmote (best coverage overall including remote islands), Vodafone GR, and Wind. Tourist SIM cards with data packages are sold at Athens Airport arrivals, phone shops in cities, and many kiosks (periptero). EU residents can use their home SIM for free under EU roaming rules. Wi-Fi is available in most hotels, cafes, and restaurants. Mobile internet coverage can be patchy on the smallest islands and in the interior of Crete.",
+      "tourist_tips": [
+        "Buy a Cosmote tourist SIM at Athens Airport on arrival for the most reliable coverage across all islands.",
+        "EU residents can roam for free on their home SIM — check your data allowance before arrival to avoid bill shock.",
+        "Download offline maps (Google Maps or Maps.me) for islands before you leave the mainland, as connectivity can drop in rural areas."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Greece",
+      "quick_answer": "Greece uses Type C/F (Schuko) plugs at 230V/50Hz — British visitors need an adapter and American visitors need both an adapter and voltage converter.",
+      "detail": "Greece uses the standard European plug system: Type C (two round pins) and Type F (Schuko, two round pins with grounding clips). The voltage is 230V at 50Hz, the same as the rest of continental Europe and compatible with most modern electronics. UK visitors need a UK-to-EU adapter. American and Canadian visitors need both a plug adapter and a voltage converter for devices not rated for 110–240V (check your device label — most modern chargers and laptops are dual-voltage).",
+      "tourist_tips": [
+        "Most modern phone chargers, laptop power bricks, and camera chargers are dual-voltage (100–240V) — check the label and you may only need a plug adapter.",
+        "Pick up a universal travel adapter before departure — they are available at airports but cheaper bought at home.",
+        "Greek hotels sometimes have USB charging ports built into the bedside unit, saving the need for a plug adapter for small devices."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Greece",
+      "quick_answer": "The main tourist scams are overcharging taxis, restaurant menu-switching, and fake gold rings — stay alert in central Athens.",
+      "detail": "Athens city centre has a handful of well-documented tourist scams. Taxis, especially around the airport and Monastiraki, sometimes overcharge by not turning on the meter or quoting inflated flat fares. Some tourist-facing restaurants in central Athens show tourists a menu with higher prices than the one given to locals, or add unsolicited items to the bill. The 'lost ring' or 'friendly stranger' scam involves someone pressuring you to keep a gold ring they 'found', leading to a demand for money. Friendship bracelet vendors near monuments can become aggressively persistent.",
+      "tourist_tips": [
+        "Always ask for a written menu with prices and cross-check the bill before paying at central Athens tourist restaurants.",
+        "Ignore anyone who approaches you claiming to have found a gold ring and wanting to give it to you — it is a pretext to demand money.",
+        "Use Beat or Uber (taxi mode) in Athens to avoid all taxi fare disputes — price is confirmed upfront in the app."
+      ],
+      "warning": "The Monastiraki and Plaka areas of Athens have a concentration of tourist-targeted overcharging; a little vigilance and checking prices in advance saves significant frustration.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Greece",
+      "quick_answer": "Greece is generally very safe; the main risk for tourists is pickpocketing in central Athens and leaving valuables unattended on beaches.",
+      "detail": "Greece consistently ranks as one of the safer European destinations for tourists. Violent crime against tourists is rare. The main risks are petty theft: pickpocketing on Athens Metro (particularly Line 3 from the airport), around Monastiraki and Omonia Square, and bag snatching from motorbikes (rare but documented). The islands are extremely safe with very low crime rates. Leaving phones, bags, or valuables unattended on busy beaches is an invitation for opportunist theft.",
+      "tourist_tips": [
+        "Use a money belt or a zipped inner pocket on the Athens Metro and in crowded tourist areas like Monastiraki.",
+        "Never leave bags, phones, or cameras unattended on a beach — even for a quick swim.",
+        "The Omonia Square area of Athens has higher crime levels than the rest of the city; exercise extra caution after dark."
+      ],
+      "warning": "Pickpocketing on Athens Metro Line 3 (airport line) is reported regularly — keep bags in front of you and zip all pockets on this route.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Greece",
+      "quick_answer": "Greeks are warm and hospitable — philotimo (honour and generosity) is central to the culture, and rushing or being brusque is considered rude.",
+      "detail": "The concept of philotimo — broadly, a sense of honour, pride, and the duty to be generous and hospitable — underpins Greek social life. Greeks are effusive, expressive, and time-flexible: dinner is eaten late, conversations run long, and schedules are approximate. A head tilted back with a click of the tongue means 'no' (it can look like a nod to outsiders). The open-palm hand gesture (moutza) directed at someone is a serious insult — never raise your palm toward someone. Being a guest is taken seriously, and refusing food or drink from a Greek host can cause genuine offence.",
+      "tourist_tips": [
+        "If a Greek insists on paying for your coffee or meal, accept graciously — reciprocate next time rather than arguing over the bill.",
+        "Learn the subtle 'no' gesture (head tilt back, eyes upward, tongue click) so you don't misread agreement from locals.",
+        "Never make the moutza gesture (open palm thrust toward someone) — it is one of the most offensive gestures in Greek culture."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Greece",
+      "quick_answer": "English is widely spoken in tourist areas, but learning a few Greek words is warmly received and makes a strong positive impression.",
+      "detail": "The Greek alphabet can appear daunting, but many tourist signs and menus also include transliterations or English translations. In Athens, Santorini, Mykonos, Rhodes, and most main tourist hubs, English is spoken by nearly all service staff and many locals. Away from tourist zones, English ability drops significantly. Even a small effort to use Greek — 'efcharisto' (thank you), 'parakalo' (please/you're welcome), or 'yamas' (cheers) — is met with genuine delight by locals. Google Translate handles Greek well and supports the camera translation feature for menus and signs.",
+      "tourist_tips": [
+        "Learn efcharisto (thank you) and yassas (hello/goodbye formal) — using them will consistently earn warm responses.",
+        "Download the Greek language pack for Google Translate offline use before you travel, especially for island trips.",
+        "Menus in tourist restaurants almost always have English translations or photos — ask for an English menu if none is visible."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Greece",
+      "quick_answer": "Greece has outstanding beaches with many EU Blue Flag awards; watch for seasonal jellyfish and sea urchins, and note that organised beaches charge for sunbeds.",
+      "detail": "Greek beaches are among the best in Europe, ranging from dramatic volcanic black-sand beaches in Santorini to turquoise-water coves in the Ionian islands. Jellyfish (medousa) are a seasonal hazard, particularly from July to September — lifeguards or beach attendants usually post warnings. Sea urchins are present on rocky shorelines and water shoes are a sensible precaution on any non-sandy beach. Organised beaches (with sunbeds and umbrellas) typically charge around €8–15 per sunbed with umbrella; free public beach access is always available nearby.",
+      "tourist_tips": [
+        "Pack or buy inexpensive water shoes — sea urchin spines are painful and they are common on rocky beaches across the Aegean.",
+        "Check with the beach bar or lifeguard about jellyfish before swimming in late summer, particularly in the Saronic Gulf and North Aegean.",
+        "Every organised beach has an adjacent free public area where you can lay your own towel — useful for saving money on busy Mykonos or Santorini beaches."
+      ],
+      "warning": "Sea urchin injuries are common on rocky Greek beaches — wearing water shoes greatly reduces the risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Greece",
+      "quick_answer": "Drive on the right; EU, US, and UK licences are valid; island roads are narrow and winding, and ATV rentals carry significant injury risk.",
+      "detail": "Greece drives on the right-hand side of the road. An International Driving Permit is not required for EU, US, or UK licence holders, but it is useful in rural areas. Speed limits are 50 km/h in towns, 90 km/h on rural roads, and 130 km/h on motorways. The blood alcohol limit is 0.05% BAC, stricter than in the UK and US. Island roads are frequently narrow, unlit, and winding, and ATV/quad bike rentals are a leading cause of tourist injuries in Greece — exercise extreme caution or avoid entirely.",
+      "tourist_tips": [
+        "If renting a car on the islands, choose a small vehicle — many roads on Santorini, Crete, and Rhodes are barely wide enough for one car.",
+        "Avoid renting ATVs or quad bikes unless you are an experienced rider; serious accidents involving tourists are reported every summer.",
+        "Toll roads exist on major mainland highways (e.g., Athens–Thessaloniki); keep small coins or a card handy as not all booths take contactless."
+      ],
+      "warning": "ATV and quad bike accidents are the leading cause of serious tourist injuries in Greece; many rental companies have minimal safety standards — consider a small hire car instead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Greece",
+      "quick_answer": "Greek food culture centres on shared meze, very late dinners, and fresh fish priced by weight — always confirm fish prices before ordering.",
+      "detail": "Greek dining is a leisurely, social affair; dinner typically starts at 9–10pm and locals rarely eat before then. Tavernas serve shared meze (small dishes) and this is the recommended way to eat. Fresh fish is displayed on ice and sold by weight — always ask the waiter to weigh and quote the price before it is cooked to avoid bill shock. Gyros and souvlaki from street kiosks are excellent, cheap (around €2.50–3.50), and a staple for lunch. House wine (hima) served in carafes at tavernas is often locally produced and very affordable.",
+      "tourist_tips": [
+        "Always confirm the price per kilo of fish before ordering — a sea bream can cost €10 but a larger fish can run to €40 or more.",
+        "Eat gyros and souvlaki for lunch at local kiosks rather than tourist restaurants — same quality, a fraction of the price.",
+        "Arrive at a taverna at 9pm or later to eat alongside locals rather than only tourists, and service will generally be more attentive."
+      ],
+      "warning": "Fish prices at tavernas are listed per kilo and the final cost can surprise unprepared diners — always ask for the weight and price before the fish is prepared.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Greece",
+      "quick_answer": "Cover shoulders and knees at all Orthodox churches and monasteries; women may need to wear a skirt rather than trousers at some monasteries.",
+      "detail": "Greek Orthodox Christianity is the dominant religion and its churches and monasteries are sacred, functioning places of worship as well as tourist attractions. The minimum dress requirement everywhere is covered shoulders and knees. Some monasteries — particularly those at Meteora and on Athos — additionally require women to wear skirts rather than trousers; wraps are often available at the entrance. Photography inside churches varies: some allow it quietly, others prohibit it entirely, especially during services. Mount Athos (the monastic peninsula) is restricted to men only and requires a special permit (diamonitirion).",
+      "tourist_tips": [
+        "Pack a lightweight sarong in your day bag — it serves as both a shoulder cover and a makeshift skirt when needed at monasteries.",
+        "The Meteora monasteries have stricter dress codes than most and turn visitors away at the door; comply to avoid disappointment after the climb.",
+        "If you wish to attend an Orthodox liturgy, arrive quietly, stand respectfully, and switch your phone to silent — it is a spiritual experience and not a performance."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Greece",
+      "quick_answer": "The best times to visit are April–June and September–October — warm, uncrowded, and with lower prices than peak summer.",
+      "detail": "Greece has a Mediterranean climate with hot, dry summers and mild, wet winters. July and August are the peak tourist months: temperatures regularly exceed 35°C and popular islands like Mykonos and Santorini become very crowded and expensive. The meltemi — a strong northerly wind — can disrupt ferry services across the Aegean in August. April to June offers warm weather, blooming wildflowers, and significantly fewer crowds. September and October are excellent for beach holidays with warm sea temperatures and quieter resorts. Athens is comfortable year-round, even in winter.",
+      "tourist_tips": [
+        "Visit the Acropolis and other outdoor archaeological sites early in the morning (opening time) in July and August to beat the heat and crowds.",
+        "September is arguably the best month for island-hopping: sea temperatures are at their warmest, crowds have thinned, and prices drop after August.",
+        "Check ferry operating status during the meltemi season (August) before planning tight onward connections from Aegean islands."
+      ],
+      "warning": "The meltemi wind can cancel or significantly delay ferries across the Aegean in August — always book accommodation with flexible cancellation and allow buffer days near flights.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Greece",
+      "quick_answer": "Free beaches, cheap street food, supermarket wine, and free museum entry on the first Sunday of the month (October–March) make Greece very affordable on a budget.",
+      "detail": "Greece can be done cheaply with some planning. Gyros and souvlaki cost €2.50–3.50 and are a satisfying meal. Supermarket wine and ouzo are extremely affordable — a decent bottle of local wine costs €4–6. Standing at the bar counter (rather than sitting at a table) gets you cheaper coffee in Greek kafeneions. All state archaeological sites and museums offer free admission on the first Sunday of the month from October through March. Monasteries are typically free or request a small donation. Public beaches are free; the paid sunbed fee is optional.",
+      "tourist_tips": [
+        "Visit the Acropolis, National Archaeological Museum, and other state sites for free on the first Sunday of the month (October–March).",
+        "Buy wine, ouzo, and snacks from supermarkets (AB Vassilopoulos, Sklavenitis, Lidl) rather than tourist mini-markets, which charge two to three times as much.",
+        "Order your morning coffee standing at the counter in a local kafeneion — you pay the 'bar price' rather than the more expensive table-service rate."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

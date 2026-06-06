@@ -1,0 +1,380 @@
+{
+  "country": "Italy",
+  "slug": "italy",
+  "emoji": "🇮🇹",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Italian",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Italy",
+      "quick_answer": "Tipping is not obligatory in Italy. Round up or leave €1–2 for good service. The 'coperto' cover charge is separate from a tip.",
+      "detail": "Italy does not have a strong tipping culture — Italian service staff receive a proper salary. However, a small tip for good service is appreciated. At restaurants, leaving €1–2 per person or rounding up the bill is the local custom. Note that the coperto (cover charge, €1–3 per person) and servizio (service charge, sometimes 10–15%) may already appear on your bill — check before adding more. At bars, leaving the small change from a coffee (€0.10–0.20) in the dish on the counter is the typical Italian gesture. Taxi drivers appreciate rounding up.",
+      "tourist_tips": [
+        "Check your bill for 'coperto' (cover charge) and 'servizio' (service charge) before adding a tip",
+        "At a standing bar (drinking at the counter), leave your coffee change in the dish",
+        "A €1–2 tip at a restaurant for good service is very generous by Italian standards",
+        "Don't tip at fast food or self-service places — it would be unusual",
+        "Tour guides appreciate €2–5 per person for a good tour"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Italy",
+      "quick_answer": "Italian cities have buses and trams. Rome and Milan have metros. Validate your ticket immediately — inspectors are frequent and fines are €100+.",
+      "detail": "Italy's public transport works well in major cities but requires vigilance about ticket validation. In Rome, the metro (Line A and B) connects main tourist sites. Buses are extensive. In Milan, the Metro is excellent. Florence and Venice rely mainly on buses and water buses (vaporetti) respectively. Paper tickets must be validated (punched/stamped) in the small machines at bus stops, metro entrances, or tram stops — before or immediately upon boarding. Trenitalia and Italo operate intercity high-speed trains (Frecciarossa). Book intercity trains well in advance online for significant savings.",
+      "tourist_tips": [
+        "Validate your ticket IMMEDIATELY when boarding any bus, tram, or entering the metro — before you sit down",
+        "Buy transport tickets at tobacco shops (tabacchi), newspaper kiosks, or station machines",
+        "In Venice, the vaporetto (water bus) uses the same ticket system — validate on the docks",
+        "Book Trenitalia/Italo high-speed trains online 60–90 days ahead for the best prices",
+        "Taxi scams exist in Rome and Naples — only use official white taxis with meters or prebook via app"
+      ],
+      "warning": "Riding without a validated ticket in Italy results in fines of €100+ on the spot. This applies even if you have a valid ticket that you simply forgot to stamp.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Italy",
+      "quick_answer": "EU citizens use EHIC for free or reduced-cost care. Non-EU tourists should have travel insurance. Emergency care is available to all at public hospitals.",
+      "detail": "Italy has a public healthcare system (Servizio Sanitario Nazionale, SSN) that provides emergency care to all regardless of nationality. EU citizens with an EHIC card receive the same treatment as Italian residents. Non-EU tourists must pay for non-emergency care — costs are lower than in the US but still significant without insurance. Emergency rooms (Pronto Soccorso) are available at all public hospitals. Italian pharmacists are highly trained and can advise on and dispense many medications. The healthcare quality varies regionally — northern Italy (Milan, Bologna) generally has better infrastructure than the south.",
+      "tourist_tips": [
+        "EU citizens: carry your EHIC card — it gives access to the SSN at Italian resident rates",
+        "Farmacia (pharmacy, green cross sign) pharmacists are excellent for minor ailments",
+        "Duty pharmacies (Farmacia di Turno) are open at night and on Sundays — a list is posted on every pharmacy door",
+        "For serious emergencies, call 118 (ambulance) or go to Pronto Soccorso at any public hospital",
+        "Private hospitals and clinics exist in major cities for faster service with fewer language barriers"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Italy",
+      "quick_answer": "Many Italian cities ban sitting on monuments, eating near fountains, and other tourist behaviors with heavy fines. Know the local restrictions.",
+      "detail": "Italy has created a series of local ordinances (often in Florence, Rome, Venice) targeting tourist behavior. In Florence, eating, sitting, or lying near the Duomo and Uffizi is banned and fines are €150–500. In Venice, swimming in canals, feeding pigeons, and sitting on certain steps carries fines. In Rome, there are restrictions around the Trevi Fountain (no swimming, no wading, no eating nearby). Across Italy, it is illegal to buy from unauthorized street vendors (yes, the tourist buying the fake bag can also be fined). Carrying a knife over 4cm in public is restricted.",
+      "tourist_tips": [
+        "Do not sit on the steps of monuments or eat near fountains in Florence, Rome, or Venice — fines are real",
+        "Do not buy counterfeit goods from street vendors — tourists have been fined €1,000+",
+        "In Venice, do not swim in canals — it is illegal and dangerous (boat traffic, pollution)",
+        "Offensive or revealing clothing near churches can result in fines — carry a cover-up",
+        "The Trevi Fountain: no wading or swimming; throwing a coin is fine, jumping in is not"
+      ],
+      "warning": "Many Italian historic cities now enforce tourist behavior laws actively. Fines for eating near monuments, sitting on steps, or wading in fountains range from €150 to €500+.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Italy",
+      "quick_answer": "Police: 113 or 112. Ambulance: 118. Fire: 115. Carabinieri (military police): 112.",
+      "detail": "Italy has several emergency services. 112 is the EU standard number and now serves as a single European emergency number in Italy connecting to police (Carabinieri), ambulance, and fire. 113 connects to the Polizia di Stato (state police), 118 directly to ambulance (SUEM), and 115 to fire brigade. In practice, 112 is the easiest to remember and works from all phones. Tourist assistance in English is available at police stations in major cities and at tourist police offices often located near main tourist sites in Rome and Florence.",
+      "tourist_tips": [
+        "112 is the most reliable single number to call for any emergency — connects to all services",
+        "118 directly for medical emergencies if you want to bypass the routing",
+        "Carabinieri (military police) and Polizia di Stato both handle tourist crimes — find whichever station is closer",
+        "Tourist police (Polizia Turistica) offices exist in Rome, Florence, and Venice — specifically for visitor incidents",
+        "Keep a written record of your passport number and embassy contact in your wallet"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Italy",
+      "quick_answer": "Modest dress required at churches — cover shoulders and knees. Italians dress well in cities. No beachwear in city streets, especially in smaller towns.",
+      "detail": "Italy's churches (and it has thousands) uniformly require modest dress: no bare shoulders, no short shorts or skirts above the knee. The Vatican (St. Peter's Basilica) enforces this strictly — visitors in sleeveless tops or shorts will be refused entry. In beach towns, beachwear is normal on the seafront but wearing bikinis or going shirtless in the main streets, restaurants, or shops is frowned upon and increasingly subject to local ordinances with fines. Italian urban culture tends toward stylish, well-fitted clothing. Very casual tourist attire in an upscale restaurant may result in being seated in less desirable areas.",
+      "tourist_tips": [
+        "Always carry a scarf or sarong for church visits — you will need it unexpectedly",
+        "Vatican entry: shoulders AND knees must be covered for everyone — no exceptions",
+        "Many churches provide plastic covers or scarves to borrow at the entrance for free",
+        "In beach towns like Cinque Terre, wearing swimwear in the village streets can result in fines",
+        "Italian evening culture tends toward smart casual — dressing up for dinner is appreciated"
+      ],
+      "warning": "The Vatican enforces its dress code strictly. Guards at St. Peter's Basilica will not allow entry to anyone with bare shoulders or shorts above the knee, regardless of how long you waited in line.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Italy",
+      "quick_answer": "Drinking age is 18. Wine is part of every meal. Public drinking is legal in most areas. Some cities ban street drinking at night.",
+      "detail": "Italy has a deeply ingrained wine culture — wine accompanies almost every lunch and dinner as a matter of course. The legal drinking age is 18. Alcohol is sold in supermarkets, enotecas (wine shops), bars, and restaurants. There are no national restrictions on when alcohol can be sold. Drinking in public (piazzas, parks, streets) is generally legal. However, many cities have introduced ordinances banning alcohol in certain streets after midnight or at night — particularly in areas with nightlife to reduce noise and disorder. Florence, Rome, and Milan have such zones in some neighborhoods.",
+      "tourist_tips": [
+        "Aperitivo (pre-dinner drinks with free snacks) is an Italian institution — typically 6–8pm in bars",
+        "House wine (vino della casa) in Italian restaurants is excellent value and usually locally produced",
+        "Prosecco, Chianti, Barolo, and Amarone are regional wines worth trying based on which region you're in",
+        "Check local ordinances about drinking in specific piazzas — signs are usually posted",
+        "Driving: Italy's BAC limit is 0.05% (0.00% for drivers under 21 and those with license under 3 years)"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Italy",
+      "quick_answer": "Fixed prices in shops and restaurants. Bargaining is normal at outdoor markets, antique fairs, and with artisans for custom goods.",
+      "detail": "Italy has a fixed-price culture in formal retail settings. However, outdoor markets (mercati) and antique fairs have a bargaining tradition. At markets selling clothing, leather goods, or souvenirs, asking for a better price is expected and vendors are usually willing to negotiate 10–20%. At antique fairs, negotiation is part of the culture. With artisan craftspeople (leather workers in Florence, ceramicists in Amalfi), negotiating on larger custom orders is often possible. Street vendors selling counterfeit goods always negotiate, but buying counterfeit items is itself illegal.",
+      "tourist_tips": [
+        "At outdoor markets and antique fairs, start at 70–80% of the asking price",
+        "Florence's leather markets around San Lorenzo are known for negotiation — compare across stalls first",
+        "Offer to pay cash as an opener for negotiation — 'Sconto per contanti?' (discount for cash?) works",
+        "Do not bargain at trattorias, restaurants, or established shops — it is not appropriate",
+        "Near end of day at markets, vendors are more flexible on price rather than pack up unsold goods"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Italy",
+      "quick_answer": "Photography is broadly allowed at tourist sites. Many museums ban photography or flash. Check rules at each site. Privacy laws apply to individuals.",
+      "detail": "Italy is one of the world's most photographed countries with iconic subjects at every turn. Most outdoor sites, monuments, and landscapes can be freely photographed. However, photography rules at indoor museums and galleries vary significantly. The Vatican Museums and Sistine Chapel ban photography entirely (the no-flash rule was extended to a full ban in the Sistine Chapel due to a copyright agreement with Nippon Television). Many Italian museums ban flash but allow photography. The Uffizi in Florence allows photography without flash in most rooms. Check signage at each location.",
+      "tourist_tips": [
+        "Sistine Chapel: photography of any kind is now banned — enforce your memory with your eyes",
+        "The Colosseum exterior is freely photographable; inside, personal photography is allowed",
+        "Uffizi Gallery: photography without flash allowed in permanent collections",
+        "Do not use a selfie stick in many Italian museums — they are banned as they risk damaging artworks",
+        "Night photography of the Trevi Fountain and other lit monuments is spectacular and unrestricted"
+      ],
+      "warning": "Photography is banned inside the Sistine Chapel by agreement between the Vatican and Nippon Television. Cameras are confiscated and you may be removed from the Vatican Museums.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Italy",
+      "quick_answer": "Many Italian shops close Sunday or open shorter hours. Restaurants are generally open. On public holidays, most things close — plan ahead.",
+      "detail": "Italy's Sunday culture varies by region and type of business. In major tourist cities (Rome, Florence, Venice), many shops open on Sundays, especially in tourist areas. Supermarkets may open shorter Sunday hours. In smaller towns and non-tourist areas, Sunday closures are common — the giorno di riposo (day of rest) is still observed. Traditional Italian towns also observe the riposo (afternoon siesta) from roughly 1pm–4pm daily, during which many shops close. Public holidays (there are 12 per year) see widespread closures — ferragosto (August 15) is particularly significant with many businesses closed for up to 2 weeks in August.",
+      "tourist_tips": [
+        "In August (especially around Ferragosto on Aug 15), many Italian restaurants and shops close for weeks — plan carefully",
+        "The riposo (afternoon break 1–4pm) still applies in smaller Italian towns — do shopping in the morning",
+        "On Sundays, markets and outdoor activities are often at their best — it's a social day",
+        "In major tourist cities, Sunday is as active as any weekday in tourist zones",
+        "New Year's Day, Easter Monday, Ferragosto, and All Saints Day (Nov 1) are major closure dates"
+      ],
+      "warning": "Ferragosto (August 15) is a national holiday when many Italians take their annual vacation. In smaller towns, restaurants, shops, and services can be closed for 1–3 weeks around this date.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Italy",
+      "quick_answer": "Official white taxis with meters are reliable; use itTaxi or Uber to book safely and avoid unmarked touts, especially at major train stations.",
+      "detail": "Italy's official taxis are white with a taxi sign on the roof and always use meters. The itTaxi app lets you book official metered taxis directly, removing any negotiation. Uber operates in Rome and Milan but is more limited than in other countries due to local regulations. At Rome Termini, Florence Santa Maria Novella, and Naples Centrale, unlicensed touts aggressively approach arrivals — never accept rides from anyone not in an official taxi or a pre-booked app. Cabify also operates in some Italian cities. The Roma Pass includes discounted public transport but not taxis.",
+      "tourist_tips": [
+        "Book via itTaxi or Uber rather than hailing street taxis to lock in the fare and avoid overcharging",
+        "At train stations and airports, always walk to the official taxi rank rather than accepting offers inside the terminal",
+        "Agree on the fare or confirm the meter is running before any journey starts"
+      ],
+      "warning": "Unlicensed taxi touts at Rome, Florence, and Naples stations frequently overcharge tourists by 3–5x the legitimate fare. Never enter an unmarked vehicle or one where the driver approaches you inside the station.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Italy",
+      "quick_answer": "Tap water is safe to drink in all Italian cities, and Rome's famous nasone street fountains provide free cold drinking water throughout the city.",
+      "detail": "Italy's tap water (acqua del rubinetto) meets EU safety standards and is safe to drink in Rome, Milan, Florence, Venice, and across the country. In Rome, hundreds of nasone (small iron drinking fountains) dot the streets and provide a continuous flow of cold, clean water for free. At restaurants, you can always request free tap water by asking for 'acqua del rubinetto' — by law it must be provided. Some remote islands and rural areas of southern Italy may have water with a different taste due to mineral content, but it remains safe. San Pellegrino and Fiuggi are famous Italian mineral waters if you prefer bottled.",
+      "tourist_tips": [
+        "Carry a reusable bottle and refill at Rome's nasone fountains to stay hydrated for free",
+        "Ask for 'acqua del rubinetto' at restaurants to avoid paying €3–5 for bottled water",
+        "In rural southern Italy or on small islands, tap water is safe but may taste mineral-heavy"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Italy",
+      "quick_answer": "Cash remains important in Italy, especially in smaller towns and markets; use bank ATMs such as Intesa Sanpaolo or UniCredit and always decline dynamic currency conversion.",
+      "detail": "Euro cash is essential in Italy — many traditional restaurants, local markets, and smaller businesses outside major cities do not accept cards. Intesa Sanpaolo, UniCredit, and BancoBPM ATMs are widely available and charge low or no fees. Euronet ATMs, which are common in tourist areas of Rome, Florence, and Venice, charge high fees and aggressively promote dynamic currency conversion (DCC) — always choose to be charged in euros. Venice and heavily touristed zones are notoriously expensive, but paying cash at local alimentari and markets avoids tourist markups. Wise and Revolut cards are excellent for fee-free euro withdrawals.",
+      "tourist_tips": [
+        "Use bank-branded ATMs (Intesa Sanpaolo, UniCredit, BancoBPM) and avoid Euronet machines in tourist zones",
+        "Always select 'charge in EUR' and decline dynamic currency conversion to avoid a 3–8% surcharge",
+        "Carry €50–100 in cash for markets, small towns, and traditional restaurants that are card-free"
+      ],
+      "warning": "Euronet ATMs in tourist areas push dynamic currency conversion prominently. Accepting their exchange rate costs 3–8% more than your own bank's rate. Always decline and choose euros.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Italy",
+      "quick_answer": "TIM offers the best national coverage; buy a local SIM at airports, tabacchi (tobacconists), or carrier stores for affordable data across Italy.",
+      "detail": "Italy's main carriers are TIM (best rural and mountain coverage), Vodafone IT, WindTre, and Iliad (cheapest plans). SIMs are sold at airports, tabacchi shops, and carrier stores with passport ID required. EU residents benefit from free roaming across Italy under EU regulations. Airalo and other eSIM providers work well for short stays and eliminate the need for a physical SIM. Coverage is strong in cities and on main highways but can be patchy in the mountains of northern Italy and in rural southern Italy. Public Wi-Fi exists in many hotels, cafes, and some piazzas but is generally slow.",
+      "tourist_tips": [
+        "Buy a TIM or Vodafone IT SIM for best coverage if travelling outside major cities or into mountainous areas",
+        "Iliad offers the cheapest data plans in Italy — good for longer stays on a budget",
+        "An Airalo eSIM is the fastest option if your phone supports eSIM and you want data before landing"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Italy",
+      "quick_answer": "Italy uses 230V/50Hz with its own unique Type L plug (three round pins in a row), though Type C adapters usually fit; bring a universal adapter to be safe.",
+      "detail": "Italy operates on 230V/50Hz electricity. The standard Italian socket is Type L, which has three round pins arranged in a straight line — this is unique to Italy and is not found in most other European countries. Many modern Italian sockets also accept Type C (two round pin) plugs, and some newer installations accept Type F (Schuko) with some force. Visitors from the UK, US, Australia, and most of Asia will need an adapter. A universal travel adapter covers all scenarios. Most modern electronics (laptops, phone chargers) are dual-voltage (100–240V) and need only an adapter, not a converter.",
+      "tourist_tips": [
+        "Pack a universal travel adapter — Type L is unique to Italy and not covered by standard European adapters",
+        "Check your device labels for '100–240V' (dual voltage) before plugging in — most modern devices are fine",
+        "Type C two-pin plugs usually fit Italian sockets, so a basic European adapter often works in practice"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Italy",
+      "quick_answer": "Rome's tourist areas have notable pickpocket activity and common scams; stay alert at the Colosseum, Trevi Fountain, Vatican, and on buses 40 and 64.",
+      "detail": "Pickpocketing is the most common tourist problem in Italy, concentrated in Rome's major tourist sites and on crowded buses. The fake petition scam (someone thrusts a clipboard at you and then demands money) is common near monuments. 'Helpful' costumed centurions and unofficial guides at the Colosseum pose for photos then demand payment. Tourist menus displayed in large fonts outside restaurants near the Colosseum or Trevi Fountain are typically overpriced — one block away prices drop significantly. Buying counterfeit designer goods from street vendors is illegal for the buyer as well as the seller; fines can reach €1,000. Waiters occasionally add items to the bill that were not ordered.",
+      "tourist_tips": [
+        "Use a money belt or front-pocket wallet in Rome's tourist areas, especially on buses 40 and 64 (Vatican route)",
+        "Refuse clipboards, bracelets, and unsolicited 'gifts' from strangers near monuments — a payment demand always follows",
+        "Always check your restaurant bill line by line before paying, particularly in tourist zones"
+      ],
+      "warning": "Rome pickpockets are highly professional and target distracted tourists at the Colosseum, Vatican, Trevi Fountain, and on crowded buses. Keep valuables in a front pocket or money belt at all times in these areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Italy",
+      "quick_answer": "Italy is generally safe for tourists, but petty theft is a real risk in Rome and Naples; Florence and Venice have very low crime rates.",
+      "detail": "Italy ranks as one of Europe's safer tourist destinations for violent crime, but petty theft — particularly pickpocketing and bag snatching — is a genuine concern in certain cities. Rome's tourist areas require constant vigilance: keep bags in front and phones out of back pockets. Naples has a higher rate of petty crime including motorbike bag-snatching (scippatori), so wear bags across the body away from the road. Florence and Venice are among Italy's safest cities for tourists. Southern Italy generally has a slower, more relaxed pace with less tourist infrastructure but is not inherently dangerous. Lone female travellers report occasional verbal harassment in southern cities but rarely physical threat.",
+      "tourist_tips": [
+        "In Naples, wear your bag across the body on the side away from the road to reduce motorbike snatch risk",
+        "Avoid displaying expensive cameras, jewellery, or phones in crowded Rome tourist areas",
+        "Florence and Venice are very safe — normal city awareness is sufficient there"
+      ],
+      "warning": "Motorbike bag-snatching (scippatori) is a real risk in Naples. Never walk near the kerb with a bag on the road-side shoulder, particularly in the historic centre and near the train station.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Italy",
+      "quick_answer": "Italians value bella figura (making a good impression), greet with two cheek kisses, drink cappuccino only in the morning, and take dinner very late.",
+      "detail": "The concept of bella figura — presenting yourself well and making a good impression — pervades Italian daily life. Dress neatly, especially in cities; Italians notice clothing quality and fit. Greetings typically involve two kisses on the cheeks (right cheek first) among people who know each other. Ordering a cappuccino after lunch or dinner is a cultural faux pas that marks you immediately as a tourist; espresso is the post-meal standard. Standing at the bar counter for coffee is cheaper and more authentically Italian than sitting at a table. Dinner is eaten late — typically 8–10pm in the north and as late as 10–11pm in the south. Regional identity is very strong: avoid conflating Milan, Rome, and Naples.",
+      "tourist_tips": [
+        "Order espresso after meals, not cappuccino — cappuccino after 11am is considered a tourist mistake by Italians",
+        "Stand at the bar counter for coffee rather than sitting — it is cheaper and the local way",
+        "Greet shopkeepers and restaurant staff with 'Buongiorno' when entering — it is basic politeness and always appreciated"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Italy",
+      "quick_answer": "Italian is the national language; English is spoken in tourist areas and hotels but limited outside them, especially in southern Italy.",
+      "detail": "Italian is spoken across the country, with strong regional dialects. In major tourist cities — Rome, Florence, Venice, Milan — hotel staff, museum personnel, and many restaurant workers speak English. Outside tourist zones, English proficiency drops significantly, particularly in rural areas and southern Italy. Learning a few Italian phrases earns immediate warmth and goodwill: 'Buongiorno' (good morning/good day), 'Grazie' (thank you), 'Prego' (you're welcome), 'Scusi' (excuse me), and 'Dov'è...?' (where is...?) go a long way. Google Translate with the offline Italian pack handles most situations. Italians are expressive communicators and use hand gestures extensively.",
+      "tourist_tips": [
+        "Download Google Translate's Italian language pack offline before arriving — invaluable in smaller towns",
+        "Start every interaction with 'Buongiorno' or 'Buonasera' — Italians consider it rude to skip the greeting",
+        "Even a badly pronounced 'Grazie' and 'Scusi' will earn a warmer response than speaking English immediately"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Italy",
+      "quick_answer": "Italy has world-class beaches from Sardinia's white sand to Puglia's Adriatic coast; free public beaches (spiagge libere) exist alongside paid beach clubs.",
+      "detail": "Italy's coastline offers remarkable variety. Sardinia is consistently ranked among Europe's best beach destinations with turquoise water and fine white sand, particularly in the Costa Smeralda and Chia areas. Puglia's Adriatic coast offers warm, clear water and less crowding. Sicily has dramatic volcanic black sand and sea-cave beaches. The Amalfi Coast is visually stunning but beaches are rocky and very crowded in summer. Cinque Terre's beaches are pebble. Organized beach clubs (stabilimenti balneari) charge €15–30 per person for a sunbed and umbrella; free public beaches (spiagge libere) are available at most locations. Jellyfish (meduse) appear in August along many coasts.",
+      "tourist_tips": [
+        "For Italy's best sand and water quality, prioritise Sardinia (June or September to avoid August crowds)",
+        "Look for 'spiaggia libera' signs to find free public beach sections alongside paid beach clubs",
+        "Check local beach conditions in August for jellyfish warnings — meduse are common in the Adriatic and Tyrrhenian"
+      ],
+      "warning": "Jellyfish (meduse) are common on many Italian coasts in July and August. Check local beach condition reports before swimming and carry antihistamine cream.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Italy",
+      "quick_answer": "Drive on the right; ZTL restricted traffic zones in historic city centres are camera-enforced and generate automatic fines for foreign plates weeks after the visit.",
+      "detail": "Italy drives on the right. The most critical rule for tourists is the ZTL (Zona Traffico Limitato) system in historic city centres — cameras photograph every vehicle entering and fines arrive by mail weeks later, often surprising tourists who were unaware. GPS apps do not always warn about ZTL zones reliably. Motorways (Autostrada) require tolls; a Telepass transponder speeds up toll payment but a cash lane is always available. Driving in Naples is notoriously chaotic with lane markings treated as suggestions. Parking in city centres is nearly impossible; use designated car parks (parcheggi) outside ZTL zones. An international driving permit is advisable alongside your national licence.",
+      "tourist_tips": [
+        "Research ZTL zones for every city you plan to drive into — entering without a permit generates camera fines sent to your home address",
+        "Use Telepass or the exact change (moneta esatta) lane on the Autostrada to pay tolls quickly",
+        "Park in official parcheggi outside historic centres and use public transport or walking inside — it is faster and cheaper"
+      ],
+      "warning": "ZTL camera fines for driving in restricted historic centres are sent to foreign tourists' home addresses weeks after the trip, often via rental car companies who add an admin fee on top. Check ZTL maps carefully before driving into any Italian city centre.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Italy",
+      "quick_answer": "Italian meals follow strict timing and regional variation; coperto (cover charge) appears on every bill and tourist-zone restaurants near sights are dramatically overpriced.",
+      "detail": "Italian food culture is highly regional — Neapolitan pizza differs fundamentally from Roman or Sicilian pizza, and pasta shapes and sauces are tied to specific regions. Breakfast is standing at a bar with an espresso and cornetto (croissant) for around €1.50. Lunch runs 12–2pm and dinner 8–11pm; arriving outside these windows may mean limited menus. A coperto (cover charge) of €1–4 per person is standard and legal — it is not a tip. Tourist-zone restaurants within sight of major monuments charge two to three times more for worse food; walking just one or two streets away transforms both quality and price. Asking for cappuccino after lunch is a cultural marker that prompts gentle mockery.",
+      "tourist_tips": [
+        "Walk at least one block away from any major monument before choosing a restaurant — prices and quality improve immediately",
+        "Check the bill for 'coperto' (cover charge per person) — it is legitimate but separate from any tip",
+        "Try the pranzo fisso (fixed lunch menu) for €10–15 at local trattorias — it is always the best value of the day"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Italy",
+      "quick_answer": "Vatican dress code (shoulders and knees covered) is strictly enforced with no exceptions; photography is banned inside the Sistine Chapel.",
+      "detail": "Italy is overwhelmingly Catholic and home to thousands of active churches, many of which are also major art and tourist sites. Modest dress — shoulders and knees covered for all genders — is required at virtually every church and is enforced with particular strictness at the Vatican's St. Peter's Basilica and the Sistine Chapel. The Vatican Museums including the Sistine Chapel charge €30+ entry. Photography inside the Sistine Chapel is completely banned. Many churches (including some of Italy's most beautiful) are free to enter. Rome's Jewish Ghetto contains a beautiful synagogue that welcomes visitors on guided tours. Milan Cathedral and Florence's Duomo also enforce dress codes at their entrances.",
+      "tourist_tips": [
+        "Always carry a scarf or light layer to cover shoulders and knees for spontaneous church visits — you cannot predict which ones you will want to enter",
+        "Book Vatican Museums and Sistine Chapel tickets online well in advance — same-day queues can be 2–3 hours long",
+        "Many lesser-known churches in Rome and Florence contain masterpieces by Raphael, Caravaggio, and Michelangelo and are completely free to enter"
+      ],
+      "warning": "Vatican guards will refuse entry to anyone with bare shoulders or shorts, regardless of queue time. The Sistine Chapel bans all photography — cameras and phones caught in use are confiscated and visitors may be escorted out.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Italy",
+      "quick_answer": "April–June and September–October offer the best weather and smaller crowds; July–August is extremely hot and overcrowded, especially in Rome and southern Italy.",
+      "detail": "Italy has distinct regional climates. Rome and central Italy are best in spring (April–June) and early autumn (September–October) with mild temperatures of 18–26°C and manageable crowds. July and August bring 35–40°C heat to Rome and southern Italy, with every tourist site at peak capacity. Venice is prone to acqua alta (tidal flooding) from October through January. Sardinia and Sicily are best in June and September to enjoy the sea without August's extreme heat and crowds. Milan and northern Italy experience four proper seasons, with ski resorts operating December–March in the Alps and Dolomites. Christmas and Easter are busy and expensive across Italy.",
+      "tourist_tips": [
+        "Visit Rome and the Amalfi Coast in May or early October for the best combination of weather, light, and manageable crowds",
+        "Book accommodation months in advance for July–August, Christmas, and Easter — prices double or triple",
+        "If visiting Venice in autumn or winter, pack waterproof boots for acqua alta flooding in the historic centre"
+      ],
+      "warning": "July and August in Rome and southern Italy regularly exceed 38°C. Heat-related illness is a real risk for tourists doing heavy sightseeing. Carry water constantly, seek shade at midday, and consider shifting outdoor activities to early morning.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Italy",
+      "quick_answer": "Stand at the bar for coffee, eat pizza al taglio by the slice, use the pranzo fisso lunch menu, and seek free entry churches to dramatically cut daily costs.",
+      "detail": "Italy can be done on a tight budget with the right habits. Coffee standing at the bar costs €1–1.50; sitting at a table in a tourist area costs €3–6 for the same espresso. Pizza al taglio (by the slice) from a forno costs €2–4 and is often better than sit-down tourist pizza. The pranzo fisso (fixed lunch menu) at local trattorias runs €10–15 for a two-course meal with wine. In Milan and Florence, aperitivo hour (6–8pm) at many bars includes free buffet snacks with a €7–10 drink. Gelaterie in tourist areas charge €4–6 per scoop; local neighbourhood gelaterie charge €1.50–2.50. Rome's greatest attractions — the Trevi Fountain, Spanish Steps, Pantheon exterior, Roman Forum exterior — are free.",
+      "tourist_tips": [
+        "Always order coffee standing at the bar counter — it is 50–80% cheaper than table service and the authentic Italian way",
+        "Use Milan and Florence's aperitivo hour to eat a near-full dinner's worth of food with just the cost of one drink",
+        "Buy gelato at gelaterie away from major monuments — the quality is higher and prices are half those of tourist-zone shops"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

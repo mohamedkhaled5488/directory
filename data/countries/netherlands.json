@@ -1,0 +1,460 @@
+{
+  "country": "Netherlands",
+  "slug": "netherlands",
+  "emoji": "🇳🇱",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Dutch",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in the Netherlands",
+      "quick_answer": "Tipping is not obligatory in the Netherlands, but rounding up or leaving 5-10% is appreciated for good service.",
+      "detail": "The Netherlands has no strong tipping culture — Dutch society values directness and fair pricing, so there is no social pressure to tip. In restaurants, rounding up the bill or leaving 5-10% for excellent service is a pleasant gesture but never expected. For taxis and Ubers, simply rounding up to the nearest euro is the norm. Cafes and bars rarely expect tips, though leaving small change is always appreciated.",
+      "tourist_tips": [
+        "Round up your taxi or Uber fare rather than giving a percentage tip — it is the standard local practice.",
+        "At restaurants, leave 5-10% only if you were genuinely pleased with the service; no one will notice or mind if you do not.",
+        "Avoid tipping at fast-food counters or self-service cafes — it is neither expected nor customary."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in the Netherlands",
+      "quick_answer": "The Netherlands has an excellent public transport network using the OV-chipkaart, covering all trains, trams, buses, and metros nationwide.",
+      "detail": "The OV-chipkaart is the universal contactless card used on all Dutch public transport — NS intercity trains, Amsterdam trams, buses, and metro lines. Visitors can buy a disposable OV-chipkaart at airport ticket machines or use contactless bank cards on most systems. NS (Dutch Railways) connects all major cities reliably and frequently, with Intercity Direct services to Rotterdam and The Hague. For international travel, Thalys and Eurostar depart from Amsterdam Centraal to Paris, Brussels, and London. Within cities, cycling is the dominant and often fastest form of local transport — renting a bike is strongly recommended.",
+      "tourist_tips": [
+        "Buy a disposable OV-chipkaart at Amsterdam Centraal or Schiphol airport for seamless travel on all trains, trams, and buses without queuing each time.",
+        "Always check in AND check out with your OV-chipkaart or contactless card — failing to check out results in a penalty fare.",
+        "For city exploration, renting a bike is faster and cheaper than trams — companies like MacBike and OV-fiets are widely available."
+      ],
+      "warning": "Always tap out when leaving any train, tram, or bus — forgetting to check out will charge you the maximum fare for that line.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in the Netherlands",
+      "quick_answer": "The Netherlands has an excellent healthcare system; EU visitors with an EHIC card receive covered care, and English-speaking GPs are easy to find.",
+      "detail": "EU citizens carrying a valid European Health Insurance Card (EHIC) are entitled to necessary medical treatment under the same conditions as Dutch residents. For non-EU visitors, comprehensive travel insurance is strongly recommended as Dutch healthcare, while world-class, can be expensive without coverage. The first point of contact is a general practitioner (huisarts); for after-hours urgent care, contact the local huisartsenpost (out-of-hours GP service). Pharmacies (apotheek) are widespread and staff routinely speak English. In emergencies, major hospitals include Amsterdam UMC (AMC and VUmc campuses) and Erasmus MC in Rotterdam.",
+      "tourist_tips": [
+        "EU travellers should carry their EHIC card at all times — it covers necessary treatment and avoids significant out-of-pocket costs.",
+        "For non-emergency medical issues outside GP hours, call or visit the local huisartsenpost rather than going directly to a hospital emergency room.",
+        "Pharmacies (apotheek) sell many medications without a prescription and staff speak fluent English — try these before seeking a doctor for minor ailments."
+      ],
+      "warning": "Non-EU travellers without travel insurance face very high medical bills — Dutch healthcare is excellent but not free for uninsured foreigners.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in the Netherlands",
+      "quick_answer": "Cannabis is tolerated (not legal) in licensed coffeeshops only, photographing sex workers in Amsterdam's Red Light District is strictly illegal, and cycling rules are firmly enforced.",
+      "detail": "The Netherlands operates a formal tolerance policy (gedoogbeleid) for cannabis — it is technically illegal but not prosecuted when purchased and consumed inside licensed coffeeshops. Smoking cannabis in public outside these venues is technically prohibited and can result in fines. Hard drugs are strictly illegal with serious penalties. In Amsterdam's Red Light District, photographing or filming sex workers visible in windows is explicitly illegal and actively enforced with fines exceeding €190. Cyclists are expected to follow traffic laws — running red lights or cycling the wrong way can result in on-the-spot fines.",
+      "tourist_tips": [
+        "Buy and consume cannabis only inside a licensed coffeeshop — stepping outside onto the street with it risks a fine and confrontation with police.",
+        "Never photograph or film sex workers in the Red Light District windows under any circumstances — police enforce this rule actively and fines are immediate.",
+        "Obey cycling traffic signals just as you would in a car — Dutch police do issue fines to cyclists who run red lights."
+      ],
+      "warning": "Photographing sex workers in Amsterdam's Red Light District windows is illegal and carries an on-the-spot fine of €190 or more — police are present and will act.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in the Netherlands",
+      "quick_answer": "Dial 112 for all emergencies (police, fire, ambulance); for non-urgent police matters call 0900-8844.",
+      "detail": "The single EU-wide emergency number 112 connects to police, fire brigade, and ambulance services and is free from any phone including mobiles without a SIM card. Operators speak Dutch and English. For non-emergency police issues such as reporting theft or minor incidents, call 0900-8844 (charged at local rates). The coastguard emergency number is 0900-0111. If you require out-of-hours medical advice without an emergency, contact the local huisartsenpost or call 088-0090900 for the national doctor's line.",
+      "tourist_tips": [
+        "Save 112 in your phone before you arrive — it works from any mobile even without a local SIM or credit.",
+        "Report pickpocketing or bike theft to the non-emergency police line 0900-8844 or at a local police station; this is needed for insurance claims.",
+        "For urgent but non-life-threatening medical issues after hours, find the nearest huisartsenpost (out-of-hours GP) rather than calling 112."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in the Netherlands",
+      "quick_answer": "The Netherlands is extremely relaxed about dress — practical, casual clothing is the norm everywhere, and rain gear is more important than fashion.",
+      "detail": "Dutch society places little emphasis on formal dress codes; casual clothing is accepted in nearly all settings, including most restaurants and cultural venues. Upscale restaurants and business venues may prefer smart-casual attire, but this is rarely enforced. Cycling in normal everyday clothes is the accepted Dutch standard — there is no need for cycling gear. The most important wardrobe consideration is a good waterproof jacket, as Atlantic weather brings unpredictable rain year-round. When visiting churches or mosques, covering shoulders and knees is appreciated though rarely strictly required.",
+      "tourist_tips": [
+        "Pack a compact waterproof jacket or rain poncho regardless of season — Dutch weather changes rapidly and umbrellas are impractical on a bike.",
+        "Wear comfortable walking or cycling shoes; the Netherlands is extremely flat and most sightseeing involves significant distances on foot or bike.",
+        "For churches and religious sites, covering shoulders and knees shows respect even if there is no posted dress requirement."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in the Netherlands",
+      "quick_answer": "The legal drinking age is 18, alcohol is generally permitted in public, and the Netherlands has a vibrant beer and jenever (Dutch gin) culture.",
+      "detail": "The minimum legal age to purchase and consume alcohol is 18 across the Netherlands. Drinking in public spaces is generally permitted, though some parks, plazas, and neighbourhood areas have local bans that are posted with signage. Beer is the most popular drink, with Dutch brands such as Heineken, Amstel, and Grolsch alongside a growing craft beer scene. Jenever, the traditional Dutch juniper-flavoured spirit that inspired gin, is a cultural institution — try it at a traditional proeflokaal (tasting house) in Amsterdam. Supermarkets and convenience stores sell alcohol freely, and brown cafes (bruine kroegen) are the quintessential Dutch pub experience.",
+      "tourist_tips": [
+        "Visit a traditional proeflokaal such as Wynand Fockink in Amsterdam to try authentic aged jenever — it is poured to the brim and tradition demands you sip the first drop without using your hands.",
+        "Check for signage in parks and public squares before drinking outside — some areas like parts of Amsterdam-West have local alcohol bans enforced by fines.",
+        "Supermarkets including Albert Heijn sell good Dutch beer at far lower prices than bars — stock up for canal-side picnics."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in the Netherlands",
+      "quick_answer": "Bargaining is not customary in the Netherlands — prices are fixed in nearly all retail settings, with limited flexibility at flea markets and antique dealers.",
+      "detail": "Dutch commercial culture is built on transparent, fixed pricing and haggling in shops, supermarkets, or restaurants would be considered unusual and even rude. The Albert Cuyp Market in Amsterdam and outdoor flea markets like Waterlooplein offer some scope for negotiation, particularly on secondhand items. Antique dealers and independent art sellers may negotiate on price, especially toward the end of the day. In all other retail contexts — including clothing, electronics, and food — the marked price is the final price.",
+      "tourist_tips": [
+        "At flea markets like Waterlooplein, a polite counter-offer of 10-15% below the asking price is acceptable — be friendly and do not push hard.",
+        "Never attempt to bargain at supermarkets, restaurants, or chain stores; it will cause confusion and embarrassment.",
+        "Antique and vintage dealers at markets are more open to negotiation if you are buying multiple items at once."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in the Netherlands",
+      "quick_answer": "Photography is generally unrestricted in the Netherlands, except in Amsterdam's Red Light District where photographing sex workers in windows is strictly illegal.",
+      "detail": "The Netherlands is an open, photography-friendly country — windmills, tulip fields, canals, and public spaces can all be freely photographed. The critical exception is Amsterdam's Red Light District: photographing or filming sex workers visible in the lit windows is explicitly illegal under Dutch law and is actively enforced by plainclothes and uniformed police, with on-the-spot fines of €190 or more. Some museums such as the Rijksmuseum allow photography without flash in permanent collections but prohibit it in special exhibitions — always check the posted rules. Anne Frank House strictly prohibits photography inside the building.",
+      "tourist_tips": [
+        "Keep your camera or phone firmly away in the Red Light District — even aiming your phone in the direction of windows can attract immediate police attention.",
+        "Windmill complexes like Kinderdijk and the tulip fields at Keukenhof are completely free to photograph and make for spectacular images — go at golden hour.",
+        "In museums, look for the camera icon with or without a cross near the entrance to each gallery; rules vary room by room."
+      ],
+      "warning": "Photographing sex workers in Amsterdam's Red Light District is illegal and results in an immediate fine of €190 or more — police enforce this strictly and without warning.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in the Netherlands",
+      "quick_answer": "Shops in Dutch cities are open on Sundays (koopzondagen), though hours may be shorter; museums and attractions operate normally, and banks are closed.",
+      "detail": "Major cities including Amsterdam, Rotterdam, The Hague, and Utrecht have established Sunday shopping (koopzondagen), with most shops opening from around 12:00 to 18:00. Supermarkets including Albert Heijn typically open slightly earlier on Sundays. Smaller towns and rural areas may have limited or no Sunday retail hours. Museums, major tourist attractions, and restaurants operate on normal schedules on Sundays. On public holidays such as King's Day (April 27) the entire country celebrates with outdoor festivities; many shops close but the atmosphere is festive and markets spring up everywhere.",
+      "tourist_tips": [
+        "Plan major shopping trips for weekdays or Saturday if you need a full selection — Sunday opening hours are shorter, typically noon to 6pm.",
+        "King's Day on April 27 is the best street party in Europe — wear orange, explore the free markets, and expect virtually all normal services to be suspended.",
+        "Museums are popular on Sundays; book tickets online in advance for major attractions like the Rijksmuseum and Van Gogh Museum to avoid long queues."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in the Netherlands",
+      "quick_answer": "Uber and Bolt are widely available and reliable in Dutch cities; official TCA taxis in Amsterdam are legitimate but expensive — bikes and trams are often faster in the city centre.",
+      "detail": "Uber operates extensively across Amsterdam, Rotterdam, and other major cities and is the preferred choice for many visitors due to transparent pricing. Bolt is also active and sometimes cheaper. Amsterdam's official TCA-licensed taxis are identifiable by the Amsterdam coat of arms on the door and are legitimate, though fares within the city centre are high. Avoid unlicensed 'cowboy' taxis that approach you near Centraal Station — they are unregulated and notorious for price gouging. For most journeys within Amsterdam's historic centre, trams or cycling will be faster than any taxi due to traffic and parking restrictions.",
+      "tourist_tips": [
+        "Use the Uber app rather than hailing a taxi on the street — it guarantees a regulated fare and avoids the unlicensed drivers around Centraal Station.",
+        "For Schiphol airport transfers, the train to Amsterdam Centraal takes 17 minutes and costs around €5 — far cheaper and often faster than a taxi.",
+        "If you must take a street taxi in Amsterdam, only use cars displaying the Amsterdam coat of arms and an official meter — agree on no fixed price beforehand."
+      ],
+      "warning": "Unlicensed taxis near Amsterdam Centraal and tourist hotspots are common; they will dramatically overcharge — only use Uber, Bolt, or officially marked TCA taxis.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in the Netherlands",
+      "quick_answer": "Dutch tap water is among the best quality in the world — drink it freely from any tap without concern.",
+      "detail": "The Netherlands has one of the highest quality tap water standards globally, consistently rated excellent by EU health authorities. Tap water is safe to drink in hotels, restaurants, homes, and public facilities throughout the country — there is no need to purchase bottled water. Refillable water bottles are widely accepted and many public spaces have water fountains. Regarding swimming water, the North Sea coast has strong currents and cold temperatures even in summer — always swim within designated bathing areas marked with flags. Some urban canals in Amsterdam are not suitable for swimming due to pollution and boat traffic.",
+      "tourist_tips": [
+        "Bring a reusable water bottle and fill it from any tap — you will save money and reduce plastic waste throughout your trip.",
+        "On North Sea beaches, only swim between the red-and-yellow flags indicating supervised bathing areas; rip currents outside these zones can be dangerous.",
+        "Amsterdam's canals are picturesque but not clean enough for swimming in most areas — the exception is designated canal swimming areas that open in summer."
+      ],
+      "warning": "North Sea beaches have strong rip currents and cold water — swim only in designated flag-marked areas and heed lifeguard warnings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in the Netherlands",
+      "quick_answer": "The Netherlands is highly card-based but critically, many shops only accept Dutch debit (PIN/Maestro) cards and not Visa or Mastercard credit cards — always check before you shop.",
+      "detail": "The Dutch payment system is dominated by the local PIN debit system (formerly Maestro/V Pay), and a significant number of smaller shops, markets, cafes, and even some restaurants do not accept international Visa or Mastercard credit cards. Visitors should carry a Wise, Revolut, or other Mastercard Debit card, or some cash, as a backup. ATMs are widely available from ING, ABN AMRO, and Rabobank; these handle foreign cards well with reasonable fees. The country is moving increasingly cashless, but having €50-100 in cash remains useful. Currency exchange offices (GWK Travelex) are found at Schiphol and major train stations.",
+      "tourist_tips": [
+        "Before paying in any shop, ask 'Do you accept Visa/Mastercard?' — many Dutch businesses refuse international credit cards and only take debit PIN cards or cash.",
+        "Use a Wise or Revolut card for the best exchange rates at ATMs and avoid dynamic currency conversion — always choose to pay in euros.",
+        "ING and ABN AMRO ATMs are the most reliable for foreign cards and typically offer better rates than standalone ATMs in tourist areas."
+      ],
+      "warning": "Many Dutch shops, cafes, and markets do not accept Visa or Mastercard credit cards — carry a debit card with Maestro functionality or cash to avoid being unable to pay.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in the Netherlands",
+      "quick_answer": "Mobile coverage is excellent nationwide; KPN offers the best network, and SIMs are available at airports, supermarkets, and phone shops.",
+      "detail": "The Netherlands has outstanding mobile infrastructure with near-universal 4G coverage and rapidly expanding 5G, particularly in urban areas. KPN is the largest network with the best rural and indoor coverage; T-Mobile Netherlands and Vodafone NL are strong alternatives. Prepaid tourist SIMs are available at Schiphol Airport, Albert Heijn and Jumbo supermarkets, and phone shops in all cities. EU residents benefit from free roaming under EU regulations and do not need a local SIM. Free Wi-Fi is available at most cafes, hotels, and museums; however, public Wi-Fi security is variable.",
+      "tourist_tips": [
+        "EU residents can use their home SIM with free roaming — no need to buy a Dutch SIM unless you need extra data beyond your home plan allowance.",
+        "Non-EU visitors should buy a KPN or T-Mobile prepaid SIM at Schiphol arrivals for the best combination of coverage and data value.",
+        "Use a VPN on public Wi-Fi networks at cafes and hotels to protect your personal data and browsing."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "vpn",
+        "travel-insurance"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in the Netherlands",
+      "quick_answer": "The Netherlands uses Type C and Type F (Schuko) plugs at 230V/50Hz — standard for continental Europe, but UK and US travellers need adapters.",
+      "detail": "Dutch electrical outlets use the standard continental European Type C (two round pins) and Type F Schuko (two round pins with side grounding clips) sockets at 230 volts and 50Hz. Visitors from other continental European countries will have no compatibility issues. UK visitors need a Type G to Type F adapter, while US and Canadian travellers need both a plug adapter and a voltage converter for devices not rated for 220-240V. Most modern electronics — laptops, phone chargers, camera chargers — are dual-voltage (100-240V) and only require a plug adapter, not a converter.",
+      "tourist_tips": [
+        "Check your device chargers for '100-240V' on the label — most modern electronics are dual-voltage and only need a cheap plug adapter, not an expensive voltage converter.",
+        "Buy a universal travel adapter before departure; they are available in the Netherlands but more expensive at Schiphol Airport.",
+        "US visitors: electric shavers and hair dryers rated only for 110V will burn out on Dutch outlets — use hotel-provided hair dryers or buy a dual-voltage one."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in the Netherlands",
+      "quick_answer": "Bicycle theft is the most common risk for tourists; pickpocketing occurs in Amsterdam tourist areas, and fake cannabis dealers operate near Leidseplein.",
+      "detail": "The Netherlands is a low-scam destination by European standards, but certain risks are well-documented. Bicycle theft is extraordinarily common — even cheap rental bikes are targeted, and using two quality locks is considered the minimum standard. Pickpockets operate in Amsterdam's busiest tourist areas including Dam Square, Centraal Station, and the Red Light District. Fake cannabis dealers near Leidseplein and Rembrandtplein sell low-quality or entirely fake product to tourists — always use licensed coffeeshops. Tourist restaurants immediately adjacent to major sights around Dam Square and Centraal Station are notorious for poor quality at inflated prices.",
+      "tourist_tips": [
+        "Always lock your rental bike with two locks — attach one to a fixed object and use the second through the wheel; bike theft is endemic and a single lock is insufficient.",
+        "Buy cannabis only from licensed coffeeshops with a visible permit — street dealers in tourist areas sell fake or dangerous product and cannot be held accountable.",
+        "Walk one or two streets away from major tourist sights to find restaurants with local clientele, better food, and prices 30-50% lower."
+      ],
+      "warning": "Bicycle theft is extremely common throughout the Netherlands — always use two locks and never leave a bike unattended with only one lock regardless of how short the stop.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in the Netherlands",
+      "quick_answer": "The Netherlands is very safe for tourists; bicycle theft is the most common crime, with occasional pickpocketing in busy Amsterdam tourist areas.",
+      "detail": "The Netherlands consistently ranks among the safest countries in the world for visitors, and violent crime against tourists is very rare. The predominant crime affecting tourists is property theft — specifically bicycle theft, which is an endemic national problem — and opportunistic pickpocketing in Amsterdam's crowded tourist zones such as Centraal Station, Dam Square, and the Red Light District. Amsterdam's Red Light District is generally safe but requires normal urban awareness, particularly late at night. Police (politie) are professional, widely present in tourist areas, and routinely speak English.",
+      "tourist_tips": [
+        "Keep wallets and phones in front pockets or a secure bag in crowded tourist areas and on trams — pickpockets are skilled and work quickly in busy spaces.",
+        "The Red Light District is safe to visit but stay on main streets at night, avoid engaging with people offering drugs on the street, and keep valuables out of sight.",
+        "If your belongings are stolen, file a report (aangifte) at the nearest politie station or online at politie.nl — you will need this for any insurance claim."
+      ],
+      "warning": "Pickpockets are active in Amsterdam's tourist areas, particularly around Centraal Station and on busy trams — keep valuables secured and be especially alert in crowds.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in the Netherlands",
+      "quick_answer": "Dutch directness is a cultural value, not rudeness; punctuality is respected, splitting bills equally is normal, and standing in a bike lane is a serious social offence.",
+      "detail": "The Dutch are renowned for their direct communication style — they say exactly what they mean, which can seem blunt to visitors from more indirect cultures but carries no disrespect. Punctuality is genuinely important in social and business settings; arriving on time is considered a mark of respect. 'Going Dutch' — splitting bills equally — is a completely normal and respected practice that carries no awkward connotations. Cycling infrastructure is sacred: standing, walking, or stopping in designated bike lanes causes genuine frustration and can be dangerous. Greetings involve three alternating cheek kisses among people who know each other, while handshakes are standard for first meetings.",
+      "tourist_tips": [
+        "Stay vigilant about bike lanes at all times — they are often separated from pedestrian paths only by colour or a line, and cyclists move fast; stepping into one is genuinely dangerous.",
+        "Do not be offended if a Dutch person gives you direct feedback or a blunt answer — it is a cultural sign of honesty and respect, not hostility.",
+        "When invited to a Dutch home, bring a small gift such as flowers, wine, or chocolates — and arrive on time, as lateness without notice is considered genuinely rude."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in the Netherlands",
+      "quick_answer": "English is spoken fluently by virtually the entire Dutch population — the Netherlands ranks among the highest English proficiency countries in the world.",
+      "detail": "The Netherlands consistently tops global English proficiency rankings, and essentially every Dutch person under 60 speaks English fluently and confidently. Shop staff, transport workers, restaurant employees, and locals on the street will switch to English immediately and without hesitation. Dutch (Nederlands) is the official language and locals genuinely appreciate any attempt to use basic Dutch phrases. The language is related to English and German, making some signs and menus partially readable. You will never be in a situation where the language barrier prevents communication.",
+      "tourist_tips": [
+        "Learn a few basic Dutch phrases — 'Dank je wel' (thank you), 'Alsjeblieft' (please/here you go), and 'Goedemorgen' (good morning) — locals find it charming and it shows respect.",
+        "Do not worry about mispronouncing Dutch — locals will appreciate the effort and immediately respond in perfect English.",
+        "Dutch menus in traditional restaurants sometimes lack English translation; simply ask the server, who will explain everything fluently."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in the Netherlands",
+      "quick_answer": "The North Sea coast has excellent sandy beaches popular in summer, but water is cold and currents can be strong — swim only in supervised flag-marked areas.",
+      "detail": "The Dutch North Sea coast offers long, wide sandy beaches at destinations including Zandvoort (near Amsterdam), Scheveningen (near The Hague), and Bloemendaal aan Zee. Beach clubs with sunbeds, bars, and restaurants are popular from June to August, though water temperatures even at peak summer rarely exceed 18-20°C. Strong rip currents and variable North Sea conditions make it essential to swim only within areas marked by red-and-yellow flags where lifeguards are present. Topless sunbathing is socially accepted on all Dutch beaches. The North Sea can be rough — check surf and weather conditions before entering the water.",
+      "tourist_tips": [
+        "Zandvoort is easily reachable from Amsterdam by direct train in 30 minutes — it is the most accessible beach for visitors staying in the city.",
+        "Rent a beach cabin (strandhuisje) for a day if you want shelter from the frequently windy North Sea conditions — they are a beloved Dutch beach tradition.",
+        "Always swim between the coloured flag posts where lifeguards are on duty — the North Sea looks calm but has deceptive undercurrents."
+      ],
+      "warning": "North Sea beaches have strong and unpredictable currents — swim only within lifeguard-supervised areas marked with flags, regardless of how calm the water appears.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in the Netherlands",
+      "quick_answer": "Drive on the right, respect strict bike lane rules, and be aware that parking in Amsterdam is extremely limited and expensive.",
+      "detail": "The Netherlands drives on the right and has an excellent, well-maintained road network. Highway speed limits are 120 km/h generally, reduced to 100 km/h during daytime hours on many motorways to reduce nitrogen emissions. The critical driving rule unique to the Netherlands is the absolute prohibition on driving in bicycle lanes — these are separate, marked lanes that cyclists have priority in, and violations are fined. Cyclists and pedestrians have strong right-of-way protections. Parking in Amsterdam is extraordinarily difficult and expensive; parking garages charge €4-7 per hour, and street parking requires apps. For Amsterdam specifically, it is strongly advisable not to drive into the city centre at all.",
+      "tourist_tips": [
+        "Do not bring a car into central Amsterdam — parking costs are prohibitive, the streets are narrow and confusing, and bikes, trams, and trains are far more practical.",
+        "Use the P+R (Park and Ride) facilities at Amsterdam's ring roads to park cheaply and take the metro or tram into the centre.",
+        "Be extremely vigilant of cyclists at all times — they have legal right of way in many situations and the volume of bikes on Dutch roads is unlike anywhere else in the world."
+      ],
+      "warning": "Never drive, stop, or park in a designated bicycle lane in the Netherlands — cyclists have strict legal priority and violations result in fines; more importantly, it is genuinely dangerous.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in the Netherlands",
+      "quick_answer": "Dutch cuisine is hearty and unpretentious; must-tries include stroopwafel, bitterballen, raw haring, aged Gouda, and the Indonesian-influenced rijsttafel.",
+      "detail": "Traditional Dutch food is simple and filling — erwtensoep (split pea soup), stamppot (mashed potato with vegetables), bitterballen (deep-fried meat ragout balls), and haring (raw North Sea herring eaten with onions) are iconic. Dutch cheese — particularly aged Gouda and Edam — is world-class. The rijsttafel, an Indonesian-influenced feast of dozens of small dishes, is a distinctive Dutch-colonial culinary tradition worth experiencing. Dinner is eaten earlier than in Southern Europe, typically between 6:00 and 8:00pm. Lunch is culturally minimal — often just a broodje (filled bread roll). The street food culture includes stroopwafel (caramel waffle cookies), poffertjes (mini pancakes), and frites (thick chips served with mayonnaise).",
+      "tourist_tips": [
+        "Eat raw haring (herring) from a street cart the traditional way — hold it by the tail, tilt your head back, and eat it whole with raw onion; it is a genuine Dutch cultural experience.",
+        "Avoid restaurants immediately adjacent to major tourist sights on Dam Square; walk two streets in any direction to find better food at half the price.",
+        "Book a rijsttafel dinner at least a day in advance at a reputable Indonesian restaurant — it is a uniquely Dutch experience you will not find like this elsewhere in Europe."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in the Netherlands",
+      "quick_answer": "Religious sites in the Netherlands welcome visitors; respectful dress is appreciated, and the Anne Frank House requires advance booking months ahead.",
+      "detail": "The Netherlands is a highly secular society but maintains important religious sites across traditions. Amsterdam's Nieuwe Kerk and Oude Kerk (the oldest building in Amsterdam) are historic Protestant churches that welcome visitors; most are free to enter or charge a small admission. Mosques in Amsterdam, Rotterdam, and other major cities are open to non-Muslim visitors for respectful cultural visits — remove shoes, dress modestly covering shoulders and knees, and avoid visiting during active prayer times. The Anne Frank House, while not a religious site, is the Netherlands' most emotionally significant historical location and requires booking months in advance; photography is strictly prohibited inside.",
+      "tourist_tips": [
+        "Book Anne Frank House tickets online as far ahead as possible — tickets routinely sell out months in advance and there is no walk-up option for most time slots.",
+        "When visiting mosques, remove your shoes at the entrance, ensure shoulders and knees are covered, and speak softly — call ahead if you wish to arrange a guided visit.",
+        "The Portuguese Synagogue in Amsterdam is one of the oldest and most beautiful in the world and is open for visits — a moving piece of Dutch Jewish heritage."
+      ],
+      "warning": "Anne Frank House tickets must be booked online well in advance — walk-up tickets are extremely limited and the site frequently sells out weeks or months ahead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit the Netherlands",
+      "quick_answer": "May to August is the best time to visit for warmth and long days; late March to May is peak tulip season but the most popular and crowded period.",
+      "detail": "The Netherlands has a temperate maritime climate with mild, wet, and frequently windy conditions year-round — clear blue skies can turn to rain within an hour at any time of year. Summer (June-August) brings the warmest temperatures, typically 20-25°C, long daylight hours, and the best conditions for cycling and outdoor activities. Late March to May is tulip season, with Keukenhof Gardens in bloom and the famous flower fields at their most spectacular — but this is also the busiest and most expensive tourist period. Autumn (September-October) offers beautiful colours, fewer crowds, and mild weather. Winter is cold and grey but the Christmas markets and cosy brown cafes have their own appeal.",
+      "tourist_tips": [
+        "Book Keukenhof Gardens tickets and accommodation months ahead if visiting during tulip season (late March to mid-May) — it is the most popular tourist period of the year.",
+        "Pack rain layers regardless of season — a compact waterproof jacket takes up minimal space and will save your day when showers arrive unexpectedly.",
+        "Visit in late August or September for warm weather, open-air events, and noticeably smaller crowds than the peak summer school holiday period."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in the Netherlands",
+      "quick_answer": "Use the Museumkaart for multiple museum visits, rent a bike instead of taking taxis, and eat from supermarkets and street carts to dramatically cut costs.",
+      "detail": "The Netherlands is not a cheap destination, but strategic choices can significantly reduce costs. The Museumkaart (€69.95) gives unlimited free entry to over 400 museums across the country for a year — it pays for itself after just two or three Amsterdam museums. Renting a bike eliminates taxi and tram costs entirely for city exploration. Albert Heijn To Go supermarkets sell excellent-value sandwiches (broodjes), salads, and hot snacks far cheaper than cafes. Free attractions include canal walks along Amsterdam's UNESCO heritage ring, the Hortus Botanicus garden on free entry days, and exploring Rotterdam's bold architecture on foot. Many museums offer free entry on specific evenings.",
+      "tourist_tips": [
+        "Buy a Museumkaart if you plan to visit three or more museums — at €69.95 it pays for itself quickly given Amsterdam museum admission prices of €20-25 each.",
+        "Rent a city bike for €10-15 per day instead of using Uber or trams — you will see more, travel faster in the city, and cut transport costs to near zero.",
+        "Eat lunch from Albert Heijn To Go or a street herring cart instead of a sit-down restaurant — save the restaurant budget for a proper rijsttafel dinner experience."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

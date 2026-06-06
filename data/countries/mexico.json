@@ -1,0 +1,360 @@
+{
+  "country": "Mexico",
+  "slug": "mexico",
+  "emoji": "🇲🇽",
+  "region": "Americas",
+  "currency": "MXN",
+  "language": "Spanish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Mexico",
+      "quick_answer": "Tip 10–15% at restaurants; also tip taxi drivers, hotel staff, and petrol station attendants.",
+      "detail": "Tipping is a core part of service culture in Mexico and a significant part of workers' income. At sit-down restaurants, 10–15% is the norm; 15–20% for excellent service. Petrol station attendants who pump your gas and clean your windshield expect 5–10 pesos. Hotel porters and housekeeping staff appreciate 20–50 pesos per service. Tour guides typically receive 50–100 pesos per person for half-day tours.",
+      "tourist_tips": [
+        "Always carry small bills (20 and 50 peso notes) specifically for tipping throughout the day",
+        "At restaurants the bill rarely includes a service charge — tip is left in cash or added when paying by card",
+        "Tip the bag-packer at supermarkets (usually elderly volunteers) around 5–10 pesos"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Mexico",
+      "quick_answer": "Mexico City Metro costs around 5 pesos; use Uber instead of street taxis for safety, and colectivos for inter-town travel.",
+      "detail": "Mexico City has an extensive and very affordable Metro system at approximately 5 pesos per ride, supplemented by Metrobús BRT lines and peseros (minibuses). Uber and InDriver operate widely in major cities and are strongly preferred over hailing street taxis due to documented safety risks. In smaller towns and rural areas, colectivos (shared minivans or taxis) are the standard affordable option and run fixed routes at fixed prices. Long-distance travel is well served by comfortable first-class ADO bus lines.",
+      "tourist_tips": [
+        "Download the Uber app before you arrive — it works in most Mexican cities and is far safer than street taxis",
+        "On the Mexico City Metro, be alert for pickpockets during rush hours; keep bags in front of you",
+        "For colectivos, flag them down on the roadside, tell the driver your stop, and pay the fixed fare in cash"
+      ],
+      "warning": "Hailing street taxis in Mexico City and other large cities carries a documented risk of express kidnapping. Always use app-based rideshare services.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Mexico",
+      "quick_answer": "Good private hospitals exist in all major tourist areas; farmacias are everywhere and carry most over-the-counter medications.",
+      "detail": "Mexico has a two-tier health system. Public hospitals (IMSS, ISSSTE) are for residents only and are often overcrowded; tourists should use private hospitals, which are modern and well-equipped in cities like Mexico City, Cancún, Los Cabos, and Guadalajara. Farmacias (pharmacies) are ubiquitous — chains like Farmacias del Ahorro and Farmacias Similares stock a wide range of medications without prescription at low cost. Travel insurance with medical evacuation cover is strongly recommended, especially in remote areas.",
+      "tourist_tips": [
+        "In Cancún and the Riviera Maya, hospitals like Amerimed and Hospiten cater specifically to international tourists",
+        "Farmacias Similares offer very cheap generic medicines and many have an attached doctor's office for low-cost consultations",
+        "Always keep digital copies of your travel insurance documents and emergency contact numbers accessible offline"
+      ],
+      "warning": "Medical costs at private tourist-area hospitals can be very high without insurance. Always buy comprehensive travel insurance before visiting Mexico.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Mexico",
+      "quick_answer": "Drug possession for personal use is partially decriminalized, but firearms are strictly prohibited under any circumstances for tourists.",
+      "detail": "Mexico has partially decriminalized small amounts of certain drugs for personal use (cannabis up to 5g, cocaine up to 0.5g), meaning personal possession may not lead to arrest, but it remains a legal grey area and is still federally illegal. Bringing any firearm or ammunition into Mexico — even accidentally — is a serious federal crime with mandatory prison sentences. Archaeological artifacts cannot be removed from the country. State and municipal laws vary significantly; always check local rules.",
+      "tourist_tips": [
+        "Never attempt to bring any firearm, bullets, or even empty cartridge casings across the border — the penalties are severe",
+        "Purchasing or removing pre-Columbian artifacts is illegal and constitutes a federal crime",
+        "Respect local alcohol bans during Ley Seca periods — fines and detention are possible for violations"
+      ],
+      "warning": "Bringing firearms or ammunition into Mexico — even unknowingly — is a federal crime carrying mandatory prison sentences of up to five years.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Mexico",
+      "quick_answer": "Call 911 for all emergencies nationwide; dial 078 for the tourist assistance hotline.",
+      "detail": "Mexico unified its emergency number to 911 in 2016, covering police, ambulance, and fire services nationwide. The 078 line is a dedicated tourist assistance service offering help in English and Spanish for tourists in distress, lost documents, or other non-life-threatening situations. The US Embassy in Mexico City can be reached at +52 55 5080-2000. LOCATEL (5658-1111) assists with lost persons in Mexico City. Response times vary significantly between urban tourist zones and rural areas.",
+      "tourist_tips": [
+        "Save 911 and 078 in your phone before you need them — 078 operators often speak English",
+        "The US Embassy emergency line for US citizens is +52 55 5080-2000, available 24 hours",
+        "In resort areas like Cancún, tourist police (Policía Turística) patrol the hotel zones and are generally helpful"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Mexico",
+      "quick_answer": "Dress is casual throughout Mexico, but cover shoulders and knees when entering Catholic churches and respect stricter rules in indigenous communities.",
+      "detail": "Mexico's dress culture is relaxed and informal in most settings. Beachwear is fine at coastal resorts but should not be worn away from the beach or pool. Catholic churches — including major sites like the Basilica de Guadalupe — require covered shoulders and knees; some lend wraps at the entrance. Indigenous communities, especially in Chiapas and Oaxaca, may have specific dress requirements for visitors and it is important to ask and comply respectfully. Upscale restaurants and nightclubs in Mexico City may have smart-casual dress requirements.",
+      "tourist_tips": [
+        "Carry a light scarf or sarong to use as a shoulder cover when entering churches unexpectedly",
+        "In San Juan Chamula (Chiapas) and similar indigenous communities, follow all local rules strictly — photography and certain clothing may be prohibited",
+        "Lightweight, breathable clothing is practical given Mexico's heat and humidity in most regions"
+      ],
+      "warning": "In some indigenous communities in Chiapas, breaking local dress or behaviour rules can result in being escorted out or worse. Always seek guidance before entering.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Mexico",
+      "quick_answer": "The legal drinking age is 18; during Ley Seca (election dry law) all alcohol sales are banned, and drinking in public is illegal in Mexico City.",
+      "detail": "The legal drinking age across Mexico is 18 years, and ID checks are common at venues. During elections, the Ley Seca (dry law) bans all alcohol sales — sometimes for 24–48 hours — and this applies to hotels and restaurants as well as shops. Drinking in public spaces is illegal in Mexico City (CDMX) and several other municipalities, though enforcement varies. Beach destinations and tourist resort zones are generally permissive. Mezcal, tequila, and micheladas are the iconic local drinks.",
+      "tourist_tips": [
+        "Check election dates before travel — Ley Seca can affect your holiday plans even at major resort hotels",
+        "Stick to commercially bottled or canned beer and spirits; avoid homemade or unlabelled alcohol",
+        "OXXO convenience stores sell beer and spirits at good prices but observe local dry-law rules"
+      ],
+      "warning": "Consuming alcohol on streets in Mexico City is illegal and can result in a fine or brief detention.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Mexico",
+      "quick_answer": "Bargaining is expected and welcomed at markets, mercados, and street vendors, but never in malls, restaurants, or formal shops.",
+      "detail": "Haggling is a normal and enjoyable part of shopping in Mexico's open-air markets (mercados), craft markets (artesanías), and with street vendors. It is culturally accepted and vendors often expect it. A common approach is to offer around 60–70% of the asking price and negotiate from there. However, in shopping malls, supermarkets, pharmacies, and restaurants, prices are fixed and haggling would be considered inappropriate and rude. At tourist markets, the first price given to foreigners is almost always inflated.",
+      "tourist_tips": [
+        "Start by offering about 60% of the asking price and settle somewhere in between",
+        "Smile, be friendly, and treat bargaining as a social interaction rather than a confrontation",
+        "Walking away is a powerful negotiating tactic — vendors will often call you back with a better price"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Mexico",
+      "quick_answer": "Photography is generally free in public spaces, but never photograph indigenous ceremonies, the Chamula church interior, or military checkpoints.",
+      "detail": "Mexico is generally welcoming of photography. Ruins, streets, markets, and most public sites can be photographed freely. However, the San Juan Chamula church in Chiapas has a strict absolute ban on all interior photography — cameras will be confiscated and visitors ejected. Other indigenous ceremonies and sacred sites across Oaxaca and Chiapas prohibit photography; always ask permission first. Photographing military checkpoints or personnel is illegal and can result in immediate detention and equipment confiscation.",
+      "tourist_tips": [
+        "At archaeological sites like Chichén Itzá and Teotihuacán, photography is free but tripods may require a permit",
+        "Always ask permission before photographing indigenous people, especially in traditional dress — a small tip is appreciated",
+        "Never point a camera at soldiers, military vehicles, or police checkpoints under any circumstances"
+      ],
+      "warning": "Photographing military checkpoints or personnel is illegal in Mexico and can result in detention and confiscation of your equipment.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Mexico",
+      "quick_answer": "OXXO and 7-Eleven convenience stores are open 24/7 every day; government offices and banks close on public holidays.",
+      "detail": "Mexico's convenience store chains — OXXO, 7-Eleven, and Extra — operate 24 hours a day, 7 days a week, including all public holidays, making them reliable fallbacks for food, water, SIM cards, and cash. Supermarkets and most retail shops open on Sundays with regular or slightly reduced hours. Banks and government offices close on all public holidays (Mexico has around 7 mandatory and several optional public holidays). Museums often close on Mondays. Markets and street food stalls are frequently busiest on weekends.",
+      "tourist_tips": [
+        "OXXO stores are everywhere and accept card payments — use them for water, snacks, and topping up your phone",
+        "If visiting a museum, check whether it closes on Mondays — many national museums do",
+        "During Semana Santa (Holy Week before Easter), many businesses reduce hours or close for several days"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Mexico",
+      "quick_answer": "Use Uber or InDriver exclusively in major cities — street taxis in Mexico City and other large cities carry a serious and documented express kidnapping risk.",
+      "detail": "Express kidnapping using street taxis (pirate taxis) is a well-documented and ongoing problem in Mexico City, Guadalajara, and other major urban areas. Victims are picked up, taken to ATMs to withdraw cash, and sometimes held overnight. App-based services like Uber and InDriver are far safer because trips are tracked, the driver is identified, and there is a digital record. At airports, always use the official pre-paid taxi booths (Sitio) inside the terminal rather than touts outside. In tourist resort areas like Cancún's Hotel Zone, authorized sitio taxis are generally safe.",
+      "tourist_tips": [
+        "Always book via Uber or InDriver — share your trip details with a contact using the app's safety features",
+        "At Mexico City airport, use only the official TAPO or airport taxi booths inside the terminal; never go with drivers who approach you",
+        "In smaller towns where Uber is unavailable, ask your hotel to call a trusted local radio taxi service"
+      ],
+      "warning": "Hailing random street taxis in major Mexican cities is a serious safety risk. Express kidnapping is well documented. Only use app-based rideshare or hotel-arranged taxis.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Mexico",
+      "quick_answer": "Do not drink tap water anywhere in Mexico — use bottled water, hotel garrafones, or a filtered water bottle.",
+      "detail": "Tap water throughout Mexico is not safe to drink for tourists, and even many locals use purified water for drinking. Large refillable garrafón jugs (20 litres) are found in hotels and rental apartments; confirm your accommodation provides drinking water. Bottled water is cheap and available everywhere, including OXXO stores. Ice in tourist restaurants is generally made from purified water, but it is worth asking. Brushing teeth with tap water is usually fine for most travellers, but sensitive stomachs should use bottled water.",
+      "tourist_tips": [
+        "Buy a large garrafón from OXXO for around 15–20 pesos if your hotel does not supply drinking water",
+        "A portable filtered water bottle (like LifeStraw or Grayl) can reduce plastic waste and costs on longer trips",
+        "Ask restaurants whether their ice is made from purified water (agua purificada) if you are concerned"
+      ],
+      "warning": "Drinking tap water in Mexico commonly causes traveller's diarrhoea. Stick to bottled or purified water for all drinking and in beverages.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Mexico",
+      "quick_answer": "Use ATMs inside bank branches to avoid skimming; always decline DCC and choose to be charged in pesos.",
+      "detail": "ATM skimming and card cloning is widespread in Mexico, particularly at standalone machines in tourist areas, convenience stores, and shopping centres. The safest ATMs are those located inside a bank branch during opening hours (BBVA, Banorte, HSBC). Always inspect the card slot for tampering. When asked whether to pay in your home currency or pesos, always choose pesos — DCC (dynamic currency conversion) gives a very poor exchange rate. Wise or Revolut debit cards minimize foreign transaction fees significantly.",
+      "tourist_tips": [
+        "Use bank-branch ATMs during daylight hours and shield your PIN entry carefully",
+        "Carry some cash at all times — many markets, street food stalls, colectivos, and small restaurants are cash only",
+        "Always select 'pesos' when the ATM asks about currency conversion — never accept the ATM's own exchange rate"
+      ],
+      "warning": "ATM skimming is very common in Mexico. Avoid standalone machines in tourist areas. Inspect card readers for loose parts or unusual attachments before inserting your card.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Mexico",
+      "quick_answer": "Telcel has the best nationwide coverage; buy a SIM at any OXXO store, or use an Airalo eSIM before you arrive.",
+      "detail": "Telcel is Mexico's largest network and offers the widest coverage including rural and coastal areas. Prepaid SIM cards are sold at OXXO convenience stores nationwide without requiring ID in most cases, and data plans are affordable. AT&T Mexico is a good alternative with solid data speeds in cities. Airalo eSIM works well for travellers wanting to set up connectivity before landing. Hotel and café Wi-Fi is widely available but can be slow; a local SIM is strongly recommended for reliable maps, Uber, and translation.",
+      "tourist_tips": [
+        "Buy a Telcel SIM at OXXO immediately on arrival — plans start from around 100 pesos for several GB of data",
+        "Set up Airalo or similar eSIM before departure so you have data and Uber access the moment you land",
+        "Wi-Fi in many Mexican cities is available in public plazas (zócalos) for free, though speeds are slow"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "vpn"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Mexico",
+      "quick_answer": "Mexico uses Type A and B plugs at 127V/60Hz — identical to the USA and Canada, so North Americans need no adapter whatsoever.",
+      "detail": "Mexico's electrical system is essentially identical to that of the USA and Canada: Type A (two flat parallel pins) and Type B (two flat pins plus a round ground pin) sockets, running at 127 volts and 60 Hz. North Americans can plug in directly with no adapter. European and UK travellers will need a Type A/B plug adapter. Most modern laptop chargers, phone chargers, and cameras are dual-voltage (100–240V) and work fine with just an adapter. Power cuts are rare in tourist areas but can occur in rural regions.",
+      "tourist_tips": [
+        "Europeans and Australians need a Type A plug adapter — buy one before travel or at Mexican electronics shops",
+        "Check your device's voltage rating on the charger block: if it says 100–240V, only an adapter is needed, not a converter",
+        "Pack a small multi-port USB charger to charge multiple devices from a single socket in older hotels"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Mexico",
+      "quick_answer": "Watch out for ATM skimming, fake police demanding wallet inspection, the timeshare free-gift trap, and deliberate short-changing.",
+      "detail": "Mexico has several well-known tourist scams. The timeshare scam lures tourists with promises of free gifts, discounted tours, or lottery wins, leading to high-pressure multi-hour sales presentations. Fake police or officials may approach tourists and demand to inspect wallets or bags for 'drug checks' — this is a theft operation. Short-changing is common at busy markets; always count your change. ATM skimming (card cloning devices fitted to machines) is a persistent and serious problem. Taxi overcharging is common when not using a rideshare app.",
+      "tourist_tips": [
+        "Never hand your wallet or passport to anyone claiming to be a plainclothes police officer — ask for uniformed backup",
+        "If someone in a tourist area offers you a free gift or lottery win, walk away immediately — it is a timeshare trap",
+        "Always count your change immediately and in full view of the cashier or vendor"
+      ],
+      "warning": "Fake police scams targeting tourists are a known problem in Mexico City and resort areas. Real police do not ask to inspect your wallet or conduct random cash checks on tourists.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Mexico",
+      "quick_answer": "Major tourist zones are generally safe, but several states including Sinaloa, Zacatecas, and parts of Guerrero and Michoacán carry US government Do Not Travel advisories.",
+      "detail": "Mexico's safety situation is highly region-specific. Major tourist destinations including Mexico City's historic centre, Cancún, Los Cabos, Puerto Vallarta, Oaxaca City, and Mérida are well-travelled by millions of tourists annually and are broadly safe with normal precautions. However, several states have active cartel violence and US State Department Level 4 'Do Not Travel' advisories: Sinaloa, Zacatecas, Colima, and Tamaulipas. Petty theft, pickpocketing, and bag snatching are common in crowded markets and on public transport. Night travel between cities by road carries elevated risk.",
+      "tourist_tips": [
+        "Check the US State Department or UK FCDO travel advisories for the specific states you plan to visit before booking",
+        "Stay in well-reviewed, centrally located accommodation and avoid poorly lit or unfamiliar areas at night",
+        "Keep a digital copy of your passport and travel documents in cloud storage in case of theft"
+      ],
+      "warning": "Several Mexican states have active Level 4 Do Not Travel advisories due to cartel violence. Research your specific destinations carefully — regional safety varies enormously.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Mexico",
+      "quick_answer": "Mexicans are warm and formal; greet everyone individually, use titles respectfully, never refuse offered food, and expect flexible punctuality in social settings.",
+      "detail": "Mexican culture places high value on personal warmth, family, and formal respect. Greetings are important — a handshake for initial meetings, a cheek kiss between acquaintances, and always greet everyone individually in a group. Professional titles such as Licenciado, Ingeniero, and Doctor are used widely and show respect. Refusing food or drink offered by a host is considered impolite. Social events rarely start on time — arriving 30 minutes late to a dinner is normal. Formal business settings require punctuality.",
+      "tourist_tips": [
+        "Say 'buenos días', 'buenas tardes', or 'buenas noches' when entering a shop, restaurant, or small space",
+        "Never discuss sensitive topics like drug violence or immigration casually — Mexicans are proud of their culture and country",
+        "Accept food and drink when offered by hosts or at cultural events, even if just a small taste"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Mexico",
+      "quick_answer": "Spanish is the dominant language; English is spoken in major tourist zones only, so Google Translate works well for everything else.",
+      "detail": "Spanish is the official and overwhelmingly dominant language throughout Mexico. In major tourist areas — Cancún hotel zone, Los Cabos resort strips, Mexico City's Polanco neighbourhood, and busy archaeological sites — basic to functional English is spoken by service staff. Outside these zones, English proficiency drops sharply. Google Translate's camera mode is excellent for menus, signs, and written text. Attempting even basic Spanish phrases (gracias, por favor, ¿cuánto cuesta?) is warmly received and usually improves service.",
+      "tourist_tips": [
+        "Download Google Translate's Spanish language pack for offline use before you arrive",
+        "Key phrases: 'la cuenta por favor' (the bill please), '¿dónde está el baño?' (where is the bathroom?), 'sin hielo' (no ice)",
+        "Mexicans appreciate any effort with Spanish — even broken attempts will earn you goodwill and often better prices"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Mexico",
+      "quick_answer": "Respect the beach flag system strictly — rip currents on the Pacific coast are deadly, while cenotes offer much calmer swimming conditions.",
+      "detail": "Mexico's beaches use a colour-coded flag system: green (calm, safe to swim), yellow (caution, moderate conditions), red (high risk, strong currents), and black (dangerous, no swimming). Rip currents on Pacific coast beaches at Puerto Escondido, Sayulita, and Zipolite cause tourist drownings every year. Caribbean coast beaches (Cancún, Tulum, Playa del Carmen) are generally calmer. Cenotes — freshwater sinkholes of the Yucatán — offer excellent swimming in calm, clear water and are a major attraction. Always swim near lifeguarded areas where possible.",
+      "tourist_tips": [
+        "Never swim at a red or black flag beach regardless of how calm the water looks from shore",
+        "If caught in a rip current, swim parallel to the shore rather than fighting against the current",
+        "Cenotes require reef-safe sunscreen to protect the ecosystem — biodegradable brands are sold locally"
+      ],
+      "warning": "Rip currents on Mexico's Pacific coast beaches are responsible for multiple tourist drownings annually. Never enter the water when flags are red or black.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Mexico",
+      "quick_answer": "Drive on the right; watch for unmarked topes (speed bumps) everywhere, and avoid driving between cities at night.",
+      "detail": "Mexicans drive on the right, the same as the USA and Canada. Speed limits are posted in kilometres per hour. Topes (speed bumps) are found on nearly every road, including highways through villages, and are often poorly marked — hitting one at speed can cause serious vehicle damage or loss of control. Night driving between cities carries elevated risk due to poor road lighting, roaming livestock, and security concerns in certain regions. Toll roads (cuotas) are generally well-maintained, safer, and worth the cost for inter-city travel.",
+      "tourist_tips": [
+        "Slow down dramatically when approaching any town or village — unmarked topes can appear with almost no warning",
+        "Use toll highways (carreteras de cuota) for inter-city travel — they are faster, safer, and well-patrolled",
+        "Never drive at night between cities, particularly in states with travel advisories — plan travel to arrive before dark"
+      ],
+      "warning": "Night driving between Mexican cities carries genuine safety risks including unmarked hazards and security concerns in some regions. Strongly avoid inter-city driving after dark.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Mexico",
+      "quick_answer": "Mexican cuisine is UNESCO-listed; street food at busy stalls is generally safe, and the menú del día offers outstanding value at around 80–100 pesos for three courses.",
+      "detail": "Mexico has one of the world's great cuisines, recognised by UNESCO as Intangible Cultural Heritage. Street food from busy, high-turnover stalls is generally safe and delicious — look for stalls with long queues of locals. The menú del día (set lunch menu) at local restaurants typically offers soup, a main course, and a drink for 80–120 pesos (roughly 4–6 USD), making it the best-value meal of the day. Tipping 10–15% at restaurants is standard. Spice levels are adjustable — ask for salsa on the side if uncertain.",
+      "tourist_tips": [
+        "Order the menú del día at lunch for an authentic, filling meal at a fraction of tourist menu prices",
+        "Busy street taco stalls with visible high turnover are safe — the key is fresh ingredients and quick cooking",
+        "Try regional specialities: mole in Oaxaca, cochinita pibil in Yucatán, birria in Jalisco, tacos al pastor in CDMX"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Church & Temple Etiquette in Mexico",
+      "quick_answer": "Cover shoulders and knees in Catholic churches; the Basilica de Guadalupe has strict dress rules, and indigenous churches like San Juan Chamula have their own separate community laws.",
+      "detail": "Mexico is predominantly Catholic and churches are active places of worship that tourists visit extensively. Covered shoulders and knees are required in virtually all Catholic churches; many larger basilicas enforce this at the door. The Basilica de Guadalupe in Mexico City is the most visited Catholic site in the Americas and requires respectful, modest dress. Indigenous churches, especially San Juan Chamula in Chiapas, operate under community law completely separate from the Catholic hierarchy and have strict rules including absolute bans on photography, loud behaviour, and foreign religious items.",
+      "tourist_tips": [
+        "Carry a light scarf or shawl to cover shoulders before entering any church you encounter unexpectedly",
+        "At the Basilica de Guadalupe, move slowly and respectfully — this is an intensely significant pilgrimage site for millions",
+        "In San Juan Chamula, follow every instruction from community guides and never raise a camera inside"
+      ],
+      "warning": "San Juan Chamula church operates under indigenous community law. Photography inside is absolutely prohibited and violations can result in equipment confiscation and removal from the community.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Mexico",
+      "quick_answer": "Dry season from November to April is the best time to visit; hurricane season runs June to November and particularly affects the Yucatán Peninsula and Caribbean coast.",
+      "detail": "Mexico has diverse climate zones. The dry season (November to April) offers pleasant temperatures, clear skies, and the lowest chance of rain across most of the country — this is peak tourist season. The rainy season (May to October) brings afternoon showers that are often brief but can be heavy. Hurricane season (June to November) poses real risks to the Yucatán Peninsula, Quintana Roo (Cancún, Tulum, Playa del Carmen), and Pacific coast destinations like Puerto Vallarta and Manzanillo. Mexico City's high altitude keeps temperatures moderate year-round at around 15–25°C.",
+      "tourist_tips": [
+        "Book Yucatán and Caribbean coast travel for November to April to avoid hurricane season and the most intense heat and humidity",
+        "December and January offer the best weather but also the highest prices and crowds — consider October or April as shoulder months",
+        "Mexico City can be visited year-round; its altitude (2,240m) means temperatures are mild even in summer, though afternoon rain is common May–October"
+      ],
+      "warning": "Hurricanes can develop rapidly in the Caribbean. If visiting Cancún, Cozumel, or Tulum between June and November, monitor weather forecasts and purchase travel insurance with cancellation cover.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Mexico",
+      "quick_answer": "Eat the menú del día for 80–100 pesos, use OXXO for cheap snacks and water, always pay in pesos not USD, and use local transport.",
+      "detail": "Mexico offers outstanding value for money when you eat and travel like a local. The menú del día (set lunch) delivers three courses for approximately 80–120 pesos (4–6 USD). Street tacos run 15–25 pesos each. OXXO stores are ideal for cheap bottled water, snacks, and basics. Always pay in pesos — vendors and some shops accept USD but at very poor exchange rates. Use the Metro (5 pesos in CDMX) and colectivos instead of taxis. National museums are free on Sundays for Mexican residents but usually charge a small fee for foreign visitors.",
+      "tourist_tips": [
+        "Use a Wise or Revolut card to spend in pesos and avoid foreign transaction fees entirely",
+        "INAH archaeological sites (Chichén Itzá, Teotihuacán, etc.) have a cheaper 'Mexican price' for residents — foreigners pay a set tourist fee, but it is still very affordable",
+        "Eating comida corrida (the local set lunch) at family restaurants off the tourist strip cuts food costs by 50–70% compared to tourist menu prices"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    }
+  }
+}

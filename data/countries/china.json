@@ -1,0 +1,442 @@
+{
+  "country": "China",
+  "slug": "china",
+  "emoji": "🇨🇳",
+  "region": "Asia",
+  "currency": "CNY",
+  "language": "Mandarin Chinese",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in China",
+      "quick_answer": "Tipping is not customary in China and may confuse or even embarrass staff.",
+      "detail": "In China, tipping is not part of the culture and is generally not expected anywhere — not in restaurants, taxis, hotels, or for guides. Staff may refuse a tip or seem confused by the gesture, as it can imply the employer is not paying adequately. High-end international hotels in Beijing and Shanghai are more accustomed to foreign tipping customs, but it is still not required. The overall rule is: when in doubt, skip the tip.",
+      "tourist_tips": [
+        "Do not leave cash on the table after a meal — it will likely be returned or cause confusion.",
+        "At luxury hotels serving many international guests, tipping a porter CNY 10–20 is understood but never mandatory.",
+        "Tour guides who lead private or small-group tours may quietly appreciate a tip, but it is always optional."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in China",
+      "quick_answer": "China has a world-class high-speed rail network and extensive city metros — use the 12306.cn app or Trip.com to book trains.",
+      "detail": "China's high-speed rail (HSR/CRH) network is the largest in the world and connects virtually every major city quickly and affordably; it is far preferable to domestic flights for most routes under 1,000 km. City metros in Beijing, Shanghai, Guangzhou, Shenzhen, and dozens of other cities are modern, cheap, and easy to navigate with English signage. Didi is the dominant rideshare app (Uber does not operate in China) — set it up before arrival as registration can require a local phone number. Buses are extremely cheap but very difficult to use without reading Chinese characters.",
+      "tourist_tips": [
+        "Book high-speed train tickets in advance through Trip.com (which accepts foreign cards) or the official 12306.cn app — popular routes sell out fast, especially around holidays.",
+        "Download offline metro maps for your destination cities; most metro systems now accept Alipay or WeChat Pay QR codes at turnstiles.",
+        "Set up Didi before you land — the English-language version of the app works well and lets you enter destinations in text to avoid language barriers."
+      ],
+      "warning": "During Golden Week (October 1–7) and Chinese New Year / Spring Festival, trains and transport are extremely congested and tickets sell out weeks in advance — plan and book well ahead.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in China",
+      "quick_answer": "Major cities have good hospitals, but use international or foreigner-friendly clinics to avoid severe language barriers.",
+      "detail": "Healthcare quality in Beijing, Shanghai, Guangzhou, and other major cities is high, but navigating a standard Chinese public hospital without Mandarin is extremely difficult. International hospitals such as Beijing United Family Hospital and Parkway Health in Shanghai have English-speaking doctors and are accustomed to treating foreign visitors, though costs are significantly higher. Travel insurance is essential, as these facilities bill in full upfront. Some common Western prescription medications are unavailable or sold under different names, so bring an adequate supply of any personal medications.",
+      "tourist_tips": [
+        "Save the address and phone number of the nearest international clinic for your destination city before you travel.",
+        "Carry a written list of your medications with both brand and generic names — pharmacists may only recognize the Chinese equivalent.",
+        "Travel insurance that covers medical evacuation is strongly recommended, especially for remote areas or adventure travel."
+      ],
+      "warning": "Chinese public hospitals are overwhelmed and operate almost entirely in Mandarin — attempting to use one without a translator in an emergency can result in dangerous miscommunication.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in China",
+      "quick_answer": "Respect China's strict laws: drug offenses carry the death penalty, criticizing the government is illegal, and the Great Firewall blocks most Western apps — use a VPN.",
+      "detail": "China enforces laws that differ sharply from Western norms. Drug trafficking and large-scale possession can result in the death penalty; even small amounts of narcotics lead to severe prison sentences. Publicly criticizing the Chinese government, Communist Party, or senior leaders — including on social media — is illegal and has led to detention of foreigners. The Great Firewall blocks Google, Gmail, Facebook, Instagram, WhatsApp, YouTube, Twitter/X, and most Western news sites; while VPNs are widely used by foreigners, they are technically restricted under Chinese law. Tibet and Xinjiang have additional travel permits and significantly heightened security monitoring.",
+      "tourist_tips": [
+        "Download and configure a reliable VPN before arriving in China — it is very difficult to download VPN apps once inside the country due to the Great Firewall.",
+        "Never carry, purchase, or accept drugs from anyone; penalties are among the harshest in the world.",
+        "Avoid posting anything politically sensitive about China on social media while you are in the country."
+      ],
+      "warning": "VPN use is technically illegal in China under Chinese law, though enforcement against tourists is rare. Using a VPN remains the only practical way to access most Western internet services — download and set it up before you arrive.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "vpn",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in China",
+      "quick_answer": "Dial 110 for police, 120 for an ambulance, and 119 for fire.",
+      "detail": "China's emergency numbers are separate for each service: 110 for police, 120 for medical emergencies, 119 for fire, and 122 for traffic police and road accidents. Operators are unlikely to speak English, so it is advisable to have your hotel address written in Chinese characters and to ask your hotel front desk to make emergency calls on your behalf whenever possible. In major tourist cities, some police stations have English-speaking officers or tourist police units. Always carry your hotel's business card with the address in Chinese.",
+      "tourist_tips": [
+        "Save your hotel's Chinese-language address on your phone to read to emergency dispatchers or show to taxi drivers.",
+        "Ask your hotel concierge for the direct number of the nearest international hospital or clinic — it is often faster than using 120.",
+        "Tourist police offices (marked in blue) are present at major attractions like the Great Wall and Tiananmen and can assist with language help."
+      ],
+      "warning": "Emergency call operators typically speak Mandarin only — without Chinese language ability or a local contact who can call on your behalf, getting help quickly can be very difficult.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in China",
+      "quick_answer": "China has no strict national dress code, but wear modest, covered clothing when visiting Buddhist or Taoist temples.",
+      "detail": "Everyday dress in Chinese cities is modern and relaxed, with no religious or government-mandated clothing rules for tourists. However, Buddhist temples, Taoist shrines, and active places of worship expect modesty — shoulders and knees should be covered. Practical, comfortable clothing is recommended when visiting major tourist sites like the Great Wall, where extensive walking or stair climbing is involved. In Muslim-majority areas such as the Xi'an Muslim Quarter or parts of Xinjiang, more conservative dress is appreciated.",
+      "tourist_tips": [
+        "Carry a light scarf or shawl to cover bare shoulders before entering temple complexes — some sites provide loaner coverings but not all.",
+        "Wear comfortable walking shoes for sites like the Great Wall, Zhangjiajie, and the Yellow Mountains, as terrain is steep and uneven.",
+        "Avoid wearing camouflage or military-style clothing, which can attract unnecessary attention near government buildings and checkpoints."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in China",
+      "quick_answer": "The legal drinking age is 18 and alcohol is widely and freely available with no significant restrictions.",
+      "detail": "China has very liberal alcohol laws — beer, wine, and spirits are sold in convenience stores, supermarkets, restaurants, and street stalls with minimal restrictions on hours or locations. Baijiu, a potent grain spirit (often 50–60% ABV), is the national drink and extremely cheap. Drinking in public is generally acceptable. Cold beer is inexpensive and widely available; domestic brands like Tsingtao, Snow, and Yanjing are found everywhere.",
+      "tourist_tips": [
+        "If offered baijiu at a business dinner or by a host, be aware it is extremely strong — it is polite to accept a small cup and sip slowly.",
+        "Convenience stores like FamilyMart and Lawson (common in cities) sell cold beer at very low prices, ideal for budget travelers.",
+        "Alcohol is generally not a source of legal risk in China — the main caution is public intoxication in sensitive areas near protests or government buildings."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in China",
+      "quick_answer": "Bargaining is expected at markets and tourist shops but is completely inappropriate in malls, supermarkets, or restaurants.",
+      "detail": "Haggling is a normal and expected part of shopping at street markets, tourist souvenir stalls, and dedicated bargaining markets like Beijing's Silk Street Market or Shanghai's Yatai Xinyang Fashion Market. Vendors at these locations routinely quote prices many times the true value to tourists, so starting at 20–30% of the asking price and negotiating from there is standard practice. Fixed-price retail — including all supermarkets, shopping malls, chain restaurants, and official stores — does not permit bargaining and attempting it will cause embarrassment. Counterfeit goods are common in tourist markets; purchasing them carries legal risk.",
+      "tourist_tips": [
+        "At tourist markets, start your counter-offer at roughly 20–25% of the initial asking price and expect to settle around 30–50%.",
+        "Walking away is the most effective bargaining tactic — vendors will often call you back with a much lower price.",
+        "Be aware that counterfeit branded goods are illegal to import into most countries; customs confiscation is a real risk on your return."
+      ],
+      "warning": "Purchasing counterfeit goods (fake designer clothing, handbags, watches) at tourist markets is illegal and customs agencies in your home country may confiscate items or impose fines at the border.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in China",
+      "quick_answer": "Most tourist sites allow photography, but photographing military installations, airports (outside designated zones), government buildings, and police operations is strictly prohibited.",
+      "detail": "Photography at major tourist attractions — including Tiananmen Square, the Great Wall, the Forbidden City, and most temples — is generally permitted, though some inner shrines or specific halls may have restrictions. Taking photos of military bases, military personnel, police operations, border checkpoints, airports (beyond public areas), and government buildings is illegal and can result in detention and confiscation of your device. In sensitive regions such as Tibet and Xinjiang, photography restrictions are much stricter and checkpoints are common. Always check for posted signs before photographing inside any official building.",
+      "tourist_tips": [
+        "When in doubt near any building with guards or a Chinese government flag, ask before raising your camera.",
+        "Photography drones require permits and are restricted in most urban areas and near all airports — do not fly a drone without checking local regulations.",
+        "Photographing ordinary street life, food, and people is generally fine, but always ask permission before closely photographing individuals."
+      ],
+      "warning": "Photography near military facilities, police operations, or in restricted areas of Tibet and Xinjiang can lead to detention, confiscation of your phone or camera, and deletion of your images by authorities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in China",
+      "quick_answer": "China is commercially open 7 days a week, but government offices are closed on weekends and Golden Week holidays cause massive nationwide disruption.",
+      "detail": "Shops, restaurants, malls, and tourist attractions in China are almost universally open 7 days a week — Sunday closures are not a feature of Chinese commercial life. Government offices and banks operate Monday to Friday and are closed on weekends. The two most significant holiday periods are Golden Week (October 1–7, National Day holiday) and Spring Festival / Chinese New Year (dates vary, typically January–February), during which domestic travel reaches record levels, popular tourist sites become extremely crowded, and many small businesses close for days or weeks. Planning travel around these dates is strongly advisable.",
+      "tourist_tips": [
+        "Check the Chinese public holiday calendar before booking — Golden Week and Spring Festival see hundreds of millions of people traveling simultaneously.",
+        "Book trains, accommodation, and tickets to major attractions weeks in advance if you must travel during a national holiday period.",
+        "Many small family-run restaurants and shops close for 1–2 weeks during Spring Festival as owners travel home — this can affect food options even in cities."
+      ],
+      "warning": "The Great Wall, Zhangjiajie, West Lake, and other iconic sites become dangerously overcrowded during Golden Week — entry is restricted by timed tickets that sell out; book well in advance or avoid these dates entirely.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in China",
+      "quick_answer": "Use the Didi app for rideshare — it is reliable, metered, and has an English interface; street taxis work but communicating your destination without Chinese is difficult.",
+      "detail": "Didi Chuxing is the dominant rideshare platform in China (Uber exited the market in 2016). The Didi app has an English-language version and allows you to enter a destination in text, which avoids language barriers entirely. Street taxis in major cities are metered and generally honest, but most drivers speak no English; showing a written Chinese-character address on your phone is essential. Most taxis do not accept foreign credit cards — carry cash CNY. Rideshare pricing is transparent in the app and generally comparable to metered taxis.",
+      "tourist_tips": [
+        "Download and register the Didi app before arriving in China — registration can require a Chinese phone number, which can be solved with a local SIM.",
+        "Always carry your hotel's address written in Chinese characters on your phone or a printed card to show taxi drivers.",
+        "Avoid unlicensed 'black taxis' at airports and railway stations — use metered taxis from official taxi ranks or prebook a Didi."
+      ],
+      "warning": "Unlicensed taxi touts at airports and major train stations frequently overcharge tourists by 5–10 times the fair rate — always use the official taxi queue or a Didi booking.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in China",
+      "quick_answer": "Never drink tap water in China — always drink bottled or boiled water.",
+      "detail": "Tap water in China is not safe to drink directly in any part of the country due to aging infrastructure and contamination risks. Bottled water is extremely cheap and universally available; hotel rooms typically provide complimentary bottled water or a hot-water thermos with boiled water. Ice in established tourist restaurants and hotels is generally made from purified water and considered safe. Brushing teeth with tap water is generally fine for short-term visitors, though sensitive travelers may prefer bottled water for this too.",
+      "tourist_tips": [
+        "Bottled water costs CNY 1–3 per 500ml at convenience stores — buy in bulk from supermarkets to save money.",
+        "Hot water dispensers are common on high-speed trains and in hotel lobbies; carry a refillable insulated bottle to fill up.",
+        "When ordering drinks at street stalls, avoid ice if you are uncertain about the source of the water used."
+      ],
+      "warning": "Drinking unboiled tap water in China risks gastrointestinal illness — this is a consistent risk throughout the country, not just in rural areas.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in China",
+      "quick_answer": "Use Bank of China, ICBC, or HSBC ATMs for the most reliable foreign card access — cash is still necessary for markets and small vendors.",
+      "detail": "While WeChat Pay and Alipay dominate everyday transactions in China, foreign tourists typically cannot easily link these apps to a foreign bank account, making cash essential for markets, street food, small shops, and local transport. Bank of China, ICBC, and HSBC ATMs are the most consistently reliable for Visa and Mastercard withdrawals; some smaller bank ATMs reject foreign cards entirely. ATM withdrawal fees can be significant — withdraw larger amounts less frequently. UnionPay is the dominant card network in China; if your bank card has a UnionPay logo, acceptance is wider.",
+      "tourist_tips": [
+        "Withdraw sufficient cash when you find a working ATM — not every machine in a given city will accept foreign cards.",
+        "Ask your bank before travel about international withdrawal fees and daily limits; notify them of your travel to prevent card blocks.",
+        "Some tourist-facing apps such as Alipay now allow foreign visitors to link a foreign Visa/Mastercard for a limited tourist wallet — set this up before arrival for app-based payments."
+      ],
+      "warning": "Many Chinese ATMs outside major bank branches will decline foreign Visa/Mastercard entirely — always carry enough cash for a full day and never rely on finding a working ATM at short notice.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in China",
+      "quick_answer": "Buy a local SIM at the airport from China Mobile, China Unicom, or China Telecom — but install and configure your VPN before you land, as local SIMs are subject to the Great Firewall.",
+      "detail": "China's three main carriers — China Mobile, China Unicom, and China Telecom — sell tourist SIM cards at major international airports and carrier stores; bring your passport. Local SIM data is fast and cheap but is subject to the Great Firewall, meaning Google, WhatsApp, Instagram, and most Western services are blocked without a VPN. International roaming on your home SIM is generally not blocked by the Great Firewall, making it a possible alternative for light internet use, though it is expensive. A VPN must be downloaded and configured before arriving in China — the Great Firewall blocks VPN app stores and download pages.",
+      "tourist_tips": [
+        "Install, subscribe to, and test your VPN app at home before your flight — once inside China, you cannot easily download or activate a new VPN.",
+        "China Unicom and China Telecom tourist SIMs are available at Beijing Capital, Shanghai Pudong, and other major international airports immediately after customs.",
+        "Pocket Wi-Fi (portable hotspot) devices can be rented at airports and often come with data that is pre-configured for the Great Firewall environment — confirm before renting."
+      ],
+      "warning": "If you do not set up a VPN before landing, you will be unable to use Google Maps, WhatsApp, Gmail, Instagram, YouTube, or most Western apps for your entire trip — this is a critical preparation step.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "vpn",
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in China",
+      "quick_answer": "China uses 220V/50Hz with Type A (two flat pins) and Type I (two angled flat pins) sockets — most travelers need an adapter.",
+      "detail": "The standard voltage in China is 220V at 50Hz, which is incompatible with 110V devices (common in North America and Japan) unless the device has a dual-voltage power supply (check the label). The most common socket types are Type A (two flat parallel pins, same as North America) and Type I (two angled flat pins in a V-shape, same as Australia). Many hotels in China, particularly international chains, provide universal sockets that accept most plug types. Surge protection is recommended as power fluctuations can occur.",
+      "tourist_tips": [
+        "Check all your device power adapters for a '100–240V' input label — most modern laptops, phones, and camera chargers are dual-voltage and only need a plug adapter, not a voltage converter.",
+        "Buy a universal travel adapter before you depart — they are available cheaply at Chinese airports and electronics shops too.",
+        "Older budget hotels may have limited sockets per room; a small multi-socket power strip (with an appropriate adapter) is very useful."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in China",
+      "quick_answer": "The most common tourist scams are the tea ceremony trick, the art student hustle, and taxi overcharging — stay alert near major tourist sites.",
+      "detail": "The tea ceremony scam is China's most notorious tourist con: a seemingly friendly local engages a tourist in conversation and invites them for tea, which turns out to be an extremely expensive private tea tasting with a bill of hundreds or thousands of yuan. The art student scam follows a similar pattern, with young people claiming to be art students who invite tourists to view a gallery and then pressure them into buying overpriced paintings. Taxi overcharging — especially from unmetered 'black taxis' at airports — is common. Counterfeit goods in tourist markets are widespread and carry import risks on departure.",
+      "tourist_tips": [
+        "Politely decline any unsolicited approach from strangers near major tourist attractions, especially if they speak good English and seem very friendly — this is a red flag for a setup.",
+        "Always use metered taxis from official queues or book via Didi; never accept rides from touts approaching you in arrival halls.",
+        "The 'fake panda photo op' in Chengdu involves elderly women renting out stuffed pandas or posing tourists with sedated animals for a fee — avoid this and any interaction with drugged wildlife."
+      ],
+      "warning": "The tea ceremony scam has resulted in tourists being presented bills of CNY 2,000–10,000 (USD 300–1,400) and being aggressively pressured to pay — if you fall victim, contact the tourist police immediately.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in China",
+      "quick_answer": "China is very safe by international standards — violent crime against tourists is extremely rare, but stay alert to scams and petty theft in crowded tourist areas.",
+      "detail": "China consistently ranks among the safest countries in the world for tourists in terms of violent crime. Armed robbery, assault, and crimes targeting foreigners are exceptionally rare. Petty theft such as pickpocketing can occur in crowded tourist sites, busy markets, and on metro systems, particularly in major cities. The greatest risks for tourists are non-violent scams (see Haggling & Scams topic) rather than physical danger. Solo female travelers generally report feeling very safe in Chinese cities, even late at night.",
+      "tourist_tips": [
+        "Keep your passport, cash, and phone in a front pocket or concealed money belt in crowded markets and tourist areas.",
+        "Be aware of your surroundings on busy metro platforms where bag snatching, while rare, can occur.",
+        "Keep a photocopy or digital scan of your passport — Chinese police may request to see identification, and having a copy makes replacement easier if the original is lost."
+      ],
+      "warning": "Political demonstrations and civil unrest are rare but when they do occur, the security response is swift and overwhelming — foreign tourists caught in the vicinity may be detained for questioning regardless of involvement.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in China",
+      "quick_answer": "Show respect through food customs and gift-giving rules: never stick chopsticks upright in rice and present business cards with both hands.",
+      "detail": "Chinese dining etiquette differs from Western norms in important ways: slurping noodles and soup is polite and signals enjoyment, and loudness at a restaurant table is normal and acceptable. Sticking chopsticks upright in a bowl of rice mimics incense at a funeral and is considered very bad luck — always rest them on the chopstick holder or across the bowl. Business cards are presented and received with both hands and a slight bow; examine the card respectfully before putting it away. Gift-giving is meaningful but nuanced: avoid giving clocks (sounds like 'death' in Chinese), pears (sounds like 'separation'), or umbrellas as gifts. The number 4 is considered very unlucky (also sounds like 'death').",
+      "tourist_tips": [
+        "At a Chinese banquet or dinner hosted by locals, wait for the host to invite you to begin eating and to propose the first toast before drinking.",
+        "Face (mianzi) is a critical concept — avoid publicly embarrassing or criticizing anyone, and always allow hosts to maintain dignity in disagreements.",
+        "Learning just a few Mandarin phrases (hello, thank you, sorry) is warmly received and earns significant goodwill from locals."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in China",
+      "quick_answer": "Mandarin is the official language; English is very limited outside international hotels — download Google Translate offline before you arrive.",
+      "detail": "Mandarin Chinese (Putonghua) is the official language and is spoken nationwide, though regional dialects like Cantonese (Guangdong), Shanghainese, and Hokkien differ so significantly that speakers cannot understand each other. English is spoken at international hotels, some tourist attractions, and by some younger urban Chinese, but is not reliably available in restaurants, taxis, markets, or smaller cities. Google Translate's offline Chinese Simplified download is essential — it allows you to translate menus, signs, and spoken words without internet. Showing written Chinese characters for your destination to taxi drivers is far more reliable than trying to pronounce Mandarin tones.",
+      "tourist_tips": [
+        "Download Google Translate with the offline Chinese Simplified pack before you travel — remember you will need a VPN to use Google services in China, but the offline pack works without internet.",
+        "Learn to say 'Ni hao' (hello), 'Xie xie' (thank you), 'Duo shao qian?' (how much?), and 'Tai gui le' (too expensive!) — locals appreciate even minimal effort.",
+        "Have your hotel write your destination in Chinese characters for every day trip — showing this to taxi drivers or showing it at transport desks is the most reliable navigation method."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "vpn",
+        "pocket-wifi"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in China",
+      "quick_answer": "Hainan Island (Sanya) is China's premier beach destination, but prepare for very crowded conditions during Chinese public holidays.",
+      "detail": "China's main beach destinations include Sanya on Hainan Island (marketed as the 'Hawaii of China'), Beidaihe near Beijing on the Bohai Sea, and several spots along the Fujian and Zhejiang coasts. Hainan's beaches are tropical, warm year-round, and have good resort infrastructure. Chinese beaches can become extraordinarily crowded during Golden Week and summer school holidays (July–August), with thousands of visitors per beach. Some beaches along the South China Sea seasonally experience jellyfish, particularly in late summer. Lifeguard coverage varies and is not universal.",
+      "tourist_tips": [
+        "Visit Sanya between November and April for the best weather and smaller crowds — July and August are peak season and extremely busy.",
+        "Check local advisories for jellyfish warnings, particularly at East China Sea beaches in August and September.",
+        "Hainan tourist resorts cluster around Sanya Bay, Dadonghai, and Yalong Bay — Yalong Bay is generally considered the cleanest and most upscale beach area."
+      ],
+      "warning": "Some Chinese beaches lack consistent lifeguard patrols and rip currents can be strong — swim between marked flags and observe local safety warnings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in China",
+      "quick_answer": "Foreign driving licenses are not valid in China and tourist car rental is nearly impossible — use Didi or hire a driver instead.",
+      "detail": "China drives on the right side of the road. However, foreign driving licenses are not recognized in China and converting a foreign license to a Chinese one requires residency. Tourist car rental from major international agencies is generally unavailable to foreigners without a Chinese license. For independent exploration, using Didi rideshare or hiring a driver through your hotel or a licensed tour operator is strongly recommended. Traffic in Chinese cities is very aggressive by Western standards, and road etiquette differs significantly from most Western countries.",
+      "tourist_tips": [
+        "For day trips to areas not served well by public transport (rural areas, national parks), book a private car and driver through your hotel or a reputable travel agency.",
+        "Didi offers an 'intercity' service that can take you between nearby cities for a flat fee — useful for routes without direct train connections.",
+        "If you are a cycling enthusiast, bicycle hire is widely available in many cities through apps like Meituan and Hello Bike for exploring at a slower pace."
+      ],
+      "warning": "Attempting to drive in China on a foreign license is illegal and will invalidate any travel or vehicle insurance — do not attempt to rent or drive a vehicle without a valid Chinese driving permit.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in China",
+      "quick_answer": "Chinese food has enormous regional diversity — point at photo menus or neighboring tables' dishes, and street food is excellent value but choose busy stalls.",
+      "detail": "China is one of the world's greatest food cultures, with dramatically different regional styles: fiery Sichuan cuisine (mapo tofu, kung pao chicken), delicate Cantonese dim sum, Beijing roast duck (Peking duck), Shanghai soup dumplings (xiaolongbao), and dozens of other distinct traditions. Menus in many local restaurants are in Chinese only, but photo menus are common in tourist areas and pointing at pictures or neighboring tables' dishes is perfectly acceptable. Food safety has improved greatly in recent decades, though caution with street food hygiene (choosing busy, high-turnover stalls) remains advisable. Muslim Halal (清真, Qingzhen) restaurants are widely available, marked with green crescent signage.",
+      "tourist_tips": [
+        "Look for restaurants where local Chinese are eating — these offer the best quality at the lowest prices and are typically safe regardless of how basic the setting looks.",
+        "Xiaolongbao (soup dumplings) must be eaten carefully — bite a small hole first and let steam escape before eating to avoid burns from the hot broth inside.",
+        "Download the Dianping app (China's equivalent of Yelp/TripAdvisor) for restaurant reviews and ratings — it requires a VPN workaround to use Google Translate on the Chinese interface."
+      ],
+      "warning": "Shellfish and raw seafood in inland areas far from the coast carry a higher food safety risk — stick to cooked dishes in non-coastal cities if you have a sensitive stomach.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in China",
+      "quick_answer": "Remove shoes and hats before entering Buddhist temples, dress modestly at mosques, and always observe silence during active worship.",
+      "detail": "Buddhist temples and Taoist shrines are the most common religious sites tourists visit in China; these require modest dress (covered shoulders and knees), removal of hats, and respectful quiet near areas of active worship. Photography is usually permitted in outer courtyards but often restricted in main shrine halls — check for posted signs. Mosques in China's Muslim communities (the Xi'an Great Mosque, Niu Jie Mosque in Beijing, and mosques throughout Xinjiang and Gansu) require removal of shoes, conservative dress including head covering for women, and non-Muslim visitors may have restricted access to prayer halls. Christian churches operate legally in China but are subject to government registration requirements.",
+      "tourist_tips": [
+        "At Buddhist temples, walk clockwise around stupas and sacred objects — this is the respectful and auspicious direction.",
+        "The Xi'an Great Mosque is one of China's most architecturally remarkable sites, blending Islamic and Chinese architecture — it is open to tourists outside prayer times and entry is respectful if modest dress is worn.",
+        "Incense burning at temple courtyards is common and open to all — participate respectfully, but be aware that some temples have reduced incense for air quality reasons."
+      ],
+      "warning": "In Xinjiang, mosques and Islamic sites are under heightened government surveillance and some may be closed to foreign visitors or subject to restrictions — research current access conditions before planning visits to religious sites in the region.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit China",
+      "quick_answer": "China's vast size means no single best time, but spring (April–May) and autumn (September–October) are optimal for Beijing and most of eastern China.",
+      "detail": "China spans tropical, subtropical, temperate, and alpine climate zones. Beijing and northern China are best visited in spring (April–May) or autumn (September–October), when temperatures are mild, skies are clearer, and air quality is better. Shanghai shares a similar optimal window. Southern China and Hainan Island are best from October to March, avoiding typhoon season (June–September). Yunnan and Sichuan are pleasant from March to October. The Tibetan Plateau is best visited from May to October. Crucially, avoid traveling during Chinese Golden Week (October 1–7) and Spring Festival (Chinese New Year, January–February) when 1.4 billion people are on the move simultaneously.",
+      "tourist_tips": [
+        "Book all accommodation and transport at least 6–8 weeks in advance for travel in October, as Golden Week fills hotels and trains nationwide.",
+        "Spring can bring sandstorms to Beijing (especially March–April), which significantly reduce visibility and air quality — pack an N95 mask.",
+        "Typhoon season (June–September) affects coastal cities from Shanghai southward — check typhoon forecasts before finalizing travel plans to coastal and island destinations."
+      ],
+      "warning": "Chinese New Year / Spring Festival is the largest annual human migration on earth — if your travel dates overlap, expect extreme congestion, dramatically inflated prices, and many closed businesses.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in China",
+      "quick_answer": "Eat street food and local canteens, book overnight trains to save on accommodation, and negotiate hard at markets to stretch your budget dramatically.",
+      "detail": "China offers exceptional value for budget travelers who embrace local habits. Street food — dumplings (jiaozi), baozi (steamed buns), scallion pancakes, and hand-pulled noodles — costs CNY 5–15 per meal at local stalls and is delicious. Small local canteen-style restaurants (小吃店, xiǎochī diàn) serve full meals for CNY 15–30. Overnight sleeper trains between cities save both accommodation costs and daytime travel time. Free attractions including many public parks, city squares, and some temples make sightseeing cheap. China's domestic airline competition also means cheap flights on routes not covered by train.",
+      "tourist_tips": [
+        "Overnight hard-sleeper (硬卧, yingwo) train tickets are significantly cheaper than soft-sleeper and perfectly comfortable for budget travelers on long routes like Beijing to Xi'an or Shanghai to Chengdu.",
+        "Use the tourist version of Alipay (now accessible with foreign Visa/Mastercard) to access app-only discounts at restaurants, convenience stores, and tourist attractions.",
+        "Free or low-cost access to China's enormous network of city parks — including Beijing's Temple of Heaven park grounds, Beihai Park, and Shanghai's Century Park — provides full days of sightseeing without admission fees."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

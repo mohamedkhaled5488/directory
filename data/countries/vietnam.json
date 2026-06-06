@@ -1,0 +1,439 @@
+{
+  "country": "Vietnam",
+  "slug": "vietnam",
+  "emoji": "🇻🇳",
+  "region": "Asia",
+  "currency": "VND",
+  "language": "Vietnamese",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Vietnam",
+      "quick_answer": "Tipping is not traditionally expected in Vietnam but is appreciated in tourist areas.",
+      "detail": "Vietnam has no strong tipping culture, but the practice is becoming more common in tourist-facing businesses. At tourist restaurants, 10–15% is a welcome gesture; at local eateries, rounding up the bill is sufficient. Tip guides 20,000–50,000 VND for a half-day tour, and round up fares for xe om (motorbike taxi) drivers. Hotel staff and spa workers also appreciate small tips of 20,000–50,000 VND.",
+      "tourist_tips": [
+        "Use small denomination VND notes for tipping — always tip in cash directly to the person, not left on the table.",
+        "For Grab motorbike or car rides, rounding up or adding a small tip through the app is appreciated but not expected.",
+        "At upscale restaurants a service charge may already be included — check the bill before adding extra."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Vietnam",
+      "quick_answer": "Grab (motorbike or car) dominates city transport, while cheap buses, the scenic Reunification Express train, and budget airlines connect cities.",
+      "detail": "Within cities, Grab is the safest and most convenient option — the app shows the price upfront and prevents overcharging. Hanoi's Metro Line 2A is operational, and Ho Chi Minh City's metro is under construction. For intercity travel, the Reunification Express train offers scenic routes between Hanoi and Ho Chi Minh City. Budget airlines VietJet and Bamboo Airways offer very cheap domestic flights, and sleeper buses are a budget-friendly overnight option.",
+      "tourist_tips": [
+        "Download Grab before you land — it covers motorbike taxis, cars, and food delivery across all major cities.",
+        "Book train tickets in advance on the 12go.asia website or at station counters — soft sleeper berths sell out fast on popular routes.",
+        "For the overnight Hanoi–Ha Long Bay bus-boat combo, book through a reputable agency rather than a street-corner tout."
+      ],
+      "warning": "Avoid unmarked or unlicensed taxis at airports — stick to Grab, Vinasun, or Mai Linh branded vehicles to avoid meter tampering scams.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Vietnam",
+      "quick_answer": "Travel insurance is critical — private hospitals like FV Hospital (Ho Chi Minh City) and Vinmec (Hanoi) provide quality care but are expensive without coverage.",
+      "detail": "Public hospitals are under-resourced; tourists should use international private hospitals, which require payment upfront or proof of insurance. Pharmacies are abundant but counterfeit medicines are a known problem — purchase only from reputable chain pharmacies. Malaria prophylaxis is recommended if visiting rural highland areas. Ensure routine vaccinations (hepatitis A/B, typhoid) are up to date before travel.",
+      "tourist_tips": [
+        "Save the number of the nearest international hospital before you need it: FV Hospital (+84 28 5411 3333) in Ho Chi Minh City, Vinmec (+84 24 3974 3556) in Hanoi.",
+        "Buy medicines only from established pharmacy chains such as Long Chau or Pharmacity to reduce the risk of counterfeits.",
+        "Keep all medical receipts and reports — your insurer will require them for reimbursement claims."
+      ],
+      "warning": "Counterfeit antimalarials and antibiotics have been sold in tourist areas — never buy prescription medicines from street vendors or unmarked stalls.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Vietnam",
+      "quick_answer": "Vietnam enforces extremely strict drug laws including the death penalty for trafficking, and any criticism of the Communist Party government is illegal.",
+      "detail": "Drug offences carry severe penalties — possession of even small amounts can result in imprisonment, and trafficking carries the death penalty. Publicly criticizing the government, the Communist Party, or national leadership online or in person is a criminal offence. Homosexuality is legal but not publicly recognized in law, and same-sex couples should exercise discretion. Photography of military installations, police operations, or government buildings is prohibited.",
+      "tourist_tips": [
+        "Never accept packages from strangers to carry across borders — drug trafficking convictions carry the death penalty regardless of your knowledge.",
+        "Be careful about what you post on social media while in Vietnam — political commentary can attract legal attention.",
+        "Carry a photocopy of your passport at all times; police can request ID and holding the original is advisable for safety."
+      ],
+      "warning": "Drug trafficking carries the death penalty in Vietnam — this is strictly enforced and applies to foreign nationals.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Vietnam",
+      "quick_answer": "Police: 113; Ambulance: 115; Fire: 114; Tourist support hotline: 1800 599 920 (free).",
+      "detail": "The tourist support hotline (1800 599 920) operates 24 hours and can provide English-language assistance, making it particularly useful for visitors in distress. Operators at 113, 115, and 114 may not speak English — having a Vietnamese-speaking local or hotel staff member call on your behalf is advisable. Private ambulance services through international hospitals are faster and better equipped than public ambulances in most cities.",
+      "tourist_tips": [
+        "Save the tourist hotline 1800 599 920 in your phone immediately on arrival — it is free to call and operates around the clock.",
+        "Ask your hotel's front desk to assist with any emergency call where a language barrier could cause delays.",
+        "International hospitals like FV and Vinmec have their own emergency lines and respond faster than public services for medical emergencies."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Vietnam",
+      "quick_answer": "Cover shoulders and knees when visiting temples or pagodas; everywhere else dress is casual and beach towns are very relaxed.",
+      "detail": "Vietnam is generally a casual country for dress outside of religious sites. At Buddhist pagodas, Taoist temples, and Cham towers, you must cover your shoulders and knees — sarongs or wraps are sometimes available at entrances. Outside of religious sites, lightweight casual clothing is the norm given the tropical heat. In beach resorts such as Phu Quoc and Nha Trang, very casual attire is universally accepted.",
+      "tourist_tips": [
+        "Carry a lightweight scarf or sarong in your day bag — it doubles as temple cover-up and sun protection.",
+        "Ao dai (traditional Vietnamese dress) is not required but renting one for a photoshoot in Hoi An is a popular and respectful tourist activity.",
+        "Remove shoes before entering any pagoda, temple, or Vietnamese home — look for shoes at the door as your cue."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Vietnam",
+      "quick_answer": "The legal drinking age is 18, alcohol is widely available, and drinking in public is socially acceptable.",
+      "detail": "Vietnam has a vibrant drinking culture — bia hoi (fresh draught beer) served at street corners for as little as 5,000–10,000 VND per glass is uniquely Vietnamese. Alcohol is sold in supermarkets, convenience stores, and restaurants without restriction. Local rice wine (ruou) is extremely potent and should be approached with caution. Fake alcohol incidents — particularly methanol-tainted spirits — have caused deaths and serious harm at some tourist areas.",
+      "tourist_tips": [
+        "Try bia hoi at a street corner in Hanoi's Old Quarter — it is one of the most authentic and cheap cultural experiences in Vietnam.",
+        "Stick to sealed, branded bottles of spirits at bars and avoid homemade or unlabeled rice wine offered by street sellers.",
+        "Drunk driving is illegal and enforcement is increasing — always use Grab after a night out rather than renting a motorbike."
+      ],
+      "warning": "Methanol-tainted counterfeit spirits have caused deaths at tourist destinations — only drink spirits from sealed bottles at reputable establishments.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Vietnam",
+      "quick_answer": "Bargaining is expected at markets, street vendors, and xe om taxis — start at 30–40% of the asking price.",
+      "detail": "Haggling is a normal and expected part of commerce at wet markets, tourist markets, and with street vendors. A good opening offer is 30–40% of the initial asking price, then negotiate to a mutually agreeable middle ground. Do not bargain in supermarkets, modern shops with price tags, or restaurants with printed menus. Smiling and keeping a light, friendly tone is essential — aggressive bargaining is considered rude.",
+      "tourist_tips": [
+        "Learn the Vietnamese numbers 1–10 before visiting markets — making an offer in Vietnamese, even badly, is warmly received and often gets a better price.",
+        "If you name a price and the seller accepts it, you are committed — only make an offer you are genuinely willing to pay.",
+        "Walk away slowly if you cannot agree on a price — sellers will often call you back with a lower offer."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Vietnam",
+      "quick_answer": "Photography is generally permitted, but military sites, police operations, and government installations are strictly off-limits.",
+      "detail": "Vietnam is a highly photogenic country and cameras are welcome at most tourist sites, war museums, and street scenes. Military bases, border areas, police checkpoints, and government buildings must not be photographed — offenders can have cameras confiscated and face questioning. When photographing inside temples or pagodas, always ask before entering inner sanctuaries. Always ask local people's permission before taking their portrait, particularly in ethnic minority villages.",
+      "tourist_tips": [
+        "At war museums such as the War Remnants Museum in Ho Chi Minh City, photography is permitted throughout and encouraged.",
+        "Drone use requires a permit in Vietnam — flying a drone without registration can result in confiscation and fines.",
+        "In ethnic minority areas of Sapa or Ha Giang, offer a small payment or buy something from a vendor before photographing them."
+      ],
+      "warning": "Photographing military installations or police operations can result in equipment confiscation and detention — err on the side of caution near government buildings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Vietnam",
+      "quick_answer": "Street food and shops operate 7 days a week, but government offices close on weekends and Tet (Lunar New Year) causes near-total closures for 1–2 weeks.",
+      "detail": "Most tourist-facing businesses — restaurants, markets, shops, and transport — operate every day of the week without reduced hours. Government offices, banks, and post offices are closed on Saturdays and Sundays. Tet (Vietnamese Lunar New Year, typically January–February) is the most significant holiday: businesses close for 1–2 weeks, transport is packed weeks before, and many services are unavailable. National public holidays such as Reunification Day (April 30) and National Day (September 2) also cause closures.",
+      "tourist_tips": [
+        "Avoid travelling in Vietnam during Tet unless you specifically want to experience the festival — book all transport and accommodation months in advance.",
+        "Exchange money and stock up on cash before public holidays, as ATMs can run out and banks will be closed.",
+        "Many pagodas and markets are busier and more atmospheric on weekends — this is when local Vietnamese families visit."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Vietnam",
+      "quick_answer": "Grab is the essential app for all city transport — use it to avoid overcharging; Vinasun and Mai Linh are trusted metered taxi brands.",
+      "detail": "Grab operates across all major Vietnamese cities offering motorbike (GrabBike), car (GrabCar), and food delivery services with upfront pricing. Unmarked or independent taxis frequently tamper with meters or use scenic routes to inflate fares — only use Vinasun (yellow) or Mai Linh (green) branded metered taxis if not using Grab. Motorbike Grab is the fastest option in congested city traffic and very affordable. At airports, use the official taxi queue rather than accepting offers from touts inside the terminal.",
+      "tourist_tips": [
+        "Download Grab and add a payment method before leaving the airport — a GrabCar from Tan Son Nhat to central Ho Chi Minh City costs around 150,000–200,000 VND with no surprises.",
+        "If a taxi driver says the meter is broken, get out immediately and find a Grab or a Vinasun/Mai Linh cab.",
+        "GrabBike (motorbike) is the fastest way to cross Ho Chi Minh City during rush hour — always wear the helmet the driver provides."
+      ],
+      "warning": "Fake Vinasun-branded taxis with tampered meters operate at popular tourist spots — verify the vehicle and driver details match the Grab app or look for official branding.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Vietnam",
+      "quick_answer": "Never drink tap water in Vietnam — stick to bottled water, which is widely available and very cheap.",
+      "detail": "Tap water in Vietnam is not safe to drink due to ageing pipes and contamination risks. Bottled water (500ml) costs 5,000–10,000 VND at convenience stores and is available everywhere. Ice at tourist restaurants and hotels is generally made from purified water and is considered safe. Ice at roadside stalls and street vendors — particularly large block ice — should be avoided as it may be made from tap water.",
+      "tourist_tips": [
+        "Buy large 1.5-litre bottles from convenience stores like Circle K or Winmart for better value than individual small bottles.",
+        "Brushing teeth with tap water is generally considered acceptable by most travellers, but use bottled water if you have a sensitive stomach.",
+        "Carry a reusable bottle with a filter (e.g. LifeStraw) for environmental sustainability and backup water safety in rural areas."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Vietnam",
+      "quick_answer": "Cash (VND) is widely needed — use Vietcombank, Techcombank, or BIDV ATMs and exchange at banks or gold shops for the best rates.",
+      "detail": "Vietnam remains largely cash-based outside of upscale establishments and hotels. Vietcombank, BIDV, and Techcombank ATMs accept most foreign Visa and Mastercard debit cards with a transaction fee of around 30,000–60,000 VND. Exchange rates at licensed banks and kim hoang (gold shops) are significantly better than at hotels or airports. Never exchange money with street vendors — counterfeit notes and short-changing are common risks.",
+      "tourist_tips": [
+        "Withdraw larger amounts at once to minimize per-transaction fees — most ATMs dispense up to 3,000,000–5,000,000 VND per transaction.",
+        "Wise (formerly TransferWise) debit card users can often withdraw with lower fees — compare with your home bank's international charges.",
+        "Keep a mix of small denominations (10,000–50,000 VND) for street food and tipping, as vendors rarely have change for large notes."
+      ],
+      "warning": "Never exchange money with unlicensed street changers — short-changing and counterfeit VND notes are a known risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Vietnam",
+      "quick_answer": "Buy a Viettel SIM at the airport for the best nationwide coverage — 30 days of data costs around 150,000 VND with your passport.",
+      "detail": "Vietnam has excellent and affordable mobile data coverage in cities and major tourist destinations. Viettel has the broadest nationwide network including rural and mountainous areas; Vinaphone and Mobifone are solid alternatives. SIM cards are sold at the airport arrivals hall, phone shops, and convenience stores for around 100,000–200,000 VND including data. A passport is required for SIM registration. Airalo and other eSIM providers also work in Vietnam if your phone supports eSIM.",
+      "tourist_tips": [
+        "Buy a Viettel SIM at the airport immediately after landing — the desk is in the arrivals hall and takes about 5 minutes.",
+        "If you prefer not to swap SIMs, Airalo sells Vietnam eSIM plans starting around $5 USD for 3GB — activate before your flight.",
+        "Wi-Fi is free and fast at most cafes, hotels, and restaurants — Vietnam has some of the fastest average internet speeds in Southeast Asia."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Vietnam",
+      "quick_answer": "Vietnam uses 220V/50Hz with a mix of Type A, C, and F sockets — bring a universal multi-adapter.",
+      "detail": "Vietnam's electrical standard is 220V at 50Hz, which is compatible with most modern electronics and appliances from Europe, Australia, and Asia. Socket types are inconsistent — Type A (two flat pins, US-style), Type C (two round pins, European), and Type F (two round pins with grounding clips) are all found, sometimes in the same building. A universal travel adapter is strongly recommended. Power outages occur occasionally in rural areas and during storms.",
+      "tourist_tips": [
+        "A universal travel adapter covers all Vietnamese socket types — buy one before you leave home as quality adapters can be harder to find cheaply in Vietnam.",
+        "US and Canadian travellers: your 110V devices may not work — check the voltage rating on your charger or appliance before plugging in.",
+        "Power banks are essential for full-day sightseeing as charging opportunities can be limited on buses and boats."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Vietnam",
+      "quick_answer": "Scams are very common in tourist areas — know the classics: taxi meter tampering, fake temple closures, shoe-shine cons, and overpriced non-menu restaurants.",
+      "detail": "The 'closed today' scam involves a friendly stranger telling you your intended temple or attraction is closed and offering to take you to an alternative (which pays them commission). Shoe-shine boys offer unsolicited free shines then demand large sums of money. Xe om drivers and some metered taxis inflate fares dramatically for tourists. Restaurants without printed menus or prices quoted only verbally frequently charge multiples of the normal rate, particularly for seafood.",
+      "tourist_tips": [
+        "Always agree on a price before getting on any xe om (motorbike taxi) that is not booked through Grab.",
+        "If a stranger tells you a landmark is closed, verify independently — walk past them and check for yourself or look online.",
+        "At seafood restaurants, always confirm the price per 100g (not per piece) and get it in writing before ordering — 'fresh catch' pricing scams are very common in coastal towns."
+      ],
+      "warning": "Fake tour operators selling Ha Long Bay overnight cruises online and at street booths collect payment and disappear — only book through licensed operators with verifiable reviews.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Vietnam",
+      "quick_answer": "Vietnam is generally safe for tourists, but bag snatching by motorbike is a genuine and common risk, especially in Ho Chi Minh City.",
+      "detail": "Vietnam ranks as one of the safer countries in Southeast Asia for tourists, with violent crime against foreigners rare. The most frequent hazard is motorbike bag snatching — thieves ride past on motorbikes and grab handbags, phones, and cameras with great speed. Carry bags on the side away from traffic, keep phones out of sight on sidewalks, and use crossbody bags with short straps. Petty theft at beaches (from unattended belongings) is also common at popular spots.",
+      "tourist_tips": [
+        "In Ho Chi Minh City, keep your bag on the inside (building side) of the pavement, not the road side, at all times.",
+        "Never use your phone while walking on a busy street — snatch theft of phones is the most reported tourist crime.",
+        "At beaches, use a waterproof pouch to keep valuables with you while swimming rather than leaving them unattended on the sand."
+      ],
+      "warning": "Motorbike bag snatching is common in Ho Chi Minh City and can result in serious injury if you resist — let go of the bag immediately.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Vietnam",
+      "quick_answer": "Never touch someone's head, point feet at altars or people, or cause public confrontation — saving face is central to Vietnamese culture.",
+      "detail": "The head is considered the most sacred part of the body — never touch or pat anyone's head, including children. Feet are the lowest and least clean part of the body — never point them toward altars, shrines, or other people when sitting. Use both hands when giving or receiving objects, gifts, or business cards as a sign of respect. Public confrontation and raising your voice are deeply embarrassing in Vietnamese culture — if something goes wrong, resolve it calmly and privately.",
+      "tourist_tips": [
+        "When invited to a Vietnamese home, bring a small gift such as fruit or sweets — gifts are typically not opened immediately in front of the giver.",
+        "At communal meals, wait for the eldest person to begin eating before you start, and offer to serve others before yourself.",
+        "Learn the greeting 'Xin chào' (sin chow) — even a basic attempt at Vietnamese is appreciated and opens doors."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Vietnam",
+      "quick_answer": "Vietnamese is tonal and very difficult to learn quickly, but basic phrases are appreciated and English is available in most tourist areas.",
+      "detail": "Vietnamese uses six tones that completely change word meaning — mispronunciation can cause unintended confusion. English is widely spoken at tourist hotels, restaurants, and travel agencies in Hanoi, Ho Chi Minh City, Da Nang, and Hoi An, but is limited in rural areas. Google Translate works reasonably well for text but its voice recognition struggles with Vietnamese tones — showing written text or images to locals is often more effective. Hanoi Vietnamese and southern Vietnamese differ noticeably in pronunciation.",
+      "tourist_tips": [
+        "Learn these key phrases: 'Xin chào' (hello), 'Cảm ơn' (thank you), 'Bao nhiêu tiền?' (how much?), and 'Không cảm ơn' (no thank you).",
+        "Download the Vietnamese language pack for Google Translate offline use — internet is not always available when you need it most.",
+        "Showing a picture of your destination or accommodation name on your phone screen is often more effective than attempting pronunciation for tuk-tuk or Grab drivers."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Vietnam",
+      "quick_answer": "Vietnam has outstanding beaches at Da Nang, Phu Quoc, Nha Trang, and Ha Long Bay, with flag safety systems at developed resorts.",
+      "detail": "Vietnam's 3,000km coastline offers beaches for every preference — from the developed resorts of Nha Trang and Da Nang to the tranquil shores of Phu Quoc and the limestone bay swimming of Ha Long. Jellyfish are seasonal and can sting painfully — ask locals about current conditions. Rip currents exist at some exposed beaches, particularly on the central coast during rough weather. Developed beach resorts use flag warning systems (red = no swimming) — always observe them.",
+      "tourist_tips": [
+        "Ha Long Bay kayaking through limestone caves is a highlight of Vietnam — book an overnight cruise for the full experience.",
+        "Phu Quoc's best beaches (Sao Beach, Long Beach) are in the south and west — the eastern coast is less developed and rougher.",
+        "Avoid swimming at Da Nang beaches between October and March when storms and rough surf make conditions dangerous despite the beach being open."
+      ],
+      "warning": "Rip currents and jellyfish are seasonal hazards at Vietnamese beaches — always swim within flagged safe zones and ask local lifeguards about conditions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Vietnam",
+      "quick_answer": "Vietnam drives on the right, traffic is chaotic and motorbike-dominated, and crossing the road safely requires a slow, steady pace — never run.",
+      "detail": "Vietnam has one of the highest road traffic fatality rates in Asia. Motorbikes vastly outnumber cars and frequently ignore lane markings and traffic lights. Renting a motorbike is possible and popular with experienced riders — an International Driving Permit endorsed for motorbikes is technically required. Car rental without a locally licensed driver is effectively unavailable. Crossing roads in Hanoi and Ho Chi Minh City requires walking at a slow, steady pace so motorbikes can flow around you — stopping suddenly or running is dangerous.",
+      "tourist_tips": [
+        "When crossing roads, maintain a slow and consistent walking pace — motorbike riders read your trajectory and adjust; sudden stops or sprints are unpredictable to them.",
+        "If renting a motorbike, wear a full-face helmet (not just the thin local rentals), and stick to less-trafficked roads and smaller towns.",
+        "Always use Grab rather than driving yourself in large cities — parking is chaotic, traffic is intense, and the cost savings of self-driving are minimal."
+      ],
+      "warning": "Vietnam has a high road accident rate — motorbike rental without experience and proper protective gear carries a serious injury risk.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Vietnam",
+      "quick_answer": "Vietnamese cuisine is exceptional — pho, banh mi, bun cha, and fresh spring rolls are must-eats, with street food at busy stalls being very safe.",
+      "detail": "Vietnam is one of the world's great food destinations. Staples include pho (noodle soup), banh mi (baguette sandwiches), bun cha (grilled pork with noodles), com tam (broken rice with grilled pork), and goi cuon (fresh spring rolls). Street food at busy, high-turnover stalls is generally very safe — high volume means fresh ingredients. Ca phe trung (egg coffee), ca phe sua da (iced milk coffee), and sinh to (fresh fruit shakes) are essential drink experiences. Buddhist vegetarian restaurants (com chay) offer extraordinary cheap meat-free options.",
+      "tourist_tips": [
+        "Eat where locals eat — a plastic-stool street stall with a queue of Vietnamese people is a better food safety signal than an empty tourist restaurant.",
+        "Try ca phe trung (egg coffee) at Cafe Giang in Hanoi — it is a uniquely Vietnamese invention and one of the most memorable food experiences in Southeast Asia.",
+        "Com chay (Buddhist vegetarian) restaurants are open on the 1st and 15th of the lunar month — look for them near pagodas for extraordinary cheap vegetarian meals."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Vietnam",
+      "quick_answer": "Remove shoes at Buddhist pagodas, dress modestly covering shoulders and knees, and behave quietly — incense burning and chanting are active religious practices.",
+      "detail": "The majority of Vietnam's religious sites are Buddhist pagodas and Taoist temples — shoes must always be removed at the entrance. Dress modestly with shoulders and knees covered; sarongs are sometimes available for loan at major sites. Cham Hindu towers in the Hoi An and Phan Rang areas also require respectful dress. Catholic churches (Vietnam has a significant Catholic minority) welcome visitors during non-service hours. Do not touch altar objects, step over offering bowls, or pose disrespectfully near shrines.",
+      "tourist_tips": [
+        "The One Pillar Pagoda in Hanoi and Thien Mu Pagoda in Hue are among the most architecturally significant — arrive early morning to see monks during prayer.",
+        "At the Perfume Pagoda (Huong Pagoda), the boat journey to the site is as much a part of the experience as the pagoda itself — allow a full day.",
+        "Making a small donation (10,000–20,000 VND) when entering a pagoda is appreciated and supports the upkeep of the site."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time in Vietnam",
+      "quick_answer": "Vietnam has three distinct climate zones — visit the North (Hanoi) October–April, Central (Da Nang/Hoi An) February–May, and South (Ho Chi Minh City/Phu Quoc) November–April.",
+      "detail": "Vietnam's elongated shape creates three separate climate patterns. The north experiences four seasons with a cool, dry winter (October–April being ideal) and hot, humid summers with heavy rain. The central coast has a reversed rainy season, with the best weather from February to May before typhoon season; typhoons affect the central coast most severely from September to December. The south is tropical with a dry season from November to April and a wet season from May to October — Phu Quoc's best beach weather is November to April.",
+      "tourist_tips": [
+        "If visiting multiple regions in one trip, travel south to north from November to March to chase the best weather across all zones.",
+        "Ha Long Bay is stunning year-round but fog and drizzle from January–March (while atmospheric) can limit visibility — April and October offer the best conditions.",
+        "Check typhoon forecasts on windy.com before booking the central coast from September to November — floods in Hoi An can be sudden and severe."
+      ],
+      "warning": "Typhoons affect Vietnam's central coast from May to November and can cause flash flooding, road closures, and disruption to Ha Long Bay tours with very little warning.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "pocket-wifi"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Vietnam",
+      "quick_answer": "Vietnam is extremely affordable — eat at com binh dan rice stalls, drink bia hoi, take sleeper buses between cities, and use Grab for all transport.",
+      "detail": "A daily budget of $20–30 USD is very comfortable for a backpacker in Vietnam. Com binh dan (local rice plate restaurants) serve full meals with protein, rice, and vegetables for 30,000–50,000 VND. Bia hoi corners (especially in Hanoi's Old Quarter) offer draught beer for as little as 5,000–10,000 VND per glass. Sleeper buses between cities cost a fraction of flights and save a night's accommodation. Book day tours locally at the destination rather than through pre-departure agencies or hotel desks — prices are 30–50% lower.",
+      "tourist_tips": [
+        "Use Grab for all transport to avoid tourist pricing — the upfront fare eliminates all negotiation and overcharging completely.",
+        "Eat breakfast at a local pho or banh mi stall rather than your hotel — a full bowl of pho costs 30,000–50,000 VND and is far better quality.",
+        "Buy a local SIM with data on arrival rather than relying on hotel Wi-Fi or international roaming — it costs under $10 USD for a month and enables Grab, maps, and translation everywhere."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "sim",
+        "travel-insurance"
+      ]
+    }
+  }
+}

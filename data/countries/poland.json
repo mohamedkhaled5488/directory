@@ -1,0 +1,360 @@
+{
+  "country": "Poland",
+  "slug": "poland",
+  "emoji": "🇵🇱",
+  "region": "Europe",
+  "currency": "PLN",
+  "language": "Polish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Poland",
+      "quick_answer": "Tip 10–15% at restaurants by telling the server the total you want to pay including the tip — do not leave cash on the table.",
+      "detail": "Poland has a genuine tipping culture, though the pressure is lighter than in Western Europe or North America. At restaurants, 10–15% is standard for good service. The Polish custom is to state the amount you wish to pay when handing over cash — for example, if the bill is 85 PLN and you want to leave 10 PLN, say 'ninety-five' so the server does not bring change. For card payments, many terminals now prompt for a tip percentage. Taxi drivers appreciate rounding up to the nearest round number. Hotel porters and housekeeping welcome 5–10 PLN per service.",
+      "tourist_tips": [
+        "When paying cash, tell the server the full total including tip before they walk away — asking for change after implies you want it all back",
+        "Bolt and Uber rides have in-app tipping — rounding up by a few zloty is appreciated but not expected",
+        "At Bar Mleczny (milk bars) and budget canteens, tipping is not customary as these are self-service"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Poland",
+      "quick_answer": "Warsaw has a metro plus extensive trams and buses; Kraków has an excellent tram network; intercity PKP trains connect major cities, with Warsaw–Kraków taking about 2.5 hours.",
+      "detail": "Warsaw's metro has two lines (M1 and M2) with expansion ongoing, supplemented by a dense tram and bus network. Kraków relies on trams as its backbone, which are frequent and cheap. Intercity rail is operated by PKP — express EIC and IC trains are comfortable and modern, while budget TLK trains are slower but very cheap. FlixBus and the Polish PolskiBus service offer cheap intercity bus alternatives. Uber and Bolt both operate reliably in Warsaw, Kraków, Wrocław, and other major cities. Validate tram and bus tickets in the on-board machines immediately after boarding.",
+      "tourist_tips": [
+        "Buy a multi-day city transport pass in Warsaw or Kraków for unlimited tram and bus travel — far cheaper than taxis",
+        "Book PKP intercity train tickets on the PKP Intercity app or website in advance for discounted fares",
+        "Kraków's Old Town is largely pedestrianized — trams and Uber drop you at the ring road, then it is a short walk"
+      ],
+      "warning": "Ticket inspectors operate regularly on Warsaw and Kraków trams and buses. Always validate your ticket immediately upon boarding or face a fine of around 200 PLN.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Poland",
+      "quick_answer": "EU citizens can use their EHIC card at NFZ public hospitals for free, but private clinics like LuxMed and Medicover are fast, affordable, and recommended for non-emergencies.",
+      "detail": "Poland's public healthcare (NFZ) is free for EU EHIC cardholders but can involve long waits and some language barriers. Private clinics — particularly LuxMed and Medicover — offer same-day appointments, English-speaking doctors, and reasonable prices (a GP consultation typically costs 150–250 PLN). Pharmacies (apteka) are found on virtually every block and pharmacists are well-trained; they can advise on and supply many medications over the counter. Non-EU tourists should carry comprehensive travel insurance as hospital bills without coverage can be very high.",
+      "tourist_tips": [
+        "EU visitors: carry your EHIC card for emergencies, but consider private clinics like LuxMed for faster, English-friendly care",
+        "Look for the green cross sign for a pharmacy (apteka) — they are everywhere and open long hours, with duty pharmacies covering nights",
+        "Travel insurance is strongly recommended for non-EU visitors and useful for all tourists to avoid out-of-pocket private clinic costs"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Poland",
+      "quick_answer": "Cannabis is illegal with zero tolerance; alcohol in public is banned in many city centers including Kraków's Old Town; smoking is prohibited indoors across all public spaces.",
+      "detail": "Cannabis is completely illegal in Poland — possession of even small amounts can result in prosecution. Drinking alcohol in public spaces is restricted or banned in many city centers; Kraków's Old Town has enforced a public drinking ban since 2021, and Warsaw has designated restricted zones. Smoking is prohibited in all enclosed public spaces, restaurants, bars, and near playgrounds. Poland observes Catholic national holidays, and some businesses close on days like Corpus Christi or All Saints' Day. Abortion access is extremely restricted under Polish law, which has been a major political issue.",
+      "tourist_tips": [
+        "Do not carry or use cannabis — there are no tolerance zones and police do enforce drug laws on tourists",
+        "In Kraków's Old Town and many Warsaw streets, drinking alcohol openly can result in a fine — use bar terraces instead",
+        "Be aware of Catholic public holidays (e.g., Corpus Christi, All Saints' Day) when many shops and attractions close"
+      ],
+      "warning": "Cannabis is illegal in Poland with zero tolerance — possession can result in prosecution regardless of quantity or your home country's laws.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Poland",
+      "quick_answer": "Call 112 for all EU emergencies; 997 for police, 999 for ambulance, 998 for fire, and 985 for mountain rescue (GOPR) in the Tatry.",
+      "detail": "Poland uses the standard EU emergency number 112, which connects to police, ambulance, or fire services and works from any phone including mobiles without a SIM. Dedicated numbers are 997 (Policja), 999 (Pogotowie — ambulance), and 998 (Straż Pożarna — fire brigade). If hiking or skiing in the Tatra Mountains, 985 connects to the Mountain Volunteer Search and Rescue (GOPR/TOPR). English-speaking operators are available on 112 in major cities, but response may be slower in rural areas.",
+      "tourist_tips": [
+        "Save 112 in your phone — it works even without a SIM and is the fastest route to all emergency services",
+        "If hiking in the Tatry, download the Ratunek app (Polish mountain rescue app) which shares your GPS location with TOPR rescuers",
+        "For non-emergency police matters (e.g., reporting a theft for insurance), visit the nearest Komisariat Policji (police station) in person"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Poland",
+      "quick_answer": "Poland is generally casual, but churches — which are everywhere and central to Polish life — require covered shoulders and knees out of respect.",
+      "detail": "Kraków and Warsaw are modern cities with relaxed everyday dress standards. However, Poland is deeply Catholic and churches are active places of worship, not just tourist attractions — visitors should cover shoulders and knees before entering, and many churches provide shawls or request you do not enter in shorts. The Jasna Góra monastery in Częstochowa (a major pilgrimage site) expects modest dress throughout the complex. Upscale restaurants in Warsaw's Śródmieście or Kraków's Old Town may prefer smart casual. Beach resorts on the Baltic coast are very casual in summer.",
+      "tourist_tips": [
+        "Carry a light scarf or shawl when sightseeing — you will likely want to enter several churches and this avoids having to buy something at the door",
+        "Wawel Cathedral in Kraków and St. Mary's Basilica on the Main Square are active churches with dress requirements, not just museums",
+        "Upscale restaurants in Warsaw (particularly those with Michelin recognition) appreciate smart casual dress — check ahead"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Poland",
+      "quick_answer": "The drinking age is 18; Polish vodka is world-famous and central to the culture, but public drinking is banned in many city centers — drink at licensed terraces instead.",
+      "detail": "Poland has a vibrant drinking culture anchored by world-renowned vodkas (Żubrówka, Belvedere, Wyborowa) and popular local beers (Żywiec, Tyskie, Lech). The legal drinking age is 18 and ID checks are common at bars and off-licences. Public drinking is banned in many city centers — Kraków's Old Town ban has been enforced since 2021 — so consumption should happen at bar and restaurant terraces. Traditional Polish drinking is social and toasting is important: make eye contact when saying 'Na zdrowie!' (cheers). Żurek (sour rye soup sometimes served with vodka) and various fruit-based nalewki (infused spirits) are cultural highlights.",
+      "tourist_tips": [
+        "Try Polish vodka neat and chilled — warming it in your hand or mixing it is considered disrespectful by traditionalists",
+        "Say 'Na zdrowie!' (pronounced nah ZDRO-vyeh) when toasting and always make eye contact, or it is considered bad luck",
+        "Avoid drinking from a bottle or can while walking in central Kraków or Warsaw — stick to bar terraces to avoid a fine"
+      ],
+      "warning": "Public drinking is banned and enforced in Kraków's Old Town (since 2021) and restricted zones in Warsaw — fines apply to those caught drinking in the street.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Poland",
+      "quick_answer": "Poland operates on fixed prices in shops and restaurants, but some negotiation is acceptable at craft markets like Kraków's Sukiennice and at street markets.",
+      "detail": "Poland is predominantly a fixed-price culture. Haggling in regular shops, supermarkets, or restaurants is not done and would be considered awkward. However, at Kraków's famous Cloth Hall (Sukiennice) on the Main Square, vendors selling amber jewelry, wooden crafts, and souvenirs may accept a small negotiation, especially if you are buying multiple items. Weekend street flea markets (pchlí targ) across Polish cities allow some price flexibility. When buying private second-hand goods, negotiation is normal and expected.",
+      "tourist_tips": [
+        "In Kraków's Sukiennice market, a polite request for a small discount when buying two or more items often works",
+        "Use Allegro (Poland's eBay equivalent) for second-hand goods where bidding and negotiation are the norm",
+        "Never try to negotiate in supermarkets, pharmacies, or standard retail shops — it creates embarrassment for both parties"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Poland",
+      "quick_answer": "Photography is generally free across Poland, but Auschwitz-Birkenau Memorial requires strictly respectful behavior and restricts photography in certain memorial areas.",
+      "detail": "Poland is broadly photography-friendly. Warsaw's reconstructed Old Town, Kraków's Market Square, and Wawel Castle exteriors can all be photographed freely. At Auschwitz-Birkenau Memorial, photography is permitted in most outdoor areas but is prohibited in some indoor memorial spaces such as the rooms displaying victims' personal belongings — follow all posted signs and staff guidance strictly, and selfies or posed photos are considered deeply disrespectful. Wawel Castle's ticketed interior exhibition rooms may restrict photography; check signs on entry. Military installations and certain government buildings should not be photographed.",
+      "tourist_tips": [
+        "At Auschwitz-Birkenau, treat photography as you would in a cemetery — documentary and respectful only, never selfies or posed shots",
+        "Kraków's Kazimierz Jewish quarter and its synagogues welcome photography outside; some synagogue interiors ask you not to photograph during services",
+        "Drone flying requires registration with the Polish Civil Aviation Authority (ULC) and is prohibited over historic city centers and national parks without a permit"
+      ],
+      "warning": "At Auschwitz-Birkenau Memorial, taking selfies, posed photographs, or disrespectful images is considered deeply offensive and may result in removal from the site.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Poland",
+      "quick_answer": "Polish law restricts large supermarkets and stores to only two Sundays per month; small owner-operated shops can open, and restaurants and cafés remain open.",
+      "detail": "Poland's Sunday trading law (Ustawa o ograniczeniu handlu w niedziele) limits large chain stores and supermarkets to two designated trading Sundays per month, plus some exceptions around Christmas. Small shops operating under a sole trader license can open any Sunday. Restaurants, cafés, tourist attractions, and convenience stores like Żabka are generally open on Sundays. Catholic national holidays (there are 13 per year) see widespread closures similar to Sundays. Malls publicize their 'shopping Sundays' in advance — check local listings if you need a mall visit on Sunday.",
+      "tourist_tips": [
+        "Żabka convenience stores (bright green, very common) are usually open seven days a week including Sundays and holidays for snacks and basics",
+        "Churches are particularly busy on Sunday mornings — if you plan to visit as a tourist, go after 12:00 to avoid disrupting services",
+        "Check local listings or ask your hotel which Sundays are 'open Sundays' for malls if you specifically need retail shopping"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Poland",
+      "quick_answer": "Use Uber or Bolt for reliable, price-transparent travel in all major Polish cities; traditional taxis are legitimate but some overcharge tourists, especially at airports.",
+      "detail": "Uber and Bolt are the recommended options in Warsaw, Kraków, Wrocław, Gdańsk, and other cities — they offer upfront pricing and eliminate overcharging risk. Polish taxi apps iTaxi and FreeNow also operate legitimately. Traditional street taxis and those approaching you at airports or train stations sometimes charge inflated rates to tourists — always use the official taxi ranks at airports (look for the designated stand with a queue) or book via app. Kraków's Old Town has vehicle access restrictions; drivers drop you at the edge of the Old Town ring road and you walk the short remaining distance.",
+      "tourist_tips": [
+        "Download Bolt before you arrive — it is widely used across Poland and often cheaper than Uber with upfront pricing",
+        "At Kraków airport, use the official taxi rank outside arrivals or book Uber/Bolt — avoid drivers who approach you inside the terminal",
+        "Kraków's Old Town is largely car-free; confirm a drop-off point just outside the historic center when using rideshare apps"
+      ],
+      "warning": "Taxi touts approaching tourists at Warsaw Centralna station and Kraków airport frequently charge 3–4 times the fair rate — only use official taxi stands or app-booked rides.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Poland",
+      "quick_answer": "Tap water is technically safe to drink in all major Polish cities, though many locals prefer bottled water due to older pipe infrastructure in some buildings.",
+      "detail": "Polish tap water meets EU drinking water standards and is officially safe in Warsaw, Kraków, Wrocław, Gdańsk, and other major cities. However, older apartment buildings in city centers can have aging pipe infrastructure that affects taste or quality, which is why many Polish residents drink bottled water as a preference. Bottled water is widely available and very cheap (0.5L for about 1–2 PLN at Żabka or supermarkets). In mountain areas and smaller towns, tap water is also generally safe. You will not need to buy water constantly — a reusable bottle and tap water works fine in modern hotels and newer buildings.",
+      "tourist_tips": [
+        "Tap water in hotels and modern apartment rentals is fine to drink — bring a reusable bottle and refill it",
+        "Bottled water from Żabka or Biedronka supermarket costs around 1–2 PLN for 0.5L — very affordable if you prefer it",
+        "In mountain huts (schroniska) in the Tatry, drinking water is provided — do not drink directly from mountain streams without purification"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Poland",
+      "quick_answer": "Poland uses PLN (złoty) — always pay in PLN not euros, and avoid Euronet ATMs due to high fees; use bank ATMs like PKO BP or Pekao instead.",
+      "detail": "Poland's currency is the Polish złoty (PLN) and euro is not accepted — you must use PLN everywhere. ATMs from major banks (PKO BP, Bank Pekao, Bank Millennium, mBank) accept foreign Visa and Mastercard with reasonable fees. Euronet ATMs, which are very common in tourist areas, charge high conversion fees and should be avoided. The DCC (Dynamic Currency Conversion) trap is common: ATMs and card terminals will offer to charge you in your home currency — always select 'Pay in PLN' to avoid poor exchange rates. BLIK (a Polish mobile payment system) is widely used by locals but requires a Polish bank account.",
+      "tourist_tips": [
+        "Always choose 'Pay in PLN' (not your home currency) when an ATM or card terminal offers a conversion — DCC rates are extremely poor",
+        "Use bank-branded ATMs (PKO BP, Pekao, mBank) rather than standalone Euronet machines to avoid excessive fees",
+        "Wise or Revolut cards work well in Poland — load PLN in advance or let the app convert at the real exchange rate"
+      ],
+      "warning": "Dynamic Currency Conversion (DCC) is aggressively offered at ATMs and payment terminals in tourist areas — always decline and insist on paying in PLN to avoid losing 3–8% to poor conversion rates.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Poland",
+      "quick_answer": "Buy a Polish SIM from Plus, Orange, T-Mobile PL, or Play at the airport, Żabka, or phone shops; EU roaming applies for European visitors and 4G coverage is excellent in cities.",
+      "detail": "Poland has four major mobile networks — Plus, Orange Polska, T-Mobile Polska, and Play — all offering competitive prepaid SIM deals with generous data allowances for 30–50 PLN. SIMs are available at Warsaw Chopin and Kraków airports, at Żabka convenience stores nationwide, and at dedicated phone shops. EU SIM cardholders roam in Poland at domestic rates under EU roaming rules. eSIM options through Airalo and similar providers work well in Poland. 4G coverage is strong in all cities and most tourist areas; 5G is expanding in Warsaw and Kraków. Free Wi-Fi is available in most cafés, hotels, and the main tourist areas.",
+      "tourist_tips": [
+        "Pick up a prepaid SIM at the airport arrivals hall on landing — Plus and Orange have kiosks at both Warsaw Chopin and Kraków Balice airports",
+        "Żabka convenience stores sell top-up vouchers and starter SIM kits for all four major networks nationwide",
+        "If your phone supports eSIM, Airalo Poland eSIM works immediately on arrival without needing a physical SIM swap"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Poland",
+      "quick_answer": "Poland uses Type C and Type E plugs at 230V/50Hz — the same as most of continental Europe; UK and US visitors need plug adapters.",
+      "detail": "Poland operates on 230V/50Hz electricity, using Type C (two round pins) and Type E (two round pins with a grounding hole) sockets, which are the same standard as France, Germany, and most of continental Europe. Visitors from the UK (Type G plugs) and the United States or Canada (Type A/B, 110V) will need both a plug adapter and, for US/Canadian appliances, a voltage converter unless the device is dual-voltage (most modern laptops, phone chargers, and cameras are). European visitors will find their devices work without any adapter.",
+      "tourist_tips": [
+        "US and Canadian travelers: check your device labels for '100–240V' input — most modern electronics are dual-voltage and only need a plug adapter, not a converter",
+        "UK visitors need a Type G to Type C/E adapter — available cheaply at Polish electronics stores (Media Markt, RTV Euro AGD) or airports",
+        "Poland shares the same plug type as Germany, France, Czech Republic, and most EU neighbors — one continental European adapter covers your whole trip"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Scams & Haggling in Poland",
+      "quick_answer": "The main scams are DCC currency traps at ATMs, overcharging taxis at airports, and strip club credit card fraud in Warsaw's Old Town — stay alert in tourist areas.",
+      "detail": "Poland is generally honest but tourist-heavy areas have predictable scams. The DCC trap at ATMs and card terminals (being charged in your home currency at terrible rates) is the most financially damaging and very common. Rogue taxis at Kraków airport and Warsaw Centralna station overcharge tourists — always use official stands or app-booked rides. Warsaw's Old Town has a well-documented strip club scam where tourists are taken in, run up a large bill, and pressured or coerced into paying via credit card. Kraków's Main Square sees pickpockets in peak summer season, particularly in large outdoor crowds.",
+      "tourist_tips": [
+        "At every ATM and card terminal, decline the offer to pay in your home currency and always select PLN — this is the single most effective scam prevention in Poland",
+        "If approached by friendly locals near Warsaw's Old Town offering to take you to a bar or club, politely decline — this is frequently the start of the strip club credit card scam",
+        "In Kraków's Main Square during summer, keep bags zipped and in front of you — pickpockets target distracted tourists near the Cloth Hall and horse-drawn carriages"
+      ],
+      "warning": "The Warsaw Old Town strip club scam is well-documented: tourists are befriended, taken to a club, and then presented with vastly inflated bills charged to their credit card under duress. Avoid bars recommended by strangers near Stare Miasto.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Poland",
+      "quick_answer": "Poland is a very safe country for tourists; violent crime against visitors is rare, though pickpocketing in Kraków's Old Town in summer and some rougher Warsaw neighborhoods at night warrant normal caution.",
+      "detail": "Poland consistently ranks as one of the safer European countries for tourists. Violent crime against foreigners is rare and the country has a well-funded, visible police presence in tourist areas. The most realistic risk is opportunistic petty theft — pickpockets operate in Kraków's Main Square and on crowded trams in peak season. Some Warsaw neighborhoods away from the tourist center (particularly certain areas of Praga district) can feel rougher at night. Overall, Poland is safe, rapidly modernizing, and welcoming to tourists. Standard urban precautions (secure bags, avoid displaying expensive items, be aware at night) are sufficient.",
+      "tourist_tips": [
+        "Kraków's Main Square in July and August is the highest-risk spot for pickpockets — keep phones in front pockets and bags zipped",
+        "Warsaw is safe in the main tourist areas (Old Town, Śródmieście, Praga cultural quarter) — exercise standard city caution late at night",
+        "Polish police (Policja) are generally helpful to tourists; in major cities, some officers speak basic English and tourist police are present in Kraków's Old Town"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Poland",
+      "quick_answer": "Polish culture values hospitality and Catholic traditions — bring flowers in odd numbers when visiting a home, say 'Na zdrowie!' with eye contact when toasting, and remove shoes at private homes.",
+      "detail": "Poland has a strong Catholic cultural identity that shapes social norms. When toasting, eye contact with every person at the table is important — avoiding it is considered bad luck or disrespectful. Always bring an odd number of flowers when visiting a Polish home (even numbers are for funerals). Remove shoes when entering a private home — hosts will usually offer slippers. Hospitality is taken seriously; if invited for a meal, arrive close to the stated time (not late by more than 15 minutes). Punctuality is respected in professional and semi-formal settings. Handshakes are standard greetings; close friends may kiss on the cheek.",
+      "tourist_tips": [
+        "When buying flowers as a gift, count them — give 3, 5, 7, 9, or 11 stems; even numbers (2, 4, 6) are for funerals and will cause awkwardness",
+        "Always make eye contact and clink glasses individually around the table when toasting — rushing through it is considered impolite",
+        "Remove your shoes at the entrance of Polish homes without being asked — it is expected and failing to do so is considered rude"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Poland",
+      "quick_answer": "Polish is a complex Slavic language, but English is widely spoken by younger people in Kraków and Warsaw tourist areas — learning 'Dziękuję' (thank you) and 'Przepraszam' (excuse me) will be warmly appreciated.",
+      "detail": "Polish is one of the more difficult languages for English speakers due to its complex grammar and consonant clusters. However, in Warsaw and Kraków, English is widely spoken in hotels, restaurants, tourist offices, and by most people under 40. Outside major cities and among older generations, English ability drops significantly. Making a small effort with Polish phrases — even just greetings and thank you — is very warmly received by Poles, who are proud of their language. Google Translate handles Polish well and the camera translation feature is useful for menus.",
+      "tourist_tips": [
+        "Learn these essentials: 'Dziękuję' (jen-KOO-yeh) = thank you, 'Przepraszam' (psheh-PRAH-shahm) = excuse me/sorry, 'Proszę' (PROH-sheh) = please/here you go",
+        "In smaller towns and rural areas, carry a translation app — older locals may have very limited English",
+        "Poles respond very warmly to any attempt at speaking Polish, even poorly — a genuine effort opens doors and improves service"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Poland",
+      "quick_answer": "Poland's Baltic coast (Gdańsk, Sopot, Hel Peninsula) is popular in summer, though the water is cold (15–20°C in July); the Mazury lake district is ideal for sailing and calmer inland swimming.",
+      "detail": "The Baltic Sea coast is Poland's beach destination, with Sopot (home to Europe's longest wooden pier at 511m), Gdańsk, Władysławowo, and the scenic Hel Peninsula being the most popular. The water is cold — typically 15–20°C in July and August, which is the warmest period. Beaches are sandy and well-maintained with lifeguard coverage at major resorts. The Mazury lake district in northeast Poland is a paradise for sailing, kayaking, and freshwater swimming in crystal-clear lakes. The Tatra Mountain lakes (Morskie Oko) are stunningly scenic but very cold for swimming. Jellyfish are occasionally present on the Baltic coast in late summer.",
+      "tourist_tips": [
+        "Visit the Baltic coast in July–August for the warmest water (15–20°C) and best beach weather — outside this window it is very cold",
+        "Sopot's 511-metre wooden pier (Molo) is a must-visit and free to walk; the beach town also has excellent nightlife and restaurants",
+        "For a quieter alternative to the crowded Baltic resorts, consider the Mazury lakes — hire a sailing boat or kayak for a uniquely Polish summer experience"
+      ],
+      "warning": "Baltic Sea water temperatures rarely exceed 20°C even in peak summer — cold water shock is a genuine risk for those jumping in quickly, particularly for children and the elderly.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Poland",
+      "quick_answer": "Drive on the right; Poland has zero tolerance for drink driving (0.02% BAC); speed cameras are widespread and speed limits are strictly enforced.",
+      "detail": "Driving is on the right in Poland, with the standard European rules of the road. Poland has a near-zero tolerance drink driving limit of 0.02% BAC — effectively one drink for most people is too many, so the rule is zero alcohol before driving. Speed limits are 50 km/h in towns, 90 km/h on rural roads, 100/120 km/h on dual carriageways, and 140 km/h on motorways. Speed cameras (fotoradary) are very common on Polish roads and enforcement is active. Polish motorways (autostradas) have electronic tolling (Via Toll) but this primarily applies to trucks over 3.5t — tourist rental cars are generally fine on most routes, though some sections require payment. Road quality has improved dramatically due to EU infrastructure investment.",
+      "tourist_tips": [
+        "Do not drink any alcohol if you are driving in Poland — the 0.02% BAC limit is effectively zero tolerance and police do test at roadside checkpoints",
+        "Speed cameras are everywhere — respect the 50 km/h city limit strictly, as fines are issued automatically to foreign plates and forwarded to your rental company",
+        "Kraków's Old Town has strict vehicle access restrictions and paid parking zones — park at a car park on the ring road (e.g., Galeria Krakowska) and walk or use trams"
+      ],
+      "warning": "Poland's drink driving limit is 0.02% BAC — one standard drink can put you over the limit. Police conduct regular roadside breath tests and penalties include immediate license suspension and criminal charges.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Poland",
+      "quick_answer": "Polish cuisine centers on pierogi, żurek, bigos, and kiełbasa — try a Bar Mleczny (milk bar) for authentic communist-era canteen food from as little as 15 PLN.",
+      "detail": "Polish food is hearty, filling, and deeply satisfying. Pierogi (stuffed dumplings with fillings like potato and cheese, meat, or mushroom and sauerkraut) are the national dish. Żurek (sour rye soup often served in a bread bowl with egg and sausage) is a must-try. Bigos (hunter's stew of meat and sauerkraut), kiełbasa (sausage), and oscypek (smoked sheep cheese, sold by highlanders in Kraków) are staples. Bar Mleczny (milk bars) are communist-era subsidized canteens still operating across Poland — they serve enormous portions of traditional food for 15–25 PLN, making them the best value eating option in any city. Obiad (lunch, typically 12:00–15:00) is the main meal of the day.",
+      "tourist_tips": [
+        "Find and eat at least one Bar Mleczny (milk bar) — look for the simple signage and queue of locals; prices are astonishing (a full meal for 15–25 PLN) and the food is authentic",
+        "For pierogi, avoid tourist-trap restaurants on Kraków's Main Square and walk one or two streets back — prices drop significantly and quality improves",
+        "Lunch (obiad) specials (danie dnia — dish of the day) at restaurants between 12:00–15:00 offer two-course meals for 25–40 PLN — the best value for a sit-down meal"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Church & Religious Site Etiquette in Poland",
+      "quick_answer": "Poland is deeply Catholic with churches central to community life — cover shoulders and knees, maintain silence inside, and treat Auschwitz-Birkenau Memorial with the utmost respect.",
+      "detail": "Poland has thousands of active Catholic churches ranging from small parish chapels to the magnificent Wawel Cathedral in Kraków and St. Mary's Basilica on the Main Square. All are places of active worship and require modest dress (covered shoulders and knees), quiet behavior, and silence during services. Jasna Góra monastery in Częstochowa, home to the Black Madonna icon, is one of the most important Catholic pilgrimage sites in the world — dress and behavior standards are strict throughout the complex. Kraków's Kazimierz district has significant Jewish heritage including the Old Synagogue and Remuh Synagogue — these require head coverings for men and modest dress. Auschwitz-Birkenau Memorial, while not a religious site, demands profound respect: no food, no frivolous behavior, no selfies.",
+      "tourist_tips": [
+        "At Wawel Cathedral and St. Mary's Basilica in Kraków, avoid visiting during Mass if you are sightseeing — check service times and visit in the gaps",
+        "In Kazimierz's synagogues, men should accept or bring a kippah (head covering) — some synagogues provide them at the entrance",
+        "At Auschwitz-Birkenau, maintain complete silence and respectful demeanor throughout — this is a war cemetery and active memorial site, not a tourist attraction"
+      ],
+      "warning": "At Auschwitz-Birkenau Memorial, disrespectful behavior including selfies, posing for photos, eating, and loud conversations is considered a serious offense and can result in removal from the site.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Poland",
+      "quick_answer": "May to September is the best time for most of Poland, with warm summers (25–28°C); winter (December–March) is cold but beautiful for Christmas markets and Tatra skiing.",
+      "detail": "Poland has a continental climate with warm summers and cold winters. May through September is ideal for city sightseeing and outdoor travel — June to August sees temperatures of 23–28°C in Warsaw and Kraków with long daylight hours. Spring (April–May) is lovely with blooming parks and fewer tourists. The Baltic coast is best July–August when sea temperatures peak at 15–20°C. The Tatra Mountains in the south offer skiing from December to March with reliable snowfall. Winter across Poland is cold (averaging -5 to -15°C in January) but atmospheric — Kraków and Wrocław's Christmas markets (late November to December) are among Europe's most beautiful. Autumn (September–October) offers stunning foliage, harvest festivals, and thinner crowds.",
+      "tourist_tips": [
+        "Visit Kraków and Warsaw in May or early June for the best balance of warm weather, manageable crowds, and lower accommodation prices before the peak July–August rush",
+        "The Tatra Mountains (Zakopane) are worth visiting in both summer (hiking) and winter (skiing) — December to March for ski season, June to September for hiking",
+        "Kraków and Wrocław's Christmas markets in late November and December are magical but cold — pack a serious winter coat and enjoy the mulled wine (grzaniec)"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Poland",
+      "quick_answer": "Poland is outstanding value compared to Western Europe — eat at Bar Mleczny canteens, use trams instead of Uber, and shop at Biedronka or Lidl supermarkets for budget meals.",
+      "detail": "Poland offers exceptional value for money by Western European standards. A full meal at a Bar Mleczny (milk bar) costs 15–25 PLN (roughly €3.50–€6), making them the best budget eating option in any Polish city. City trams and buses cost around 4–6 PLN per ride, dramatically cheaper than Uber or taxis. The Kraków Card bundles public transport and museum entry (including Wawel and the Cloth Hall) and pays for itself quickly for active sightseers. Wrocław's Market Square restaurants are generally cheaper than equivalent places in Kraków. Biedronka and Lidl supermarkets are the cheapest for self-catering. Żabka convenience stores are useful but more expensive than supermarkets for snacks.",
+      "tourist_tips": [
+        "Eat your main meal as obiad (lunch) between 12:00–15:00 when restaurants offer danie dnia (dish of the day) two-course specials for 25–40 PLN — the same dinner menu costs twice as much in the evening",
+        "Use city trams in Kraków and Warsaw rather than Uber for short trips — a 24-hour tram pass costs around 15–20 PLN versus 25–40 PLN for a single short Uber ride",
+        "Buy snacks, water, and beer from Biedronka or Lidl supermarkets rather than convenience stores or tourist-area shops — prices can be 30–50% lower"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "country": "Japan",
+  "slug": "japan",
+  "emoji": "🇯🇵",
+  "region": "Asia",
+  "currency": "JPY",
+  "language": "Japanese",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Japan",
+      "quick_answer": "Do not tip in Japan. Tipping is considered rude and may cause embarrassment.",
+      "detail": "Tipping is not part of Japanese culture at all. Service staff take enormous pride in doing their job to the highest standard, and offering a tip can actually be seen as insulting — implying they need extra money or did not expect to do their job well. This applies universally: restaurants, taxis, hotels, hair salons, ryokan, tour guides, and all other services. In high-end settings, staff may politely refuse and even chase you down the street to return money you left behind.",
+      "tourist_tips": [
+        "Never leave cash on the table after a meal — staff will think you forgot it",
+        "If a staff member runs after you with money, they are returning what they assume is forgotten change",
+        "At high-end ryokan (traditional inns), a small omiyage (gift) wrapped nicely is sometimes more appreciated than cash",
+        "Group tour guides do not expect tips either — a verbal thank-you is the correct gesture",
+        "In rare touristy areas some staff may accept tips from foreigners, but it is still not expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Japan",
+      "quick_answer": "Buy a Suica or Pasmo IC card at any major station. It works on all trains, subways, and most buses nationwide.",
+      "detail": "Japan has one of the world's most efficient public transport systems. The IC card (Suica or Pasmo) is a rechargeable contactless smart card that works on virtually all trains, subways, and most buses across the country. You can load it with yen at any station machine. iPhones and Android phones support digital Suica via Apple Pay or Google Pay. The JR Pass is a separate product worth buying if you plan long-distance Shinkansen travel — it must be purchased outside Japan.",
+      "tourist_tips": [
+        "Get a Suica or Pasmo card immediately on arrival at Tokyo, Osaka, or any major airport",
+        "The IC card also works at convenience stores, vending machines, and some restaurants",
+        "Keep at least ¥1,000 loaded — machines at stations accept foreign Visa/Mastercard for top-ups",
+        "Trains run on perfect schedules — if your train is 1 minute late, it is considered delayed",
+        "Avoid eating or making phone calls on trains — it is considered bad etiquette"
+      ],
+      "warning": "Some rural buses and regional lines only accept cash. Always carry some yen as backup.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Japan",
+      "quick_answer": "Japan has excellent hospitals but they are expensive for uninsured tourists. Always bring travel insurance. Many hospitals do not speak English.",
+      "detail": "Japan's healthcare system is world-class in quality. However, as a tourist you are not covered by the national health insurance system, meaning you pay full price. A basic doctor visit costs ¥3,000–¥10,000. Emergencies and hospitalisation can cost hundreds of thousands of yen. Most hospitals, especially outside major cities, have limited English-speaking staff. Tokyo and Osaka have several international clinics specifically for tourists. Pharmacies (薬局, Yakkyoku) are widely available and sell many effective OTC medications.",
+      "tourist_tips": [
+        "Always travel with comprehensive travel insurance covering medical evacuation",
+        "In Tokyo, JNTO (Japan National Tourism Organization) operates a 24/7 tourist helpline: 050-3816-2787",
+        "International clinics in Tokyo: Tokyo Medical and Surgical Clinic, St. Luke's International Hospital",
+        "Carry any prescription medications with a doctor's letter, as some drugs common abroad are controlled in Japan",
+        "Google Translate camera mode works well for reading Japanese prescription labels"
+      ],
+      "warning": "Some common medications (e.g. certain cold medicines containing pseudoephedrine, codeine, or stimulants) are illegal in Japan even with a prescription from another country. Check the Ministry of Foreign Affairs list before traveling.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Japan",
+      "quick_answer": "Japan has strict drug laws, zero tolerance for drunk driving, and laws against jaywalking in some areas. Ignorance is not a defense.",
+      "detail": "Japan is generally very safe and law-abiding, but tourists can inadvertently break laws. Drug laws are extremely strict — possession of marijuana or other controlled substances can result in immediate arrest and years in prison, even for tourists. Japan has a near-100% conviction rate once charged. Carrying a pocket knife with a blade over 6cm is illegal in public. There are also laws around photography in certain places. Public drunkenness is tolerated more than in some countries, but causing a disturbance can result in detention.",
+      "tourist_tips": [
+        "Never bring any recreational drugs into Japan — penalties are severe regardless of your home country's laws",
+        "Carrying an alien registration card (if staying long-term) is required by law; tourists must carry a passport",
+        "Some OTC medications from home (like strong cold remedies) may be classified as controlled substances in Japan — check in advance",
+        "Jaywalking is technically illegal and locals generally wait for the walk signal regardless of traffic",
+        "Age limits: drinking and smoking are 20 in Japan, not 18"
+      ],
+      "warning": "Japan has very limited legal support in English. If arrested, immediately request to contact your embassy. You can be held for up to 23 days without charge.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Japan",
+      "quick_answer": "Police: 110. Ambulance & Fire: 119. Tourist helpline (English): 050-3816-2787.",
+      "detail": "Japan's emergency services are highly responsive and professional. The police line (110) and ambulance/fire line (119) have basic English operator support in major cities, but response may be slow in rural areas. For tourist-specific help including language support and guidance, use the Japan Tourism Agency's 24/7 multilingual tourist information center. Hospitals will provide emergency care regardless of insurance status, but expect significant bills afterward.",
+      "tourist_tips": [
+        "Save 110 (police) and 119 (ambulance/fire) in your phone before you need them",
+        "Tourist helpline with English support: 050-3816-2787 (24 hours, free)",
+        "For non-emergency police matters, look for a Koban (small police box) — they are everywhere in cities",
+        "Japan's postal address system can confuse emergency services — know your hotel's exact address in Japanese",
+        "Google Maps works excellently in Japan for sharing your location with emergency services"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Japan",
+      "quick_answer": "Japan is generally relaxed about clothing, but remove shoes when entering homes and many temples. Dress modestly at religious sites.",
+      "detail": "Japan does not have strict religious dress codes for most tourist activities. However, there are important situational rules. At traditional ryokan (inns), you change into a yukata (light robe) provided — walking around the inn in your yukata is expected and normal. At Buddhist temples and Shinto shrines, very revealing clothing is considered disrespectful but usually not enforced. The key universal rule is shoes: always remove them when entering private homes, many traditional restaurants (look for a raised floor), and some temple interiors.",
+      "tourist_tips": [
+        "Look for a raised wooden step (genkan) at an entrance — this signals shoes must be removed",
+        "Wear shoes that slip on and off easily — you will remove them frequently",
+        "Tattoos are still stigmatized in Japan; many onsen (hot springs) ban tattooed guests, though this is slowly changing",
+        "Business settings are formal — suits are expected in professional environments",
+        "Flip-flops and swimwear are fine at beach resorts; just not in cities or at cultural sites"
+      ],
+      "warning": "Many traditional onsen (hot spring baths) refuse entry to guests with visible tattoos. Check the policy before visiting.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Japan",
+      "quick_answer": "Drinking age is 20. Alcohol is sold in convenience stores 24/7. Drinking in public is legal. Drunk driving has zero tolerance.",
+      "detail": "Japan has a relatively relaxed attitude toward alcohol consumption. The legal drinking age is 20 (not 18). Alcohol is available 24/7 at convenience stores (7-Eleven, Lawson, FamilyMart) and vending machines. Drinking in public places such as parks and streets is entirely legal. Cherry blossom viewing parties (hanami) involve open-air drinking and are a national tradition. However, drunk driving is taken extremely seriously — the legal blood alcohol limit is 0.03% (one of the strictest in the world) and the penalties are severe.",
+      "tourist_tips": [
+        "Convenience store beer, sake, and canned cocktails (chu-hai) are excellent quality and very affordable",
+        "Izakaya (Japanese gastropubs) are the best way to experience Japanese drinking culture",
+        "Never drink and drive — zero tolerance enforcement is strict, and designated driver services are widely available",
+        "Nomihoudai (all-you-can-drink) packages at restaurants are common and usually run for 90–120 minutes",
+        "Vending machines selling beer and sake exist but are technically meant to be restricted to adults"
+      ],
+      "warning": "Zero tolerance drunk driving: 0.03% BAC limit. Even a small amount can result in arrest, heavy fines, and deportation for tourists.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Japan",
+      "quick_answer": "Do not bargain in Japan. Prices are fixed everywhere. Attempting to haggle is considered rude and unusual.",
+      "detail": "Japan has a completely fixed-price retail culture. Haggling at shops, markets, restaurants, or with taxi drivers is not expected, not practiced, and generally considered rude or at minimum very strange. Prices are what they are. The only partial exception is at some antique markets or second-hand shops where the seller may be open to a polite inquiry about discounts on high-priced items, but even then it should be done gently and the answer is often no. Department store sales staff are trained to give a fixed price and are not authorized to negotiate.",
+      "tourist_tips": [
+        "Accept the price shown — there is no hidden negotiation in Japanese retail",
+        "Tax-free shopping is available for tourists spending over ¥5,000 at participating stores — show your passport",
+        "Akihabara electronics and second-hand shops occasionally allow gentle price negotiation on expensive items",
+        "Flea markets (like Oedo Antique Market in Tokyo) may have some flexibility, but approach politely",
+        "Look for discount coupons via apps like HotPepper or tourist discount booklets from your hotel"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Japan",
+      "quick_answer": "Photography is generally free in public. Avoid photographing people without permission, and check rules inside temples and museums.",
+      "detail": "Japan is generally very photography-friendly for tourists. Public spaces, streets, temples, shrines, and scenic areas can almost always be freely photographed. However, inside many museums, art galleries, and some temple interiors, photography is prohibited or limited to certain areas — look for signs or ask staff. There is a strong cultural expectation of privacy around photographing individuals: always ask permission before closely photographing people's faces, especially in traditional neighborhoods like Gion in Kyoto where geisha harassment has led to photography bans on some streets.",
+      "tourist_tips": [
+        "Look for camera icons with a red X — these are no-photography zones",
+        "Gion district in Kyoto has specific streets with photography bans — respect them or face fines",
+        "Drone photography requires permits in most urban areas and near airports, shrines, and parks",
+        "Photography of military installations, government buildings, and some infrastructure is prohibited",
+        "Many modern art museums allow photography of permanent collections but not temporary exhibitions"
+      ],
+      "warning": "Photographing geisha or maiko in Kyoto's Gion district without permission has resulted in local photography ordinances. Violations can result in fines.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "travel-insurance"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Japan",
+      "quick_answer": "Most shops, restaurants, and convenience stores are open 7 days a week. Convenience stores never close. Banks close on weekends.",
+      "detail": "Japan operates largely 7 days a week for retail and food. Convenience stores (7-Eleven, Lawson, FamilyMart) are open 24/7, 365 days a year — they sell hot food, ATMs, and nearly everything you need. Major department stores and shopping malls often have slightly shorter hours on Sundays. Some smaller local shops may close on Sundays or have irregular hours. Banks are closed on weekends and public holidays, but 7-Eleven ATMs accept most international cards 24/7. Japan has many public holidays (around 16 per year) — on these days, most businesses operate as on a Sunday.",
+      "tourist_tips": [
+        "7-Eleven ATMs are the most reliable for foreign cards in Japan — use them over regular bank ATMs",
+        "If you need a bank or post office, plan for weekday business hours (9am–3pm for banks)",
+        "Golden Week (late April to early May) is a major national holiday period — book accommodation months in advance",
+        "New Year (Dec 31 – Jan 3) sees many restaurants and shops closed; convenience stores remain open",
+        "Google Maps shows current opening hours and whether a place is open right now"
+      ],
+      "warning": "During Golden Week and Obon (mid-August), Japan is packed with domestic travelers. Prices spike and reservations fill months in advance.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Japan",
+      "quick_answer": "Taxis are metered, honest, and widely available, but expensive — use the Japan Taxi, S.RIDE, or Uber app to book.",
+      "detail": "Japan's taxis are among the world's most reliable and honest, with fully metered fares and no haggling. The flag fall is around ¥700 with additional charges of roughly ¥90 per 280m. Uber operates in major cities but is less common than local apps like Japan Taxi and S.RIDE, which allow card payment and English-language booking. Taxis can be hailed on the street or found at designated taxi stands near train stations and hotels. One important rule: never open or close the taxi door yourself — the driver controls an automatic door mechanism from the front.",
+      "tourist_tips": [
+        "Download the Japan Taxi or S.RIDE app before you arrive — both support English and card payment",
+        "Never touch the taxi door; it opens and closes automatically — wait for the driver to operate it",
+        "Show your destination on your phone in Japanese text or Google Maps to avoid communication issues"
+      ],
+      "warning": "Taxis in Japan are very expensive compared to most countries. For long distances, trains or expressway buses are far more economical.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Japan",
+      "quick_answer": "Tap water in Japan is completely safe to drink throughout the entire country.",
+      "detail": "Japan's tap water is treated to some of the highest standards in the world and is safe to drink directly from any tap or public fountain. Bottled water is widely sold at convenience stores and vending machines but is entirely unnecessary for health reasons. Many Japanese people prefer tap water and municipal water quality reports are publicly available. When hiking or visiting rural areas, stick to tap or bottled water rather than drinking from streams.",
+      "tourist_tips": [
+        "Refill your water bottle from any hotel, restaurant, or public tap freely — it is always safe",
+        "Vending machines and convenience stores sell a huge variety of drinks including cold and hot options 24/7",
+        "In summer heat, hydrate frequently — vending machines are on almost every block"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Japan",
+      "quick_answer": "Japan is heavily cash-based — always carry yen. 7-Eleven (Seven Bank) ATMs are the most reliable for foreign cards.",
+      "detail": "Despite being a technologically advanced country, Japan remains strongly cash-oriented. Many restaurants, temples, smaller shops, and rural businesses accept cash only. The most reliable ATMs for foreign Visa, Mastercard, and Maestro cards are Seven Bank ATMs inside every 7-Eleven convenience store, followed by Japan Post ATMs. Both are available 24/7. Always carry at least ¥10,000 in cash as a buffer, especially when leaving major cities. Regular bank ATMs often do not accept foreign cards.",
+      "tourist_tips": [
+        "Use 7-Eleven (Seven Bank) ATMs as your primary cash source — they reliably accept most foreign cards",
+        "Withdraw larger amounts at once to minimize transaction fees charged by your home bank",
+        "Keep small denominations (¥1,000 notes) for vending machines, small shops, and coin lockers"
+      ],
+      "warning": "Many restaurants, shrines, local markets, and rural businesses are strictly cash-only. Never assume card payment is accepted outside major tourist spots.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Japan",
+      "quick_answer": "Buy a tourist SIM or eSIM at the airport on arrival — data coverage is excellent nationwide.",
+      "detail": "Japan has outstanding mobile network coverage across cities, towns, and most rural areas. Tourist SIM cards from providers like IIJmio, Docomo Tourist SIM, and Softbank are available at major airports (Narita, Haneda, Kansai) immediately after landing. Most tourist SIMs are data-only; voice calling may require a separate plan. Airalo and other eSIM providers work well and can be activated before departure. An alternative is pocket WiFi rental, which supports multiple devices — reserve online before traveling as airport stock can run out.",
+      "tourist_tips": [
+        "Pick up a tourist SIM or activate your eSIM at the airport arrival hall before leaving — coverage starts immediately",
+        "Pocket WiFi rentals are ideal for groups or if your phone does not support eSIM",
+        "Free WiFi is available at most convenience stores, major train stations, and tourist sites but can be slow"
+      ],
+      "warning": "Data-only SIMs cannot make or receive calls. If you need a Japanese phone number for hotel bookings or emergencies, confirm the SIM plan includes voice.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Japan",
+      "quick_answer": "Japan uses Type A plugs (flat 2-pin) at 100V — the lowest voltage in the world. Check your device labels before use.",
+      "detail": "Japan uses Type A flat two-pin plugs, the same physical shape as North America, so US and Canadian devices plug in without an adapter. However, the voltage is 100V (compared to 110–120V in North America and 220–240V in Europe), and the frequency differs — 50Hz in eastern Japan (Tokyo) and 60Hz in western Japan (Osaka, Kyoto). Most modern electronics, phone chargers, and laptop adapters handle 100–240V and are fine. Appliances with motors such as hair dryers, electric shavers, or curling irons from 110V or 220V countries may not work correctly or could be damaged.",
+      "tourist_tips": [
+        "Check your device's power label for voltage range — if it says 100–240V, you are fine without a converter",
+        "Hair dryers and straighteners from home often do not work well at 100V — borrow one from your hotel instead",
+        "European and Australian travelers need a Type A plug adapter, available cheaply at airports and electronics shops"
+      ],
+      "warning": "Using incompatible appliances at Japan's 100V can damage them or cause them to overheat. Always check the voltage rating on your device before plugging in.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Japan",
+      "quick_answer": "Japan is one of the world's most honest countries — scams are virtually nonexistent and all prices are fixed.",
+      "detail": "Japan has an extremely low incidence of tourist scams. Prices are fixed universally and haggling is not practiced or expected. There is no ATM skimming to speak of, no street scams, no fake tour guides, and lost property is routinely handed in and returned to its owner. The closest thing to a tourist trap is overpriced food and drink at restaurants immediately adjacent to major attractions like Senso-ji or Fushimi Inari — a short walk away offers the same food at a fraction of the price. Japan's culture of honesty extends to taxi drivers, shopkeepers, and service staff at all levels.",
+      "tourist_tips": [
+        "Walk one or two streets away from major tourist gates for significantly cheaper, equally good food",
+        "If you leave something behind in a taxi or train, report it immediately — Japan's lost-and-found return rate is extraordinary",
+        "Check Google reviews before dining near major attractions to avoid overpriced tourist-menu restaurants"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Japan",
+      "quick_answer": "Japan is one of the safest countries in the world for tourists — violent crime is essentially zero.",
+      "detail": "Japan consistently ranks among the world's safest nations. Violent crime against tourists is extremely rare, and solo travelers including women can walk city streets at night without significant concern. Lost wallets and phones are almost always turned in to the nearest Koban (police box) and returned intact. The primary safety concerns for tourists are natural disasters: Japan sits on the Pacific Ring of Fire and experiences earthquakes, tsunamis, typhoons, and volcanic activity. Download the NHK World app or Yahoo Bousai (Japan's government disaster alert app) for real-time warnings.",
+      "tourist_tips": [
+        "Download the NHK World app or Yahoo Bousai app for earthquake and tsunami alerts in English",
+        "Learn the J-Alert signal — a distinctive alarm broadcast on phones and public speakers during emergencies",
+        "In the event of an earthquake, drop, cover, and hold on — follow instructions from hotel staff immediately after"
+      ],
+      "warning": "Natural disasters pose a genuine risk in Japan. Familiarize yourself with evacuation routes at your accommodation and keep travel insurance that covers emergency evacuation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Japan",
+      "quick_answer": "Remove shoes at the entrance to homes and traditional restaurants, bow as a greeting, and stay quiet on public transport.",
+      "detail": "Japanese etiquette is highly context-specific but tourists are generally given considerable latitude. The most important rules are: remove shoes when entering homes, many traditional restaurants (look for a raised genkan step), and some temple interiors; bow slightly as a greeting — a nod of the head is sufficient for tourists; avoid eating while walking, particularly in Kyoto; never make phone calls on trains or speak loudly in quiet public spaces. Queuing is strict and orderly — always line up in the designated area and board trains in order. Blowing your nose loudly in public is considered very rude.",
+      "tourist_tips": [
+        "Look for a raised step (genkan) at any entrance — this is the universal signal to remove your shoes",
+        "A slight bow of the head when thanking or greeting someone is appreciated and always appropriate",
+        "Keep your voice low on trains and buses — this is one of the most universally observed rules in Japan"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Japan",
+      "quick_answer": "English is limited outside major tourist areas — download Google Translate with Japanese offline before you arrive.",
+      "detail": "Japanese is the only language used in most settings outside central Tokyo tourist zones and major international hotels. English signage is good in train stations and airports but sparse in smaller towns, rural areas, and local restaurants. Google Translate's camera mode is extremely useful for translating menus, signs, and labels in real time. Download the Japanese language pack for offline use before leaving home. Learning to read katakana (one of Japan's three scripts) takes a few hours and allows you to read many English-derived words written in Japanese, which is enormously practical.",
+      "tourist_tips": [
+        "Download the Google Translate Japanese offline pack before you travel — camera mode works without data",
+        "Learning katakana (30 characters, a few hours) lets you read menus, station names, and product labels",
+        "Showing your destination written in Japanese on your phone screen is the most reliable way to communicate with taxi drivers and locals"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches and Swimming in Japan",
+      "quick_answer": "Okinawa has world-class tropical beaches; mainland beaches are popular in summer but water is cold on the Sea of Japan side.",
+      "detail": "Japan's best beaches are in Okinawa prefecture, particularly around Ishigaki and Miyako islands, where the water is warm, clear, and comparable to Southeast Asia. A flag system is used at supervised beaches — red means no swimming. In Okinawa waters, Habu sea snakes are present and venomous, though encounters are rare as they are shy. Box jellyfish can appear in late summer. Mainland Japan beaches such as Kamakura and Shonan near Tokyo are crowded in July and August but pleasant. The Sea of Japan coastline has notably colder water than the Pacific side.",
+      "tourist_tips": [
+        "Book Okinawa accommodation well in advance for July and August — it is peak domestic holiday season",
+        "Wear water shoes on Okinawa reef beaches to protect against coral and sea urchins",
+        "Observe flag systems at all supervised beaches — red or yellow flags indicate restricted or dangerous swimming"
+      ],
+      "warning": "Habu sea snakes inhabit Okinawa waters and are venomous. Box jellyfish appear in late summer. Seek medical attention immediately if stung or bitten.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Japan",
+      "quick_answer": "Drive on the left. An International Driving Permit (IDP) plus your original license is required. Traffic laws are strictly enforced.",
+      "detail": "Japan drives on the left side of the road. To rent or drive a car, you need a valid International Driving Permit issued in your home country along with your original national license — an IDP alone is not sufficient. Traffic laws are strictly enforced and penalties are severe. Right turns on red are not permitted. Expressway tolls are expensive and use an ETC electronic system — rental cars usually come with an ETC card. Parking in cities is costly and difficult. On mountain and rural roads, be alert for deer crossing at night. Petrol stations are often full-service rather than self-serve.",
+      "tourist_tips": [
+        "Obtain your IDP from your home country's automobile association before departure — it cannot be issued abroad",
+        "Rent a car with an ETC card already included to pay expressway tolls without stopping at booths",
+        "Driving is most worthwhile in rural areas like Hokkaido, the Japan Alps, or the Noto Peninsula where public transport is limited"
+      ],
+      "warning": "Driving in central Tokyo and Osaka is strongly discouraged — parking is extremely expensive, one-way systems are complex, and public transport is far faster.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Japan",
+      "quick_answer": "Do not tip, water is always free, and set lunch meals (teishoku) at ¥800–1,500 offer outstanding value.",
+      "detail": "Japan's food culture is extraordinary in quality and variety. Tipping is never done (see the tipping topic). Many restaurants display plastic food models in the window — point at these or use Google Translate camera on the menu if you cannot read Japanese. Set lunch meals (teishoku) typically include a main dish, rice, miso soup, and pickles for ¥800–1,500 and represent exceptional value. Water is always served free and automatically. No service charge is ever added to bills. Ramen, sushi, tempura, tonkatsu, and yakitori are all reliably excellent even at inexpensive restaurants.",
+      "tourist_tips": [
+        "Lunch set meals (teishoku or ranchi setto) at sit-down restaurants offer the same food as dinner for half the price",
+        "Use Google Translate camera mode on the menu — it works well even on laminated or handwritten menus",
+        "Convenience store onigiri, sandwiches, and hot foods from 7-Eleven and Lawson are genuinely delicious and very cheap"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Temple and Shrine Etiquette in Japan",
+      "quick_answer": "Remove shoes before entering temple interiors, bow at shrine torii gates, and keep voices low throughout.",
+      "detail": "Japan has thousands of Buddhist temples and Shinto shrines, each with their own rules, but common etiquette applies broadly. Remove shoes when entering temple interiors — shoe racks are provided. At Shinto shrines, bow respectfully when passing through the torii gate. Speak quietly and behave respectfully in all religious grounds. Some inner sanctuaries are off-limits to non-worshippers. Buddhist temples and Shinto shrines have different ceremonial protocols — at shrines, the standard approach is two bows, two claps, then one bow at the main hall. Photography rules are posted at each entrance and vary by site.",
+      "tourist_tips": [
+        "Look for shoe racks at temple entrances — if present, remove your shoes before stepping up into the interior",
+        "At Shinto shrines, rinse your hands at the temizuya (water pavilion) near the entrance before approaching the main hall",
+        "Check photography signs at each site — some temples prohibit photos of the main deity statue even where general photography is allowed"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Japan",
+      "quick_answer": "Spring (March–May) for cherry blossoms and autumn (September–November) for fall foliage are the most popular and beautiful seasons.",
+      "detail": "Japan has four distinct seasons with dramatic regional variation. Spring is famous for cherry blossoms (sakura), typically peaking late March to mid-April in central Honshu — accommodation books out months ahead. Autumn brings vivid red and orange foliage (koyo) from September through November. Summer (June–August) is hot, humid, and coincides with typhoon season and the rainy tsuyu period in June to early July. Winter (December–February) is cold and dry in most of the country, excellent for skiing in Hokkaido and Nagano, with Sapporo's famous Snow Festival in February.",
+      "tourist_tips": [
+        "Book accommodation for cherry blossom season (late March to mid-April) at least 3–6 months in advance",
+        "Autumn foliage (October–November) is less crowded than spring but equally beautiful and worth planning around",
+        "Check the Japan Meteorological Corporation's sakura forecast each year — peak dates shift by 1–2 weeks depending on temperatures"
+      ],
+      "warning": "Typhoon season runs from June to October, with August and September being peak risk months. Check weather forecasts and have travel insurance that covers typhoon-related cancellations.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Japan",
+      "quick_answer": "Eat at convenience stores and lunch sets, travel by overnight bus, and use a Wise card to avoid foreign exchange fees.",
+      "detail": "Japan can be visited affordably with the right strategies. Convenience store food (7-Eleven, Lawson, FamilyMart) is genuinely high quality and costs ¥200–¥600 per item. Lunch set meals (teishoku) at sit-down restaurants cost ¥800–1,200 for a full meal. Overnight highway buses between cities (JR Bus, Willer Express) are dramatically cheaper than the Shinkansen. The JR Pass only pays for itself with extensive long-distance travel — calculate before buying. Many famous sights such as Fushimi Inari Taisha and most public parks are free. Using a Wise or Revolut card eliminates foreign exchange fees on every purchase.",
+      "tourist_tips": [
+        "Eat breakfast and lunch from convenience stores and save sit-down restaurants for one meal per day",
+        "Overnight buses from Tokyo to Osaka or Kyoto cost ¥3,000–¥5,000 versus ¥14,000+ for the Shinkansen",
+        "Load a Wise card before travel to pay in yen at the real exchange rate with no hidden fees"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "country": "Brazil",
+  "slug": "brazil",
+  "emoji": "🇧🇷",
+  "region": "Americas",
+  "currency": "BRL",
+  "language": "Portuguese",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Brazil",
+      "quick_answer": "A 10% service charge (gorjeta) is usually already included on restaurant bills and is optional to pay, but small extras are appreciated.",
+      "detail": "Most Brazilian restaurants automatically add a 10% gorjeta to the bill, which you are legally entitled to refuse but most locals pay. Additional tipping beyond that is not expected but welcomed for exceptional service. Taxi drivers are not routinely tipped, but rounding up the fare is a common courtesy. Hotel porters and housekeeping staff appreciate small tips of R$5–10.",
+      "tourist_tips": [
+        "Check your bill for 'servico 10%' before adding any extra tip — it is almost always already included.",
+        "For Uber and 99 rides, tipping in the app is optional and not culturally expected but appreciated.",
+        "At churrascarias, a small extra tip for the passador (the meat server) is a nice gesture if the service was attentive."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Brazil",
+      "quick_answer": "Uber and local app 99 are the safest and most practical options for tourists; São Paulo and Rio have metro systems, while city buses are cheap but difficult to navigate.",
+      "detail": "São Paulo has an extensive and relatively safe metro network, and Rio de Janeiro has a metro covering key tourist areas including Ipanema and Copacabana. City buses are very cheap but routes are confusing and pickpocketing is a concern, especially in crowded vehicles. Salvador and Manaus offer ferry services that are essential for reaching surrounding areas. For intercity travel, long-distance buses (ônibus) are comfortable and affordable.",
+      "tourist_tips": [
+        "Download the 99 app alongside Uber — 99 is a local Brazilian rideshare app that often has better availability and pricing in smaller cities.",
+        "São Paulo's metro is clean, air-conditioned, and covers most tourist and business districts — use it to avoid traffic.",
+        "In Salvador, the Barca ferry system connects the peninsula to Ilha de Itaparica and is a scenic, affordable ride."
+      ],
+      "warning": "Avoid city buses in Rio de Janeiro and São Paulo if you are carrying valuables — pickpocketing and robbery on buses are common, particularly at night.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "travel-insurance",
+        "wise"
+      ]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Tourist Healthcare in Brazil",
+      "quick_answer": "Carry comprehensive travel insurance — private hospitals in major cities are excellent but extremely expensive, and the free public system (SUS) involves long waits.",
+      "detail": "Brazil's major cities have world-class private hospitals and clinics, but a single emergency visit can cost thousands of dollars without insurance. The public health system (SUS — Sistema Único de Saúde) is free for everyone including tourists, but facilities are often overcrowded and wait times can be very long. Yellow fever vaccination is required or strongly recommended if visiting the Amazon, Pantanal, or certain inland regions. Dengue fever, Zika, and chikungunya are present and mosquito repellent is essential in tropical and rural areas.",
+      "tourist_tips": [
+        "Get a yellow fever vaccination at least 10 days before travel if visiting the Amazon, Pantanal, or Iguaçu Falls — some countries require proof of vaccination upon departure from Brazil.",
+        "Save the number of the nearest private hospital (hospital particular) before you arrive in each city, as ambulance response times can be slow.",
+        "Pharmacies (farmácias) are widely available and pharmacists can advise on and dispense many medications without a prescription for minor ailments."
+      ],
+      "warning": "Do not rely on the public SUS system for emergencies as a tourist — without travel insurance covering private care, medical costs can be financially devastating.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws in Brazil",
+      "quick_answer": "Cannabis is illegal, littering carries fines, LGBTQ+ rights are legally protected nationwide, and Carnival period carries specific public behavior tolerances that do not apply year-round.",
+      "detail": "Brazil criminalized homophobia and transphobia by Supreme Court ruling in 2019, making LGBTQ+ people among the more legally protected in South America, though social attitudes vary by region. Cannabis possession and use remains illegal regardless of quantity, and enforcement does occur. Littering is technically a fineable offense in most municipalities. During Carnival, authorities are generally more tolerant of public drinking and revealing dress, but this is a cultural norm rather than a legal exemption.",
+      "tourist_tips": [
+        "LGBTQ+ travelers are generally safe in major cities like São Paulo (which hosts one of the world's largest Pride parades) and Rio, but exercise more caution in conservative inland regions.",
+        "Never carry or use cannabis in Brazil — despite a somewhat relaxed social attitude in some circles, arrest and prosecution are real risks for foreigners.",
+        "Keep receipts and documents for any valuable goods you bring into Brazil, as customs enforcement at airports can be strict about undeclared electronics."
+      ],
+      "warning": "Drug laws in Brazil are enforced, and foreign nationals caught with cannabis or other illegal substances face arrest, detention, and potential deportation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "vpn",
+        "sim"
+      ]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Brazil",
+      "quick_answer": "Police (Polícia Militar): 190; ambulance (SAMU): 192; fire brigade (Bombeiros): 193; Federal Police: 197.",
+      "detail": "Brazil's emergency numbers are single or three-digit codes that work from any phone including mobiles without credit. SAMU (Serviço de Atendimento Móvel de Urgência) on 192 handles medical emergencies, though response times vary greatly by location. The Bombeiros on 193 handle fire, rescue, and sometimes medical response in areas without SAMU coverage. In tourist-heavy areas of Rio, a dedicated tourist police unit (Delegacia Especial de Atendimento ao Turista — DEAT) can assist with crimes against visitors.",
+      "tourist_tips": [
+        "Save all four emergency numbers in your phone before you travel — do not rely on remembering them in a stressful situation.",
+        "In Rio de Janeiro, the tourist police DEAT can be reached at (21) 2332-2924 and has English-speaking staff to help tourists report crimes.",
+        "If you need to report a crime for insurance purposes, go to a Delegacia (police station) to obtain a Boletim de Ocorrência (incident report) — this is required for insurance claims."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Brazil",
+      "quick_answer": "Brazil is extremely casual in daily life, but beachwear must stay at the beach and religious sites require modest, covered clothing.",
+      "detail": "Brazilians dress comfortably and informally in most settings — shorts, t-shirts, and flip-flops (havaianas) are widely acceptable. However, walking through city streets in a bikini or board shorts away from the beach is considered inappropriate in most towns and cities. Churches, cathedrals, and Candomblé/Umbanda religious sites require covered shoulders and knees. Only the most upscale fine-dining restaurants enforce any dress code, and even then smart-casual usually suffices.",
+      "tourist_tips": [
+        "Pack a light cover-up (saída de praia) in your beach bag — you will need it the moment you walk more than a block from the sand.",
+        "For visiting churches and religious sites, a sarong or light scarf takes up almost no space and covers your shoulders and knees instantly.",
+        "São Paulo has a more fashion-conscious and formal culture than Rio — going out to dinner in São Paulo, dress up slightly more than you would in Rio."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Brazil",
+      "quick_answer": "The legal drinking age is 18, alcohol is inexpensive and widely available, but drink-driving is strictly enforced with a near-zero tolerance BAC limit.",
+      "detail": "Brazil's legal drinking age is 18 and alcohol — from beer (cerveja) to cachaça-based caipirinhas — is very affordable and culturally embedded in social life. Public drinking is widespread and largely tolerated in practice, particularly on beaches and at outdoor events, though some municipalities have official restrictions. The drink-driving BAC limit is 0.05% nationally and some states enforce virtual zero tolerance; enforcement includes roadside breath tests (blitz) which are common. Penalties for drink-driving include heavy fines, license suspension, and potential imprisonment.",
+      "tourist_tips": [
+        "Try a freshly made caipirinha (cachaça, lime, sugar, ice) — it is Brazil's national cocktail and costs as little as R$10–15 at a good bar.",
+        "At beach kiosks and boteco bars, a 600ml shared beer (cervejão) kept in an insulated sleeve is the classic social drink — it is more economical than individual bottles.",
+        "Never drive after drinking in Brazil — roadside blitz checkpoints are common on weekends and holidays, and the consequences are severe even for tourists."
+      ],
+      "warning": "Brazil's drink-driving enforcement is serious — a BAC over 0.05% (or any measurable alcohol in some states) results in fines up to R$2,934, license suspension, and possible arrest. Use Uber or 99 after any drinking.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Brazil",
+      "quick_answer": "Bargaining is not standard in shops or restaurants but is accepted and expected at craft markets (feiras de artesanato) and flea markets.",
+      "detail": "Fixed prices are the norm in Brazilian retail stores, supermarkets, and restaurants — attempting to negotiate in these settings is inappropriate. However, at outdoor craft markets such as Salvador's Feira do Largo do Bonfim, Rio's Feira de São Cristóvão, and flea markets (feiras de pulgas), gentle negotiation is expected and vendors price accordingly. Buying multiple items from the same stall significantly improves your bargaining position. Street vendors selling souvenirs near tourist sites are also generally open to negotiation.",
+      "tourist_tips": [
+        "At craft markets, start by browsing a few stalls to compare prices before committing — this gives you a realistic sense of fair value for the area.",
+        "The phrase 'Tem desconto?' (Do you have a discount?) or 'Pode fazer um preço melhor?' (Can you do a better price?) opens negotiations politely.",
+        "Buying several items from the same vendor is the most effective bargaining tool — offer a round number for the lot."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Brazil",
+      "quick_answer": "Photography is generally unrestricted in public spaces, but avoid photographing in favelas unless on an organized tour, and always ask permission before photographing indigenous peoples.",
+      "detail": "Brazil is a photographer's paradise with few formal restrictions in tourist areas, national monuments, and public spaces. Favelas (informal urban communities) should only be visited and photographed as part of an organized, community-run tour — unauthorized entry is dangerous and photography can be seen as invasive or disrespectful. Indigenous communities and their ceremonies require explicit permission before photographing individuals. Military installations, government buildings, and some federal police facilities have photography restrictions that are clearly posted.",
+      "tourist_tips": [
+        "At iconic sites like Christ the Redeemer or Iguaçu Falls, arrive early morning for the best light and far fewer crowds in your shots.",
+        "Ask permission ('Posso tirar uma foto?' — May I take a photo?) before photographing market sellers, street performers, or individuals — most Brazilians are happy to oblige.",
+        "Join a community-run favela tour in Rio (such as those through Favela Santa Marta or Rocinha) — these are safe, responsible, and provide genuinely unique photography opportunities."
+      ],
+      "warning": "Displaying expensive camera equipment openly in crowded urban areas — especially beaches, bus stations, and street markets — makes you a target for theft. Keep gear secure and be discreet.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "vpn"
+      ]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Brazil",
+      "quick_answer": "Shopping malls open seven days a week, banks are closed on weekends, and Carnival (February or March) shuts down most of the country for approximately five days.",
+      "detail": "Brazil's large shopping malls (shoppings) operate daily including Sundays and public holidays with slightly reduced hours. Banks and many government services are closed on Saturdays and Sundays. Weekend street markets and farmers' markets are a highlight, operating Saturday and Sunday mornings in most cities. Carnival is a national holiday that effectively halts normal business for around five days — banks, government offices, and many businesses close entirely, and transport and accommodation prices spike dramatically.",
+      "tourist_tips": [
+        "If you need to exchange money or handle banking, do so on a weekday — ATMs work on weekends but branches and exchange desks are closed.",
+        "Weekend street markets like the Feira Hippie in Belo Horizonte or the Benedito Calixto market in São Paulo are excellent for local food, crafts, and atmosphere.",
+        "If your visit coincides with Carnival, book accommodation and transport months in advance — prices quadruple and availability disappears in major cities."
+      ],
+      "warning": "Traveling to Brazil during Carnival unprepared means facing extreme price gouging, fully booked accommodation, and chaotic transport — plan and book far ahead or avoid peak Carnival cities if you prefer normal tourism.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi & Rideshare in Brazil",
+      "quick_answer": "Use Uber or local app 99 rather than hailing street taxis, especially in Rio de Janeiro and São Paulo where unofficial taxis carry real safety risks.",
+      "detail": "Rideshare apps Uber and 99 (owned by Didi) operate widely across Brazil and are strongly preferred by both locals and tourists for safety and price transparency. Radio taxis called through your hotel are also reliable. In Rio de Janeiro and São Paulo specifically, hailing an unmarked street taxi is genuinely dangerous due to the risk of robbery or express kidnapping — always use apps. At airports, use only the official taxi ranks with metered vehicles or pre-book a rideshare. In smaller cities, local moto-taxis (motorcycle taxis) are common for short distances but carry accident risks.",
+      "tourist_tips": [
+        "Download both Uber and 99 before arriving — 99 sometimes has better coverage in smaller cities and different surge pricing patterns.",
+        "At Rio de Janeiro and São Paulo airports, follow signs to the official taxi rank or use the Uber/99 pickup zones — ignore touts offering rides inside the terminal.",
+        "Share your live ride location with a travel companion via WhatsApp when taking any taxi or rideshare, particularly at night."
+      ],
+      "warning": "Never hail street taxis in Rio de Janeiro or São Paulo — unofficial taxis ('pirate taxis') are linked to robberies and express kidnappings. Always use Uber, 99, or hotel-arranged radio taxis.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Brazil",
+      "quick_answer": "Drink bottled or filtered water everywhere in Brazil — tap water is technically treated in major cities but most locals and all tourists should avoid drinking it directly.",
+      "detail": "Municipal tap water in cities like São Paulo and Rio de Janeiro is treated and technically meets safety standards, but the aging pipe infrastructure means contamination is possible, and locals overwhelmingly drink filtered or bottled water. In rural areas, small towns, and the Amazon region, tap water is unsafe without treatment. Ice in reputable restaurants and hotels in major cities is generally made from filtered water and considered safe. Bottled water (água mineral) is inexpensive and available everywhere.",
+      "tourist_tips": [
+        "A portable water filter bottle (such as LifeStraw or Sawyer) is a cost-effective and eco-friendly solution for longer trips, especially if visiting rural or Amazon regions.",
+        "In restaurants, ask 'A água é filtrada?' (Is the water filtered?) if you want to confirm before accepting tap water or ice.",
+        "Coconut water (água de coco) served directly from a fresh coconut at beach kiosks is safe, delicious, and a perfect natural hydration option."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATM & Cash in Brazil",
+      "quick_answer": "Use ATMs inside shopping malls or banks during daylight hours — Bradesco, Banco do Brasil, and Caixa are most reliable for foreign cards, and Pix digital payments are now ubiquitous.",
+      "detail": "Brazilian ATMs have withdrawal limits (often R$1,000–1,500 per transaction) and most charge international fees on top of your bank's foreign transaction fee. Bradesco, Banco do Brasil, and Caixa Econômica Federal ATMs have the best compatibility with foreign Visa and Mastercard debit cards. Card skimming devices do exist, so prefer ATMs in busy, secure locations such as shopping malls and bank branches. Pix — Brazil's instant digital payment system — is now used by virtually all businesses and individuals and allows cashless payment via QR code even without a Brazilian bank account through some international apps.",
+      "tourist_tips": [
+        "Use a Wise or Revolut debit card to minimize foreign transaction fees — both work well in Brazilian ATMs and for Pix QR payments in some cases.",
+        "Withdraw cash during the day inside a shopping mall ATM — these are the safest locations as they have security cameras and security guards.",
+        "Keep a supply of small R$5, R$10, and R$20 notes for street food vendors, bus fares, and markets — many small vendors cannot break large bills."
+      ],
+      "warning": "Card skimming at standalone ATMs (especially on streets) is a real risk in Brazil — always cover the keypad when entering your PIN and check the card reader for tampering before inserting your card.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card & Internet in Brazil",
+      "quick_answer": "Buy a prepaid SIM from Claro, TIM, or Vivo at the airport or a phone shop — bring your passport as it is legally required for SIM registration.",
+      "detail": "Brazil's three main mobile carriers are Claro, TIM, and Vivo, all offering prepaid (pré-pago) SIM cards with data plans at airports, carrier stores, and supermarkets. You must present your passport for registration, which is a legal requirement. Coverage is excellent in major cities and coastal areas but can be patchy in the Amazon and remote rural regions. International eSIMs such as Airalo work in Brazil and are convenient if your phone supports eSIM — activate before arrival.",
+      "tourist_tips": [
+        "Claro generally offers the best coverage in the Amazon and northern regions — choose Vivo or TIM for the best coverage in the urban south and southeast.",
+        "A 15GB prepaid data plan typically costs R$40–60 and lasts 30 days — far cheaper than roaming on your home carrier.",
+        "WhatsApp is the primary communication tool for almost all Brazilians — having a working SIM with data means you can contact hotels, tour operators, and local contacts via WhatsApp."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "vpn"
+      ]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plugs in Brazil",
+      "quick_answer": "Brazil uses Type N plugs (two round pins plus a grounding pin) as its national standard, but voltage varies by city — São Paulo and Rio are 127V while many other cities are 220V.",
+      "detail": "Since 2010, Brazil's official standard is the Type N plug (NBR 14136), but older buildings frequently still have Type A, B, or C sockets that may or may not accept Type N plugs. The voltage situation is uniquely complex: São Paulo and Rio de Janeiro run on 127V, while most other Brazilian cities — including Brasília, Salvador, Fortaleza, and Manaus — run on 220V. Some hotels have dual-voltage sockets. Most modern electronics (phones, laptops) have universal 100–240V adapters built in, but always check before plugging in a device like a hair dryer or travel iron.",
+      "tourist_tips": [
+        "Check the voltage label on every appliance before plugging in — a 127V device used in a 220V city will be instantly destroyed. When in doubt, ask your hotel.",
+        "A universal travel adapter with a Type N outlet is the safest single purchase for Brazil — it covers both the plug shape and adapter needs.",
+        "USB charging is universally 5V regardless of local mains voltage — charging phones and tablets via USB is safe everywhere in Brazil."
+      ],
+      "warning": "Brazil's split voltage system (127V vs 220V by city) is a genuine risk to electronics — plugging a 127V-only device into a 220V socket without a transformer will permanently damage or destroy it.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Brazil",
+      "quick_answer": "Key scams to watch for include beach theft (arrastão group robberies), distraction pickpockets, express kidnappings in cities, and people posing as police officers.",
+      "detail": "Brazil's beaches, particularly Copacabana and Ipanema in Rio, are targets for arrastão — coordinated group robberies where a wave of thieves rushes beachgoers simultaneously. Distraction pickpockets operate at bus stations, markets, and crowded streets, often working in pairs. Express kidnappings involve being forced to withdraw money from ATMs, and while rare for tourists, they do occur in major cities at night. Fake police officers asking to inspect your wallet or documents are another established scam — real police never need to handle your cash.",
+      "tourist_tips": [
+        "At the beach, bring only what you need — a small amount of cash, a cheap phone, and nothing else. Leave valuables locked in your accommodation.",
+        "If someone spills something on you (mustard, bird droppings, or similar), immediately move away — this is a classic distraction-and-pickpocket technique.",
+        "If someone claiming to be a plainclothes police officer asks to inspect your wallet or ID, insist on going to the nearest police station — legitimate officers will not be offended by this."
+      ],
+      "warning": "Express kidnappings — being taken to multiple ATMs to withdraw money — occur in Brazilian cities, particularly at night in isolated areas. Stick to busy, well-lit areas after dark and always use rideshare apps rather than walking to find a taxi.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Brazil",
+      "quick_answer": "Brazil has real and serious crime in major cities — stay alert, avoid favelas without organized tours, and take specific precautions on Rio's beaches and in city centers after dark.",
+      "detail": "Brazil's major cities, particularly Rio de Janeiro and São Paulo, have significant crime rates including robbery, pickpocketing, and violent crime. Tourist areas like Copacabana and Ipanema beaches are specifically targeted by thieves, and theft from beachgoers is extremely common. Favelas should never be entered independently — community-run organized tours are the only safe way to visit. At night, stick to well-populated, well-lit areas and use rideshare apps exclusively. Certain neighborhoods in Rio (such as parts of Centro, Lapa late at night, and the Zona Norte) carry elevated risk for tourists.",
+      "tourist_tips": [
+        "Use a cheap 'decoy wallet' with a small amount of cash and an expired card — if robbed, hand it over without resistance. Your safety is worth more than any amount of money.",
+        "The Zona Sul beaches (Copacabana, Ipanema) are safest in the morning and early afternoon — avoid them after dark and leave nothing unattended even for seconds.",
+        "Research the specific neighborhood of your accommodation in advance using current travel forums — safety varies enormously block by block in Brazilian cities."
+      ],
+      "warning": "Robbery at gunpoint (assalto) does happen in tourist areas of Rio and São Paulo. Never resist — hand over valuables immediately. The standard local advice is 'entregue tudo' (hand everything over) and report it afterward.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "vpn"
+      ]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Brazil",
+      "quick_answer": "Brazilians are warm, physically affectionate, and time-flexible — greet with cheek kisses, embrace the relaxed pace, and understand that football (soccer) is a near-religious passion.",
+      "detail": "Physical greetings — a single cheek kiss between women or a man and woman, handshakes and back-slaps between men — are standard and expected. Personal space norms are much smaller than in Northern Europe or North America, and standing close during conversation is normal. Time-keeping is flexible; social events routinely start 30–60 minutes after the stated time, and this is not considered rude. Football (futebol) is deeply woven into Brazilian identity and being enthusiastic about it, or at least respectful, opens many doors socially.",
+      "tourist_tips": [
+        "Don't be surprised or uncomfortable if new Brazilian acquaintances are immediately warm, physically familiar, and treat you like an old friend — this genuine openness is a cultural strength.",
+        "If invited to a Brazilian home, arriving with a small gift (wine, sweets, or flowers) is appreciated, and refusing food or drink multiple times can come across as rude.",
+        "Avoid making comparisons between Brazil and Argentina — the football and cultural rivalry is intense and even well-intentioned comments can land badly."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Brazil",
+      "quick_answer": "Brazilians speak PORTUGUESE — not Spanish — and they are distinct enough that Spanish speakers cannot reliably communicate without effort; translation apps are essential outside tourist hubs.",
+      "detail": "Brazil is the only Portuguese-speaking country in South America, and Brazilian Portuguese differs considerably from European Portuguese in pronunciation and vocabulary. English is spoken in upscale hotels, major tourist sites, and some restaurants in large cities, but is largely absent in local neighborhoods, smaller cities, and rural areas. Spanish speakers can sometimes achieve basic comprehension through 'Portunhol' (a blend of the two languages), but relying on this is unreliable. Google Translate with the offline Portuguese pack downloaded is one of the most useful tools a tourist can carry.",
+      "tourist_tips": [
+        "Learn a handful of key phrases: 'Obrigado/Obrigada' (thank you — male/female speaker), 'Por favor' (please), 'Onde fica...?' (Where is...?), and 'Quanto custa?' (How much?) — Brazilians deeply appreciate any attempt at Portuguese.",
+        "Download Google Translate's Brazilian Portuguese offline pack before arrival — the camera translation feature is invaluable for reading menus and signs.",
+        "Never assume a Brazilian speaks or wants to speak Spanish — it can come across as dismissive of their distinct language and culture."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "sim",
+        "pocket-wifi",
+        "travel-insurance"
+      ]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach & Swimming in Brazil",
+      "quick_answer": "Brazil's beaches are world-famous but rip currents (correntes) are a genuine danger — always swim at flagged beaches, never swim alone, and watch for seasonal jellyfish.",
+      "detail": "Brazil has over 7,000 km of coastline with beaches ranging from the famous stretches of Rio to the wild coasts of the Northeast and the remote beaches of the Amazon estuary near Marajó. Rip currents are a serious and underestimated hazard — flag systems are used on organized beaches (green = safe, yellow = caution, red = no swimming) and should always be observed. Jellyfish (medusas or caravelas, including the dangerous Portuguese Man O'War) appear seasonally, particularly on Rio beaches. Beach vendors selling food, drinks, sunscreen, and souvenirs are constant and part of the beach culture.",
+      "tourist_tips": [
+        "If caught in a rip current, do not swim directly against it — swim parallel to the shore until out of the current, then swim back in at an angle.",
+        "The beaches of the Nordeste (Northeast) — Jericoacoara, Morro de São Paulo, Porto de Galinhas — offer some of Brazil's clearest, calmest water and are excellent alternatives to the busier Rio beaches.",
+        "Topless sunbathing, while historically associated with Brazil, is not actually common in practice — follow local norms at the specific beach you visit."
+      ],
+      "warning": "Rip currents kill dozens of swimmers on Brazilian beaches every year — always check the flag system, swim near lifeguard posts, and never swim at unflagged or unpatrolled beaches.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Brazil",
+      "quick_answer": "Drive on the right, an international driving license is valid, but avoid driving at night in unfamiliar areas and be prepared for chaotic urban traffic and highly variable road conditions.",
+      "detail": "Brazil drives on the right side of the road. An International Driving Permit (IDP) alongside your home country license is required for foreign drivers. Road quality varies enormously — highways in the south and southeast are generally well-maintained, while roads in the Amazon, Northeast interior, and rural areas can be unpaved and hazardous. Urban driving in cities like São Paulo and Rio is extremely stressful due to traffic volume, aggressive driving culture, and poor signage. Motorcycle taxis (mototaxis) weave through traffic everywhere and require constant vigilance. Night driving in unfamiliar or rural areas carries real risks including livestock on roads and banditry on isolated highways.",
+      "tourist_tips": [
+        "Rent a car for exploring national parks, the Pantanal, or the Estrada Real — these are the ideal contexts for driving; urban Brazil is best navigated by rideshare.",
+        "Major Brazilian highways use toll booths (pedágios) — keep small change or a local payment card available, as some accept only cash.",
+        "In São Paulo, the Rodízio vehicle rotation scheme restricts cars from certain central zones on certain weekdays based on license plate number — confirm if your rental is affected."
+      ],
+      "warning": "Never drive at night on isolated highways or in unfamiliar rural areas of Brazil — the risk of vehicle robbery, cattle on roads, and poor road conditions make night driving genuinely dangerous outside well-traveled routes.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurant & Food in Brazil",
+      "quick_answer": "Brazil's food scene is extraordinary — from churrascaria BBQ and feijoada to street snacks like coxinha and pastel — eat at local boteco bars and kilo restaurants for the best value.",
+      "detail": "Brazilian cuisine is extraordinarily diverse, reflecting indigenous, African, Portuguese, and immigrant influences. Churrascaria (all-you-can-eat BBQ restaurants with roving meat servers) are a must-try experience. Feijoada — a hearty black bean stew with various cuts of pork — is the unofficial national dish, traditionally eaten on Wednesdays and Saturdays. Street food such as coxinha (chicken croquettes), pastel (fried pastry with fillings), and acarajé (black-eyed pea fritters in Salvador) is excellent, cheap, and widely available. Meal times are later than in Northern Europe or North America, with lunch being the main meal.",
+      "tourist_tips": [
+        "Kilo restaurants (restaurante por quilo or self-service) are one of Brazil's greatest institutions — fill your plate with an enormous variety of dishes and pay by weight, typically costing R$30–60 for a full meal.",
+        "Try açaí in the Amazon region where it is freshly made — it tastes dramatically different from the frozen versions exported globally and is served as a thick, savory bowl rather than sweet.",
+        "Lunch is the main meal in Brazil and most restaurants offer a prato feito (PF) — a generous fixed-price lunch plate of rice, beans, protein, and salad for R$15–30, representing extraordinary value."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Brazil",
+      "quick_answer": "Brazil is predominantly Catholic with a rich Afro-Brazilian religious tradition — cover shoulders and knees for all religious sites, and seek explicit permission before entering or photographing Candomblé and Umbanda spaces.",
+      "detail": "Brazil is the world's largest Catholic country by population, and its churches — from São Paulo's Catedral da Sé to the baroque churches of Ouro Preto — are major cultural and tourist attractions requiring modest dress. Afro-Brazilian religions including Candomblé and Umbanda have sacred spaces (terreiros) that are deeply important to their communities — entering without invitation is inappropriate and some ceremonies are closed to outsiders. The exterior of Christ the Redeemer (Cristo Redentor) is free to view and has no strict dress code, but if you enter the small chapel inside, cover up. Evangelical and Pentecostal churches are very numerous; entry is usually welcomed but conservative dress is expected.",
+      "tourist_tips": [
+        "A sarong or light scarf weighs nothing in your bag and instantly makes you appropriately dressed for any religious site — carry one always.",
+        "In Salvador, Bahia, it is possible to attend public Candomblé ceremonies with proper arrangement through cultural tourism operators — this is a profound cultural experience when done respectfully.",
+        "Many of Brazil's most beautiful colonial churches are in Minas Gerais towns (Ouro Preto, Tiradentes, Mariana) — they are active places of worship, so visit respectfully during non-service hours."
+      ],
+      "warning": "Never enter a Candomblé or Umbanda terreiro uninvited or without explicit permission — these are active sacred spaces for practicing communities, and unauthorized entry is disrespectful and unwelcome.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "sim",
+        "wise"
+      ]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Brazil",
+      "quick_answer": "Rio and São Paulo are best April–June and August–October; the Amazon's dry season runs June–November; the Northeast is drier and sunny almost year-round; Carnival falls in February or March.",
+      "detail": "Brazil is a vast country with multiple climate zones, so the best time to visit depends entirely on your destination. Rio de Janeiro and São Paulo have humid subtropical climates with hot, wet summers (December–March) and milder, drier winters (June–September). The Amazon has a wet season from December to May with extreme rainfall and flooding that actually makes wildlife viewing better in some ways. The Nordeste (Northeast) coast is warm and sunny almost year-round with the driest period from July to January. Carnival — Brazil's most famous event — moves each year but falls in February or March, transforming cities like Rio, Salvador, and Olinda completely.",
+      "tourist_tips": [
+        "For Iguaçu Falls, visit in the rainy season (November–March) for the most dramatic water volume, but expect heat and humidity — the dry season offers easier walking trails and closer views.",
+        "The Pantanal wetlands are best visited during the dry season (July–October) when wildlife concentrates around remaining water sources and roads are passable for safaris.",
+        "Book accommodation for Carnival in Rio or Salvador at least 6 months in advance — rooms disappear in weeks and prices multiply by 5–10x during the festival period."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "travel-insurance",
+        "wise",
+        "sim"
+      ]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Brazil",
+      "quick_answer": "Eat prato feito (PF) lunches for R$15–30, use kilo restaurants, take city buses instead of Uber, and enjoy Brazil's free world-class beaches to dramatically cut daily costs.",
+      "detail": "Brazil can be very affordable if you eat and travel like locals. The prato feito (PF) — a complete rice, beans, protein, and salad lunch served at neighborhood restaurants — costs R$15–30 and is one of the best food deals on the planet. Kilo restaurants charge by plate weight and offer enormous variety. City buses are far cheaper than rideshare apps for routine travel, though require navigation practice. Brazil's beaches, national parks, and many public cultural events are entirely free. Hostels in Brazil are of excellent quality and value, with many offering private rooms at prices well below hotels.",
+      "tourist_tips": [
+        "The prato feito (PF) is your single best money-saving tool in Brazil — look for small neighborhood restaurants (botecos, lanchonetes) with handwritten PF signs at lunchtime.",
+        "Many of Brazil's top museums and cultural centers offer free admission on specific days — research ahead for São Paulo's Pinacoteca (free Saturdays) and Museu do Ipiranga among others.",
+        "Traveling between cities by overnight bus (ônibus leito — sleeper bus) saves both a night's accommodation and the daytime intercity fare — routes like São Paulo to Rio or Rio to Florianópolis are excellent for this."
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": [
+        "wise",
+        "travel-insurance",
+        "sim"
+      ]
+    }
+  }
+}

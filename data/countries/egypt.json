@@ -1,0 +1,360 @@
+{
+  "country": "Egypt",
+  "slug": "egypt",
+  "emoji": "🇪🇬",
+  "region": "Middle East",
+  "currency": "EGP",
+  "language": "Arabic",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Egypt",
+      "quick_answer": "Tipping (baksheesh) is deeply embedded in Egyptian culture and expected for almost every small service.",
+      "detail": "Baksheesh is not optional in Egypt — it is a social institution. Tip bathroom attendants, hotel staff, guards who unlock extra rooms at ancient sites, and anyone who takes your photo. At restaurants, 10–15% is standard. For small services such as someone carrying bags or pointing out directions, 10–20 EGP is appropriate. Failing to tip can cause genuine offence and may result in poor service for the rest of your visit.",
+      "tourist_tips": [
+        "Keep a large supply of small EGP notes (5, 10, 20) at all times — baksheesh is always cash",
+        "Tip pyramid guards separately if they unlock a chamber or take your photo; 20–50 EGP is normal",
+        "At sit-down restaurants, leave tips in cash on the table even if you pay by card"
+      ],
+      "warning": "Some 'guides' at sites will perform a service without asking and then demand an unexpectedly large tip — agree on the amount beforehand.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Egypt",
+      "quick_answer": "Use the Cairo Metro for cheap city travel, and Uber or Careem for safe, fairly-priced taxis.",
+      "detail": "Cairo's Metro has three lines, runs cheaply and frequently, but gets extremely crowded during peak hours — there are women-only carriages for comfort and safety. Uber and Careem (the dominant ride-hailing app in the Middle East) are far preferable to hailing local black-and-white taxis, which rarely use meters. For intercity travel, sleeper trains connect Cairo to Luxor and Aswan overnight; domestic EgyptAir flights cover longer distances quickly. Microbuses are used by locals but routes are confusing for tourists.",
+      "tourist_tips": [
+        "Download both Uber and Careem before arriving — prices are fixed in-app and drivers cannot haggle",
+        "Book sleeper train cabins on the Cairo–Luxor–Aswan route as far ahead as possible through Egyptian National Railways or a licensed agency",
+        "Use women-only Metro carriages (marked in pink) during rush hour to avoid crowding and harassment"
+      ],
+      "warning": "Local Cairo taxis without meters will often quote wildly inflated fares to tourists — always use a ride-hailing app or agree on the price firmly before getting in.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Egypt",
+      "quick_answer": "Private hospitals in Cairo are good, but healthcare in rural and desert areas is very limited — travel insurance with evacuation cover is essential.",
+      "detail": "Cairo has several reliable private hospitals for tourists, including As-Salam International Hospital and Cairo Medical Center, with English-speaking staff. Red Sea resort towns such as Hurghada and Sharm el-Sheikh have dive centres with hyperbaric chambers for diving emergencies. Pharmacies (eczane) are extremely common across the country and many medications available by prescription elsewhere can be bought over the counter. Outside major cities and tourist hubs, medical facilities are severely limited, making evacuation insurance critical.",
+      "tourist_tips": [
+        "Always carry comprehensive travel insurance that explicitly covers medical evacuation — a medevac flight can cost tens of thousands of dollars",
+        "In Cairo: As-Salam International Hospital (tel: +20 2 2524 0250) has 24/7 English-speaking emergency care",
+        "Bring a signed, translated letter from your doctor for any prescription medications to avoid issues at customs"
+      ],
+      "warning": "Do not rely on public hospitals as a tourist — standards and English-language capability are inconsistent outside top private Cairo facilities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Egypt",
+      "quick_answer": "Drug possession, LGBTQ+ activity, photographing government or military sites, and criticising the president are all serious criminal offences in Egypt.",
+      "detail": "Drug laws are extremely strict — possession of even small amounts can result in lengthy prison sentences. Photographing military installations, police officers, bridges, airports, embassies, and government buildings is prohibited by law and tourists have been arrested for it. LGBTQ+ relationships are illegal and actively prosecuted, with undercover police operations reported on dating apps. Publicly criticising the president or government can lead to detention under broad cybercrime and anti-terrorism laws. Dual nationals should be aware that Egyptian authorities may treat them primarily as Egyptian citizens.",
+      "tourist_tips": [
+        "Delete any sensitive photos before crossing any checkpoint — particularly near the Sinai or military zones",
+        "Avoid any political commentary on Egyptian social media during your visit",
+        "Unmarried couples can now generally share hotel rooms without issue in tourist areas, though this is technically still restricted by some local ordinances"
+      ],
+      "warning": "LGBTQ+ travellers face genuine legal risk in Egypt. Avoid public displays of affection and be extremely cautious with dating apps, which are monitored by police.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Egypt",
+      "quick_answer": "Police: 122, Ambulance: 123, Fire: 180, Tourist Police: 126.",
+      "detail": "Egypt has a dedicated Tourist Police line (126) specifically for assistance to foreign visitors — they typically have more English-speaking operators than the regular police line (122). Response times outside major tourist areas can be slow, so private hospital ambulances are often faster than the national service. For diving emergencies on the Red Sea, most dive centres have direct lines to hyperbaric chambers. Save all emergency numbers and your hotel's address in your phone before heading out.",
+      "tourist_tips": [
+        "Call 126 (Tourist Police) first as a tourist — they are trained to handle visitor incidents and speak more English",
+        "Save your embassy's emergency number separately — the UK, US, and EU embassies all have 24/7 consular emergency lines",
+        "Know your hotel name and address in Arabic if possible — read it from the business card at check-in"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Egypt",
+      "quick_answer": "Cover shoulders and knees in most public areas; swimwear is fine at Red Sea and Mediterranean resorts.",
+      "detail": "Egypt is a conservative Muslim-majority country and modest dress is genuinely important outside resort areas. Women should cover shoulders and knees when walking in cities, visiting markets, or entering any religious site. At mosques, women must cover their hair and wear loose full-length clothing — robes and scarves are usually available at the entrance. Men should avoid wearing shorts in mosques and in Upper Egypt (Luxor, Aswan). At Red Sea resorts (Hurghada, Sharm el-Sheikh) and Mediterranean beaches, standard swimwear is completely acceptable.",
+      "tourist_tips": [
+        "Carry a large light scarf at all times — it doubles as a head covering at mosques and a shoulder wrap in conservative areas",
+        "Upper Egypt (Luxor, Aswan) is more conservative than Cairo or the Red Sea coast — err on the side of more coverage",
+        "Robes and headscarves are provided at the entrances to Al-Azhar Mosque and Mohamed Ali Mosque, but wearing your own is preferred"
+      ],
+      "warning": "Ignoring the dress code at mosques will result in refusal of entry. In more conservative areas, inappropriately dressed women may face significant harassment.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Egypt",
+      "quick_answer": "Alcohol is available at licensed hotels, tourist restaurants, and specialist shops — but not at most local eateries.",
+      "detail": "Egypt is relatively liberal compared to some Muslim-majority countries regarding alcohol, but it is not freely available everywhere. Licensed hotels, tourist-oriented restaurants, beach resorts, and some supermarkets sell beer and spirits. Local Egyptian beers Stella and Sakkara are widely available; imported spirits and wine are sold at licensed bottle shops such as the Drinkies chain, which also delivers. Most neighbourhood restaurants and food stalls do not serve alcohol. The legal drinking age is 21. During Ramadan, alcohol sales are significantly restricted — many licensed venues suspend sales during daylight hours.",
+      "tourist_tips": [
+        "Use the Drinkies app (delivery available in Cairo, Alexandria, and major resort towns) to buy alcohol to your hotel",
+        "Stick to sealed, labelled bottles — there are occasional reports of counterfeit spirits in unlicensed venues",
+        "During Ramadan, buy alcohol in advance for your hotel room as availability drops sharply"
+      ],
+      "warning": "Drinking alcohol in public (streets, beaches outside resorts, public transport) is illegal and can result in arrest.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Egypt",
+      "quick_answer": "Bargaining is absolutely expected and essential at souks, bazaars, souvenir shops, and for services like felucca rides and camel rides.",
+      "detail": "Haggling is a central part of commerce and social interaction in Egypt. Starting at 20–30% of the first asking price is a reasonable opening — the final agreed price is typically somewhere in the middle. Khan el-Khalili in Cairo is the most famous bazaar, but bargaining is expected everywhere from roadside stalls to spice markets to carriage drivers in Luxor. Supermarkets, pharmacies, and chain restaurants are fixed price. Treat it as friendly social interaction rather than a confrontation — smiling and being willing to walk away are your two most powerful tools.",
+      "tourist_tips": [
+        "Start at roughly 25% of the asking price, expect to settle at around 40–60%, and be comfortable walking away — they will usually call you back",
+        "Agree the total price for felucca rides, camel rides, and carriage trips before you board or mount — shake on it",
+        "Never show too much enthusiasm for an item before you start bargaining — it removes your leverage"
+      ],
+      "warning": "Once a price is verbally agreed upon, it is a binding social contract. Backing out after agreeing causes serious offence.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Restrictions in Egypt",
+      "quick_answer": "Never photograph military sites, police, bridges, airports, or government buildings — tourists have been arrested for this.",
+      "detail": "Photography at the Pyramids of Giza and most ancient sites is freely permitted from the outside, though the interiors of some pyramids require an additional ticket. The serious restrictions apply to anything connected with the state: military installations, soldiers, police officers, government buildings, bridges, ports, airports, embassies, and official vehicles are all off-limits under Egyptian law. Enforcement is real and arrests of tourists for accidental photographs have occurred. Always ask permission before photographing people, particularly women in conservative areas and inside mosques.",
+      "tourist_tips": [
+        "Buy the interior photography ticket at sites like the Valley of the Kings or Karnak Temple if you want photos inside — it is worth it",
+        "When in doubt near anything that looks official, put your camera away completely",
+        "Drone use requires advance permission from the Civil Aviation Authority and is effectively prohibited at ancient sites"
+      ],
+      "warning": "Photographing military or police infrastructure — even accidentally from a bus or plane — can result in detention, confiscation of your device, and criminal charges.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday and Holiday Hours in Egypt",
+      "quick_answer": "Friday is the holy day in Egypt — many businesses close Friday morning, and the work week officially runs Sunday to Thursday.",
+      "detail": "Egypt's official working week runs Sunday to Thursday, with Friday and Saturday as the weekend. Friday morning is reserved for Jumu'ah (Friday prayer) and most government offices, many banks, and local businesses close for several hours. Tourist attractions are generally open every day of the week. Ramadan dramatically affects all opening hours — restaurants open after sunset, businesses run reduced daytime hours, and alcohol sales are restricted. Public holidays such as Islamic New Year, Eid al-Fitr, and Eid al-Adha also cause widespread closures for several days.",
+      "tourist_tips": [
+        "Visit busy sites like the Egyptian Museum or Khan el-Khalili on weekdays (Sunday–Thursday) to avoid local weekend crowds",
+        "During Ramadan, plan sightseeing in the morning and embrace the festive iftar (breaking fast) atmosphere after sunset",
+        "Check Islamic holiday dates before travel — Eid al-Adha in particular causes multi-day nationwide closures"
+      ],
+      "warning": "During Ramadan, eating, drinking, or smoking in public during daylight hours is illegal and deeply disrespectful — violations can lead to fines or detention.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis and Rideshare in Egypt",
+      "quick_answer": "Use Uber or Careem — they are safer, fairly priced, and remove the need to negotiate every fare.",
+      "detail": "Uber and Careem operate extensively in Cairo, Alexandria, Luxor, Hurghada, and most tourist centres. Both apps work the same way as elsewhere — price is fixed before booking and payment can be in-app. Local black-and-white Cairo taxis and green-and-white taxis rarely use meters; drivers routinely quote inflated prices to tourists, and arguments over fares at the destination are common. Airport arrivals should use official white airport taxi stands rather than drivers who approach inside the terminal. For very short distances in tourist towns, tuk-tuks are common and fares should be negotiated beforehand.",
+      "tourist_tips": [
+        "Set your pick-up pin precisely in Uber/Careem — in Cairo's congested streets, drivers cannot always find vague addresses",
+        "At Cairo International Airport, use the official white taxi desk in arrivals rather than any driver who approaches you inside",
+        "Agree on a price before getting into any non-app taxi and confirm it is in EGP, not a foreign currency"
+      ],
+      "warning": "Taxis hailed on the street in Cairo are notorious for fare disputes at the destination — always use a ride-hailing app when possible.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "pocket-wifi"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Egypt",
+      "quick_answer": "Never drink tap water in Egypt — bottled water is cheap, widely available, and essential everywhere.",
+      "detail": "Tap water in Egypt is chlorinated but not safe to drink for tourists; the local bacterial content routinely causes gastrointestinal illness in visitors. Bottled water is inexpensive (3–5 EGP for a 1.5L bottle at local shops) and available everywhere. Always check that the seal is intact before drinking. Ice in local cafes and street-food stalls carries the same risk as tap water — only trust ice served in four- or five-star hotels and tourist restaurants. When self-catering in an apartment, use bottled or filtered water for cooking vegetables and brushing teeth.",
+      "tourist_tips": [
+        "Buy large 1.5L or 6L bottles from local supermarkets or grocery shops — tourist-area kiosks charge three to four times more",
+        "Carry a reusable bottle and fill it from large sealed containers to reduce plastic waste",
+        "Stick to cooked foods from reputable stalls — salads washed in tap water are a common cause of traveller's stomach"
+      ],
+      "warning": "Traveller's diarrhoea is extremely common in first-time visitors to Egypt. Bring oral rehydration sachets and a basic course of antibiotics prescribed by your doctor before departure.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Egypt",
+      "quick_answer": "Egypt is a largely cash economy — use CIB or Banque Misr ATMs for foreign cards and carry small EGP notes for everyday use.",
+      "detail": "Cash is king in Egypt. A very large proportion of shops, street vendors, local restaurants, and transport require cash payment. The most reliable ATMs for international cards are CIB (Commercial International Bank) and Banque Misr, found in airports, shopping malls, and city centres. Exchange rates at official exchange offices (bureau de change) are better than at hotel desks. Carrying a backup stash of USD or EUR is sensible given the Egyptian Pound's history of significant devaluation — dollars and euros are widely accepted as a backup in tourist areas. Inform your bank before travelling to avoid cards being blocked.",
+      "tourist_tips": [
+        "Exchange money at official exchange offices or CIB bank branches — hotel rates are typically 10–15% worse",
+        "Keep a supply of 10, 20, and 50 EGP notes for tipping, local taxis, and small purchases",
+        "Use a Wise or Revolut card to minimise foreign transaction fees when withdrawing from ATMs"
+      ],
+      "warning": "ATM skimming does occur in Egypt. Use machines inside banks or shopping malls rather than standalone street ATMs, and cover the keypad when entering your PIN.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards and Internet in Egypt",
+      "quick_answer": "Buy a local SIM from Vodafone Egypt, Orange, or Etisalat at the airport for cheap data — bring your passport.",
+      "detail": "Egypt has three main mobile operators: Vodafone Egypt, Orange Egypt, and Etisalat (branded as e&). All three sell tourist SIM cards with data bundles at Cairo International Airport arrivals. A 30-day tourist data package with 20–30 GB of data typically costs 150–300 EGP. You must present your passport to register the SIM — registration is mandatory by law. 4G coverage is good in Cairo, Alexandria, Luxor, Aswan, and all major resort areas; connectivity drops in the deep desert. VoIP calls (WhatsApp, Skype) are sometimes throttled or blocked intermittently — a VPN resolves this.",
+      "tourist_tips": [
+        "Buy your SIM at the official operator kiosks in the arrivals hall at Cairo Airport before leaving the terminal",
+        "Ask specifically for a 'tourist package' (باقة سياحية) — these often include more data at a lower price than standard prepaid plans",
+        "A VPN is useful not only for unblocking calls but also for accessing streaming services with home-country libraries"
+      ],
+      "warning": "Unofficial SIM resellers at the airport often overcharge. Only buy from branded Vodafone, Orange, or e& kiosks and get a receipt.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "vpn", "pocket-wifi"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Egypt",
+      "quick_answer": "Egypt uses Type C and Type F (European round-pin) sockets at 220V/50Hz — UK and US visitors need a plug adapter.",
+      "detail": "The standard Egyptian socket accepts Type C (two round pins, Europlug) and Type F (two round pins with grounding clips, Schuko) plugs. The voltage is 220V at 50Hz — the same as Europe. US and Canadian visitors (who use 110V/60Hz) need both a plug adapter and a voltage converter for devices that are not dual-voltage; most modern phone chargers, laptops, and camera chargers are dual-voltage (check for '100–240V' on the label). UK visitors (Type G, three rectangular pins) need an adapter. Power cuts are occasional in older parts of Cairo and in Upper Egypt.",
+      "tourist_tips": [
+        "Check your device chargers for '100–240V' — if listed, only a plug adapter is needed, not a converter",
+        "A universal travel adapter with USB ports covers all scenarios and is widely available at Cairo airport shops",
+        "Bring a small power bank — power outages can occur, particularly in older hotels and Upper Egypt"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Egypt",
+      "quick_answer": "Egypt has several well-known tourist scams — learn to recognise the 'closed today' redirect and the horse/camel price switch.",
+      "detail": "The most common scams targeting tourists include: the 'closed today' redirect (a stranger tells you a site is closed and offers to take you to a cousin's shop — it is never closed); the camel or horse ride price-switch at the Pyramids (a price is agreed, then dramatically increased at the end or a return trip is demanded); fake papyrus and perfume sold as authentic; 'free' papyrus factory tours that apply intense pressure to buy; and official-looking individuals demanding fees that do not exist. These scams are persistent, professional, and aimed specifically at tourists unfamiliar with how things work.",
+      "tourist_tips": [
+        "Verify opening hours of any major site directly on the official Egyptian government tourism website before heading out",
+        "For Pyramids camel and horse rides: agree on the full price (including return), get a written note if possible, and pay only at the end",
+        "Genuine papyrus can be identified by its texture — real papyrus feels fibrous and slightly rough; banana-leaf fakes are smoother and cheaper-looking"
+      ],
+      "warning": "Never follow a stranger who approaches you on the street near a tourist site with 'helpful' information about closures, special access, or a shortcut — it is almost always the opening move of a scam.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "vpn"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Egypt",
+      "quick_answer": "Major tourist areas are generally safe, but harassment — especially of women — is a genuine and frequent concern.",
+      "detail": "Egypt's main tourist zones (Cairo, Luxor, Aswan, Hurghada, Sharm el-Sheikh) have a visible police presence and violent crime against tourists is rare. Petty theft such as pickpocketing exists in crowded areas like markets and Metro stations. Sexual harassment of women (verbal and sometimes physical) is unfortunately common in public spaces, and solo female travellers should be prepared for persistent unwanted attention, particularly in Cairo. The Sinai Peninsula requires careful research before visiting — the Egyptian government restricts access to some areas, and some foreign governments advise against all or all-but-essential travel to parts of North Sinai.",
+      "tourist_tips": [
+        "Women travelling solo should consider hiring a licensed local guide for visits to crowded sites like Khan el-Khalili — it significantly reduces harassment",
+        "Use a money belt or hidden pouch for passports and large amounts of cash in crowded markets and the Metro",
+        "Check your government's travel advisory for Sinai specifically before booking — advisories change and some zones are genuinely off-limits"
+      ],
+      "warning": "Parts of North Sinai are subject to active government travel restrictions and ongoing security operations. Several Western governments advise against all travel to specific Sinai zones — check current advisories before any Sinai itinerary.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn", "sim"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Egypt",
+      "quick_answer": "Hospitality is sacred in Egypt — always accept offered tea, use your right hand for eating and giving, and be respectful during prayer times.",
+      "detail": "Egyptian hospitality (karam) is a source of national pride. When offered tea or coffee in a shop or home, accepting is a social grace — refusing is mildly rude. Always use the right hand for eating, giving money, and accepting gifts; the left hand is considered unclean. During Friday prayer time (roughly noon on Fridays), expect some streets near mosques to be crowded and certain businesses to pause. During Ramadan, avoid eating, drinking, or smoking in public during daylight — this applies to non-Muslim tourists too and carries legal consequences. The greeting 'As-salamu alaykum' (peace be upon you) is appreciated and shows respect.",
+      "tourist_tips": [
+        "Greet with 'As-salamu alaykum' and reply 'Wa alaykum as-salam' — Egyptians genuinely appreciate the effort from tourists",
+        "During Ramadan evenings, the iftar meal and street celebrations are a wonderful cultural experience — joining locals at outdoor restaurants after sunset is warmly welcomed",
+        "Avoid pointing the sole of your foot at someone when sitting — it is considered rude in Egyptian culture"
+      ],
+      "warning": "Public displays of affection between any couple are frowned upon in conservative areas and can attract hostile attention — keep affection private.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Egypt",
+      "quick_answer": "English is widely spoken in tourist areas — but learning 'shukran' (thank you) and 'la shukran' (no thank you) will serve you well every day.",
+      "detail": "Egyptian Arabic is the local dialect and differs notably from Modern Standard Arabic. In tourist areas, hotels, and restaurants, English is commonly spoken and understood. French speakers will find some comprehension in parts of Upper Egypt and among older educated Egyptians due to historical French influence. The two most useful phrases for any tourist are 'shukran' (شكراً — thank you) and 'la shukran' (لا شكراً — no thank you), which is invaluable for politely but firmly declining persistent vendors. A few more words of Arabic will almost always be met with delight and warmth from locals.",
+      "tourist_tips": [
+        "Use 'la shukran' firmly and repeatedly with persistent souvenir vendors — it works far better than ignoring them or saying 'no'",
+        "Download Google Translate with Arabic offline pack before arrival — the camera translation feature is useful for menus and signs",
+        "Basic phrases: 'bikam?' (how much?), 'ghali awi' (too expensive), 'ma salama' (goodbye) — even attempting these will earn smiles"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches and Swimming in Egypt",
+      "quick_answer": "The Red Sea (Hurghada, Sharm el-Sheikh) offers world-class diving and snorkelling with exceptional visibility year-round.",
+      "detail": "Egypt's Red Sea coast is one of the world's premier diving and snorkelling destinations, with warm clear water, vibrant coral reefs, and diverse marine life. Hurghada and Sharm el-Sheikh are the main resort hubs with hundreds of dive centres and well-developed beach infrastructure. The Mediterranean coast (Alexandria, Marsa Matruh) is less developed and more popular with domestic tourists. Jellyfish blooms occur seasonally in the Red Sea, typically in late summer; some Mediterranean beaches have strong currents that are not always marked. Red Sea resorts have lifeguards at hotel beaches but public beaches may not.",
+      "tourist_tips": [
+        "Book a liveaboard dive trip from Hurghada or Sharm for access to the most spectacular remote reefs — prices are far lower than comparable trips in Southeast Asia",
+        "Wear reef-safe (no oxybenzone) sunscreen at all times — Egypt's coral reefs are protected and chemical sunscreen causes serious damage",
+        "Check for jellyfish advisories at your resort's front desk before swimming, particularly August–October"
+      ],
+      "warning": "Several shark attacks have occurred in Sharm el-Sheikh waters over the years, mostly near feeding zones. Follow local dive-operator guidance strictly and do not swim near fishing boats or areas where feeding has occurred.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Egypt",
+      "quick_answer": "Driving in Cairo is extremely chaotic and not recommended for tourists — use Uber or Careem instead.",
+      "detail": "Egypt drives on the right side of the road. Cairo traffic is notoriously anarchic — lane markings are treated as suggestions, horn-use is constant, and pedestrian crossings are largely symbolic. Tourists are strongly advised against self-driving in Cairo. Intercity driving is more manageable on major highways, though road quality varies significantly outside major routes. An International Driving Permit (IDP) is required alongside your home licence. The Sinai Peninsula roads require checking current travel advisories before use. Night driving outside cities is particularly hazardous due to poor lighting and animals on roads.",
+      "tourist_tips": [
+        "Rent a car with a driver (widely available from hotels and tour operators) rather than self-driving — it is often only marginally more expensive and far less stressful",
+        "If you do drive intercity, plan to arrive at your destination before dark — night driving outside cities is genuinely dangerous",
+        "Carry your International Driving Permit, original licence, car rental agreement, and passport copies at all times when driving"
+      ],
+      "warning": "Driving in Cairo without local experience is genuinely hazardous. The combination of extreme traffic density, informal driving norms, and limited road markings has resulted in serious accidents for inexperienced visitors.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Egypt",
+      "quick_answer": "Egyptian food is delicious and very affordable — koshari (the national dish) and ful medames are must-tries available everywhere.",
+      "detail": "Egyptian cuisine is rich, filling, and excellent value. The national dish koshari — a comforting bowl of rice, lentils, pasta, crispy onions, and spiced tomato sauce — costs 20–40 EGP at dedicated koshari restaurants and is arguably the best budget meal in the Middle East. Ful medames (slow-cooked fava beans with olive oil and spices) is the classic breakfast. Kofta, shawarma, and grilled meats are widely available. Vegetarians are well-catered for since many traditional dishes are naturally plant-based. Street food is excellent and generally safe from popular busy stalls. Tip 10–15% at sit-down restaurants; it is not included in the bill at local restaurants.",
+      "tourist_tips": [
+        "Eat koshari at a dedicated koshari restaurant (look for the word كشري on the sign) — tourist-area versions are often twice the price and half the quality",
+        "Om Ali (Egyptian bread pudding with cream and nuts) is one of the best desserts in the region — ask for it hot",
+        "Avoid salads and unpeeled fruit at street stalls — stick to cooked dishes to minimise stomach trouble"
+      ],
+      "warning": "Traveller's stomach from food or water is very common in first-time visitors. Ease into street food gradually and carry oral rehydration salts.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple, and Church Etiquette in Egypt",
+      "quick_answer": "Remove shoes at mosques, women must cover hair and body fully, and all visitors should dress modestly at any religious site.",
+      "detail": "Egypt has an extraordinary range of religious sites — Islamic mosques, ancient pharaonic temples, Coptic Christian churches, and Jewish synagogues. At mosques, shoes must be removed at the entrance, women must cover their hair and wear loose clothing covering arms and legs, and men must cover their knees. Al-Azhar Mosque and the Mohamed Ali Mosque strictly enforce this — long robes and scarves are provided at the gate but wearing your own is preferred. Coptic churches (such as the Hanging Church in Cairo) require modest dress but not head covering. Ancient pharaonic temples like Karnak and Abu Simbel are secular archaeological sites, but quiet respectful behaviour is expected.",
+      "tourist_tips": [
+        "Carry a lightweight scarf in your bag whenever visiting any site — it takes seconds to put on and removes any issue at the entrance",
+        "Non-Muslims can visit most Egyptian mosques outside prayer times; check with the site directly for current access policies",
+        "The Coptic Cairo neighbourhood (Mar Girgis area) clusters several major Coptic churches and a Jewish synagogue — plan a half-day to visit them together"
+      ],
+      "warning": "Entering a mosque during prayer time without permission is not appropriate. Wait outside until the prayer ends — entry for tourists is typically permitted before and after the five daily prayers.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Egypt",
+      "quick_answer": "October to April is the best time to visit — summers are brutally hot, especially in Luxor and Aswan where temperatures exceed 45°C.",
+      "detail": "Egypt is warm and sunny almost year-round, which is part of its appeal. The ideal travel window is October through April, when daytime temperatures in Cairo are 18–28°C and sites like Luxor and Aswan are hot but manageable (30–35°C). June through September sees temperatures in Upper Egypt regularly exceed 45°C — sightseeing at Luxor or the Valley of the Kings in July is genuinely dangerous. The Red Sea coast is excellent year-round for beach and diving, with water temperatures staying comfortable even in winter. Sinai desert nights in December and January can be surprisingly cold (near 0°C), requiring warm layers. Cairo experiences occasional cool, foggy weather in December and January.",
+      "tourist_tips": [
+        "Book Luxor and Aswan visits for November to February for the most comfortable temperatures at open-air sites",
+        "If travelling in summer, visit Luxor and Aswan sites only at opening time (6am–7am) and again in the late afternoon — midday is genuinely dangerous",
+        "The Red Sea is wonderful from October to May — water visibility is excellent and air temperatures are perfect for beach activities"
+      ],
+      "warning": "Summer heat stroke is a real risk at open-air ancient sites in Upper Egypt. Carry at least 2L of water per person, wear a hat, and do not underestimate the sun.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Egypt",
+      "quick_answer": "Egypt is very affordable — eat koshari at local restaurants, use the Metro and ride-hailing apps, and always bargain for tourist services.",
+      "detail": "Egypt offers exceptional value for money by global standards, especially for accommodation, food, and entry fees. Koshari restaurants charge 20–40 EGP for a huge, filling meal. The Cairo Metro costs 8–15 EGP per journey regardless of distance. Buying bottled water from local grocery shops rather than tourist kiosks saves 200–400% instantly. Entry to the Egyptian Museum costs considerably less if booked directly than through combined guided tours. Felucca rides on the Nile and horse-carriage rides in Luxor are negotiable and can be secured for a fraction of the initial asking price. Using Wise or a fee-free card for ATM withdrawals saves on exchange fees.",
+      "tourist_tips": [
+        "Eat where locals eat — a koshari restaurant, a ful and ta'meya (falafel) breakfast spot, or a local shawarma stand will cost 20–60 EGP compared to 200–500 EGP at tourist-facing restaurants",
+        "Buy the individual site entry tickets yourself at the booth rather than through your hotel or a tour operator — the markup is often 2–3x",
+        "A Wise multi-currency card eliminates foreign transaction fees and gives near-interbank exchange rates when withdrawing EGP from ATMs"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

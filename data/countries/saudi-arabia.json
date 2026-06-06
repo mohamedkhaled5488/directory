@@ -1,0 +1,360 @@
+{
+  "country": "Saudi Arabia",
+  "slug": "saudi-arabia",
+  "emoji": "🇸🇦",
+  "region": "Middle East",
+  "currency": "SAR",
+  "language": "Arabic",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Saudi Arabia",
+      "quick_answer": "Tipping is welcomed but not mandatory — 10–15% at restaurants is appreciated, and 10–20 SAR for hotel staff is standard.",
+      "detail": "Tipping is a appreciated gesture in Saudi Arabia, though it is never obligatory. At restaurants, 10–15% is customary unless a service charge is already included in the bill — always check before adding more. Hotel staff such as bellboys and housekeeping welcome 10–20 SAR. For drivers and tour guides, a tip of 20–50 SAR reflects good service. The culture is hospitable and generous, so tipping fits naturally into interactions.",
+      "tourist_tips": [
+        "Check your restaurant bill for a pre-added service charge before tipping on top",
+        "Cash tips in SAR are preferred as they go directly to the staff rather than through the business",
+        "For hotel housekeeping, leaving 10–20 SAR on the pillow daily is a kind and appreciated gesture"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Saudi Arabia",
+      "quick_answer": "Riyadh has a modern 6-line metro (opened 2024), Uber and Careem operate widely, and the Haramain High Speed Railway connects Jeddah and Mecca.",
+      "detail": "Riyadh's metro system opened in 2024 with 6 lines covering major districts and is clean, air-conditioned, and affordable. Uber and Careem are the most practical options for getting around cities and are widely used by both tourists and residents. SAPTCO operates intercity buses connecting major cities. The Haramain High Speed Railway links Jeddah, Mecca, and Medina — note that non-Muslims cannot travel to or from Mecca stations as checkpoints enforce this restriction. Traditional taxis exist but Uber and Careem are strongly preferred for transparency on price.",
+      "tourist_tips": [
+        "Download both the Uber and Careem apps before arriving — they are the most convenient way to get around any Saudi city",
+        "Riyadh Metro requires a rechargeable Darb card, available at station kiosks on arrival",
+        "Non-Muslims are prohibited from entering Mecca or Medina — checkpoints on all entry roads enforce this strictly"
+      ],
+      "warning": "Non-Muslims attempting to enter Mecca or Medina face serious legal consequences. The restriction is enforced by physical checkpoints on all approach roads.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise", "travel-insurance"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Saudi Arabia",
+      "quick_answer": "Healthcare quality is excellent at private hospitals, but costs are very high — travel insurance is essential.",
+      "detail": "Saudi Arabia has world-class private hospitals including Saudi German Hospital and Dr Sulaiman Al Habib Medical Group, with English-speaking staff in major cities. Without insurance, costs are extremely high — an emergency room visit can run thousands of SAR. Pharmacies are found everywhere and many common medications are available over the counter. Some medications require a local prescription, so bring a doctor's letter and sufficient supply of any prescription drugs from home. Travel insurance that covers emergency medical evacuation is strongly recommended.",
+      "tourist_tips": [
+        "Purchase comprehensive travel insurance before departure — medical costs without it can be financially devastating",
+        "Bring a doctor's letter and extra supply of any prescription medications, as some drugs require a local prescription",
+        "Pharmacies (saydaliyya) are on nearly every city block and staff usually speak enough English to assist"
+      ],
+      "warning": "Some medications legal in your home country may be controlled or banned in Saudi Arabia. Check with the Saudi Ministry of Health or your embassy before traveling with any prescription drugs.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Saudi Arabia",
+      "quick_answer": "Alcohol is completely banned, drugs carry the death penalty, LGBT relationships are illegal, and criticizing the royal family is a criminal offense.",
+      "detail": "Saudi Arabia enforces strict laws rooted in Islamic principles. Alcohol is entirely prohibited — possession or consumption anywhere in the country is a criminal offense with zero exceptions. Drug offenses can carry the death penalty. LGBT relationships are illegal. Criticism of the royal family, government, or Islam — including on social media — is prosecutable. Since 2019 Vision 2030 reforms, the abaya is no longer mandatory for foreign women, unmarried couples may share hotel rooms, and entertainment venues have opened widely. However, modesty in dress and behavior remains expected throughout.",
+      "tourist_tips": [
+        "Do not attempt to bring alcohol into Saudi Arabia — customs inspects luggage and penalties are severe",
+        "Avoid posting anything on social media that could be interpreted as critical of the Saudi government or royal family",
+        "Unmarried couples can now share hotel rooms following 2019 reforms, but public displays of affection remain inappropriate"
+      ],
+      "warning": "Drug trafficking and possession carry the death penalty in Saudi Arabia. Even trace amounts found in luggage can result in arrest. Do not carry any controlled substances.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Saudi Arabia",
+      "quick_answer": "Police: 999. Ambulance and fire: 911. Tourist police hotline: 920004444.",
+      "detail": "Saudi Arabia has well-resourced emergency services with generally fast response times in major cities. The tourist police hotline (920004444) is specifically staffed to assist visitors and handles English-language calls. For medical emergencies, private hospitals often have faster specialist access than government facilities. Keep your travel insurance emergency contact number saved alongside local numbers. Your hotel concierge can also be an effective first point of contact for non-life-threatening incidents.",
+      "tourist_tips": [
+        "Save 999 (police) and 911 (ambulance/fire) in your phone as soon as you arrive",
+        "The tourist police hotline 920004444 is English-friendly and specifically designed to assist visitors",
+        "Your hotel can assist with translation and contacting emergency services if needed"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Saudi Arabia",
+      "quick_answer": "Foreign women are no longer required to wear an abaya, but modest dress covering shoulders and knees is expected in public.",
+      "detail": "Since 2019, Saudi Arabia's dress code has relaxed significantly as part of Vision 2030 reforms. Foreign women are no longer required to wear an abaya in public, though many local women still do. Both men and women should cover shoulders and knees in public areas, markets, and government buildings. Sleeveless shirts and very short shorts on men are inappropriate in conservative areas. Swimwear is permitted at designated tourist beaches and resorts such as the Red Sea Project, NEOM Sindalah Island, and resort pools. At mosques, women must cover hair, arms, and legs.",
+      "tourist_tips": [
+        "Pack lightweight loose-fitting clothing that covers shoulders and knees — both practical for the heat and culturally appropriate",
+        "Swimwear is fully acceptable at designated resort beaches and hotel pools, but not in public areas or cities",
+        "Carry a light scarf for visiting mosques or more conservative areas — it takes minimal space and shows respect"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Saudi Arabia",
+      "quick_answer": "Alcohol is completely and absolutely banned throughout Saudi Arabia — there are no exceptions, no licensed venues, and no tolerance whatsoever.",
+      "detail": "Unlike neighboring UAE, Saudi Arabia has a total prohibition on alcohol with zero exceptions. There are no licensed hotels, bars, or restaurants serving alcohol anywhere in the country. Importing alcohol is a criminal offense — customs officers actively inspect luggage. Possession, consumption, or being under the influence are all criminal offenses. Non-alcoholic beer and malt beverages are widely available and popular, as are fresh juices and specialty coffees. Do not attempt to bring alcohol in, brew it, or source it locally.",
+      "tourist_tips": [
+        "Do not attempt to bring alcohol in your luggage or hidden in any container — customs checks are thorough and penalties are severe",
+        "Non-alcoholic beer (Barbican, Moussy) is widely available in supermarkets and restaurants and is a popular local choice",
+        "Saudi Arabia has an excellent coffee culture — specialty cafes and traditional Arabic qahwa are worth exploring as an alternative"
+      ],
+      "warning": "Importing or possessing alcohol in Saudi Arabia is a criminal offense with no exceptions. This applies equally to tourists. Do not attempt to bring alcohol into the country under any circumstances.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Saudi Arabia",
+      "quick_answer": "Bargaining is expected in traditional souqs — gold souqs, spice markets, and Abha markets — but not in modern malls or chain stores.",
+      "detail": "Saudi Arabia has a dual retail culture. In traditional souqs found across Riyadh, Jeddah, and Abha, bargaining is part of the experience and vendors expect negotiation. At the gold souq, the gold price itself is fixed by market rates but making charges (the labor fee) are negotiable. In modern shopping malls, chain restaurants, and branded stores, prices are firmly fixed. A friendly, patient approach to haggling is appreciated — aggressive tactics are considered rude in Saudi culture.",
+      "tourist_tips": [
+        "At gold souqs, focus your negotiation on the making/craftsmanship charge, not the per-gram gold price which is market-fixed",
+        "Start by offering around 60% of the asking price in traditional markets and work toward a mutually agreeable figure",
+        "Walking away slowly often prompts the vendor to call you back with a better offer — it is a standard part of the process"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Saudi Arabia",
+      "quick_answer": "Avoid photographing government buildings, military sites, and women without explicit consent — tourist sites like AlUla are freely photographable.",
+      "detail": "Photography laws in Saudi Arabia require care. Government buildings, royal palaces, military and police installations, and airport facilities must not be photographed. Photographing women without their explicit permission is illegal and highly offensive. Religious sites around Mecca and Medina are especially restricted, and non-Muslims cannot access those areas at all. Conversely, major tourist destinations such as AlUla, Hegra, the Edge of the World, and Diriyah are welcoming environments for photography. When in doubt, ask permission before pointing a camera at people or any official-looking structure.",
+      "tourist_tips": [
+        "Always ask permission before photographing any person, especially women — a polite gesture is culturally important and legally required",
+        "Tourist sites like AlUla, Hegra UNESCO ruins, and the Edge of the World near Riyadh are excellent for photography",
+        "Never photograph police stations, military checkpoints, government ministries, or royal palaces"
+      ],
+      "warning": "Photographing women without consent, military sites, or government buildings can result in arrest and confiscation of your device. When uncertain, do not photograph.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Business Hours & Holiday Closures in Saudi Arabia",
+      "quick_answer": "The Saudi weekend is Thursday–Friday; shops and malls open 7 days but close briefly 5 times daily for prayer; Ramadan dramatically changes all hours.",
+      "detail": "Saudi Arabia's working week runs Sunday through Thursday, with Friday (the holy day) and Saturday as the weekend. Government offices are closed Thursday–Friday. Malls and most private businesses operate 7 days a week. Five daily prayer times cause shop closures of approximately 20–30 minutes each — doors are locked and staff pray before reopening. During Ramadan, businesses shift to late-night hours, many restaurants close during daylight, and iftar (sunset meal) triggers a major rush. Eating, drinking, or smoking in public during Ramadan daylight hours is illegal for everyone.",
+      "tourist_tips": [
+        "Build extra time into shopping plans to account for prayer-time closures — malls announce prayer time over the PA system",
+        "During Ramadan, plan sightseeing for early morning or after iftar — the evenings come alive with food and activity",
+        "Government offices and visa services follow a Sunday–Thursday schedule, so plan administrative tasks on those days"
+      ],
+      "warning": "Eating, drinking, or smoking in public during Ramadan daylight hours is illegal for all people in Saudi Arabia, including non-Muslim tourists. Use your hotel room or private restaurant spaces during the day.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxis & Rideshare in Saudi Arabia",
+      "quick_answer": "Uber and Careem are the best options for getting around Saudi cities — reliable, app-based, and available nationwide.",
+      "detail": "Uber and Careem are the dominant and most recommended transport options in Saudi cities, offering transparent pricing, English-language apps, and reliable service. Women have been legally permitted to travel alone in taxis since 2018 reforms. Traditional metered taxis are available at airports and in city centers but can involve fare disputes — apps are strongly preferred. Airport taxis operate on fixed zones at major airports. Between cities, intercity buses (SAPTCO) are inexpensive but slow compared to the Haramain High Speed Railway on the Jeddah-Mecca-Medina corridor.",
+      "tourist_tips": [
+        "Install both Uber and Careem apps before arriving — Careem sometimes has better availability in less central areas",
+        "Agree on a fare before entering any non-metered traditional taxi to avoid disputes on arrival",
+        "Women traveling alone can use Uber and Careem confidently following 2018 legal reforms"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Saudi Arabia",
+      "quick_answer": "Tap water is desalinated and technically safe but heavily chlorinated — bottled water is cheap, widely available, and what most residents drink.",
+      "detail": "Saudi Arabia's tap water comes from desalination plants and is technically safe to drink, but the heavy chlorination makes it taste unpleasant and most residents avoid drinking it directly. Bottled water is inexpensive, available at every supermarket and convenience store, and widely considered the practical choice. In extreme heat — especially May through September — staying very well hydrated is critical to avoiding heat exhaustion. Carry water at all times when outdoors. The water used for cooking in restaurants is generally fine.",
+      "tourist_tips": [
+        "Buy a large bottle of water from a supermarket each morning — it is inexpensive and the heat makes regular hydration essential",
+        "Sip water consistently throughout the day rather than waiting until you feel thirsty, especially in summer heat above 40°C",
+        "At restaurants, bottled water is standard — ask specifically if you want still or sparkling (sparkling is less common)"
+      ],
+      "warning": "Heat-related illness is a genuine risk in Saudi Arabia from May to September when temperatures regularly exceed 45°C. Carry water constantly and limit outdoor exposure during midday hours.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs & Cash in Saudi Arabia",
+      "quick_answer": "ATMs are widely available from major banks and accept foreign cards; contactless and Apple Pay are very widely accepted, making cash less essential.",
+      "detail": "Saudi Arabia has excellent banking infrastructure. ATMs from Saudi National Bank, Al Rajhi Bank, and Riyad Bank are found throughout malls, airports, and city streets and accept international Visa and Mastercard. Contactless card payments and Apple Pay are very widely accepted — even small cafes and many street food vendors have modern payment terminals. Cash is still useful for traditional souqs, small shops, and tipping. There is generally no need to carry large amounts of cash. Foreign transaction fees vary by your home bank — a Wise card avoids these.",
+      "tourist_tips": [
+        "Use ATMs inside banks or malls rather than standalone street machines for better security",
+        "Apple Pay and contactless payments are accepted almost everywhere in cities — you may rarely need cash",
+        "A Wise or Revolut card saves significantly on foreign transaction and currency conversion fees"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Cards & Internet in Saudi Arabia",
+      "quick_answer": "STC, Mobily, and Zain all offer tourist SIM packages at airports; 5G coverage is excellent in major cities.",
+      "detail": "Saudi Arabia has excellent mobile connectivity with 5G available in Riyadh, Jeddah, and other major cities. The three main operators are STC (best coverage nationwide), Mobily, and Zain. Tourist SIM packages can be purchased at airport arrival halls and official operator stores — bring your passport as registration is mandatory. Airalo eSIMs for Saudi Arabia work well and are a convenient option to activate before arrival. Some VoIP services and certain websites may be restricted; a VPN is useful for accessing blocked content, though VPN use itself is in a legal grey area.",
+      "tourist_tips": [
+        "Buy an STC SIM at the airport arrivals hall on landing — it offers the best nationwide coverage and tourist packages start from around 50 SAR",
+        "Activate an Airalo eSIM before departure to have data connectivity from the moment you land",
+        "A VPN is useful for accessing some restricted websites and services, though download it before arriving as VPN sites may be blocked"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "vpn", "pocket-wifi"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity & Plug Types in Saudi Arabia",
+      "quick_answer": "Saudi Arabia uses both Type G (UK 3-pin) and Type A/B (US 2/3-pin) plugs, and both 127V and 220V voltages — a universal adapter is essential.",
+      "detail": "Saudi Arabia's electricity situation is uniquely complex: both Type G (British 3-pin, 220V) and Type A/B (American 2/3-pin, 127V) outlets are found in the country, and critically, different outlets in the same building can operate on different voltages. Check your device's power adapter for its rated voltage before plugging in. Most modern laptops, phones, and cameras support dual voltage (100–240V), but older or single-voltage devices can be damaged. A universal travel adapter is essential, and a voltage converter may be needed for some appliances.",
+      "tourist_tips": [
+        "A universal travel adapter is a must — you will encounter both UK-style and US-style sockets even within the same hotel room",
+        "Check your device charger label for '100–240V' before plugging in — if it only says '127V' or '220V', use a voltage converter",
+        "Most modern smartphones, laptops, and camera chargers are dual voltage and will work fine with just an adapter"
+      ],
+      "warning": "Different outlets in the same building can run on 127V or 220V. Plugging a 127V-only device into a 220V outlet will damage or destroy it. Always verify voltage compatibility before connecting.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling & Scams in Saudi Arabia",
+      "quick_answer": "Saudi Arabia has a low scam culture overall, but watch for overcharging at tourist-area restaurants and by unofficial taxis.",
+      "detail": "Saudi Arabia is generally a low-scam environment compared to many tourist destinations, partly due to strict law enforcement. The most common issues tourists encounter are overpriced menus at restaurants near major tourist sites, unofficial taxi drivers quoting inflated fares, and counterfeit or poor-quality goods sold as authentic in souqs. Using Uber or Careem eliminates taxi fare disputes entirely. Checking online reviews before dining near major landmarks helps avoid tourist-trap pricing. Genuine counterfeit goods are mainly a concern in electronics and designer items in informal markets.",
+      "tourist_tips": [
+        "Always use Uber or Careem rather than negotiating with unofficial taxis to avoid overcharging",
+        "Check restaurant menus for prices before ordering, especially near AlUla, Diriyah, and other major tourist attractions",
+        "In souqs, counterfeit perfumes and imitation goods are common — buy branded items only from official stores"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime & Safety in Saudi Arabia",
+      "quick_answer": "Saudi Arabia has one of the world's lowest violent crime rates and is extremely safe for tourists, including women traveling solo.",
+      "detail": "Saudi Arabia consistently ranks among the world's safest countries for violent crime and petty theft. Strict law enforcement and severe penalties act as strong deterrents. Women have significantly greater freedom to travel and move independently since the 2018 reforms, and solo female travelers generally report feeling very safe. Political protests are not permitted and foreign nationals should avoid any political gatherings. The main risks for tourists relate to legal missteps (alcohol, photography restrictions, dress code) rather than criminal threats from locals.",
+      "tourist_tips": [
+        "Standard urban precautions apply — keep valuables secure — but Saudi cities are genuinely among the world's safest",
+        "Women traveling solo can use Uber, visit malls, and explore cities independently with confidence",
+        "Avoid any political demonstrations or gatherings — these are illegal and carry serious consequences for foreign nationals"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Saudi Arabia",
+      "quick_answer": "Saudi Arabia is deeply hospitable — accept offered coffee and dates, respect prayer times, and avoid public displays of affection.",
+      "detail": "Saudi culture places enormous value on hospitality and generosity. When offered Arabic coffee (qahwa) or dates, accept graciously — refusing can cause mild offence. Business meetings begin with relationship-building conversation rather than getting straight to the point. During the five daily prayer times, pause and show respect if you are near a mosque. During Ramadan, eating, drinking, or smoking in public during daylight is illegal and deeply disrespectful. Public displays of affection remain inappropriate even with the 2019 reforms. Greet people with 'Assalamu Alaikum' — the response is genuinely appreciated.",
+      "tourist_tips": [
+        "Accept offered Arabic coffee and dates — this hospitality gesture is central to Saudi culture and refusing is considered impolite",
+        "Greet with 'Assalamu Alaikum' (peace be upon you) — it is universally appreciated and shows cultural respect",
+        "During Ramadan, refrain from eating, drinking, or smoking in public from dawn to sunset regardless of your own beliefs"
+      ],
+      "warning": "Public displays of affection — kissing, embracing — remain inappropriate in Saudi Arabia despite recent social reforms and can attract unwanted attention or legal consequences.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Saudi Arabia",
+      "quick_answer": "Arabic is the official language; English is widely spoken in hotels, tourist areas, and business settings, though less prevalent in Riyadh than in Jeddah.",
+      "detail": "Arabic is the national language of Saudi Arabia, with the Gulf Arabic dialect spoken locally. English is widely used in the hospitality industry, at major tourist attractions, and in business, particularly in Jeddah and among younger generations. In Riyadh, especially outside major hotels and malls, English proficiency can be more limited. Learning a few basic Arabic phrases is greatly appreciated and warmly received. Signage at airports, metro stations, and major roads is bilingual (Arabic and English).",
+      "tourist_tips": [
+        "Learning a few words — 'shukran' (thank you), 'min fadlak' (please), 'assalamu alaikum' (hello/peace) — will earn genuine warmth",
+        "In Riyadh's older districts and local markets, have Google Translate ready as English speakers are less common",
+        "Hotel and major attraction staff are reliably bilingual — use your hotel concierge as a translation resource if needed"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beaches & Swimming in Saudi Arabia",
+      "quick_answer": "The Red Sea coast offers world-class beaches, diving, and snorkeling — women can now wear swimsuits at designated tourist beaches and resorts.",
+      "detail": "Saudi Arabia's Red Sea coastline is genuinely spectacular, with warm clear waters, exceptional coral reefs, and some of the world's best diving and snorkeling. Key beach destinations include the Jeddah Corniche, the developing Red Sea Project resort islands, and NEOM's Sindalah Island. Since Vision 2030 reforms, women are permitted to wear swimsuits at designated tourist resort beaches and hotel pools. Water temperatures are warm year-round, peaking in summer. Respect that public non-resort beaches in more conservative areas maintain stricter dress expectations.",
+      "tourist_tips": [
+        "Book a diving or snorkeling day trip from Jeddah — the Red Sea has coral reefs rivaling the best in the world",
+        "Swimwear is fully acceptable at Red Sea resort properties and NEOM beaches, but stick to modest cover-ups when leaving the beach area",
+        "The Red Sea Project and Sindalah Island are purpose-built luxury tourist resorts with international standards — ideal for beach holidays"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Saudi Arabia",
+      "quick_answer": "Drive on the right; women have been allowed to drive since 2018; speed cameras are everywhere; Riyadh traffic is very heavy.",
+      "detail": "Saudi Arabia drives on the right side of the road. An international driving permit alongside your home country license is required for tourists. Women have legally been permitted to drive since June 2018. Speed cameras are extremely common on highways and city roads — fines are issued automatically. Seat belts are mandatory for all occupants. Traffic in Riyadh is notoriously heavy, especially during commuting hours and after prayer times. GPS navigation is essential as address systems can be complex. Driving in the desert requires a 4x4 and proper preparation.",
+      "tourist_tips": [
+        "Speed cameras are hidden and ubiquitous — strictly observe posted limits, especially on intercity highways",
+        "Use GPS navigation at all times as Saudi address systems can be confusing even for locals",
+        "Avoid driving in Riyadh during rush hours (7–9am and 4–7pm) if possible — traffic is genuinely severe"
+      ],
+      "warning": "Driving under the influence of alcohol carries zero tolerance in Saudi Arabia — this is both illegal and violates the total alcohol ban. Penalties include imprisonment and deportation.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants & Food in Saudi Arabia",
+      "quick_answer": "Saudi cuisine centers on kabsa, mandi, and shawarma — portions are large, pork is absent, and meal timing shifts dramatically during Ramadan.",
+      "detail": "Saudi Arabia's national dish is kabsa — fragrant rice cooked with meat, tomatoes, and spices — alongside mandi (slow-roasted meat over rice). Shawarma, falafel, and mutabbal are widely available and excellent. All food is halal and pork is absent from every restaurant and shop. Restaurants typically have separate family sections and singles sections, though the division is enforced less strictly than in previous decades. During Ramadan, restaurants close during daylight and then overflow at iftar (sunset) — book dinner in advance during this period.",
+      "tourist_tips": [
+        "Try kabsa or mandi at a local restaurant rather than international chains — it is genuinely delicious and very affordable",
+        "Street-stall shawarma and falafel are among the cheapest and best food options across Saudi cities",
+        "During Ramadan, make restaurant reservations for iftar (sunset dinner) well in advance — they fill up extremely fast"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque & Religious Site Etiquette in Saudi Arabia",
+      "quick_answer": "Non-Muslims are absolutely prohibited from entering Mecca or Medina; other mosques may sometimes admit respectfully dressed non-Muslim visitors outside prayer times.",
+      "detail": "The two holiest cities in Islam — Mecca and Medina — are completely closed to non-Muslims with checkpoints on all access roads. This is strictly enforced and attempting to enter carries serious legal consequences. Some other mosques in Riyadh and Jeddah allow non-Muslim visitors during non-prayer hours with appropriate dress, though this is at the discretion of mosque management. At all times near mosques, dress modestly and behave respectfully. AlUla's pre-Islamic historical sites (Hegra/Madain Saleh) are UNESCO-listed and fully open to all visitors.",
+      "tourist_tips": [
+        "Do not attempt to enter Mecca or Medina as a non-Muslim under any circumstances — checkpoints are real and penalties are serious",
+        "At open mosques, remove shoes, dress modestly (women cover hair and arms), and speak quietly — treat it as a place of active worship",
+        "AlUla and Hegra's ancient Nabataean ruins are fully accessible to all tourists and among Saudi Arabia's most impressive sites"
+      ],
+      "warning": "Non-Muslims are banned from entering Mecca and Medina by law. GPS and road checkpoints enforce this. There are no exceptions for tourists.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather & Best Time to Visit Saudi Arabia",
+      "quick_answer": "Visit October to April to avoid extreme heat — summers regularly exceed 45°C in Riyadh, though the Asir highlands stay cooler year-round.",
+      "detail": "Saudi Arabia is extremely hot from May through September, with temperatures in Riyadh and the interior regularly exceeding 45°C. The best time to visit is October through April when temperatures are comfortable (15–28°C). Jeddah on the Red Sea coast is slightly milder due to humidity. The Asir region in the southwest has a highland climate with cooler temperatures and monsoon rains in summer — a pleasant contrast to the rest of the country. Winter nights in Riyadh can drop surprisingly close to 0°C. Hajj and Umrah pilgrimage seasons bring enormous crowds to Mecca and Medina.",
+      "tourist_tips": [
+        "Plan your trip for November through February for the most comfortable weather across all Saudi regions",
+        "If visiting in summer, schedule all outdoor activities for early morning or after sunset and stay hydrated constantly",
+        "The Asir region around Abha is worth visiting in summer when the rest of Saudi Arabia is unbearably hot — the highlands offer a completely different climate"
+      ],
+      "warning": "Summer heat above 45°C poses a genuine risk of heat stroke. Limit outdoor exposure between 10am and 5pm from May to September and carry water at all times.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips for Saudi Arabia",
+      "quick_answer": "Saudi Arabia is not a budget destination, but street food is cheap, many attractions are free, and avoiding tourist-trap restaurants saves significantly.",
+      "detail": "Saudi Arabia is generally an expensive country for accommodation and organized tours. However, significant savings are available with the right approach. Street shawarma and falafel from local stalls cost as little as 5–10 SAR and are excellent. Entry to Diriyah (UNESCO World Heritage Site) is free, as are most corniche areas and public parks. National parks like Asir and Edge of the World viewpoint are free or very low cost. Accommodation is the biggest expense — booking well in advance and staying slightly outside city centers reduces costs substantially.",
+      "tourist_tips": [
+        "Eat like a local at shawarma and falafel street stalls for meals under 15 SAR — often better than expensive tourist restaurants",
+        "Diriyah UNESCO site, Riyadh corniche, Jeddah waterfront, and national park viewpoints have free or very low entry",
+        "Use a Wise card for all payments to eliminate foreign transaction fees, which add up significantly over a long trip"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

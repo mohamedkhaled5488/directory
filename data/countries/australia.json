@@ -1,0 +1,380 @@
+{
+  "country": "Australia",
+  "slug": "australia",
+  "emoji": "🇦🇺",
+  "region": "Oceania",
+  "currency": "AUD",
+  "language": "English",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Australia",
+      "quick_answer": "Tipping is not expected in Australia. Workers earn a living wage. Round up or tip 10% for exceptional service — it's a genuine gesture, not an obligation.",
+      "detail": "Australia has a minimum wage culture where hospitality workers are paid a proper wage (unlike the US where tips subsidize low base pay). Tipping is therefore entirely optional. At restaurants, 10% for excellent service is a generous gesture. At cafés and casual eateries, a tip jar on the counter is common — dropping change in is friendly but not required. EFTPOS (card) machines increasingly prompt for a tip, but you can always select 'no tip' without any social awkwardness. Taxis and rideshares: rounding up is appreciated but not expected.",
+      "tourist_tips": [
+        "Never feel obligated to tip in Australia — it can even feel awkward for the staff who aren't used to it",
+        "Card machines often ask for a tip % — it's perfectly fine to press 'No Tip' or '0%'",
+        "At fine dining restaurants, 10% for an excellent meal is a very welcome surprise for staff",
+        "Bar staff do not expect tips — round of drinks is enough of a compliment",
+        "Hotel housekeeping: leaving $5–10 at the end of a stay is a generous gesture, not expected"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Australia",
+      "quick_answer": "Each city has its own transport card. Sydney uses Opal, Melbourne uses Myki, Brisbane uses Go Card. Get the local card as soon as you arrive.",
+      "detail": "Australia's public transport is city-specific. Sydney has trains, buses, ferries, and light rail all using the Opal Card (tap-on/tap-off contactless). Melbourne has an extensive tram network plus trains and buses using Myki. Brisbane uses Go Card across buses, trains, and ferries. Contactless bank cards and Apple/Google Pay are increasingly accepted in Sydney and Melbourne. Public transport in Australian cities is generally reliable but infrequent outside peak hours. Between cities, there are no practical intercity train connections (distances are too vast) — fly or hire a car.",
+      "tourist_tips": [
+        "Get the local transit card on arrival — Sydney: Opal, Melbourne: Myki, Brisbane: Go Card, Perth: SmartRider",
+        "Sydney and Melbourne now accept contactless credit/debit cards directly — check if your card works",
+        "Between cities, budget airlines (Jetstar, Bonza) are far cheaper and faster than trains or buses",
+        "Uber operates in all major cities and is generally affordable",
+        "Melbourne's CBD tram zone is free — no tap-on required within the city centre red zone"
+      ],
+      "warning": "Australia's cities are very spread out. Public transport works well for city centers but not for reaching beaches, national parks, or suburbs. A hire car is often essential.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["sim", "pocket-wifi", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Australia",
+      "quick_answer": "Australia has excellent healthcare but it is very expensive for tourists. Travel insurance is essential. New Zealand and some countries have reciprocal Medicare arrangements.",
+      "detail": "Australia's public healthcare system (Medicare) is excellent but only available to Australian residents and citizens, plus visitors from countries with reciprocal agreements (New Zealand, UK, Ireland, Sweden, Finland, Norway, Belgium, Netherlands, Slovenia, Malta, Italy). All other tourists must pay full costs — an emergency room visit can cost AUD 500–2,000+, and hospitalisation several thousand per day. Travel insurance covering medical evacuation is critical given the vast distances and the prevalence of activities (scuba diving, bush walking) that can result in serious injuries far from major hospitals.",
+      "tourist_tips": [
+        "UK citizens are covered by reciprocal Medicare agreement for medically necessary treatment — bring your UK passport",
+        "Chemists (pharmacies) like Chemist Warehouse and Priceline are excellent and affordable for minor issues",
+        "Hospital emergency departments are very good but wait times for non-life-threatening cases can be 4–8 hours",
+        "Medical evacuation from remote areas (Outback, reef) is extremely expensive — insurance is not optional",
+        "Sun safety is critical — skin cancer rates in Australia are among the world's highest; use SPF 50+ sunscreen"
+      ],
+      "warning": "Medical evacuation from remote regions of Australia (Outback, Great Barrier Reef, remote islands) can cost AUD 20,000–100,000+. Never travel without comprehensive travel insurance including medical evacuation.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Australia",
+      "quick_answer": "Seatbelts and speed limits are strictly enforced. Drugs are illegal. Littering fines are high. Strict biosecurity laws at the border — declare everything.",
+      "detail": "Australia has some important laws tourists need to know. Seatbelts are compulsory for all occupants in all vehicles — fines are high. Speed camera enforcement is extremely advanced with average speed cameras on highways. Littering is a fineable offense ($200+). Biosecurity laws at the border are extremely strict — failing to declare food, plant material, or animal products can result in AUD 5,000+ fines or criminal charges. Cannabis is illegal federally (though ACT and SA have decriminalized small amounts). The outdoor environment presents real dangers — bushfire rules during fire season include total fire bans where any ignition is illegal.",
+      "tourist_tips": [
+        "Always declare everything at customs — even a half-eaten sandwich can trigger a $400+ fine",
+        "Seatbelts: mandatory for everyone including rear passengers — fines are $300–400+",
+        "During total fire bans (common in summer), no outdoor fires, BBQs, or anything that creates sparks",
+        "Swim between the flags at patrolled beaches — rip currents kill dozens of tourists each year",
+        "Speed cameras average speed across highway sections — do not speed even briefly"
+      ],
+      "warning": "Australia's biosecurity laws are among the world's strictest. All food, plant, and animal products must be declared on arrival. Undeclared items found by detector dogs result in immediate fines of AUD 444 and potential prosecution.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Australia",
+      "quick_answer": "All emergencies: 000. From mobile phones: 112 also works. Non-emergency police: 131 444. Poison info: 13 11 26.",
+      "detail": "Australia's main emergency number is 000, which connects to police, ambulance, and fire services. From a mobile phone, 112 also works and can connect via any available network. For non-emergency police matters, call 131 444. For poison or medication overdose information, call the Poisons Information Centre on 13 11 26 (24/7). In remote areas, mobile signal can be non-existent — personal locator beacons (PLBs) and satellite communicators are strongly recommended for Outback travel. Emergency Position-Indicating Radio Beacons (EPIRBs) trigger search and rescue operations.",
+      "tourist_tips": [
+        "000 is the emergency number — also try 112 from a mobile if 000 doesn't connect",
+        "In the Outback, register your trip with a state emergency service and carry a PLB or satellite messenger",
+        "State Emergency Service (SES): 132 500 for flood and storm help (non-life threatening)",
+        "Royal Flying Doctor Service operates in remote areas — medical evacuation available with insurance",
+        "Always tell someone your plan and expected return time before venturing into remote areas"
+      ],
+      "warning": "Mobile phone coverage in regional and outback Australia is extremely limited or non-existent. Carry a satellite communicator (Garmin inReach, SPOT) for any remote travel.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Australia",
+      "quick_answer": "Very relaxed. Swimwear at beaches is fine. Smart casual for restaurants. No-shirt no-service applies at most shops and restaurants.",
+      "detail": "Australia is one of the most casually dressed cultures in the world. Beach culture is dominant — boardshorts and bikinis are the norm at beaches and pools. However, walking into shops, restaurants, or supermarkets shirtless or in just a bikini top is frowned upon and some establishments will refuse service. The RSL clubs (returned services clubs) have strict dress codes requiring no singlets, no thongs (flip-flops), and neat footwear. Upscale restaurants in Sydney and Melbourne request smart casual — no shorts, collared shirts preferred. Most everyday settings are extremely casual.",
+      "tourist_tips": [
+        "Put a shirt on before entering shops, supermarkets, or restaurants — bare chests are beach-only",
+        "RSL clubs have strict dress codes — smart casual required, no singlets or thongs",
+        "Fine dining in Sydney/Melbourne: smart casual at minimum, some require no shorts",
+        "Sun protection is not a dress code but a safety requirement — hat, shirt, and sunscreen are essential",
+        "Outback travel requires long sleeves and pants for sun and insect protection"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Australia",
+      "quick_answer": "Drinking age is 18. Alcohol sold at liquor stores (bottle shops) and licensed venues, not supermarkets. Public drinking laws vary by state.",
+      "detail": "Australia's legal drinking age is 18. Alcohol is not sold at supermarkets (unlike Europe) — it must be purchased at bottle shops (BWS, Dan Murphy's, First Choice), which are separate licensed premises often attached to supermarkets. Hotels (pubs) are licensed to serve alcohol on-site. Drink-driving limit is 0.05% BAC nationally (0.00% for learner and provisional drivers). Public drinking laws vary significantly by state — in Queensland and South Australia, drinking in public places is generally banned; in other states rules differ by local council. National parks prohibit alcohol in many areas.",
+      "tourist_tips": [
+        "Liquor stores (bottle shops/bottlos) are separate from supermarkets — look for BWS or Dan Murphy's",
+        "Dan Murphy's is Australia's largest discount liquor chain — best prices for wine and spirits",
+        "'BYO' (Bring Your Own) restaurants let you bring your own wine — often with a small corkage fee",
+        "Happy hour deals at pubs are common in late afternoon",
+        "Goon (cask wine) is a budget backpacker staple — very cheap, not recommended for quality"
+      ],
+      "warning": "Do NOT drink and drive in Australia. Breath testing is random and frequent. 0.05% BAC limit is strictly enforced. Penalties include license loss, fines, and imprisonment.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Australia",
+      "quick_answer": "Fixed prices everywhere in retail. Some room to negotiate on major purchases (cars, electronics, real estate). Markets generally have fixed prices too.",
+      "detail": "Australia has a fixed-price retail culture. Bargaining at shops, markets, or restaurants is not done and would be considered strange. However, for big-ticket purchases — cars, furniture, electrical appliances — asking for a better price or a deal (extended warranty, accessories thrown in) is completely normal and often successful. Real estate negotiation is standard practice. Outdoor markets and craft fairs generally have fixed prices, unlike Asian-style markets. The exception might be at garage sales, where negotiation is expected.",
+      "tourist_tips": [
+        "For electronics, asking 'Is that the best you can do?' when buying in-store often yields a small discount",
+        "Garage sales (common on weekends in suburban areas) expect some negotiation",
+        "Markets and craft fairs in Australia have fixed prices — bargaining would embarrass the artisan",
+        "Harvey Norman, JB Hi-Fi, and The Good Guys (electronics chains) will price-match competitors",
+        "For car hire, calling the rental company directly often yields better rates than booking online"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Australia",
+      "quick_answer": "Photography in public is generally free. Indigenous sacred sites prohibit photography. Drone rules are strict — register and follow CASA regulations.",
+      "detail": "Australia is largely open to photography in public spaces. However, there are important restrictions around Aboriginal and Torres Strait Islander sacred sites — many have cultural prohibitions on photography that are legally protected or enforced by local custodians. Uluru (Ayers Rock) specifically: photography of certain sections is banned out of respect for Anangu sacred sites; signs clearly mark these areas. Photography of court proceedings, some government facilities, and military installations is restricted. Individual state laws govern photography of children — be cautious in school zones and playgrounds.",
+      "tourist_tips": [
+        "At Uluru, look for and obey the 'No Photography' signs in marked sacred areas",
+        "Always ask permission before photographing Aboriginal communities or cultural ceremonies",
+        "Drone flying requires CASA registration and adherence to strict altitude and exclusion zone rules",
+        "Drone flights over beaches, parks, and near airports require specific permissions",
+        "Wildlife photography note: getting too close to native animals can be a fineable offense"
+      ],
+      "warning": "Photography of designated sacred Aboriginal sites at Uluru and other cultural landmarks is prohibited out of legal and cultural respect. Signs clearly mark restricted areas.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Australia",
+      "quick_answer": "Shops open Sundays with slightly shorter hours. Supermarkets open 7 days. Public holidays vary by state and cause widespread closures.",
+      "detail": "Australia's Sunday trading is largely unrestricted compared to Europe — supermarkets, shopping malls, and most retailers are open on Sundays, though often with shorter hours (typically 10am–5pm instead of 7am–9pm). Smaller independent shops may choose to close. Public holidays vary significantly by state — each state has its own bank holidays on top of national ones. On public holidays, many shops operate reduced hours or close entirely, and penalty rates mean many small businesses choose to close. The Easter period (Good Friday, Saturday, Easter Sunday, Easter Monday) and Christmas/Boxing Day are the biggest closure periods.",
+      "tourist_tips": [
+        "Woolworths and Coles supermarkets are open 7 days a week — reliable for all supplies",
+        "Good Friday sees many businesses close — plan supplies in advance",
+        "Each state has unique public holidays: Melbourne Cup Day (VIC), Show Day (QLD/SA/WA etc.)",
+        "Christmas Day: almost everything closes including most restaurants — book hotel dining in advance",
+        "Pharmacy chains like Chemist Warehouse are usually open public holidays with reduced hours"
+      ],
+      "warning": "Good Friday in Australia is treated as a major holiday with widespread closures of shops, restaurants, and attractions. The Easter long weekend is one of the busiest travel periods of the year.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Australia",
+      "quick_answer": "Uber dominates rideshare in Australia, with DiDi and Ola also available and typically cheaper than traditional taxis.",
+      "detail": "Rideshare apps — Uber, DiDi, and Ola — are widely available across all major Australian cities and are generally much cheaper than traditional taxis. Traditional taxis (13cabs and Yellow Cabs) remain available in major cities but come at a premium. At airports, rideshare vehicles must use designated pickup zones separate from taxi ranks — check signage carefully on arrival. All rideshare apps show upfront pricing, making costs predictable. Surge pricing applies during major events and peak hours.",
+      "tourist_tips": [
+        "Download Uber, DiDi, or Ola before arriving — DiDi and Ola are often 20–30% cheaper than Uber",
+        "At airports, follow signs to the rideshare pickup zone — it is separate from the taxi rank",
+        "Traditional taxis are metered and regulated but noticeably more expensive than rideshare for most journeys"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "sim", "travel-insurance"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Australia",
+      "quick_answer": "Tap water in Australia is completely safe to drink and among the best quality in the world — no need to buy bottled water in any city.",
+      "detail": "Australia's tap water is treated to extremely high standards and is safe to drink freely throughout all cities, towns, and most regional areas. The country has one of the most reliable and clean water supply systems globally. Bottled water is an unnecessary expense in urban and suburban areas. However, some very remote and indigenous communities may have different water quality — if in doubt when visiting remote areas, check with locals or use a filter.",
+      "tourist_tips": [
+        "Fill a reusable water bottle from the tap — it's free, safe, and environmentally responsible",
+        "Public water fountains are common in parks, beaches, and city centers across Australia",
+        "If visiting very remote communities in the Outback, ask locals about local water quality before drinking"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Australia",
+      "quick_answer": "Contactless card payments are universal in Australia, and many venues are now cashless — but carry AUD 50–100 for markets and small vendors.",
+      "detail": "Australia is one of the world's most cashless societies, with tap-and-go (contactless) payments accepted virtually everywhere including small cafés, market stalls, and public transport. The Big 4 banks — Commonwealth, ANZ, NAB, and Westpac — have ATM networks that are free for their own customers but charge fees to others (typically AUD 2–3). Many venues, especially in cities, no longer accept cash at all. It is still wise to carry a small amount of cash (AUD 50–100) for farmers markets, some small regional businesses, and garage sales.",
+      "tourist_tips": [
+        "Use a fee-free travel card (Wise, Revolut) to avoid foreign ATM and currency conversion fees",
+        "Tap-and-go with Visa or Mastercard works almost everywhere — Apple Pay and Google Pay widely accepted",
+        "Carry AUD 50–100 in cash for weekend markets, small regional businesses, and emergency backup"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Australia",
+      "quick_answer": "Telstra offers the best coverage especially outside cities — buy a tourist SIM at the airport, JB Hi-Fi, or Woolworths.",
+      "detail": "Australia's three main mobile networks are Telstra, Optus, and Vodafone AU. Telstra has by far the best coverage in regional areas, outback, and along major highways — it is the only reliable choice if you plan to travel outside capital cities. Optus and Vodafone are cheaper but coverage drops sharply outside urban areas. Tourist SIMs are available at airports, JB Hi-Fi electronics stores, and Woolworths supermarkets. Airalo eSIM works well for short stays. Be aware that in the Outback and very remote areas, even Telstra has no coverage — a satellite phone or personal locator beacon (PLB) is essential.",
+      "tourist_tips": [
+        "Choose Telstra if travelling outside major cities — its coverage lead over Optus and Vodafone is significant",
+        "Telstra tourist SIMs are sold at international airports on arrival — convenient and ready to use",
+        "In the Outback or remote national parks, mobile coverage is non-existent — rent or buy a satellite communicator"
+      ],
+      "warning": "Mobile coverage outside major cities and main highways is very limited. In remote outback areas, no network has signal. Carry a PLB or satellite messenger for any remote travel.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Australia",
+      "quick_answer": "Australia uses Type I plugs (3 angled flat pins) at 230V/50Hz — UK and US visitors need a plug adapter.",
+      "detail": "Australian power sockets use the Type I plug, which has three flat angled pins in a triangular arrangement. The voltage is 230V at 50Hz. This is the same plug type used in New Zealand and China, so travellers from those countries need no adapter. UK visitors (Type G, 3 rectangular pins) and US visitors (Type A/B, 2-3 flat pins) will need a travel adapter. Most modern electronics (laptops, phone chargers, cameras) are dual-voltage (100–240V) and only need an adapter, not a voltage converter.",
+      "tourist_tips": [
+        "Buy a universal travel adapter before departure or at Australian airports on arrival",
+        "Check your device charger for '100–240V' printed on it — if so, you only need an adapter, not a converter",
+        "New Zealand travellers need no adapter — the Type I plug is identical between both countries"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Australia",
+      "quick_answer": "Australia has a low scam culture in tourist areas, but rental car damage disputes and petty theft near busy beaches are worth knowing about.",
+      "detail": "Australia is generally very honest in tourist-facing businesses — prices are fixed, and scams targeting visitors are uncommon compared to many other countries. The most reported issues involve rental car damage disputes, where pre-existing scratches or dents are later claimed against renters; photographing the entire vehicle thoroughly before and after rental is essential. Petty theft occurs in crowded tourist areas such as Bondi Beach. Fake charity collectors operate in some city pedestrian zones. Phone and email scams targeting residents are common nationally but tourists are rarely targeted in person.",
+      "tourist_tips": [
+        "Photograph your rental car completely — all panels, roof, and undercarriage — before driving away",
+        "Keep bags zipped and close to your body at busy beaches and tourist precincts like Bondi",
+        "If someone approaches you with an unsolicited charity collection tin on the street, politely decline and move on"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Australia",
+      "quick_answer": "Australia is very safe for tourists — the greater risks come from natural hazards like sun, rip currents, and wildlife rather than crime.",
+      "detail": "Major Australian cities — Sydney, Melbourne, Brisbane, Perth — are safe for tourists both day and night in tourist and central areas. Some outer suburban areas are less safe after dark, but tourists rarely venture there. The more significant dangers in Australia are environmental: UV radiation is extremely intense (sunburn in 15 minutes), rip currents drown dozens yearly, and wildlife including sharks, snakes, spiders, box jellyfish, and saltwater crocodiles (in the far north) pose genuine risks. In the Outback, getting lost or breaking down without water or communication is a life-threatening situation — always inform someone of your plans.",
+      "tourist_tips": [
+        "Stick to patrolled beaches and always swim between the red and yellow flags to avoid rip currents",
+        "Apply SPF 50+ sunscreen every two hours outdoors — Australian UV levels are extreme year-round",
+        "Before any Outback or remote trip, tell someone your detailed route and expected return time"
+      ],
+      "warning": "Saltwater crocodiles inhabit waterways and coastal areas across northern Australia (Queensland, NT, WA). Never swim in or near rivers, estuaries, or beaches in the tropical north without checking for crocodile warnings.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Australia",
+      "quick_answer": "Australians are extremely informal — first names immediately, self-deprecating humour, and a strong culture of not showing off.",
+      "detail": "Australian social culture is famously egalitarian and relaxed. First names are used immediately in almost all settings, including with doctors, bosses, and strangers. Self-deprecating humour and casual banter are the norm. The pub round system is an important social ritual — when in a group, each person takes a turn buying a round of drinks for everyone, and opting out is noted. The 'tall poppy syndrome' means boasting about achievements or wealth is frowned upon. BBQ (barbie) culture is central to social life. At formal events and public gatherings, an Acknowledgement of Country recognising the traditional Aboriginal custodians of the land is common and respectful practice.",
+      "tourist_tips": [
+        "Accept offers to shout (buy) you a drink and reciprocate — the rounds system is a key social bond",
+        "Avoid boasting about wealth, possessions, or achievements — understated and modest is the Australian way",
+        "A genuine 'no worries' or 'she'll be right' in response to an apology signals you're fitting in well"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Australia",
+      "quick_answer": "English is spoken everywhere in Australia, but local slang can be confusing — 'thongs' are flip-flops and 'arvo' means afternoon.",
+      "detail": "Australia's official language is English and there is no language barrier for English speakers. However, Australian slang (sometimes called 'strine') can initially catch visitors off guard. Common terms include: arvo (afternoon), brekky (breakfast), servo (petrol/gas station), bottle-o (liquor store), thongs (flip-flops, not underwear), biscuits (cookies), capsicum (bell pepper), and esky (cooler/cool box). The greeting 'How ya going?' means 'How are you?' — the expected reply is simply 'Good thanks, you?' rather than a literal account of how you are travelling. Multicultural cities mean many other languages are also spoken, particularly Mandarin, Cantonese, Vietnamese, and Arabic.",
+      "tourist_tips": [
+        "When asked 'How ya going?' just reply 'Good thanks' — it's a greeting, not a question about travel",
+        "Thongs = flip-flops, servo = petrol station, arvo = afternoon, bottle-o = liquor store",
+        "Australians shorten almost everything — don't be surprised by 'brekky', 'sunnies', 'rego', and 'footy'"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Australia",
+      "quick_answer": "Always swim between the red and yellow flags at patrolled beaches — rip currents are the leading cause of drowning deaths in Australia.",
+      "detail": "Australia has world-class beaches, but they come with serious hazards that demand respect. Rip currents (rips) are powerful channels of water flowing away from shore and kill dozens of people every year — always swim at a patrolled beach, within the red and yellow flagged area, and if caught in a rip, float and signal for help rather than swimming against it. Box jellyfish in far north Queensland (October to May) are among the world's most venomous creatures and make ocean swimming dangerous without a stinger suit. Blue-ringed octopus and stonefish are present in shallow waters. The Great Barrier Reef offers world-leading snorkeling and diving, but UV is extreme — full-coverage rashguards are strongly recommended.",
+      "tourist_tips": [
+        "Swim only between the red and yellow flags at surf-lifesaver patrolled beaches — never ignore them",
+        "If caught in a rip current, do not panic or fight it — float, raise your arm, and wait for rescue",
+        "In tropical Queensland (October–May), wear a full stinger suit for ocean swimming to protect against box jellyfish"
+      ],
+      "warning": "Box jellyfish (Chironex fleckeri) in northern Queensland waters (October–May) can cause death within minutes. Stinger nets at popular beaches offer some protection but are not a guarantee — wear a stinger suit.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Australia",
+      "quick_answer": "Drive on the left; speed cameras are everywhere; the BAC limit is 0.05%; and kangaroos on roads at dawn and dusk are a serious hazard.",
+      "detail": "Australia drives on the left side of the road, and international driving licences are valid for 3 to 12 months depending on the state. Speed enforcement is extremely sophisticated, with fixed cameras, mobile speed vans, and average-speed cameras across highway sections. The blood alcohol limit is 0.05% for full licence holders (0.00% for learners and probationary drivers) and is strictly enforced via random breath testing. Roundabouts are extremely common — give way to the right. Animals on roads are a major hazard, particularly kangaroos and wombats at dawn and dusk, which can total a vehicle on impact. In the Outback, never pass a petrol station without filling up — stations can be 300–500 km apart.",
+      "tourist_tips": [
+        "Never drive at dawn or dusk in rural areas without being alert for kangaroos — collisions can be fatal for both",
+        "Fill your fuel tank at every opportunity in regional and outback areas — do not assume the next town is close",
+        "Speed camera fines are mailed to the registered owner — hire car companies will pass fines plus admin fees to you"
+      ],
+      "warning": "Outback driving without sufficient water, food, and a communication device is life-threatening. Carry a minimum of 5 litres of water per person per day and a satellite communicator on any remote route.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Australia",
+      "quick_answer": "Australian food is multicultural and excellent — brunch culture is outstanding, coffee is world-class, and tipping is optional at 5–10%.",
+      "detail": "Australian cuisine reflects the country's multicultural identity, with outstanding Asian, Mediterranean, and Middle Eastern food available across all major cities. Brunch culture is exceptionally strong — weekend brunch queues at popular cafés are a national institution. The flat white coffee originated in Australia (or New Zealand, depending on who you ask) and coffee standards are extremely high. BYO (Bring Your Own wine) restaurants are common and a great way to save money — ask about corkage fees when booking. Servings are large by European standards. GST (Goods and Services Tax, 10%) is already included in all displayed prices, so no surprises at the till. Tipping is optional: 5–10% for good service is appreciated but never expected.",
+      "tourist_tips": [
+        "Look for BYO restaurants — bringing your own wine with a small corkage fee ($5–10) saves significantly",
+        "Arrive early or book ahead for weekend brunch — popular spots regularly have 45–90 minute waits",
+        "The price on the menu is the final price — GST is included and no service charge is added automatically"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple and Church Etiquette in Australia",
+      "quick_answer": "Australia is multicultural and welcoming — religious sites across faiths are open to visitors, with respectful dress and behaviour expected.",
+      "detail": "Australia is a secular but highly multicultural country with active communities representing most of the world's major religions. St Mary's Cathedral in Sydney and St Paul's Cathedral in Melbourne are welcoming to visitors. Mosques in all major cities often hold open days for non-Muslim visitors. Sikh gurdwaras are notably welcoming and provide free meals (langar) to all visitors regardless of faith. Hindu and Buddhist temples welcome respectful visitors. At all religious sites, modest clothing (covered shoulders and knees), quiet behaviour, and removing shoes where requested are standard expectations.",
+      "tourist_tips": [
+        "Cover shoulders and knees when visiting any place of worship — carry a scarf or light layer for spontaneous visits",
+        "Sikh gurdwaras welcome all visitors and offer free vegetarian meals (langar) — a genuine cultural experience",
+        "Many Australian mosques hold regular open days — a great opportunity to ask questions and learn"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Australia",
+      "quick_answer": "Australia's seasons are opposite to the Northern Hemisphere — the best time to visit depends entirely on which region you are going to.",
+      "detail": "Australia spans multiple climate zones, so the ideal time to visit varies dramatically by destination. Sydney and Melbourne are best in spring (September–November) and autumn (March–May), when temperatures are mild and crowds are manageable. Queensland and the Great Barrier Reef are best in the dry season (June–October), when humidity drops and box jellyfish are absent. Uluru and the Red Centre are best April to September, when daytime temperatures are under 30°C rather than 45°C+. The tropical north (Darwin, Kakadu) is best in the dry season (May–October). The Snowy Mountains ski season runs June to September. December to February is summer — inland temperatures regularly reach 38–45°C.",
+      "tourist_tips": [
+        "Avoid the tropical north (Darwin, Cairns, Daintree) in the wet season (November–April) — heat, humidity, and flooding",
+        "Queensland's Great Barrier Reef is best June–October — stingers are less active and visibility is excellent",
+        "Sydney in December is warm and festive but very busy — book accommodation months in advance"
+      ],
+      "warning": "Australian summer (December–February) brings extreme heat, bushfire risk, and dangerous UV. Inland temperatures above 40°C are common. Always carry water and check fire danger ratings before outdoor activities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money Saving Tips in Australia",
+      "quick_answer": "Australia is expensive, but free BBQs in parks, BYO restaurants, hostel road trips, and national park passes stretch your budget significantly.",
+      "detail": "Australia has a high cost of living but numerous genuine ways to reduce spending. Council-provided free electric BBQs in parks are a real and widely used perk — parks in Sydney, Melbourne, and Brisbane have well-maintained free BBQ stations. BYO restaurants allow you to bring your own wine, paying only a small corkage fee (typically AUD 5–8) instead of restaurant markup. Food courts in Westfield shopping centres offer affordable multicultural meals. Road tripping is significantly cheaper than flying for groups or families and adds the experience of seeing the country. National park annual passes (available per-state) pay for themselves quickly if visiting multiple parks.",
+      "tourist_tips": [
+        "Use the free council electric BBQs in public parks — bring your own meat and drinks for a cheap, sociable meal",
+        "Choose BYO restaurants and buy wine at Dan Murphy's beforehand — save 50–70% on drinks compared to licensed restaurants",
+        "Buy a state or national parks annual pass if visiting more than two or three parks — it pays for itself quickly"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "country": "Turkey",
+  "slug": "turkey",
+  "emoji": "🇹🇷",
+  "region": "Europe/Asia",
+  "currency": "TRY",
+  "language": "Turkish",
+  "topics": {
+    "tipping": {
+      "slug": "tipping",
+      "title": "Tipping in Turkey",
+      "quick_answer": "Tipping is expected in Turkey. 10–15% at restaurants, 10–20 TRY for taxis. Always tip in cash directly to the person.",
+      "detail": "Turkey has a clear tipping culture, especially in tourist areas. At restaurants, 10–15% is standard — check if a service charge is already included on the bill. At cafés, rounding up is appropriate. Taxi drivers do not use meters in many cities (negotiate beforehand) — add 10–15% to the agreed fare as a tip. Hotel staff (bellboys, housekeeping) expect 20–50 TRY per service. Hammam (Turkish bath) masseurs expect significant tips — 20–30% of the service cost. Tour guides expect 5–15 USD equivalent per person per day depending on tour length.",
+      "tourist_tips": [
+        "Always carry small denomination banknotes for tipping — card machines often don't have a tip function",
+        "At hammams (Turkish baths), tipping the masseur is very important — 20–30% of the cost",
+        "Check restaurant bills for 'servis ücreti' (service charge) before adding a tip",
+        "Taxi fares: agree on a price first in tourist areas, then add 10–15% tip if happy with service",
+        "Tea house (çay bahçesi) service: 5–10 TRY per round is appreciated"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "public-transport": {
+      "slug": "public-transport",
+      "title": "Public Transport in Turkey",
+      "quick_answer": "Istanbul has metro, tram, funicular, and ferries. Use an Istanbulkart. Other cities have buses and minibuses (dolmuş). Agree on taxi fares in advance.",
+      "detail": "Istanbul has an extensive and growing public transport network including metro (M1–M11 lines), tram (T1 through the historic peninsula), funicular, cable cars, and Bosphorus ferries — all operated by IETT. The Istanbulkart is a rechargeable contactless card used on all these services and is significantly cheaper than single tickets. It can now be replaced by contactless bank cards in many areas. Dolmuş (shared minibuses) serve fixed routes at low cost in most Turkish cities. In cities like Ankara, Izmir, and Antalya, metros and buses require local transport cards.",
+      "tourist_tips": [
+        "Get an Istanbulkart at any metro station kiosk on arrival — saves money and avoids buying single tickets",
+        "The Bosphorus ferry from Eminönü to Kadıköy is scenic, cheap, and a tourist experience in itself",
+        "Dolmuş (shared minibuses) run fixed routes in cities and coastal towns — flag them down and pay the driver",
+        "Do not use taxis from Istanbul's tourist areas without agreeing on a metered or negotiated fare first",
+        "The T1 tram in Istanbul runs from Kabataş to Bağcılar passing through all main historic sites"
+      ],
+      "warning": "Taxi scams targeting tourists are common in Istanbul tourist areas. Always insist on the meter (taksimetre) or agree on a specific price before getting in.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["pocket-wifi", "sim", "wise"]
+    },
+    "tourist-healthcare": {
+      "slug": "tourist-healthcare",
+      "title": "Healthcare for Tourists in Turkey",
+      "quick_answer": "Turkey has good private hospitals in cities. Travel insurance is essential. State hospitals are cheap but quality varies. English is spoken at private clinics.",
+      "detail": "Turkey has a dual healthcare system: public (SGK-covered) hospitals and private hospitals. For tourists, private hospitals (özel hastane) are strongly recommended — they have English-speaking staff, shorter wait times, and better equipment. Major private hospital groups include Acibadem, Memorial, and Medicana. Costs at private hospitals are lower than in Western Europe but still significant without insurance. State hospitals are very affordable but quality and English ability vary significantly. Pharmacies (eczane, marked with a green cross) are widespread and pharmacists can handle many minor issues.",
+      "tourist_tips": [
+        "Use private hospitals for non-emergency care — Acibadem and Memorial have English-speaking staff",
+        "Pharmacies (eczane) are on every street — pharmacists are helpful and many medications are OTC",
+        "For emergencies, call 112 (ambulance) — they can direct to the nearest hospital",
+        "In coastal resort areas, hotels typically have relationships with local English-speaking doctors",
+        "Travel insurance with emergency evacuation is important for remote areas of Turkey"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "local-laws": {
+      "slug": "local-laws",
+      "title": "Local Laws Tourists Must Know in Turkey",
+      "quick_answer": "Insulting the President or Turkish identity is a criminal offense. Drug laws are strict. Respect mosques. Buying/exporting antiques without documentation is illegal.",
+      "detail": "Turkey has laws that affect tourist behavior that are often unknown to visitors. Under Article 299 of the Turkish Penal Code, insulting the President of Turkey is a criminal offense — this has been used to prosecute foreign journalists and social media users. Insulting 'Turkishness' (Article 301) is also a crime. Drug laws are strict — possession carries prison sentences. Exporting any item over 100 years old without a certificate from a museum is illegal and penalties are severe. Casual relationships between tourists and local young people can have legal complications if age is uncertain. At mosques, specific behavioral rules apply.",
+      "tourist_tips": [
+        "Never post anything online that could be interpreted as insulting Turkish identity, its President, or its flag",
+        "Buying antiques at the Grand Bazaar or antique shops: get documentation proving the item is not a national artifact",
+        "Remove shoes and dress modestly when entering any mosque — head coverings required for women",
+        "Cannabis is illegal — penalties include imprisonment",
+        "Photography of military or government buildings, courts, or officials in official capacity requires care"
+      ],
+      "warning": "Criticizing the President of Turkey (Erdoğan) on social media is a criminal offense under Article 299. Foreign tourists have been detained at the airport for social media posts made from abroad. Be cautious about what you post.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "vpn"]
+    },
+    "emergency-numbers": {
+      "slug": "emergency-numbers",
+      "title": "Emergency Numbers in Turkey",
+      "quick_answer": "Police: 155. Ambulance: 112. Fire: 110. Tourist Police: 527 4503 (Istanbul). Gendarmerie (rural): 156.",
+      "detail": "Turkey has separate emergency services for urban and rural areas. In cities, police (155), ambulance (112), and fire (110) are the main numbers. For rural areas and small towns, the Gendarmerie (156) handles policing. Istanbul has a dedicated Tourist Police unit that speaks multiple languages — essential for tourist theft reports and legal issues. The general emergency number 112 also connects to all services. In tourist resort areas, many police officers speak English or German (due to German tourist volume).",
+      "tourist_tips": [
+        "112 connects to all emergency services in Turkey and is the easiest to remember",
+        "Tourist Police in Istanbul: +90 212 527 4503 — English-speaking and tourist-focused",
+        "For theft or lost passport, go to the nearest police station (karakol) to file a report for insurance",
+        "In resort towns (Antalya, Bodrum, Fethiye), tourist police patrols are active in summer",
+        "Your embassy emergency line is critical if you face legal problems — keep it saved"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "dress-code": {
+      "slug": "dress-code",
+      "title": "Dress Code in Turkey",
+      "quick_answer": "Dress modestly at mosques — head covering required for women, no shorts. Beach and resort areas are relaxed. Istanbul is cosmopolitan; smaller towns are more conservative.",
+      "detail": "Turkey spans a cultural spectrum from cosmopolitan Istanbul to conservative rural areas. At mosques (and Turkey has some spectacular ones — Hagia Sophia, Blue Mosque, Süleymaniye), both men and women must remove shoes; women must cover their hair with a scarf and wear long skirts or trousers; men should not wear shorts. Most major mosques provide headscarves and skirts to borrow at the entrance. In Istanbul's Beyoğlu, Bebek, and Kadıköy neighborhoods, fashion is very Western and liberal. In coastal resorts like Bodrum and Antalya, bikinis and shorts are the norm. In smaller rural towns and eastern Turkey, more conservative dress shows respect.",
+      "tourist_tips": [
+        "Carry a scarf in your bag at all times in Turkey — indispensable for mosque visits",
+        "Major mosques (Hagia Sophia, Blue Mosque) provide free headscarves and skirt wraps at the entrance",
+        "Turkish beach culture is very relaxed — resorts on the Aegean and Mediterranean coasts are like anywhere in Europe",
+        "In eastern cities like Gaziantep, Van, or Şanlıurfa, more conservative dress shows cultural sensitivity",
+        "During Ramadan (dates change annually), dressing more conservatively throughout the day is respectful"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "alcohol-rules": {
+      "slug": "alcohol-rules",
+      "title": "Alcohol Rules in Turkey",
+      "quick_answer": "Drinking age is 18. Alcohol is widely available in tourist areas. Some restrictions apply near mosques and during Ramadan. Raki is the national drink.",
+      "detail": "Turkey is a secular country with a legal alcohol culture, though this is increasingly politically sensitive. The drinking age is 18. Alcohol is sold at supermarkets, liquor stores (tekel bayii), restaurants, and bars. Restrictions: alcohol cannot be sold within 100 meters of a mosque or school, between midnight and 6am at retail outlets, and during certain religious/national occasions. In conservative and eastern areas of Turkey, alcohol may be harder to find. In tourist resort areas and Istanbul, alcohol is widely available. Raki (anise spirit) is the national drink and central to Turkish dining culture.",
+      "tourist_tips": [
+        "Raki is drunk mixed with water (it turns white) and is paired with meze — a cultural dining experience",
+        "Efes is Turkey's main local beer — available everywhere in tourist areas",
+        "In conservative towns and eastern Turkey, seek out licensed restaurants for alcohol rather than street stalls",
+        "Supermarkets stop selling alcohol at midnight — plan evening purchases accordingly",
+        "During national election days, alcohol sales are sometimes banned for 24 hours"
+      ],
+      "warning": "Turkey's restrictions on alcohol are gradually tightening under the current government. Some areas near religious sites have strict no-alcohol zones. Respect local customs in conservative communities.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance"]
+    },
+    "bargaining-culture": {
+      "slug": "bargaining-culture",
+      "title": "Bargaining Culture in Turkey",
+      "quick_answer": "Bargaining is an art and a social ritual in Turkey. Always negotiate at the Grand Bazaar, markets, and carpet shops. Fixed prices in malls and chain stores.",
+      "detail": "Turkey has one of the most developed bargaining cultures in the world, especially at the Grand Bazaar (Kapalıçarşı) and Spice Bazaar in Istanbul, carpet shops, leather shops, and traditional markets across the country. The process is ritualistic — tea will often be offered, prices will start very high (3–5x the fair price), and negotiation is expected to be pleasant and unhurried. In modern shopping malls and chain stores, prices are fixed. For tourist goods, leather, jewelry, and carpets, always assume the first price is inflated significantly. The carpet selling process in Turkey is world-famous — enjoy it as a cultural experience but commit only if you love the piece.",
+      "tourist_tips": [
+        "At the Grand Bazaar, the first price is almost never the real price — expect to pay 30–50% of the opening offer",
+        "Tea offered during bargaining is a social ritual — accept it, but it does not obligate you to buy",
+        "Walking away is the most powerful bargaining tool — vendors will often call you back with a better price",
+        "For carpets: research prices at multiple shops before committing to understand the market value",
+        "Be firm but friendly — aggressive bargaining is fine; rudeness is not"
+      ],
+      "warning": null,
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["wise", "travel-insurance"]
+    },
+    "photography-restrictions": {
+      "slug": "photography-restrictions",
+      "title": "Photography Rules in Turkey",
+      "quick_answer": "Photography is generally allowed at tourist sites. No photos inside military zones, near government buildings, or of police operations. Ask before photographing people.",
+      "detail": "Turkey is a highly photogenic country with extraordinarily rich subjects. Photography at tourist attractions — Hagia Sophia, Cappadocia, the Grand Bazaar — is generally welcomed and unrestricted outdoors. Inside Hagia Sophia (now a functioning mosque), photography is allowed outside prayer times but must be respectful — no photographing people in prayer. Military installations, government buildings, courts, and certain bridges and infrastructure are restricted. Photography of Kurdish political protests or demonstrations can be sensitive and attract police attention. In rural and traditional areas, always ask permission before photographing people, especially women.",
+      "tourist_tips": [
+        "Cappadocia hot air balloon photography at sunrise is one of the world's iconic shots — no restrictions",
+        "Inside Hagia Sophia: photography is allowed but be very respectful during and near prayer times",
+        "Do not photograph military checkpoints, police operations, or military vehicles",
+        "In bazaars and markets, many vendors enjoy being photographed — just ask first",
+        "Drone photography requires a permit from the Turkish Civil Aviation Authority (SHGM)"
+      ],
+      "warning": "Photography of military installations or personnel is illegal in Turkey under the Military Zones Law. This includes photographs from a distance of military vehicles, checkpoints, or bases.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "pocket-wifi"]
+    },
+    "sunday-holiday-hours": {
+      "slug": "sunday-holiday-hours",
+      "title": "Sunday & Holiday Hours in Turkey",
+      "quick_answer": "Turkey is largely open 7 days a week. Markets and shops open on Sundays. Friday afternoon prayers affect some businesses. Eid holidays cause widespread closures.",
+      "detail": "Turkey operates commercially 7 days a week in most cities and tourist areas. Shops, restaurants, and the Grand Bazaar are open on Sundays. Supermarkets operate daily. Friday is the Muslim holy day — many businesses, especially in more conservative areas, may close for the Friday prayer window (around 12:30–2pm). Eid al-Fitr (end of Ramadan) and Eid al-Adha are major national holidays spanning 4–7 days each — many businesses close, and transport fills up with domestic travelers. October 29 (Republic Day) is another major national holiday with closures.",
+      "tourist_tips": [
+        "The Grand Bazaar is closed on Sundays — one of the few major exceptions to Turkey's 7-day culture",
+        "During Eid holidays, Turkey essentially shuts down for 3–5 days — tourism sites remain open but restaurants and shops close",
+        "Friday prayer time: small family businesses may close 12:30–2pm, especially in conservative areas",
+        "Ramadan month: restaurant hours shift dramatically — few open during daylight, massive activity after sunset (iftar)",
+        "Republic Day (Oct 29) and Victory Day (Aug 30) are public holidays with parades and some closures"
+      ],
+      "warning": "The Grand Bazaar (Kapalıçarşı) in Istanbul is closed every Sunday — it is one of the most notable tourist attraction closures in Turkey. Plan your visit for Monday–Saturday.",
+      "last_verified": "2025-01",
+      "affiliate_relevant": ["travel-insurance", "sim"]
+    },
+    "taxi-and-rideshare": {
+      "slug": "taxi-and-rideshare",
+      "title": "Taxi and Rideshare in Turkey",
+      "quick_answer": "Uber does not operate in Turkey — use BiTaksi or InDriver apps, or official metered yellow taxis in Istanbul.",
+      "detail": "Uber exited Turkey and does not operate there. The main ride-hailing apps are BiTaksi and InDriver, both of which dispatch licensed taxis and provide a safer, price-confirmed alternative to hailing cabs on the street. Official taxis in Istanbul are yellow and must use a taximeter — always insist the meter is running. Airport taxis should be booked at the official taxi booth inside the arrivals hall, not from touts outside. The Havabus airport shuttle is significantly cheaper than a taxi for the Istanbul airport route. Istanbul taxi scams are well-documented — overcharging, fake large notes, scenic routes — so app-based booking is strongly recommended.",
+      "tourist_tips": [
+        "Download BiTaksi or InDriver before arriving — both show the fare upfront and reduce scam risk",
+        "At Istanbul Airport, always use the official taxi booth inside arrivals, never touts outside the terminal",
+        "Always insist the taximeter (taksimetre) is running from the moment you get in"
+      ],
+      "warning": "Istanbul taxi scams targeting tourists are widespread and well-documented — including fake large-note swaps, rigged meters, and excessive detours. App-based taxis are the safest option.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "travel-insurance", "wise"]
+    },
+    "water-safety": {
+      "slug": "water-safety",
+      "title": "Water Safety in Turkey",
+      "quick_answer": "Do not drink tap water in Turkey — bottled water is cheap, widely available, and essential for all visitors.",
+      "detail": "Tap water in Turkey is not safe for drinking and locals themselves use bottled water for consumption. Large 5-litre plastic bottles are sold at supermarkets and corner shops for very low prices, making staying hydrated affordable. Ice served in tourist restaurants and hotels is generally made from filtered water and considered safe. Turkey is a water-scarce country, particularly in summer, so mindful use is appreciated. Famous hot spring and mineral water destinations such as Pamukkale and Bursa offer bathing in thermal waters — these are for external use only, not drinking.",
+      "tourist_tips": [
+        "Buy large 5-litre bottles from supermarkets rather than small single-use bottles — far cheaper and less plastic waste",
+        "Refill a reusable bottle from your large bottle each morning rather than buying individual bottles throughout the day",
+        "At Pamukkale travertine pools, swimming is only permitted in designated areas — the terraces themselves are protected"
+      ],
+      "warning": "Drinking tap water in Turkey can cause stomach illness. Always use bottled or filtered water for drinking and brushing teeth, especially outside major cities.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "atm-and-cash": {
+      "slug": "atm-and-cash",
+      "title": "ATMs and Cash in Turkey",
+      "quick_answer": "ATMs are widely available and foreign cards are broadly accepted — always pay in Turkish Lira to avoid unfavorable dynamic currency conversion rates.",
+      "detail": "Major Turkish banks — İş Bankası, Garanti BBVA, Yapı Kredi, and Ziraat — have widespread ATM networks that reliably accept foreign Visa and Mastercard. Turkey has experienced significant inflation in recent years, meaning exchange rates are generally very favorable for foreign visitors holding stronger currencies. Always choose to pay in Turkish Lira (TRY) at ATMs and card terminals — declining dynamic currency conversion (DCC) to your home currency saves a substantial fee. Carrying some cash is advisable for markets, local taxis, and smaller eateries. The Wise card delivers some of the best live exchange rates with minimal fees.",
+      "tourist_tips": [
+        "Always select 'Turkish Lira' (TRY) when an ATM or card terminal asks which currency to charge — DCC rates are very poor",
+        "Carry small-denomination TRY cash for markets, street food, and taxis where cards are not accepted",
+        "Use a Wise or similar multi-currency card to get near-interbank exchange rates with low fees"
+      ],
+      "warning": "Dynamic Currency Conversion (DCC) at ATMs and point-of-sale terminals can cost 5–10% more than paying in TRY. Always select the local currency option.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "sim-card-and-internet": {
+      "slug": "sim-card-and-internet",
+      "title": "SIM Card and Internet in Turkey",
+      "quick_answer": "Turkcell offers the best coverage — buy a tourist SIM at Istanbul Airport with your passport, or use an Airalo eSIM before you arrive.",
+      "detail": "The three main mobile operators in Turkey are Turkcell (widest coverage), Vodafone Turkey, and Türk Telekom. Tourist SIM packages with data are available at Istanbul Airport and official operator stores across the country — passport registration is legally required at point of sale. Airalo and other eSIM providers work in Turkey and allow activation before departure. Coverage is reliable in western Turkey, all major tourist areas, and coastal resorts; it can be patchy in remote eastern or mountainous regions. Some social media platforms and websites are periodically blocked by Turkish authorities, making a VPN a useful addition to your toolkit.",
+      "tourist_tips": [
+        "Buy your SIM at Istanbul Airport on arrival — all three operators have booths in the arrivals hall and tourist packages are competitively priced",
+        "Airalo eSIM works well in Turkey and can be activated before you board your flight",
+        "Install a reputable VPN before arriving in Turkey in case social media platforms are blocked during your stay"
+      ],
+      "warning": "Social media platforms including Twitter/X, Instagram, and others have been intermittently blocked in Turkey following political events. A VPN installed before arrival is the reliable workaround.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "vpn", "pocket-wifi"]
+    },
+    "electricity-and-plugs": {
+      "slug": "electricity-and-plugs",
+      "title": "Electricity and Plugs in Turkey",
+      "quick_answer": "Turkey uses Type C and Type F (European round-pin) plugs at 230V/50Hz — UK and US visitors will need adapters.",
+      "detail": "Turkey's electrical system matches mainland Europe: 230 volts at 50Hz using Type C (two round pins) and Type F (two round pins with grounding clips) sockets. Visitors from the UK (Type G) and the United States or Canada (Type A/B, 120V) will need both a plug adapter and, for US visitors, a voltage converter for any appliance not rated for dual voltage. Most modern electronics — laptops, phones, cameras — are dual-voltage and only require a plug adapter. Power supply is generally reliable in cities and tourist areas; occasional outages can occur in rural regions.",
+      "tourist_tips": [
+        "Check your device's power brick for '100–240V' — if it says this, you only need a plug adapter, not a voltage converter",
+        "Universal travel adapters covering Type C/F are inexpensive and widely available at Istanbul Airport and electronics shops",
+        "In older hotels or rural guesthouses, bring a multi-socket extension lead as rooms sometimes have few sockets"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "haggling-and-scams": {
+      "slug": "haggling-and-scams",
+      "title": "Haggling and Scams in Turkey",
+      "quick_answer": "Turkey's markets reward skilled hagglers, but specific tourist scams are common — know them before you arrive.",
+      "detail": "Beyond standard bargaining culture, Turkey has several well-documented tourist scams. Grand Bazaar carpet sellers may spend hours offering tea and building rapport before applying heavy emotional pressure — the carpet is never as valuable as claimed. The 'welcome to my shop' approach often means the guide or 'friendly local' earns a commission on your purchase. Fake evil eye (nazar) goods use cheap glazed ceramic rather than authentic hand-blown glass. Istanbul shoeshiners use the deliberate brush-drop trick to initiate an unsolicited shine and then demand large payment. Counterfeit currency is occasionally passed at markets. Overpriced taxis from tourist areas remain the most common financial risk.",
+      "tourist_tips": [
+        "If a stranger on the street is extremely friendly and steers you toward a shop, assume they earn a commission — you are free to walk away at any point",
+        "Authentic nazar (evil eye) beads are hand-blown glass with visible imperfections — mass-produced ceramic fakes are worthless as souvenirs",
+        "If a shoeshine brush 'accidentally' falls near you, do not pick it up — walk on and do not engage"
+      ],
+      "warning": "Istanbul taxi scams and commission-based shop touts are the most common ways tourists lose money in Turkey. Use app-based taxis and be skeptical of unsolicited friendliness near tourist sites.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "wise", "sim"]
+    },
+    "crime-and-safety": {
+      "slug": "crime-and-safety",
+      "title": "Crime and Safety in Turkey",
+      "quick_answer": "Istanbul and main tourist areas are generally safe, with petty theft the primary risk — violent crime against tourists is rare.",
+      "detail": "Turkey is a broadly safe destination for tourists. Petty theft — pickpocketing and bag-snatching — is the primary risk in crowded areas like Istiklal Caddesi, the Grand Bazaar, and busy ferry terminals. Violent crime targeting tourists is rare. Political protests can occasionally turn unpredictable and it is advisable to avoid large public gatherings. Turkey has historically faced an elevated terrorism risk at tourist sites and transport hubs; maintaining general situational awareness is sensible even if the risk has reduced in recent years. Southeastern Turkey, including areas near the Syrian border and some Kurdish-majority regions, warrants checking current government travel advisories before visiting.",
+      "tourist_tips": [
+        "Use a crossbody bag with a zip closure in crowded areas like Istiklal Caddesi and the Grand Bazaar",
+        "Check your government's current travel advisory for southeastern Turkey before planning any trips to border regions",
+        "Avoid large political gatherings or protests — they can escalate quickly and police responses can be forceful"
+      ],
+      "warning": "The UK, US, and other governments maintain elevated travel advisories for parts of southeastern Turkey near the Syrian and Iraqi borders. Check official government advisories before visiting these regions.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "vpn"]
+    },
+    "cultural-etiquette": {
+      "slug": "cultural-etiquette",
+      "title": "Cultural Etiquette in Turkey",
+      "quick_answer": "Always accept offered tea, remove shoes at mosques and homes, and approach hospitality invitations as genuine — Turks are famously welcoming.",
+      "detail": "Turkish hospitality is genuine and central to the culture. Being offered çay (tea) is a near-universal social ritual — refusing is considered impolite, so accept even if you only take a few sips. Remove shoes when entering a mosque and when invited into a Turkish home. The left hand is traditionally considered unclean for eating and passing items — use your right hand where possible. The Nazar boncuğu (blue evil eye bead) is a widespread cultural protection symbol and invitations to Turkish homes are sincere, not commercial in nature. Sensitive topics to avoid in casual conversation include the Armenian genocide and politically charged Kurdish issues.",
+      "tourist_tips": [
+        "Always accept an offered glass of çay (tea) — even if you just hold it and take one sip, the gesture of acceptance matters",
+        "Remove shoes at the door when entering a Turkish home without being asked — it is expected and shows cultural awareness",
+        "Avoid initiating conversations about the Armenian genocide or Kurdish political issues with people you have just met"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "language-basics": {
+      "slug": "language-basics",
+      "title": "Language Basics in Turkey",
+      "quick_answer": "English is widely spoken in Istanbul and tourist areas — outside these zones it drops off sharply, but Turks warmly appreciate any attempt at Turkish.",
+      "detail": "Turkish is the official language, and English is spoken reliably in hotels, tourist restaurants, and major attractions in Istanbul, Cappadocia, and the Aegean and Mediterranean coasts. Outside tourist infrastructure, English proficiency drops significantly and basic Turkish phrases or Google Translate become essential. Key phrases: 'Merhaba' (hello), 'Teşekkür ederim' or 'Teşekkürler' (thank you), 'Lütfen' (please), 'Evet' (yes), 'Hayır' (no). Google Translate handles Turkish well, including camera translation of menus. Any attempt to speak Turkish, however minimal, is met with enthusiasm and appreciation by locals.",
+      "tourist_tips": [
+        "Save key Turkish phrases on your phone — even 'Merhaba' and 'Teşekkürler' will generate genuine smiles and better service",
+        "Use Google Translate's camera feature on menus — Turkish menus outside tourist areas are rarely translated to English",
+        "In smaller towns and rural areas, showing a map or address on your phone is more effective than asking for directions verbally"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["sim", "pocket-wifi", "travel-insurance"]
+    },
+    "beach-and-swimming": {
+      "slug": "beach-and-swimming",
+      "title": "Beach and Swimming in Turkey",
+      "quick_answer": "Turkey's Aegean and Mediterranean coasts offer outstanding beaches with turquoise water — the Blue Voyage gulet tour is an iconic way to experience them.",
+      "detail": "The Turkish Riviera — covering Ölüdeniz, Bodrum, Antalya, and Marmaris — and the Aegean coast around Çeşme and the Bodrum peninsula offer some of the Mediterranean's finest beaches with warm, clear water. The Black Sea coast has a distinct, greener character with cooler water. Seasonal jellyfish (denizanası) are a presence in the Aegean from late summer, and sea urchins inhabit rocky shores — water shoes are useful. Mediterranean currents are generally gentle with no significant rip current risk. The Blue Voyage — multi-day sailing trips on traditional wooden gulets — is one of Turkey's most iconic tourism experiences.",
+      "tourist_tips": [
+        "Ölüdeniz Blue Lagoon is one of Turkey's most photographed spots — arrive early to avoid the peak midday crowds",
+        "Bring or rent water shoes for rocky Aegean beaches where sea urchins are common",
+        "Book a gulet Blue Voyage tour from Bodrum, Marmaris, or Fethiye for the best value on multi-day sailing"
+      ],
+      "warning": "Jellyfish are seasonally common in the Aegean Sea, particularly from August onward. Check local beach reports before swimming and avoid touching any jellyfish washed up on shore.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "driving-rules": {
+      "slug": "driving-rules",
+      "title": "Driving Rules in Turkey",
+      "quick_answer": "Turkey drives on the right — international driving licenses are valid, but driving in Istanbul is extremely stressful and is not recommended for tourists.",
+      "detail": "Turkey drives on the right side of the road and international driving licences are accepted for tourist rentals. Turkish road infrastructure has improved significantly, with modern EU-funded highways connecting major cities. Electronic tolls (HGS/OGS system) are standard on motorways — rental cars typically come with an HGS transponder included. The E5 highway through Istanbul is notoriously congested and driving in the city is strongly discouraged for first-time visitors. Black Sea mountain roads offer spectacular scenery but are narrow and demanding. Rental cars are widely available at airports and tourist towns, and are a practical way to explore Cappadocia and the Aegean coast.",
+      "tourist_tips": [
+        "Confirm your rental car has an HGS toll transponder included — without it, you face fines on motorways",
+        "Avoid driving in Istanbul entirely — use public transport or apps instead, as traffic is among the worst in Europe",
+        "For Cappadocia, renting a car gives freedom to reach lesser-visited valleys and underground cities at your own pace"
+      ],
+      "warning": "Turkey has one of the higher road accident rates in Europe. Drive defensively, be cautious of aggressive local driving styles, and avoid night driving on mountain or rural roads.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "restaurant-and-food": {
+      "slug": "restaurant-and-food",
+      "title": "Restaurants and Food in Turkey",
+      "quick_answer": "Turkish cuisine is extraordinary — share mezze, try regional kebab varieties, eat a full Turkish breakfast, and always finish with çay or Turkish coffee.",
+      "detail": "Turkish cuisine is far richer than the döner kebab stereotype. Mezze culture centres on sharing multiple small plates — olives, dips, stuffed vine leaves, grilled vegetables — before mains arrive. Turkish breakfast (kahvaltı) is an elaborate spread of cheeses, olives, eggs, tomatoes, cucumbers, honey, and clotted cream. Kebab varieties worth trying include Adana (spicy minced lamb), şiş (skewered chunks), Urfa (milder), and tandır (slow-roasted). Balık ekmek (grilled fish sandwich) from Istanbul's Eminönü waterfront is a legendary street food. A service charge of 10–15% is sometimes included — check before tipping. Meyhane taverns with rakı, meze, and live music provide the full Turkish dining experience.",
+      "tourist_tips": [
+        "Seek out a lokanta (workers' canteen) for an authentic, cheap set lunch — the food is home-style and the value is exceptional",
+        "Do not drink the bottom of Turkish coffee — the grounds settle and are left in the cup",
+        "At a meyhane, order rakı and let the waiter guide the meze selection — this is how locals eat and the experience is worth it"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    },
+    "mosque-temple-church-etiquette": {
+      "slug": "mosque-temple-church-etiquette",
+      "title": "Mosque, Temple & Church Etiquette in Turkey",
+      "quick_answer": "Non-Muslims are welcome at Hagia Sophia and the Blue Mosque outside prayer times — cover fully, remove shoes, and behave respectfully.",
+      "detail": "Hagia Sophia was converted back to a functioning mosque in 2020 but remains open to non-Muslim visitors outside the five daily prayer times; entry is free. The Blue Mosque (Sultanahmet Camii) follows the same policy. At both, full coverage is required — shoulders and legs covered, women must cover their hair with a scarf; cloaks and headscarves are provided free at the entrance. Ephesus and other ancient Greek and Roman archaeological sites are freely photographable with no religious restrictions. Sufi whirling dervish (sema) ceremonies are open to respectful non-Muslim observers and are held regularly at several venues in Istanbul and Konya.",
+      "tourist_tips": [
+        "Visit Hagia Sophia and the Blue Mosque early morning or mid-afternoon to avoid both prayer time closures and peak tourist crowds",
+        "Scarves and wrap skirts are provided free at the entrances of major mosques — but having your own avoids the queue",
+        "Attend a whirling dervish ceremony in Konya (the original home of Sufi Mevlevi order) for the most authentic experience"
+      ],
+      "warning": "Both Hagia Sophia and the Blue Mosque close to tourists during all five daily prayer times. Prayer times shift throughout the year — check the schedule on the day of your visit to avoid a wasted trip.",
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "pocket-wifi"]
+    },
+    "weather-and-best-time": {
+      "slug": "weather-and-best-time",
+      "title": "Weather and Best Time to Visit Turkey",
+      "quick_answer": "Istanbul and Cappadocia are best in spring (April–June) and autumn (September–October); the Aegean and Mediterranean coasts peak from May to October.",
+      "detail": "Turkey's climate varies enormously by region. Istanbul is best visited in April–June and September–October when temperatures are mild (18–25°C) and crowds manageable; July–August is hot and very busy. The Aegean and Mediterranean coasts are beach-perfect from May to October, with July–August reaching 35–40°C at peak season. Cappadocia is ideal in April–May and September–October for hot air balloon visibility and comfortable walking temperatures; balloons operate year-round but fog and wind cause more cancellations in winter. The Black Sea coast is green and lush but rainy. Eastern Turkey including Doğubayazıt and the ancient site of Ani is best visited June–September when mountain roads are clear.",
+      "tourist_tips": [
+        "Book Cappadocia hot air balloon flights as early as possible — they sell out weeks ahead in peak spring and autumn seasons",
+        "Shoulder season (May and September) offers the best balance of good weather, open facilities, and lower prices across all regions",
+        "Eastern Turkey in summer (June–August) offers comfortable temperatures and accessible mountain and border-region sites that are unreachable in winter"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["travel-insurance", "sim", "wise"]
+    },
+    "money-saving-tips": {
+      "slug": "money-saving-tips",
+      "title": "Money-Saving Tips in Turkey",
+      "quick_answer": "Turkey is exceptional value for foreign visitors due to lira inflation — street food, public transport, and local restaurants are all very affordable.",
+      "detail": "Turkey's sustained currency inflation has made it one of the best-value destinations in Europe and the Middle East for visitors holding stronger currencies. Street foods like simit (sesame bread ring), balık ekmek (fish sandwich), and döner are priced in low tens of TRY. Lokanta workers' canteens serve set lunches for TRY 150–300 — a fraction of tourist restaurant prices. Çay (tea) is available everywhere for TRY 5–15. At the Grand Bazaar and markets, walking away from initial prices typically results in 40–50% reductions. The Museum Pass Turkey covers all major Istanbul heritage sites including Topkapı Palace and the Archaeological Museum at significant discount. Booking Cappadocia tours directly with local guides rather than through large operators reduces costs substantially.",
+      "tourist_tips": [
+        "Buy the Museum Pass Turkey if visiting more than two major Istanbul sites — it pays for itself quickly and skips some ticket queues",
+        "Eat at lokanta (workers' canteen) restaurants for lunch — the set meal is home-cooked, generous, and costs a fraction of tourist-area prices",
+        "For Cappadocia underground cities and hiking tours, booking directly with a local guide rather than a package tour operator saves 40–60%"
+      ],
+      "warning": null,
+      "last_verified": "2025-06",
+      "affiliate_relevant": ["wise", "travel-insurance", "sim"]
+    }
+  }
+}
