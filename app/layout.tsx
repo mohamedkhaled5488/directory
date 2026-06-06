@@ -23,6 +23,9 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     site: '@knowbefore',
   },
+  verification: {
+    google: '1ynJf7l_IjjxWmrqhtX5L5xsg0vzDn79t0H3LeD9TG4',
+  },
   other: {
     'google-adsense-account': 'ca-pub-4634260205367551',
   },
