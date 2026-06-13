@@ -1,0 +1,35 @@
+{
+  "countries": [
+    {"slug": "japan", "name": "Japan", "region": "Asia", "currency": "JPY", "language": "Japanese", "tipping": "Do not tip"},
+    {"slug": "uae", "name": "UAE", "region": "Middle East", "currency": "AED", "language": "Arabic", "tipping": "Not expected"},
+    {"slug": "thailand", "name": "Thailand", "region": "Asia", "currency": "THB", "language": "Thai", "tipping": "Appreciated"},
+    {"slug": "germany", "name": "Germany", "region": "Europe", "currency": "EUR", "language": "German", "tipping": "Round up"},
+    {"slug": "uk", "name": "UK", "region": "Europe", "currency": "GBP", "language": "English", "tipping": "10-15%"},
+    {"slug": "france", "name": "France", "region": "Europe", "currency": "EUR", "language": "French", "tipping": "Optional"},
+    {"slug": "australia", "name": "Australia", "region": "Asia", "currency": "AUD", "language": "English", "tipping": "Optional"},
+    {"slug": "singapore", "name": "Singapore", "region": "Asia", "currency": "SGD", "language": "English", "tipping": "Discouraged"},
+    {"slug": "italy", "name": "Italy", "region": "Europe", "currency": "EUR", "language": "Italian", "tipping": "Small tip"},
+    {"slug": "turkey", "name": "Turkey", "region": "Europe/Asia", "currency": "TRY", "language": "Turkish", "tipping": "10-15%"},
+    {"slug": "us", "name": "US", "region": "Americas", "currency": "USD", "language": "English", "tipping": "18-20%"},
+    {"slug": "mexico", "name": "Mexico", "region": "Americas", "currency": "MXN", "language": "Spanish", "tipping": "10-15%"}
+  ],
+  "searchTerms": {
+    "valid": ["Japan", "Germany", "Tipping", "Thailand", "UAE"],
+    "partial": ["Jap", "Ger", "Tha"],
+    "invalid": ["Xyzxyzxyz123", "Atlantis", "@#$%", "12345", ""],
+    "topics": ["tipping", "water", "transport", "alcohol", "electricity"]
+  },
+  "comparePairs": [
+    {"country1": "japan", "country2": "thailand"},
+    {"country1": "uae", "country2": "qatar"},
+    {"country1": "france", "country2": "italy"},
+    {"country1": "us", "country2": "uk"}
+  ],
+  "regions": [
+    {"slug": "europe", "name": "Europe"},
+    {"slug": "asia", "name": "Asia"},
+    {"slug": "americas", "name": "Americas"},
+    {"slug": "middle-east", "name": "Middle East"},
+    {"slug": "africa-oceania", "name": "Africa & Oceania"}
+  ]
+}

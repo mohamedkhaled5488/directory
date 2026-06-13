@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="KnowBefore Full Test Suite" parallel="classes" thread-count="3" verbose="1">
+    <listeners>
+        <listener class-name="com.knowbefore.utils.ReportManager"/>
+    </listeners>
+    <test name="Smoke Tests">
+        <classes>
+            <class name="com.knowbefore.runners.SmokeTestRunner"/>
+        </classes>
+    </test>
+    <test name="Regression Tests">
+        <classes>
+            <class name="com.knowbefore.runners.RegressionTestRunner"/>
+        </classes>
+    </test>
+    <test name="Functional Tests">
+        <classes>
+            <class name="com.knowbefore.runners.FunctionalTestRunner"/>
+        </classes>
+    </test>
+</suite>
