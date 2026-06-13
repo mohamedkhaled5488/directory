@@ -8,14 +8,12 @@ import com.knowbefore.utils.WaitUtils;
 import io.cucumber.java.en.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.WebElement;
-
 import java.util.List;
 
 public class SearchSteps {
     private static final Logger log = LogManager.getLogger(SearchSteps.class);
     private final HomePage homePage = new HomePage(DriverFactory.getDriver());
-    private List<WebElement> searchResults;
+    private List<String> searchResults;
 
     @When("the user searches for {string}")
     public void userSearchesFor(String searchTerm) {
@@ -40,7 +38,7 @@ public class SearchSteps {
     @Then("the search results should contain {string}")
     public void searchResultsShouldContain(String expected) {
         boolean found = homePage.getSearchResults().stream()
-            .anyMatch(e -> e.getText().toLowerCase().contains(expected.toLowerCase()));
+            .anyMatch(text -> text.toLowerCase().contains(expected.toLowerCase()));
         AssertionUtils.assertTrue(found, "Search results contain: " + expected);
     }
 

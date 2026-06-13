@@ -40,7 +40,12 @@ public class HomePage extends BasePage {
     public void searchFor(String query) {
         logger.info("Searching for: {}", query);
         waitAndType(searchInput, query);
-        wait.until(ExpectedConditions.visibilityOfElementLocated(searchResults));
+        try {
+            wait.withTimeout(java.time.Duration.ofSeconds(3))
+                .until(ExpectedConditions.visibilityOfElementLocated(searchResults));
+        } catch (org.openqa.selenium.TimeoutException ignored) {
+            // no results is a valid outcome for negative test cases
+        }
     }
 
     /**
